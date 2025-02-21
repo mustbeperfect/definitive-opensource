@@ -1,10 +1,14 @@
 
-<table align="center"><tr><td>v0.4.2-beta</td></tr></table>
+<table align="center">
+  <tr>
+    <td>v0.4.2-beta</td>
+  </tr>
+</table>
 
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 210</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 211</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -82,6 +86,7 @@ Abandoned - Development Halted
   - [Audio](#audio)
   - [AI Image GUI](#ai-image-gui)
   - [AI Code Complete](#ai-code-complete)
+  - [Agent](#agent)
   - [Backup](#backup)
   - [Browser](#browser)
   - [Browser Extensions](#browser-extensions)
@@ -199,6 +204,7 @@ Abandoned - Development Halted
       - [AI Image GUI](#ai-image-gui)
       - [LLM Gui](#llm-gui)
       - [RAG](#rag)
+      - [Agent](#agent)
   - Media/Home Server
       - [Media Management](#media-management)
       - [Linux Dashboard](#linux-dashboard)
@@ -244,6 +250,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetB``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
+
+### Agent
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
+| [Screenpipe](https://github.com/mediar-ai/screenpipe) | AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
 
 ### Backup
 
@@ -443,7 +456,6 @@ Abandoned - Development Halted
 | [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=for-the-badge&label=%20&color=white) |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=for-the-badge&label=%20&color=white) |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
-| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
 | [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
 
