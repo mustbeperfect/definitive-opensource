@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-<h1 align="center"> definitive-opensource </h1>
+<h1 align="center"> [ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
 <p align="center"><code>Status: Active</code> - <code>Projects: 211</code></p>
@@ -52,9 +52,15 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```🥉``` - Third
 
+### Highlights
+
 ```💥``` - Disruptive
 
 ```🌍``` - Influential
+
+```🌟``` - Pioneering
+
+```💡``` - Innovative
 
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
@@ -256,7 +262,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
-| [Screenpipe](https://github.com/mediar-ai/screenpipe) | AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
+| [Screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
 
 ### Backup
 
@@ -274,7 +280,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop?style=for-the-badge&label=%20&color=white) |
 | [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser?style=for-the-badge&label=%20&color=white) |
-| [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` | Truly independent web browser | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LadyBirdBrowser/ladybird?style=for-the-badge&label=%20&color=white) |
+| [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` ```💥``` | Truly independent web browser | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LadyBirdBrowser/ladybird?style=for-the-badge&label=%20&color=white) |
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp?style=for-the-badge&label=%20&color=white) |
 | [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
 
@@ -304,7 +310,7 @@ Abandoned - Development Halted
 | [Zed](https://github.com/zed-industries/zed) ```⭕``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=for-the-badge&label=%20&color=white) |
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=for-the-badge&label=%20&color=white) |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=for-the-badge&label=%20&color=white) |
-| [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?style=for-the-badge&label=%20&color=white) |
+| [Vim](https://github.com/vim/vim) ```🌍``` | The official Vim repository | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?style=for-the-badge&label=%20&color=white) |
 | [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim?style=for-the-badge&label=%20&color=white) |
 | [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceVim/SpaceVim?style=for-the-badge&label=%20&color=white) |
 | [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NvChad/NvChad?style=for-the-badge&label=%20&color=white) |
@@ -449,7 +455,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```SelfHost``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=%20&color=white) |
+| [Ollama](https://github.com/ollama/ollama) ```🌍``` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```SelfHost``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=%20&color=white) |
 | [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=for-the-badge&label=%20&color=white) |
 | [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=for-the-badge&label=%20&color=white) |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=for-the-badge&label=%20&color=white) |
