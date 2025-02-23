@@ -662,6 +662,7 @@ Abandoned - Development Halted
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=for-the-badge&label=%20&color=white) |
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/aonez/Keka?style=for-the-badge&label=%20&color=white) |
 | [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
+| [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
@@ -749,6 +750,7 @@ Abandoned - Development Halted
 | [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 | [mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
+| [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/stakira/OpenUtau?style=for-the-badge&label=%20&color=white) |
 
 
 
