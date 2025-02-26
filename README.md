@@ -96,6 +96,7 @@ Abandoned - Development Halted
   - [Backup](#backup)
   - [Browser](#browser)
   - [Browser Extensions](#browser-extensions)
+  - [Bookmark Manager](#bookmark-manager)
   - [Calendar](#calendar)
   - [Chat](#chat)
   - [Code Editor](#code-editor)
@@ -144,6 +145,7 @@ Abandoned - Development Halted
   - [Virtual Machine](#virtual-machine)
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
+  - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
@@ -198,6 +200,7 @@ Abandoned - Development Halted
       - [Task Management](#task-management)
       - [Document Editor](#document-editor)
       - [Finance](#finance)
+      - [Bookmark Manager](#bookmark-manager)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -219,9 +222,11 @@ Abandoned - Development Halted
       - [Browser Extensions](#browser-extensions)
       - [Dev Extensions](#dev-extensions)
       - [Neovim Extensions](#neovim-extensions)
-  - [MacOS](#macos)
-  - [Linux](#linux)
-  - [Windows](#windows)
+  - Operating Systems
+      - [MacOS](#macos)
+      - [Linux](#linux)
+      - [Windows](#windows)
+      - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
@@ -290,6 +295,11 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
 | [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
+
+### Bookmark Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 ### Calendar
 
@@ -729,6 +739,12 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+
+### Operating System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
 
 
 ### Other
