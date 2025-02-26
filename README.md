@@ -8,7 +8,7 @@
 <h1 align="center"> [ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 217</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 218</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -116,6 +116,7 @@ Abandoned - Development Halted
   - [Home Automation](#home-automation)
   - [IDE](#ide)
   - [Knowledge Base](#knowledge-base)
+  - [Launcher](#launcher)
   - [LLM Gui](#llm-gui)
   - [Linux Dashboard](#linux-dashboard)
   - [Language Package Manager](#language-package-manager)
@@ -188,6 +189,7 @@ Abandoned - Development Halted
       - [Version Manager](#version-manager)
       - [Clipboard Manager](#clipboard-manager)
       - [Shell](#shell)
+      - [Launcher](#launcher)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -463,6 +465,12 @@ Abandoned - Development Halted
 | [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline?style=for-the-badge&label=%20&color=white) |
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge&label=%20&color=white) |
 | [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=for-the-badge&label=%20&color=white) |
+
+### Launcher
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
 
 ### LLM Gui
 
