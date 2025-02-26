@@ -8,7 +8,7 @@
 <h1 align="center"> [ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 213</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 217</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -300,6 +300,9 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [buku](https://github.com/jarun/buku) | 🔖 Personal mini-web in text | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/buku?style=for-the-badge&label=%20&color=white) |
+| [linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=for-the-badge&label=%20&color=white) |
+| [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=for-the-badge&label=%20&color=white) |
 
 ### Calendar
 
@@ -744,7 +747,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
 
 
 ### Other
