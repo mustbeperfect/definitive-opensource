@@ -149,6 +149,8 @@ Abandoned - Development Halted
   - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
+  - [Removed Projects](#removed-projects)
+  - [FAQ](#faq)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
 
 </details>
@@ -231,6 +233,8 @@ Abandoned - Development Halted
       - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
+  - [Removed Projects](#removed-projects)
+  - [FAQ](#faq)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
 
 </details>
@@ -789,8 +793,6 @@ Some proprietary software just deserve recognition.
 - [JetBrains](https://www.jetbrains.com/) - A suite of powerful (and slightly bloated) IDE's.
 - [Raycast](https://www.raycast.com/) - Incredibly powerful all-in-one utility.
 
-
-
 ## Removed Projects
 Projects that were once on this list but removed - usually due to abandonement or going closed source. 
 
@@ -803,7 +805,15 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [Lunarvim](https://github.com/LunarVim/LunarVim) - Abandoned
 </details>
 
-
+## FAQ
+<details>
+  <summary><b>How about a JSON file with a script that generates the readme?</b></summary> <br />
+  I’ve given this a lot of thought. For the foreseeable future, the list will continue to be edited directly as a markdown file. This is for one main reason: to keep everything simple. I will likely change my stance on this later as the project scales and when I have time to architect such a system. Although it can be tedious, the current system will have to suffice. 
+</details>
+<details>
+  <summary><b>How about a website, perhaps an automated one?</b></summary> <br />
+  I’ve considered making a website, one with features like filtering with tags or even an automated system that scans github repositories and categorizes them. The problem is that it wouldn't be much different from other tools out there like openalternative or trendshift and an automated system will always have shortcomings. The point of definitive-opensource is to be highly curated, and the current best execution of that is in a readme. I’m a busy college student and the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file.
+</details>
 
 ## License
 This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project for, but not limited to, commercial purposes. See the license tab for further information. 
