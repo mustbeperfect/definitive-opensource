@@ -808,4 +808,14 @@ Projects that were once on this list but removed - usually due to abandonement o
 ## License
 This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project for, but not limited to, commercial purposes. See the license tab for further information. 
 
+<p>&nbsp;</p>
 
+<p align="center">
+<table>
+<tbody>
+<td align="center" width="2000px" height="100px">
+<b><a href="#tags">   Go To Top   </a></b><br>
+</td>
+</tbody>
+</table>
+</p> 
