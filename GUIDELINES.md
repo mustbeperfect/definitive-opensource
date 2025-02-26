@@ -2,7 +2,7 @@
 # Submission Guidelines
 This list is for forward facing tools. Development technologies like frameworks or databases aren't allowed. 
 
-```Definitive-opensource``` has a **very rigorous** vetting process that involves comprehensive research into a project. Expect most submissions to be blocked or put into the backlog.
+```Definitive-opensource``` has a **very rigorous** vetting process that involves comprehensive research into a project. 
 
 We continously monitor projects on the list and will immediately remove projects that no longer fit the criteria. 
 
@@ -15,13 +15,15 @@ To avoid the clutter trap that many other lists succumb to as they scale, only t
 
 ```✅``` - Open ended
 
+```📔``` - Just a note
+
 ### 1. Popularity
 - ```🛑``` The minimum star count is 1k.
-- Projects with over 5000 stars are preferred.
+- ```📔``` Projects with over 5000 stars are preferred.
 
 ### 2. A Foundation
 - ```🛑``` A minimum contributor count of 5.
-- Quality is more important than quantity here. A small team can pass if they are solid and dedicated.
+- ```📔``` Quality is more important than quantity here. A small team can pass if they are solid and dedicated.
 - ```⚠️``` The project should have stable roots, as in no internal conflicts or major disagreements that impact development. 
 
 ### 3. Activity
