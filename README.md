@@ -694,12 +694,14 @@ Abandoned - Development Halted
 | [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
+| [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | ```Android``` ```IOS``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
+| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | ```Android``` ```IOS``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/element-hq/element-web?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
