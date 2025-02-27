@@ -827,7 +827,9 @@ Projects that were once on this list but removed - usually due to abandonement o
 ## FAQ
 <details>
   <summary><b>How about a JSON file with a script that generates the readme?</b></summary> <br />
-  I’ve given this a lot of thought. For the foreseeable future, the list will continue to be edited directly as a markdown file. This is for one main reason: to keep everything simple. I will likely change my stance on this later as the project scales and when I have time to architect such a system. Although it can be tedious, the current system will have to suffice. 
+  I’ve given this a lot of thought. Such a system would make fundamental changes and reorganization far easier whilst minimizing formatting and grammatical errors.
+  
+  However, for the foreseeable future, the list will continue to be edited directly as a markdown file. This is for one main reason: to keep everything simple. I will likely change my stance on this later as the project scales and when I have time to architect such a system. Although it can be tedious, the current system will have to suffice. 
 </details>
 <details>
   <summary><b>How about a website, perhaps an automated one?</b></summary> <br />
