@@ -125,7 +125,7 @@ Abandoned - Development Halted
   - [Media Downloader](#media-downloader)
   - [Media Management](#media-management)
   - [Neovim Extensions](#neovim-extensions)
-  - [Note Taking](#notetaking)
+  - [Note Taking](#note-taking)
   - [Office Suite](#office-suite)
   - [Package Manager](#package-manager)
   - [Password Manager](#password-manager)
@@ -198,7 +198,7 @@ Abandoned - Development Halted
       - [Sync](#sync)
   - Productivity
       - [Calendar](#calendar)
-      - [Note Taking](#notetaking)
+      - [Note Taking](#note-taking)
       - [Office Suite](#office-suite)
       - [Project Management](#project-management)
       - [Knowledge Base](#knowledge-base)
@@ -557,7 +557,7 @@ Abandoned - Development Halted
 | [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovide/neovide?style=for-the-badge&label=%20&color=white) |
 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=for-the-badge&label=%20&color=white) |
 
-### NoteTaking
+### Note Taking
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -566,6 +566,7 @@ Abandoned - Development Halted
 | [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium?style=for-the-badge&label=%20&color=white) |
 | [StandardNotes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | ```Cross``` ```IOS``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/standardnotes/app?style=for-the-badge&label=%20&color=white) |
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | Simplenote for Web, Windows, and Linux | ```Cross``` ```IOS``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Automattic/simplenote-electron?style=for-the-badge&label=%20&color=white) |
+| [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. All in Zotero. | ```Plugin``` | ![GitHub Repo stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=for-the-badge&label=%20&color=white) |
 
 ### Office Suite
 
