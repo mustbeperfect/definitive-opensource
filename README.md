@@ -739,6 +739,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
 | [mediawiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
+| [wiki](https://github.com/requarks/wiki) | Wiki.js | A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
