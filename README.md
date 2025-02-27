@@ -146,6 +146,7 @@ Abandoned - Development Halted
   - [Virtual Machine](#virtual-machine)
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
+  - [Wiki](#wiki)
   - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
@@ -205,6 +206,7 @@ Abandoned - Development Halted
       - [Document Editor](#document-editor)
       - [Finance](#finance)
       - [Bookmark Manager](#bookmark-manager)
+      - [Wiki](#wiki)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -730,6 +732,12 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=for-the-badge&label=%20&color=white) |
 
+### Wiki
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
+| [mediawiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
