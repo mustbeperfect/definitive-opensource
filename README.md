@@ -141,8 +141,9 @@ Abandoned - Development Halted
   - [Text Editor](#text-editor)
   - [Terminal Multiplexer](#terminal-multiplexer)
   - [Tools](#tools)
-  - [Version Manager](#version-manager)
+  - [Video Conference](#video-conference)
   - [Video Editing](#video-editing)
+  - [Version Manager](#version-manager)
   - [Virtual Machine](#virtual-machine)
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
@@ -212,6 +213,7 @@ Abandoned - Development Halted
   - Communication
       - [Chat](#chat)
       - [Mail](#mail)
+      - [Video Conference](#video-conference)
   - Entertainment
       - [Games](#games)
       - [Game Launcher](#game-launcher)
@@ -692,6 +694,12 @@ Abandoned - Development Halted
 | [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
+
+### Video Conference
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | ```Android``` ```IOS``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
