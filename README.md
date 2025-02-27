@@ -65,7 +65,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```CLI```, ```N/A```
+```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```CLI```, ```N/A```
 
 ## Project Status
 ```css
@@ -266,7 +266,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetB``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetBrains``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
 
 ### Agent
 
@@ -362,7 +362,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetB``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
+| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
 | [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 
 ### Download Manager
