@@ -27,7 +27,6 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ## Tags
 
 ### Alerts
-
 ```🟢``` ```🟡``` ```🟠``` ```🔴``` - Security incident **(Minor, Moderate, Major, Critical)**
 
 ```🚫``` - Potentially abandoned
@@ -45,7 +44,6 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ```❌``` - On watch for removal
 
 ### Awards (At 1k Stars)
-
 ```🏆``` - Crown of open source
 
 ```🥈``` - Second
@@ -53,7 +51,6 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ```🥉``` - Third
 
 ### Highlights
-
 ```💥``` - Disruptive
 
 ```🌍``` - Influential
@@ -328,6 +325,7 @@ Abandoned - Development Halted
 | [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
 | [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/block/goose?style=for-the-badge&label=%20&color=white) |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=for-the-badge&label=%20&color=white) |
 
 ### Code Editor
 
