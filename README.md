@@ -114,6 +114,7 @@ Abandoned - Development Halted
   - [Game Engine](#game-engine)
   - [Home Automation](#home-automation)
   - [IDE](#ide)
+  - [Information Processing](#information-processing)
   - [Knowledge Base](#knowledge-base)
   - [Launcher](#launcher)
   - [LLM Gui](#llm-gui)
@@ -221,6 +222,7 @@ Abandoned - Development Halted
       - [LLM Gui](#llm-gui)
       - [RAG](#rag)
       - [Agent](#agent)
+      - [Information Processing](#information-processing)
   - Media/Home Server
       - [Media Management](#media-management)
       - [Linux Dashboard](#linux-dashboard)
@@ -457,6 +459,14 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
 
+### Information Processing
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```MacOS``` ```Linux``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | ```Cross``` ```CLI+``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&label=%20&color=white) |
+| [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
+
 ### Knowledge Base
 
 | Name | Description | Platform | Stars |
@@ -691,6 +701,7 @@ Abandoned - Development Halted
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
 
