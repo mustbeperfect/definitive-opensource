@@ -87,6 +87,7 @@ Abandoned - Development Halted
   <summary><b>Alphabetical</b></summary> <br />
 
   - [Audio](#audio)
+  - [Automation](#automation)
   - [AI Image GUI](#ai-image-gui)
   - [Agent](#agent)
   - [Backup](#backup)
@@ -191,6 +192,7 @@ Abandoned - Development Halted
       - [Clipboard Manager](#clipboard-manager)
       - [Shell](#shell)
       - [Launcher](#launcher)
+      - [Automation](#automation)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -237,7 +239,6 @@ Abandoned - Development Halted
   - [Removed Projects](#removed-projects)
   - [FAQ](#faq)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
-
 </details>
 
 # Applications
@@ -249,6 +250,13 @@ Abandoned - Development Halted
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/audacity/audacity?style=for-the-badge&label=%20&color=white) |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
+| [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/stakira/OpenUtau?style=for-the-badge&label=%20&color=white) |
+
+### Automation
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -464,6 +472,7 @@ Abandoned - Development Halted
 | [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```MacOS``` ```Linux``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | ```Cross``` ```CLI+``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&label=%20&color=white) |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 
 ### Knowledge Base
 
@@ -496,6 +505,7 @@ Abandoned - Development Halted
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
 | [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
 
 ### Linux Dashboard
 
@@ -793,31 +803,25 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
+| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
 
 ### Uncategorized
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
 | [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twentyhq/twenty?style=for-the-badge&label=%20&color=white) |
-| [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bluenviron/mediamtx?style=for-the-badge&label=%20&color=white) |
-| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
 | [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/teableio/teable?style=for-the-badge&label=%20&color=white) |
-| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
-| [mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
-| [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/stakira/OpenUtau?style=for-the-badge&label=%20&color=white) |
+| [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
 
 
 
 ## Honorable Mentions of Closed-Source Software
 Some proprietary software just deserve recognition.
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A full-fledged video editor with a powerful free tier. 
-- [Obsidian](https://obsidian.md/) - One of the most popular note taking apps / markdown editors. Almost everything about this project screams open source, except for the fact that it's not open source (like no analytics, free unless you want sync, and local storage).
-- [LM Studio](https://lmstudio.ai/) - Feature rich gui for running local LLM models.
-- [JetBrains](https://www.jetbrains.com/) - A suite of powerful (and slightly bloated) IDE's.
-- [Raycast](https://www.raycast.com/) - Incredibly powerful all-in-one utility.
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional Editing, Color, Effects and Audio Post!
+- [Obsidian](https://obsidian.md/) - The free and flexible app for your private thoughts. 
+- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
+- [JetBrains](https://www.jetbrains.com/) - A rich suite of tools that provide an exceptional developer experience
+- [Raycast](https://www.raycast.com/) - A collection of powerful productivity tools all within an extendable launcher.
 
 ## Removed Projects
 Projects that were once on this list but removed - usually due to abandonement or going closed source. 
