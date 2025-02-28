@@ -601,10 +601,10 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/makeplane/plane?style=for-the-badge&label=%20&color=white) |
-| [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=for-the-badge&label=%20&color=white) |
-| [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform?style=for-the-badge&label=%20&color=white) |
-| [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject?style=for-the-badge&label=%20&color=white) |
+| [Plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/makeplane/plane?style=for-the-badge&label=%20&color=white) |
+| [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=for-the-badge&label=%20&color=white) |
+| [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform?style=for-the-badge&label=%20&color=white) |
+| [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
