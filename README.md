@@ -62,7 +62,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```CLI```, ```CLI+ (In Addition to GUI)```, ```Plugin```, ```N/A```
+```Windows```, ```MacOS```, ```Linux```, ```Android```, ```IOS```, ```CLI```, ```CLI+ (In Addition to GUI)```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```Plugin```, ```N/A```
 
 ## Project Status
 ```css
