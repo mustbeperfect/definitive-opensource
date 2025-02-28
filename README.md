@@ -705,9 +705,9 @@ Abandoned - Development Halted
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=for-the-badge&label=%20&color=white) |
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/aonez/Keka?style=for-the-badge&label=%20&color=white) |
-| [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
+| [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
 
@@ -724,8 +724,8 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/XcodesOrg/XcodesApp?style=for-the-badge&label=%20&color=white) |
 | [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rbenv/rbenv?style=for-the-badge&label=%20&color=white) |
-| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pyenv/pyenv?style=for-the-badge&label=%20&color=white) |
-| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=%20&color=white) |
+| [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pyenv/pyenv?style=for-the-badge&label=%20&color=white) |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=%20&color=white) |
 
 ### Video Editing
 
@@ -734,7 +734,7 @@ Abandoned - Development Halted
 | [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/kdenlive?style=for-the-badge&label=%20&color=white) |
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mltframework/shotcut?style=for-the-badge&label=%20&color=white) |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/olive-editor/olive?style=for-the-badge&label=%20&color=white) |
-| [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=for-the-badge&label=%20&color=white) |
+| [LossletCut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=for-the-badge&label=%20&color=white) |
 | [Natron](https://github.com/NatronGitHub/Natron) | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NatronGithub/Natron?style=for-the-badge&label=%20&color=white) |
 
 ### Virtual Machine
@@ -749,7 +749,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=for-the-badge&label=%20&color=white) |
-| [iina](https://github.com/iina/iina) | The modern video player for macOS. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/iina/iina?style=for-the-badge&label=%20&color=white) |
+| [IINA](https://github.com/iina/iina) | The modern video player for macOS. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/iina/iina?style=for-the-badge&label=%20&color=white) |
 | [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge&label=%20&color=white) |
 
 ### Video Transcoder
@@ -763,8 +763,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
-| [mediawiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
-| [wiki](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
+| [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
+| [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
@@ -773,7 +773,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Boring Notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
+| [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
 | [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ospfranco/sol?style=for-the-badge&label=%20&color=white) |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
@@ -795,14 +795,14 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [Puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
 
 
 ### Other
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
 
 ### Uncategorized
