@@ -65,7 +65,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```CLI```, ```Plugin```, ```N/A```
+```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```CLI```, ```CLI+ (In Addition to GUI)```, ```Plugin```, ```N/A```
 
 ## Project Status
 ```css
@@ -91,7 +91,6 @@ Abandoned - Development Halted
 
   - [Audio](#audio)
   - [AI Image GUI](#ai-image-gui)
-  - [AI Code Complete](#ai-code-complete)
   - [Agent](#agent)
   - [Backup](#backup)
   - [Browser](#browser)
@@ -99,11 +98,11 @@ Abandoned - Development Halted
   - [Bookmark Manager](#bookmark-manager)
   - [Calendar](#calendar)
   - [Chat](#chat)
+  - [Code Assistant](#code-assistant)
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
   - [Document Editor](#document-editor)
-  - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
   - [File Manager](#file-manager)
@@ -177,7 +176,7 @@ Abandoned - Development Halted
       - [Git GUI](#git-gui)
       - [Game Engine](#game-engine)
       - [Language Package Manager](#language-package-manager)
-      - [AI Code Complete](#ai-code-complete)
+      - [Code Assistant](#code-assistant)
   - Utilities
       - [Terminal](#terminal)
       - [Terminal Multiplexer](#terminal-multiplexer)
@@ -228,7 +227,6 @@ Abandoned - Development Halted
       - [Home Automation](#home-automation)
   - Extensions
       - [Browser Extensions](#browser-extensions)
-      - [Dev Extensions](#dev-extensions)
       - [Neovim Extensions](#neovim-extensions)
   - Operating Systems
       - [MacOS](#macos)
@@ -265,12 +263,6 @@ Abandoned - Development Halted
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
 | [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=for-the-badge&label=%20&color=white) |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
-
-### AI Code Complete
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetBrains``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
 
 ### Agent
 
@@ -326,6 +318,15 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
 
+### Code Assistant
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetBrains``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
+| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
+| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
+| [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/block/goose?style=for-the-badge&label=%20&color=white) |
+
 ### Code Editor
 
 | Name | Description | Platform | Stars |
@@ -361,13 +362,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Web``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=for-the-badge&label=%20&color=white) |
-
-### Dev Extensions
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
-| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 
 ### Download Manager
 
