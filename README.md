@@ -249,7 +249,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/audacity/audacity?style=for-the-badge&label=%20&color=white) |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
-| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
+| [Background Music](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 | [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/stakira/OpenUtau?style=for-the-badge&label=%20&color=white) |
 
 ### Automation
@@ -262,21 +262,21 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=for-the-badge&label=%20&color=white) |
+| [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=for-the-badge&label=%20&color=white) |
 | [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=for-the-badge&label=%20&color=white) |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge&label=%20&color=white) |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge&label=%20&color=white) |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=for-the-badge&label=%20&color=white) |
-| [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | No description, website, or topics provided. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
-| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=for-the-badge&label=%20&color=white) |
+| [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
+| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) ```❌``` | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=for-the-badge&label=%20&color=white) |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 
 ### Agent
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
-| [Screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
+| [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
+| [screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
 
 ### Backup
 
@@ -286,7 +286,7 @@ Abandoned - Development Halted
 | [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/restic/restic?style=for-the-badge&label=%20&color=white) |
 | [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/duplicati/duplicati?style=for-the-badge&label=%20&color=white) |
 | [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/borgbackup/borg?style=for-the-badge&label=%20&color=white) |
-| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rclone/rclone?style=for-the-badge&label=%20&color=white) |
+| [Rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rclone/rclone?style=for-the-badge&label=%20&color=white) |
 
 ### Browser
 
@@ -296,21 +296,21 @@ Abandoned - Development Halted
 | [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser?style=for-the-badge&label=%20&color=white) |
 | [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` ```💥``` | Truly independent web browser | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LadyBirdBrowser/ladybird?style=for-the-badge&label=%20&color=white) |
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp?style=for-the-badge&label=%20&color=white) |
-| [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
+| [Min](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
 
 ### Browser Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
-| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
+| [uBlock Origin](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
+| [Dark Reader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
 
 ### Bookmark Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [buku](https://github.com/jarun/buku) | 🔖 Personal mini-web in text | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/buku?style=for-the-badge&label=%20&color=white) |
-| [linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=for-the-badge&label=%20&color=white) |
+| [buku](https://github.com/jarun/buku) | 🔖 Personal mini-web in text | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/buku?style=for-the-badge&label=%20&color=white) |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=for-the-badge&label=%20&color=white) |
 | [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=for-the-badge&label=%20&color=white) |
 
 ### Calendar
@@ -343,11 +343,11 @@ Abandoned - Development Halted
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=for-the-badge&label=%20&color=white) |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=for-the-badge&label=%20&color=white) |
 | [Vim](https://github.com/vim/vim) ```🌍``` | The official Vim repository | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?style=for-the-badge&label=%20&color=white) |
-| [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim?style=for-the-badge&label=%20&color=white) |
-| [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceVim/SpaceVim?style=for-the-badge&label=%20&color=white) |
-| [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NvChad/NvChad?style=for-the-badge&label=%20&color=white) |
+| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim?style=for-the-badge&label=%20&color=white) |
+| [SpaceVim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceVim/SpaceVim?style=for-the-badge&label=%20&color=white) |
+| [NvChad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NvChad/NvChad?style=for-the-badge&label=%20&color=white) |
 | [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LazyVim/LazyVim?style=for-the-badge&label=%20&color=white) |
-| [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=for-the-badge&label=%20&color=white) |
+| [VS Code](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=for-the-badge&label=%20&color=white) |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=for-the-badge&label=%20&color=white) |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=for-the-badge&label=%20&color=white) |
 | [code-server](https://github.com/coder/code-server) | VS Code in the browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/coder/code-server?style=for-the-badge&label=%20&color=white) |
@@ -357,7 +357,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner?style=for-the-badge&label=%20&color=white) |
-| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Windows``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=for-the-badge&label=%20&color=white) |
+| [BleachBit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Windows``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=for-the-badge&label=%20&color=white) |
 
 ### Clipboard Manager
 
@@ -379,14 +379,14 @@ Abandoned - Development Halted
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=for-the-badge&label=%20&color=white) |
 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=%20&color=white) |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
-| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
+| [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
 
 ### Docker
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=%20&color=white) |
-| [dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
+| [Dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
 
 ### File Manager
 
@@ -400,9 +400,9 @@ Abandoned - Development Halted
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=for-the-badge&label=%20&color=white) |
 | [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gokcehan/lf?style=for-the-badge&label=%20&color=white) |
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yorukot/superfile?style=for-the-badge&label=%20&color=white) |
-| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=%20&color=white) |
-| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filegator/filegator?style=for-the-badge&label=%20&color=white) |
-| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge&label=%20&color=white) |
+| [Filestash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=%20&color=white) |
+| [FileGator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filegator/filegator?style=for-the-badge&label=%20&color=white) |
+| [File Browser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge&label=%20&color=white) |
 
 ### Finance
 
@@ -418,7 +418,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Endless Sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/endless-sky/endless-sky?style=for-the-badge&label=%20&color=white) |
 | [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=for-the-badge&label=%20&color=white) |
-| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yairm210/Unciv?style=for-the-badge&label=%20&color=white) |
+| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | ```Cross``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yairm210/Unciv?style=for-the-badge&label=%20&color=white) |
 | [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wesnoth/wesnoth?style=for-the-badge&label=%20&color=white) |
 
 ### Game Launcher
@@ -426,7 +426,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?style=for-the-badge&label=%20&color=white) |
-| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=%20&color=white) |
+| [Playnite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=%20&color=white) |
 
 ### Graphics
 
@@ -444,7 +444,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=for-the-badge&label=%20&color=white) |
+| [GitHub Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=for-the-badge&label=%20&color=white) |
 
 ### Game Engine
 
@@ -456,14 +456,14 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [HomeAssistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
+| [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
 | [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
 
 ### IDE
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
+| [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
 
 ### Information Processing
 
@@ -472,7 +472,7 @@ Abandoned - Development Halted
 | [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```MacOS``` ```Linux``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | ```Cross``` ```CLI+``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&label=%20&color=white) |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
+| [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 
 ### Knowledge Base
 
@@ -490,7 +490,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
+| [Ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
 
 ### LLM Gui
 
