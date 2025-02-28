@@ -625,6 +625,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=for-the-badge&label=%20&color=white) |
 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=%20&color=white) |
+| [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=for-the-badge&label=%20&color=white) |
 
 ### System Monitoring
 
