@@ -325,6 +325,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
+| [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
 
 ### Code Assistant
 
@@ -811,9 +812,6 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twentyhq/twenty?style=for-the-badge&label=%20&color=white) |
-| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/teableio/teable?style=for-the-badge&label=%20&color=white) |
-| [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
 
 
 
