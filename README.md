@@ -14,7 +14,7 @@
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
 > [!CAUTION]  
-> We have a **very rigorous** vetting and research process. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
+> We have a **rigorous** vetting and research process. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
 
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
@@ -43,13 +43,6 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```❌``` - On watch for removal
 
-### Awards (At 1k Stars)
-```🏆``` - Crown of open source
-
-```🥈``` - Second
-
-```🥉``` - Third
-
 ### Highlights
 ```💥``` - Disruptive
 
@@ -59,10 +52,19 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```💡``` - Innovative
 
+### Awards (At 1k Stars)
+```🏆``` - Crown of open source
+
+```🥈``` - Second
+
+```🥉``` - Third
+
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```Windows```, ```MacOS```, ```Linux```, ```Android```, ```IOS```, ```CLI```, ```CLI+ (In Addition to GUI)```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```Plugin```, ```N/A```
+```CLI+``` - CLI in addition to GUI
+
+```Windows```, ```MacOS```, ```Linux```, ```Android```, ```IOS```, ```CLI```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```Plugin```, ```Extension```, ```N/A```
 
 ## Project Status
 ```css
@@ -256,7 +258,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
+| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -329,7 +331,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetBrains``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
 | [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
 | [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/block/goose?style=for-the-badge&label=%20&color=white) |
@@ -369,7 +371,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Web``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=for-the-badge&label=%20&color=white) |
+| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=for-the-badge&label=%20&color=white) |
 
 ### Download Manager
 
@@ -377,7 +379,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge&label=%20&color=white) |
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=for-the-badge&label=%20&color=white) |
-| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=%20&color=white) |
+| [Motrix](https://github.com/agalwood/Motrix) ```❌``` | A full-featured download manager. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=%20&color=white) |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
 | [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
 
