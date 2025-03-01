@@ -330,6 +330,8 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
 | [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
+| [Zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zulip/zulip?style=for-the-badge&label=%20&color=white) |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=for-the-badge&label=%20&color=white) |
 
 ### Code Assistant
 
@@ -498,7 +500,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
 
-### LLM Gui
+### LLM GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -511,6 +513,7 @@ Abandoned - Development Halted
 | [Text generation webUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
 | [Khoj AI](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
+| [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 
 ### Linux Dashboard
 
