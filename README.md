@@ -270,7 +270,6 @@ Abandoned - Development Halted
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=for-the-badge&label=%20&color=white) |
 | [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
-| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) ```❌``` | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=for-the-badge&label=%20&color=white) |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 
 ### Agent
@@ -379,7 +378,6 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge&label=%20&color=white) |
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=for-the-badge&label=%20&color=white) |
-| [Motrix](https://github.com/agalwood/Motrix) ```❌``` | A full-featured download manager. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=%20&color=white) |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
 | [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
 
@@ -580,7 +578,6 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=for-the-badge&label=%20&color=white) |
 | [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=for-the-badge&label=%20&color=white) |
-| [Trilium](https://github.com/zadam/trilium) ```❌``` | Build your personal knowledge base with Trilium Notes | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium?style=for-the-badge&label=%20&color=white) |
 | [Standard Notes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | ```Cross``` ```IOS``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/standardnotes/app?style=for-the-badge&label=%20&color=white) |
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | Simplenote for Web, Windows, and Linux | ```Cross``` ```IOS``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Automattic/simplenote-electron?style=for-the-badge&label=%20&color=white) |
 | [Better Notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. All in Zotero. | ```Plugin``` | ![GitHub Repo stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=for-the-badge&label=%20&color=white) |
@@ -831,10 +828,13 @@ Projects that were once on this list but removed - usually due to abandonement o
 <details>
   <summary><b>Archive</b></summary> <br />
   
-  - [eqMac](https://github.com/bitgapp/eqMac) - Closed-source
-  - [Hyper](https://github.com/vercel/hyper) - Abandoned
-  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Closed-source
-  - [Lunarvim](https://github.com/LunarVim/LunarVim) - Abandoned
+  - [eqMac](https://github.com/bitgapp/eqMac) - ```Closed source```
+  - [Hyper](https://github.com/vercel/hyper) - ```Abandoned```
+  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - ```Closed source```
+  - [Lunarvim](https://github.com/LunarVim/LunarVim) - ```Abandoned```
+  - [Motrix](https://github.com/agalwood/Motrix) - ```Abandoned```
+  - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - ```Abandoned```
+  - [Trilium](https://github.com/zadam/trilium) - ```Abandoned```
 </details>
 
 ## FAQ
