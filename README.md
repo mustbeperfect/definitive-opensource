@@ -454,6 +454,7 @@ Abandoned - Development Halted
 | [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darktable-org/darktable?style=for-the-badge&label=%20&color=white) |
 | [RawTherapee](https://github.com/RawTherapee/RawTherapee) | A powerful cross-platform raw photo processing program | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=for-the-badge&label=%20&color=white) |
 | [Penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot?style=for-the-badge&label=%20&color=white) |
+| [OpenSCAD](https://github.com/openscad/openscad) ```❌``` | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
 
 ### Git GUI
 
@@ -712,6 +713,7 @@ Abandoned - Development Halted
 | [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mawww/kakoune?style=for-the-badge&label=%20&color=white) |
 | [Lite XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lite-xl/lite-xl?style=for-the-badge&label=%20&color=white) |
 | [Emacs](https://github.com/emacs-mirror/emacs) | An extensible, customizable, free/libre text editor — and more. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=for-the-badge&label=%20&color=white) |
+| [NotepadNext](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=for-the-badge&label=%20&color=white) |
 
 ### Terminal Multiplexer
 
@@ -735,6 +737,7 @@ Abandoned - Development Halted
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
 | [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yadm-dev/yadm?style=for-the-badge&label=%20&color=white) |
+| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
 
@@ -796,6 +799,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rxhanson/Rectangle?style=for-the-badge&label=%20&color=white) |
+| [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop?style=for-the-badge&label=%20&color=white) |
+| [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nikitabobko/AeroSpace?style=for-the-badge&label=%20&color=white) |
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
@@ -810,6 +815,7 @@ Abandoned - Development Halted
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
 | [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
+| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
