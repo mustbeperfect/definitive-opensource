@@ -431,6 +431,9 @@ Abandoned - Development Halted
 | [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=for-the-badge&label=%20&color=white) |
 | [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | ```Cross``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yairm210/Unciv?style=for-the-badge&label=%20&color=white) |
 | [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wesnoth/wesnoth?style=for-the-badge&label=%20&color=white) |
+| [Veloren](https://github.com/veloren/veloren) | An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/veloren/veloren?style=for-the-badge&label=%20&color=white) |
+| [lichess](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lichess-org/lila?style=for-the-badge&label=%20&color=white) |
+| [OpenRA](https://github.com/OpenRA/OpenRA) | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenRA/OpenRA?style=for-the-badge&label=%20&color=white) |
 
 ### Game Launcher
 
@@ -839,6 +842,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Whisky-App/Whisky?style=for-the-badge&label=%20&color=white) |
 
 
 
