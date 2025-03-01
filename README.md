@@ -236,6 +236,12 @@ Abandoned - Development Halted
       - [Linux](#linux)
       - [Windows](#windows)
       - [Operating System](#operating-system)
+  - Enterprise
+      - [CRM](#crm)
+      - [Ecommerce](#ecommerce)
+      - [Hosting](#hosting)
+      - [Collaboration](#collaboration)
+      - [Marketing](#marketing)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
   - [Removed Projects](#removed-projects)
