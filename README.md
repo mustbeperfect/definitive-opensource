@@ -357,6 +357,7 @@ Abandoned - Development Halted
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=for-the-badge&label=%20&color=white) |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=for-the-badge&label=%20&color=white) |
 | [code-server](https://github.com/coder/code-server) | VS Code in the browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/coder/code-server?style=for-the-badge&label=%20&color=white) |
+| [Void](https://github.com/voideditor/void) | Void is the open-source Cursor alternative. | ```Windows``` ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/voideditor/void?style=for-the-badge&label=%20&color=white) |
 
 ### Cleaner
 
