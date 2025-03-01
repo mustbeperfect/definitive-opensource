@@ -290,6 +290,7 @@ Abandoned - Development Halted
 | [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/duplicati/duplicati?style=for-the-badge&label=%20&color=white) |
 | [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/borgbackup/borg?style=for-the-badge&label=%20&color=white) |
 | [Rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rclone/rclone?style=for-the-badge&label=%20&color=white) |
+| [Timeshift](https://github.com/linuxmint/timeshift) | System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxmint/timeshift?style=for-the-badge&label=%20&color=white) |
 
 ### Browser
 
