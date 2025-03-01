@@ -794,7 +794,10 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Puter](https://github.com/HeyPuter/puter/) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
+| [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
+
 
 
 ### Other
