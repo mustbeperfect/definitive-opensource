@@ -315,6 +315,7 @@ Abandoned - Development Halted
 | [buku](https://github.com/jarun/buku) | 🔖 Personal mini-web in text | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/buku?style=for-the-badge&label=%20&color=white) |
 | [Linkwarden](https://github.com/linkwarden/linkwarden) | ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=for-the-badge&label=%20&color=white) |
 | [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=for-the-badge&label=%20&color=white) |
+| [hoarder](https://github.com/hoarder-app/hoarder) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hoarder-app/hoarder?style=for-the-badge&label=%20&color=white) |
 
 ### Calendar
 
