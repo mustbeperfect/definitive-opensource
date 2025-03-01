@@ -1,6 +1,6 @@
 
 # Submission Guidelines
-This list is for forward facing tools. Development technologies like frameworks or databases aren't allowed. 
+This list is for projects that are directly used, not projects with the sole purpose of building another project. Development technologies like frameworks, databases, or backend systems aren't allowed. 
 
 ```Definitive-opensource``` has a **very rigorous** vetting process that involves comprehensive research into a project. 
 
