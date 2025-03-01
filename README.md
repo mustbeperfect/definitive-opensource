@@ -149,6 +149,7 @@ Abandoned - Development Halted
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
   - [Wiki](#wiki)
+  - [Window Management](#window-management)
   - [Operating System](#operating-system)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
@@ -197,6 +198,7 @@ Abandoned - Development Halted
       - [Shell](#shell)
       - [Launcher](#launcher)
       - [Automation](#automation)
+      - [Window Management](#window-management)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -500,6 +502,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
+| [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ospfranco/sol?style=for-the-badge&label=%20&color=white) |
 
 ### LLM GUI
 
@@ -727,6 +730,7 @@ Abandoned - Development Halted
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
+| [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yadm-dev/yadm?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
 
@@ -783,6 +787,12 @@ Abandoned - Development Halted
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
 
+### Window Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rxhanson/Rectangle?style=for-the-badge&label=%20&color=white) |
+
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
 
@@ -792,9 +802,9 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
-| [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ospfranco/sol?style=for-the-badge&label=%20&color=white) |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
+| [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
