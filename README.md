@@ -133,6 +133,7 @@ Abandoned - Development Halted
   - [Rag](#rag)
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
+  - [Search Engine](#search-engine)
   - [System Monitoring](#system-monitoring)
   - [Sync](#sync)
   - [Shell](#shell)
@@ -163,6 +164,7 @@ Abandoned - Development Halted
   - Internet
       - [Browser](#browser)
       - [Download Manager](#download-manager)
+      - [Search Engine](#search-engine)
   - Media
       - [Media Downloader](#media-downloader)
       - [Video Editing](#video-editing)
@@ -506,7 +508,6 @@ Abandoned - Development Halted
 | [Text generation webUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
 | [Khoj AI](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
 
 ### Linux Dashboard
 
@@ -638,6 +639,13 @@ Abandoned - Development Halted
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=for-the-badge&label=%20&color=white) |
 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=%20&color=white) |
 | [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=for-the-badge&label=%20&color=white) |
+
+### Search Engine
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
+| [Scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zaidmukaddam/scira?style=for-the-badge&label=%20&color=white) |
 
 ### System Monitoring
 
