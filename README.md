@@ -263,6 +263,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
+| [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Hammerspoon/hammerspoon?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -805,9 +806,10 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
-| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
+| [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
