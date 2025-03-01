@@ -562,6 +562,7 @@ Abandoned - Development Halted
 | [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/immich-app/immich?style=for-the-badge&label=%20&color=white) |
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?style=for-the-badge&label=%20&color=white) |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=%20&color=white) |
+| [Ente](https://github.com/ente-io/ente) | FOSS, End-to-End Encrypted Cloud | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
 
