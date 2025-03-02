@@ -13,3 +13,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Raindrop.io](https://github.com/raindropio)
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
 - [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)
+- [RustPad](https://github.com/ekzhang/rustpad)
