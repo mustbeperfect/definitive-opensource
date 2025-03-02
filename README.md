@@ -104,7 +104,9 @@ Abandoned - Development Halted
   - [Clipboard Manager](#clipboard-manager)
   - [Dev Tools](#dev-tools)
   - [Document Editor](#document-editor)
+  - [Document Modifier](#document-modifier)
   - [Download Manager](#download-manager)
+  - [Dotfiles Manager](#dotfiles-manager)
   - [Containers](#Containers)
   - [File Manager](#file-manager)
   - [Finance](#finance)
@@ -203,6 +205,7 @@ Abandoned - Development Halted
       - [Automation](#automation)
       - [Window Management](#window-management)
       - [Keyboard Manager](#keyboard-manager)
+      - [Dotfiles Manager](#dotfiles-manager)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -217,6 +220,7 @@ Abandoned - Development Halted
       - [Finance](#finance)
       - [Bookmark Manager](#bookmark-manager)
       - [Wiki](#wiki)
+      - [Document Modifier](#document-modifier)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -309,6 +313,7 @@ Abandoned - Development Halted
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp?style=for-the-badge&label=%20&color=white) |
 | [Min](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
 | [Noi](https://github.com/lencx/Noi) | 🚀 Power Your World with AI - Explore, Extend, Empower. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/Noi?style=for-the-badge&label=%20&color=white) |
+| [Neko](https://github.com/m1k1o/neko) | A self hosted virtual browser that runs in docker and uses WebRTC. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/m1k1o/neko?style=for-the-badge&label=%20&color=white) |
 
 ### Browser Extensions
 
@@ -326,6 +331,7 @@ Abandoned - Development Halted
 | [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=for-the-badge&label=%20&color=white) |
 | [hoarder](https://github.com/hoarder-app/hoarder) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hoarder-app/hoarder?style=for-the-badge&label=%20&color=white) |
 | [Shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/go-shiori/shiori?style=for-the-badge&label=%20&color=white) |
+| [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wallabag/wallabag?style=for-the-badge&label=%20&color=white) |
 
 ### Calendar
 
@@ -398,6 +404,15 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=for-the-badge&label=%20&color=white) |
 
+### Document Modifier
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
+| [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
+| [Documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/documenso/documenso?style=for-the-badge&label=%20&color=white) |
+
 ### Download Manager
 
 | Name | Description | Platform | Stars |
@@ -406,6 +421,13 @@ Abandoned - Development Halted
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=for-the-badge&label=%20&color=white) |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
 | [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
+
+### Dotfiles Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yadm-dev/yadm?style=for-the-badge&label=%20&color=white) |
+| [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twpayne/chezmoi?style=for-the-badge&label=%20&color=white) |
 
 ### Containers
 
@@ -555,7 +577,8 @@ Abandoned - Development Halted
 | [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=for-the-badge&label=%20&color=white) |
 | [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/caprover/caprover?style=for-the-badge&label=%20&color=white) |
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
-| [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
+| [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
+| [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
@@ -601,6 +624,7 @@ Abandoned - Development Halted
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=%20&color=white) |
 | [Ente](https://github.com/ente-io/ente) | FOSS, End-to-End Encrypted Cloud | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
+| [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | ```IOS``` ```Android``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
 
@@ -758,11 +782,6 @@ Abandoned - Development Halted
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/aonez/Keka?style=for-the-badge&label=%20&color=white) |
 | [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | ```MacOS``` ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge&label=%20&color=white) |
-| [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
-| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
-| [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yadm-dev/yadm?style=for-the-badge&label=%20&color=white) |
-| [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twpayne/chezmoi?style=for-the-badge&label=%20&color=white) |
 | [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
