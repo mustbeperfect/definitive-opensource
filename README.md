@@ -88,7 +88,8 @@ Abandoned - Development Halted
 <details>
   <summary><b>Alphabetical</b></summary> <br />
 
-  - [Audio](#audio)
+  - [Audio Editor](#audio-editor)
+  - [Audio Player](#audio-player)
   - [Automation](#automation)
   - [AI Image GUI](#ai-image-gui)
   - [Agent](#agent)
@@ -122,7 +123,7 @@ Abandoned - Development Halted
   - [Knowledge Base](#knowledge-base)
   - [Launcher](#launcher)
   - [LLM Gui](#llm-gui)
-  - [Linux Dashboard](#linux-dashboard)
+  - [Dashboard](#dashboard)
   - [Language Package Manager](#language-package-manager)
   - [Mail](#mail)
   - [Markdown-editor](#markdown-editor)
@@ -138,6 +139,7 @@ Abandoned - Development Halted
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
   - [Search Engine](#search-engine)
+  - [System](#system)
   - [System Monitoring](#system-monitoring)
   - [Sync](#sync)
   - [Shell](#shell)
@@ -145,6 +147,7 @@ Abandoned - Development Halted
   - [Terminal](#terminal)
   - [Text Editor](#text-editor)
   - [Terminal Multiplexer](#terminal-multiplexer)
+  - [Time Management](#time-management)
   - [Tools](#tools)
   - [Video Conference](#video-conference)
   - [Video Editing](#video-editing)
@@ -176,7 +179,8 @@ Abandoned - Development Halted
       - [Video Player](#video-player)
       - [Graphics](#graphics)
       - [Screen Recording](#screen-recording)
-      - [Audio](#audio)
+      - [Audio Editor](#audio-editor)
+      - [Audio Player](#audio-player)
       - [Video Transcoder](#video-transcoder)
   - Development
       - [IDE](#ide)
@@ -194,8 +198,6 @@ Abandoned - Development Halted
       - [Package Manager](#package-manager)
       - [Virtual Machine](#virtual-machine)
       - [Remote Desktop](#remote-desktop)
-      - [Text Editor](#text-editor)
-      - [Markdown Editor](#markdown-editor)
       - [Containers](#Containers)
       - [Cleaner](#cleaner)
       - [Version Manager](#version-manager)
@@ -206,21 +208,27 @@ Abandoned - Development Halted
       - [Window Management](#window-management)
       - [Keyboard Manager](#keyboard-manager)
       - [Dotfiles Manager](#dotfiles-manager)
+      - [System](#system)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
   - Productivity
       - [Calendar](#calendar)
-      - [Note Taking](#note-taking)
-      - [Office Suite](#office-suite)
       - [Project Management](#project-management)
       - [Knowledge Base](#knowledge-base)
       - [Task Management](#task-management)
-      - [Document Editor](#document-editor)
       - [Finance](#finance)
-      - [Bookmark Manager](#bookmark-manager)
-      - [Wiki](#wiki)
       - [Document Modifier](#document-modifier)
+      - [Time Management](#time-management)
+  - Organization
+      - [Bookmark Manager](#bookmark-manager)
+  - Text
+      - [Note Taking](#note-taking)
+      - [Document Editor](#document-editor)
+      - [Wiki](#wiki)
+      - [Markdown Editor](#markdown-editor)
+      - [Text Editor](#text-editor)
+      - [Office Suite](#office-suite)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -238,7 +246,7 @@ Abandoned - Development Halted
       - [Information Processing](#information-processing)
   - Media/Home Server
       - [Media Management](#media-management)
-      - [Linux Dashboard](#linux-dashboard)
+      - [Dashboard](#dashboard)
       - [Home Automation](#home-automation)
   - Extensions
       - [Browser Extensions](#browser-extensions)
@@ -257,14 +265,19 @@ Abandoned - Development Halted
 
 # Applications
 
-### Audio
+### Audio Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/audacity/audacity?style=for-the-badge&label=%20&color=white) |
-| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
-| [Background Music](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 | [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/stakira/OpenUtau?style=for-the-badge&label=%20&color=white) |
+
+### Audio Player
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
+| [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin?style=for-the-badge&label=%20&color=white) |
 
 ### Automation
 
@@ -412,6 +425,7 @@ Abandoned - Development Halted
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
 | [Documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/documenso/documenso?style=for-the-badge&label=%20&color=white) |
+| [OpenSign](https://github.com/OpenSignLabs/OpenSign) | 🔥 The free & Open Source DocuSign alternative | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/documenso/documenso?style=for-the-badge&label=%20&color=white) |
 
 ### Download Manager
 
@@ -570,7 +584,7 @@ Abandoned - Development Halted
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 
-### Linux Dashboard
+### Dashboard
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -579,6 +593,7 @@ Abandoned - Development Halted
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
+| [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
@@ -672,6 +687,7 @@ Abandoned - Development Halted
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients?style=for-the-badge&label=%20&color=white) |
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
+| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Android``` ```IOS``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
 
 ### Project Management
 
@@ -718,6 +734,12 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/exelban/stats?style=for-the-badge&label=%20&color=white) |
 | [Vitals](https://github.com/corecoding/Vitals) | A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/corecoding/Vitals?style=for-the-badge&label=%20&color=white) |
+
+### System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Background Music](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
@@ -770,6 +792,12 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=for-the-badge&label=%20&color=white) |
 | [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
+
+### Time Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
 
 ### Tools
 
@@ -893,6 +921,7 @@ Abandoned - Development Halted
 | [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
 | [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
 | [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
+| [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
 
 
 
