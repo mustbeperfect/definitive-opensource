@@ -388,7 +388,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=for-the-badge&label=%20&color=white) |
+| [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=for-the-badge&label=%20&color=white) |
 | [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 
 ### Document Editor
