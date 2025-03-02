@@ -1,7 +1,7 @@
 
 <table align="center">
   <tr>
-    <td>v0.4.2-beta</td>
+    <td>🇺🇦 v0.4.2-beta</td>
   </tr>
 </table>
 
