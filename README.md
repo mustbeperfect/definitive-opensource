@@ -102,6 +102,7 @@ Abandoned - Development Halted
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
+  - [Dev Tools](#dev-tools)
   - [Document Editor](#document-editor)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
@@ -182,6 +183,7 @@ Abandoned - Development Halted
       - [Game Engine](#game-engine)
       - [Language Package Manager](#language-package-manager)
       - [Code Assistant](#code-assistant)
+      - [Dev Tools](#dev-tools)
   - Utilities
       - [Terminal](#terminal)
       - [Terminal Multiplexer](#terminal-multiplexer)
@@ -306,6 +308,7 @@ Abandoned - Development Halted
 | [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` ```💥``` | Truly independent web browser | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LadyBirdBrowser/ladybird?style=for-the-badge&label=%20&color=white) |
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp?style=for-the-badge&label=%20&color=white) |
 | [Min](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
+| [Noi](https://github.com/lencx/Noi) | 🚀 Power Your World with AI - Explore, Extend, Empower. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/Noi?style=for-the-badge&label=%20&color=white) |
 
 ### Browser Extensions
 
@@ -380,6 +383,13 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy?style=for-the-badge&label=%20&color=white) |
 | [Clipboard](https://github.com/Slackadays/Clipboard) | 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=for-the-badge&label=%20&color=white) |
+
+### Dev Tools
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=for-the-badge&label=%20&color=white) |
+| [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 
 ### Document Editor
 
@@ -470,6 +480,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot?style=for-the-badge&label=%20&color=white) |
+| [GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/4ian/GDevelop?style=for-the-badge&label=%20&color=white) |
 
 ### Home Automation
 
@@ -747,6 +758,7 @@ Abandoned - Development Halted
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docusealco/docuseal?style=for-the-badge&label=%20&color=white) |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=for-the-badge&label=%20&color=white) |
 | [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yadm-dev/yadm?style=for-the-badge&label=%20&color=white) |
+| [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twpayne/chezmoi?style=for-the-badge&label=%20&color=white) |
 | [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
@@ -813,6 +825,7 @@ Abandoned - Development Halted
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rxhanson/Rectangle?style=for-the-badge&label=%20&color=white) |
 | [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop?style=for-the-badge&label=%20&color=white) |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nikitabobko/AeroSpace?style=for-the-badge&label=%20&color=white) |
+| [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS à la xmonad. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ianyh/Amethyst?style=for-the-badge&label=%20&color=white) |
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
@@ -828,6 +841,7 @@ Abandoned - Development Halted
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
 | [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
 | [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
+| [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
@@ -863,7 +877,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Whisky-App/Whisky?style=for-the-badge&label=%20&color=white) |
-| [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 
 
 
