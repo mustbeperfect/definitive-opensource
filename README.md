@@ -115,6 +115,7 @@ Abandoned - Development Halted
   - [Home Automation](#home-automation)
   - [IDE](#ide)
   - [Information Processing](#information-processing)
+  - [Keyboard Manager](#keyboard-manager)
   - [Knowledge Base](#knowledge-base)
   - [Launcher](#launcher)
   - [LLM Gui](#llm-gui)
@@ -199,6 +200,7 @@ Abandoned - Development Halted
       - [Launcher](#launcher)
       - [Automation](#automation)
       - [Window Management](#window-management)
+      - [Keyboard Manager](#keyboard-manager)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -377,6 +379,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy?style=for-the-badge&label=%20&color=white) |
+| [Clipboard](https://github.com/Slackadays/Clipboard) | 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=for-the-badge&label=%20&color=white) |
 
 ### Document Editor
 
@@ -490,6 +493,14 @@ Abandoned - Development Halted
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 
+### Keyboard Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | Karabiner-Elements is a powerful tool for customizing keyboards on macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements?style=for-the-badge&label=%20&color=white) |
+| [Kanata](https://github.com/jtroo/kanata) | Improve keyboard comfort and usability with advanced customization | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jtroo/kanata?style=for-the-badge&label=%20&color=white) |
+| [Kmonad](https://github.com/kmonad/kmonad) | An advanced keyboard manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kmonad/kmonad?style=for-the-badge&label=%20&color=white) |
+
 ### Knowledge Base
 
 | Name | Description | Platform | Stars |
@@ -537,8 +548,6 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?style=for-the-badge&label=%20&color=white) |
-| [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=%20&color=white) |
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yarnpkg/berry?style=for-the-badge&label=%20&color=white) |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pnpm/pnpm?style=for-the-badge&label=%20&color=white) |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oven-sh/bun?style=for-the-badge&label=%20&color=white) |
@@ -616,6 +625,7 @@ Abandoned - Development Halted
 | [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Homebrew/brew?style=for-the-badge&label=%20&color=white) |
 | [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/chocolatey/choco?style=for-the-badge&label=%20&color=white) |
 | [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NixOS/nix?style=for-the-badge&label=%20&color=white) |
+| [Spack](https://github.com/spack/spack) | A flexible package manager that supports multiple versions, configurations, platforms, and compilers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=for-the-badge&label=%20&color=white) |
 
 ### Password Manager
 
@@ -754,6 +764,8 @@ Abandoned - Development Halted
 | [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rbenv/rbenv?style=for-the-badge&label=%20&color=white) |
 | [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pyenv/pyenv?style=for-the-badge&label=%20&color=white) |
 | [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=%20&color=white) |
+| [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?style=for-the-badge&label=%20&color=white) |
+| [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=%20&color=white) |
 
 ### Video Editing
 
@@ -851,6 +863,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Whisky-App/Whisky?style=for-the-badge&label=%20&color=white) |
+| [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 
 
 
