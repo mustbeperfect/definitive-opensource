@@ -493,6 +493,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?style=for-the-badge&label=%20&color=white) |
 | [Playnite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=%20&color=white) |
+| [RomM](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rommapp/romm?style=for-the-badge&label=%20&color=white) |
 
 ### Graphics
 
@@ -594,6 +595,7 @@ Abandoned - Development Halted
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
+| [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
@@ -639,7 +641,8 @@ Abandoned - Development Halted
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=%20&color=white) |
 | [Ente](https://github.com/ente-io/ente) | FOSS, End-to-End Encrypted Cloud | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
-| [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | ```IOS``` ```Android``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
+| [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | ```IOS``` ```Android``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=for-the-badge&label=%20&color=white) |
+| [Memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pulsejet/memories?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
 
@@ -662,6 +665,7 @@ Abandoned - Development Halted
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | Simplenote for Web, Windows, and Linux | ```Cross``` ```IOS``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Automattic/simplenote-electron?style=for-the-badge&label=%20&color=white) |
 | [Better Notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. All in Zotero. | ```Plugin``` | ![GitHub Repo stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=for-the-badge&label=%20&color=white) |
 | [Memos](https://github.com/usememos/memos) | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos?style=for-the-badge&label=%20&color=white) |
+| [Blinko](https://github.com/blinko-space/blinko) | An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blinko-space/blinko?style=for-the-badge&label=%20&color=white) |
 
 ### Office Suite
 
