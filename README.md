@@ -62,6 +62,8 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
+```Mobile``` - Android and IOS
+
 ```CLI+``` - CLI in addition to GUI
 
 ```Windows```, ```MacOS```, ```Linux```, ```Android```, ```IOS```, ```CLI```, ```SelfHost```, ```Web```, ```VSCode```, ```JetBrains```, ```Chromium```, ```Firefox```, ```Plugin```, ```Extension```, ```N/A```
@@ -110,6 +112,7 @@ Abandoned - Development Halted
   - [Dotfiles Manager](#dotfiles-manager)
   - [Containers](#Containers)
   - [File Manager](#file-manager)
+  - [File Sharing](#file-sharing)
   - [Finance](#finance)
   - [Games](#games)
   - [Game Launcher](#game-launcher)
@@ -209,6 +212,7 @@ Abandoned - Development Halted
       - [Keyboard Manager](#keyboard-manager)
       - [Dotfiles Manager](#dotfiles-manager)
       - [System](#system)
+      - [File Sharing](#file-sharing)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -285,6 +289,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
 | [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Hammerspoon/hammerspoon?style=for-the-badge&label=%20&color=white) |
+| [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -402,6 +407,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy?style=for-the-badge&label=%20&color=white) |
 | [Clipboard](https://github.com/Slackadays/Clipboard) | 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=for-the-badge&label=%20&color=white) |
+| [CopyQ](https://github.com/hluk/CopyQ) | Clipboard manager with advanced features | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hluk/CopyQ?style=for-the-badge&label=%20&color=white) |
 
 ### Dev Tools
 
@@ -466,6 +472,13 @@ Abandoned - Development Halted
 | [Filestash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=%20&color=white) |
 | [FileGator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filegator/filegator?style=for-the-badge&label=%20&color=white) |
 | [File Browser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge&label=%20&color=white) |
+
+### File Sharing
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Mobile``` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
+| [OnionShare](https://github.com/onionshare/onionshare) | Securely and anonymously share files, host websites, and chat with friends using the Tor network | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/onionshare/onionshare?style=for-the-badge&label=%20&color=white) |
 
 ### Finance
 
@@ -584,6 +597,7 @@ Abandoned - Development Halted
 | [Khoj AI](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
+| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows | ```Cross``` ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 
 ### Dashboard
 
@@ -691,7 +705,7 @@ Abandoned - Development Halted
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients?style=for-the-badge&label=%20&color=white) |
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
-| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Android``` ```IOS``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
+| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
 
 ### Project Management
 
@@ -724,6 +738,7 @@ Abandoned - Development Halted
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=for-the-badge&label=%20&color=white) |
 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=%20&color=white) |
 | [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=for-the-badge&label=%20&color=white) |
+| [Flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot?style=for-the-badge&label=%20&color=white) |
 
 ### Search Engine
 
@@ -809,19 +824,18 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Windows``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=for-the-badge&label=%20&color=white) |
 | [balenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/balena-io/etcher?style=for-the-badge&label=%20&color=white) |
-| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=for-the-badge&label=%20&color=white) |
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/aonez/Keka?style=for-the-badge&label=%20&color=white) |
-| [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 | [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=for-the-badge&label=%20&color=white) |
+| [Kando](https://github.com/kando-menu/kando?tab=readme-ov-file) | 🌸 Do things with utmost efficiency. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando?style=for-the-badge&label=%20&color=white) |
 
 ### Video Conference
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | ```Android``` ```IOS``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
-| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | ```Android``` ```IOS``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/element-hq/element-web?style=for-the-badge&label=%20&color=white) |
+| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
+| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/element-hq/element-web?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
