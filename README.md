@@ -842,6 +842,10 @@ Abandoned - Development Halted
 | [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
 | [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
 | [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
+| [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
+| [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
+| [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
+| [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
