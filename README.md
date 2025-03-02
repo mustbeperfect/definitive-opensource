@@ -105,7 +105,7 @@ Abandoned - Development Halted
   - [Dev Tools](#dev-tools)
   - [Document Editor](#document-editor)
   - [Download Manager](#download-manager)
-  - [Docker](#docker)
+  - [Containers](#Containers)
   - [File Manager](#file-manager)
   - [Finance](#finance)
   - [Games](#games)
@@ -194,7 +194,7 @@ Abandoned - Development Halted
       - [Remote Desktop](#remote-desktop)
       - [Text Editor](#text-editor)
       - [Markdown Editor](#markdown-editor)
-      - [Docker](#docker)
+      - [Containers](#Containers)
       - [Cleaner](#cleaner)
       - [Version Manager](#version-manager)
       - [Clipboard Manager](#clipboard-manager)
@@ -390,6 +390,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=for-the-badge&label=%20&color=white) |
 | [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
+| [Watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=for-the-badge&label=%20&color=white) |
 
 ### Document Editor
 
@@ -406,12 +407,13 @@ Abandoned - Development Halted
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
 | [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
 
-### Docker
+### Containers
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=%20&color=white) |
 | [Dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
+| [Colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/abiosoft/colima?style=for-the-badge&label=%20&color=white) |
 
 ### File Manager
 
@@ -598,6 +600,7 @@ Abandoned - Development Halted
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?style=for-the-badge&label=%20&color=white) |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=%20&color=white) |
 | [Ente](https://github.com/ente-io/ente) | FOSS, End-to-End Encrypted Cloud | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente?style=for-the-badge&label=%20&color=white) |
+| [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
 
@@ -696,7 +699,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing?style=for-the-badge&label=%20&color=white) |
+| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing?style=for-the-badge&label=%20&color=white) |
+| [syncthing-macos](https://github.com/syncthing/syncthing-macos) | Official frugal and native macOS Syncthing application bundle | ```MacOS``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing-macos?style=for-the-badge&label=%20&color=white) |
 | [Rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=for-the-badge&label=%20&color=white) |
 
 ### Shell
@@ -778,6 +782,7 @@ Abandoned - Development Halted
 | [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=%20&color=white) |
 | [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?style=for-the-badge&label=%20&color=white) |
 | [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=%20&color=white) |
+| [vfox](https://github.com/version-fox/vfox) | A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/version-fox/vfox?style=for-the-badge&label=%20&color=white) |
 
 ### Video Editing
 
@@ -795,6 +800,8 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge&label=%20&color=white) |
 | [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/insidegui/VirtualBuddy?style=for-the-badge&label=%20&color=white) |
+| [Lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lima-vm/lima?style=for-the-badge&label=%20&color=white) |
+| [Quickemu](https://github.com/quickemu-project/quickemu) | Quickly create and run optimised Windows, macOS and Linux virtual machines | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/quickemu-project/quickemu?style=for-the-badge&label=%20&color=white) |
 
 ### Video Player
 
@@ -846,6 +853,7 @@ Abandoned - Development Halted
 | [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
 | [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
 | [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
+| [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file) | Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
