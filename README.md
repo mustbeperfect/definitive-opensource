@@ -234,12 +234,12 @@ Abandoned - Development Halted
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Text
-      - [Note Taking](#note-taking)
       - [Document Editor](#document-editor)
-      - [Wiki](#wiki)
       - [Markdown Editor](#markdown-editor)
-      - [Text Editor](#text-editor)
+      - [Note Taking](#note-taking)
       - [Office Suite](#office-suite)
+      - [Text Editor](#text-editor)
+      - [Wiki](#wiki)
   - Utilities
       - [Automation](#automation)
       - [Cleaner](#cleaner)
