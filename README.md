@@ -101,6 +101,7 @@ Abandoned - Development Halted
   - [Browser](#browser)
   - [Calendar](#calendar)
   - [Chat](#chat)
+  - [Collaboration](#collaboration)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
   - [Code Assistant](#code-assistant)
@@ -120,7 +121,7 @@ Abandoned - Development Halted
   - [Games](#games)
   - [Git GUI](#git-gui)
   - [Graphics](#graphics)
-  - [Home Automation](#home-automation)
+  - [Home Management](#home-management)
   - [IDE](#ide)
   - [Information Processing](#information-processing)
   - [Keyboard Manager](#keyboard-manager)
@@ -180,6 +181,7 @@ Abandoned - Development Halted
       - [RAG](#rag)
   - Communication - [```🔗```](#communication)
       - [Chat](#chat)
+      - [Collaboration](#collaboration)
       - [Mail](#mail)
       - [Video Conference](#video-conference)
   - Data - [```🔗```](#data)
@@ -214,7 +216,7 @@ Abandoned - Development Halted
       - [Video Transcoder](#video-transcoder)
   - Media/Home Server - [```🔗```](#media/home-server)
       - [Dashboard](#dashboard)
-      - [Home Automation](#home-automation)
+      - [Home Management](#home-management)
       - [Media Management](#media-management)
   - Operating Systems - [```🔗```](#operating-systems)
       - [Windows](#windows)
@@ -332,6 +334,11 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
+
+### Collaboration
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 | [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
 | [Zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zulip/zulip?style=for-the-badge&label=%20&color=white) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=for-the-badge&label=%20&color=white) |
@@ -593,7 +600,7 @@ Abandoned - Development Halted
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 
-### Home Automation
+### Home Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
