@@ -8,7 +8,7 @@
 <h1 align="center"> [ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 298</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 299</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -123,6 +123,7 @@ Abandoned - Development Halted
   - [Graphics](#graphics)
   - [Home Management](#home-management)
   - [IDE](#ide)
+  - [Image Processing](#image-processing)
   - [Information Processing](#information-processing)
   - [Keyboard Manager](#keyboard-manager)
   - [Knowledge Base](#knowledge-base)
@@ -209,6 +210,7 @@ Abandoned - Development Halted
       - [Audio Editor](#audio-editor)
       - [Audio Player](#audio-player)
       - [Graphics](#graphics)
+      - [Image Processing](#image-processing)
       - [Media Downloader](#media-downloader)
       - [Screen Recording](#screen-recording)
       - [Video Editing](#video-editing)
@@ -286,7 +288,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=for-the-badge&label=%20&color=white) |
-| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=for-the-badge&label=%20&color=white) |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge&label=%20&color=white) |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=for-the-badge&label=%20&color=white) |
 | [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
@@ -544,6 +545,13 @@ Abandoned - Development Halted
 | [RawTherapee](https://github.com/RawTherapee/RawTherapee) | A powerful cross-platform raw photo processing program | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=for-the-badge&label=%20&color=white) |
 | [Penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot?style=for-the-badge&label=%20&color=white) |
 | [OpenSCAD](https://github.com/openscad/openscad) ```❌``` | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
+
+### Image Processing
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=for-the-badge&label=%20&color=white) |
+| [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=for-the-badge&label=%20&color=white) |
 
 ### Media Downloader
 
