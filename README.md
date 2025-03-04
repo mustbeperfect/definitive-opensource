@@ -174,21 +174,21 @@ Abandoned - Development Halted
 <details open>
   <summary><b>Categorized</b></summary> <br />
 
-  - Artificial Intelligence (AI) - [```🔗```](#artificial-intelligence-ai)
+  - Artificial Intelligence (AI)
       - [Agent](#agent)
       - [AI Image GUI](#ai-image-gui)
       - [Information Processing](#information-processing)
       - [LLM Gui](#llm-gui)
       - [RAG](#rag)
-  - Communication - [```🔗```](#communication)
+  - Communication
       - [Chat](#chat)
       - [Collaboration](#collaboration)
       - [Mail](#mail)
       - [Video Conference](#video-conference)
-  - Data - [```🔗```](#data)
+  - Data
       - [Backup](#backup)
       - [Sync](#sync)
-  - Development - [```🔗```](#development)
+  - Development
       - [Code Assistant](#code-assistant)
       - [Code Editor](#code-editor)
       - [Dev Tools](#dev-tools)
@@ -196,17 +196,17 @@ Abandoned - Development Halted
       - [Git GUI](#git-gui)
       - [IDE](#ide)
       - [Language Package Manager](#language-package-manager)
-  - Entertainment - [```🔗```](#entertainment)
+  - Entertainment
       - [Game Launcher](#game-launcher)
       - [Games](#games)
-  - Extensions - [```🔗```](#extensions)
+  - Extensions
       - [Browser Extensions](#browser-extensions)
       - [Neovim Extensions](#neovim-extensions)
-  - Internet - [```🔗```](#internet)
+  - Internet
       - [Browser](#browser)
       - [Download Manager](#download-manager)
       - [Search Engine](#search-engine)
-  - Media - [```🔗```](#media)
+  - Media
       - [Audio Editor](#audio-editor)
       - [Audio Player](#audio-player)
       - [Graphics](#graphics)
@@ -216,18 +216,18 @@ Abandoned - Development Halted
       - [Video Editing](#video-editing)
       - [Video Player](#video-player)
       - [Video Transcoder](#video-transcoder)
-  - Media/Home Server - [```🔗```](#media/home-server)
+  - Media/Home Server
       - [Dashboard](#dashboard)
       - [Home Management](#home-management)
       - [Media Management](#media-management)
-  - Operating Systems - [```🔗```](#operating-systems)
+  - Operating Systems
       - [Windows](#windows)
       - [MacOS](#macos)
       - [Linux](#linux)
       - [Operating System](#operating-system)
-  - Organization - [```🔗```](#organization)
+  - Organization
       - [Bookmark Manager](#bookmark-manager)
-  - Productivity - [```🔗```](#productivity)
+  - Productivity
       - [Calendar](#calendar)
       - [Document Modifier](#document-modifier)
       - [Finance](#finance)
@@ -235,16 +235,16 @@ Abandoned - Development Halted
       - [Project Management](#project-management)
       - [Task Management](#task-management)
       - [Time Management](#time-management)
-  - Security/Privacy - [```🔗```](#security/privacy)
+  - Security/Privacy
       - [Password Manager](#password-manager)
-  - Text - [```🔗```](#text)
+  - Text
       - [Document Editor](#document-editor)
       - [Markdown Editor](#markdown-editor)
       - [Note Taking](#note-taking)
       - [Office Suite](#office-suite)
       - [Text Editor](#text-editor)
       - [Wiki](#wiki)
-  - Utilities - [```🔗```](#utilities)
+  - Utilities
       - [Automation](#automation)
       - [Cleaner](#cleaner)
       - [Clipboard Manager](#clipboard-manager)
@@ -274,7 +274,7 @@ Abandoned - Development Halted
 
 
 
-# Artificial Intelligence (AI) - [```🔺```](#contents)
+# Artificial Intelligence (AI) - [Go to top](#contents)
 
 ### Agent
 
@@ -328,7 +328,7 @@ Abandoned - Development Halted
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/Verba?style=for-the-badge&label=%20&color=white) |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=for-the-badge&label=%20&color=white) |
 
-# Communication - [```🔺```](#contents)
+# Communication - [Go to top](#contents)
 
 ### Chat
 
@@ -358,7 +358,7 @@ Abandoned - Development Halted
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
 | [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/element-hq/element-web?style=for-the-badge&label=%20&color=white) |
 
-# Data - [```🔺```](#contents)
+# Data - [Go to top](#contents)
 
 ### Backup
 
@@ -379,7 +379,7 @@ Abandoned - Development Halted
 | [syncthing-macos](https://github.com/syncthing/syncthing-macos) | Official frugal and native macOS Syncthing application bundle | ```MacOS``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing-macos?style=for-the-badge&label=%20&color=white) |
 | [Rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=for-the-badge&label=%20&color=white) |
 
-# Development - [```🔺```](#contents)
+# Development - [Go to top](#contents)
 
 ### Code Assistant
 
@@ -445,7 +445,7 @@ Abandoned - Development Halted
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oven-sh/bun?style=for-the-badge&label=%20&color=white) |
 | [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/astral-sh/uv?style=for-the-badge&label=%20&color=white) |
 
-# Entertainment - [```🔺```](#contents)
+# Entertainment - [Go to top](#contents)
 
 ### Game Launcher
 
@@ -467,7 +467,7 @@ Abandoned - Development Halted
 | [lichess](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lichess-org/lila?style=for-the-badge&label=%20&color=white) |
 | [OpenRA](https://github.com/OpenRA/OpenRA) | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenRA/OpenRA?style=for-the-badge&label=%20&color=white) |
 
-# Extensions - [```🔺```](#contents)
+# Extensions - [Go to top](#contents)
 
 ### Browser Extensions
 
@@ -487,7 +487,7 @@ Abandoned - Development Halted
 | [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovide/neovide?style=for-the-badge&label=%20&color=white) |
 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=for-the-badge&label=%20&color=white) |
 
-# Internet - [```🔺```](#contents)
+# Internet - [Go to top](#contents)
 
 ### Browser
 
@@ -517,7 +517,7 @@ Abandoned - Development Halted
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
 | [Scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zaidmukaddam/scira?style=for-the-badge&label=%20&color=white) |
 
-# Media - [```🔺```](#contents)
+# Media - [Go to top](#contents)
 
 ### Audio Editor
 
@@ -594,7 +594,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=for-the-badge&label=%20&color=white) |
 
-# Media/Home Server - [```🔺```](#contents)
+# Media/Home Server - [Go to top](#contents)
 
 ### Dashboard
 
@@ -627,7 +627,7 @@ Abandoned - Development Halted
 | [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | ```IOS``` ```Android``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=for-the-badge&label=%20&color=white) |
 | [Memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pulsejet/memories?style=for-the-badge&label=%20&color=white) |
 
-# Operating Systems - [```🔺```](#contents)
+# Operating Systems - [Go to top](#contents)
 
 > [!NOTE]  
 > In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms.
@@ -671,7 +671,7 @@ Abandoned - Development Halted
 | [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
 | [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
 
-# Organization - [```🔺```](#contents)
+# Organization - [Go to top](#contents)
 
 ### Bookmark Manager
 
@@ -684,7 +684,7 @@ Abandoned - Development Halted
 | [Shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/go-shiori/shiori?style=for-the-badge&label=%20&color=white) |
 | [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wallabag/wallabag?style=for-the-badge&label=%20&color=white) |
 
-# Productivity - [```🔺```](#contents)
+# Productivity - [Go to top](#contents)
 
 ### Calendar
 
@@ -743,7 +743,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
 
-# Security/Privacy - [```🔺```](#contents)
+# Security/Privacy - [Go to top](#contents)
 
 ### Password Manager
 
@@ -754,7 +754,7 @@ Abandoned - Development Halted
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 | [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
 
-# Text - [```🔺```](#contents)
+# Text - [Go to top](#contents)
 
 ### Document Editor
 
@@ -814,7 +814,7 @@ Abandoned - Development Halted
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
 
-# Utilities - [```🔺```](#contents)
+# Utilities - [Go to top](#contents)
 
 ### Automation
 
