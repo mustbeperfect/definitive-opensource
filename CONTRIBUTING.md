@@ -24,6 +24,9 @@ To establish uniformity accross the project, please adhere to these conventions.
 - The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization or their official website, or their repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interfacr with our tables. 
 - We use [Github Flavored Markdown (GFM)](https://docs.github.com/en/get-started/writing-on-github)
 
+>[!NOTE]
+>These conventions can seem overly complicated. Make sure you skim over them but don't get too caught up  over them. Basically, just follow what's already been done and fallback here when you aren't sure of something. 
+
 ## Guidelines
 - Check the archive, the backlog, and duplicates
 - Make sure the category is fitting
