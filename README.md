@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-<h1 align="center"> [ definitive-opensource ] </h1>
+<h1 align="center">🇺🇦 [ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
 <p align="center"><code>Status: Active</code> - <code>Projects: 300</code></p>
