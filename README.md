@@ -474,7 +474,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [uBlock Origin](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
-| [Dark Reader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
+| [Dark Reader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
 | [Page Assist](https://github.com/n4ze3m/page-assist) | Use your locally running AI models to assist you in your web browsing | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/page-assist?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
