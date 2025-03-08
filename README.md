@@ -539,7 +539,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=for-the-badge&label=%20&color=white) |
-| [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=for-the-badge&label=%20&color=white) |
+| [FreeCAD](https://github.com/FreeCAD/FreeCAD) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=for-the-badge&label=%20&color=white) |
 | [Blender](https://github.com/blender/blender) | Official mirror of Blender | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blender/blender?style=for-the-badge&label=%20&color=white) |
 | [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gaphor/gaphor?style=for-the-badge&label=%20&color=white) |
 | [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darktable-org/darktable?style=for-the-badge&label=%20&color=white) |
