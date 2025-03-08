@@ -638,6 +638,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [UniGetUI](https://github.com/marticliment/UniGetUI) | An intuitive GUI for the most common CLI package managers for Windows 10 and Windows 11,  | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/marticliment/UniGetUI?style=for-the-badge&label=%20&color=white) |
 
 ### MacOS
 
