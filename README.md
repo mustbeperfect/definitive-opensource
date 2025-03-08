@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 300</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 301</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -533,6 +533,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin?style=for-the-badge&label=%20&color=white) |
+| [Supersonic](https://github.com/dweymouth/supersonic) | A lightweight cross-platform desktop client for self-hosted music servers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dweymouth/supersonic?style=for-the-badge&label=%20&color=white) | 
 
 ### Graphics
 
