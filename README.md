@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 333</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 337</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -95,6 +95,7 @@ Abandoned - Development Halted
   - [AI Image GUI](#ai-image-gui)
   - [Audio Editor](#audio-editor)
   - [Audio Player](#audio-player)
+  - [Authentication](#authentication)
   - [Automation](#automation)
   - [Backup](#backup)
   - [Bookmark Manager](#bookmark-manager)
@@ -244,6 +245,7 @@ Abandoned - Development Halted
       - [Time Management](#time-management)
   - Security/Privacy
       - [AD Blocker](#ad-blocker)
+      - [Authentication](#authentication)
       - [Password Manager](#password-manager)
       - [VPN](#vpn)
   - Text
@@ -791,6 +793,15 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=for-the-badge&label=%20&color=white) |
+
+### Authentication
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [2FAuth](https://github.com/Bubka/2FAuth) | A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Bubka/2FAuth?style=for-the-badge&label=%20&color=white) |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/authelia/authelia?style=for-the-badge&label=%20&color=white) |
+| [Tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tailscale/tailscale?style=for-the-badge&label=%20&color=white) |
+| [Aegis](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/beemdevelopment/Aegis?style=for-the-badge&label=%20&color=white) |
 
 ### Password Manager
 
