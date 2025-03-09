@@ -125,6 +125,7 @@ Abandoned - Development Halted
   - [Git GUI](#git-gui)
   - [Graphics](#graphics)
   - [Home Automation](#home-automation)
+  - [Home Server](#home-server)
   - [IDE](#ide)
   - [Image Processing](#image-processing)
   - [Information Processing](#information-processing)
@@ -226,6 +227,7 @@ Abandoned - Development Halted
   - Server
       - [Dashboard](#dashboard)
       - [Home Automation](#home-automation)
+      - [Home Server](#home-server)
       - [Media Management](#media-management)
       - [Surveillance](#surveillance)
   - Operating Systems
@@ -629,11 +631,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=for-the-badge&label=%20&color=white) |
-| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/caprover/caprover?style=for-the-badge&label=%20&color=white) |
-| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
-| [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge&label=%20&color=white) |
 | [dashdot](https://github.com/MauriceNino/dashdot) | A simple, modern server dashboard, primarily used by smaller private servers | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MauriceNino/dashdot?style=for-the-badge&label=%20&color=white) |
@@ -645,6 +644,15 @@ Abandoned - Development Halted
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
 | [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/domoticz/domoticz?style=for-the-badge&label=%20&color=white) |
 | [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=for-the-badge&label=%20&color=white) |
+
+### Home Server
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/runtipi/runtipi?style=for-the-badge&label=%20&color=white) |
+| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/caprover/caprover?style=for-the-badge&label=%20&color=white) |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
+| [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
 
