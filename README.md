@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 329</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 330</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -834,6 +834,7 @@ Abandoned - Development Halted
 | [Memos](https://github.com/usememos/memos) | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos?style=for-the-badge&label=%20&color=white) |
 | [Blinko](https://github.com/blinko-space/blinko) | An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blinko-space/blinko?style=for-the-badge&label=%20&color=white) |
 | [Rnote](https://github.com/flxzt/rnote) | Sketch and take handwritten notes. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote?style=for-the-badge&label=%20&color=white) |
+| [SilverBullet](https://github.com/silverbulletmd/silverbullet) | The knowledge tinkerer's notebook | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=for-the-badge&label=%20&color=white) |
 
 ### Office Suite
 
