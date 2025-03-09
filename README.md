@@ -120,6 +120,7 @@ Abandoned - Development Halted
   - [File Manager](#file-manager)
   - [File Sharing](#file-sharing)
   - [Finance](#finance)
+  - [Firewall](#firewall)
   - [Game Engine](#game-engine)
   - [Game Launcher](#game-launcher)
   - [Games](#games)
@@ -250,6 +251,7 @@ Abandoned - Development Halted
   - Security/Privacy
       - [AD Blocker](#ad-blocker)
       - [Authentication](#authentication)
+      - [Firewall](#firewall)
       - [Password Manager](#password-manager)
       - [VPN](#vpn)
   - Text
@@ -819,6 +821,13 @@ Abandoned - Development Halted
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/authelia/authelia?style=for-the-badge&label=%20&color=white) |
 | [Tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tailscale/tailscale?style=for-the-badge&label=%20&color=white) |
 | [Aegis](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/beemdevelopment/Aegis?style=for-the-badge&label=%20&color=white) |
+
+### Firewall
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [BunkerWeb](https://github.com/bunkerity/bunkerweb) | 🛡️ Open-source and next-generation Web Application Firewall (WAF) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bunkerity/bunkerweb?style=for-the-badge&label=%20&color=white) |
+| [SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/chaitin/SafeLine?style=for-the-badge&label=%20&color=white) |
 
 ### Password Manager
 
