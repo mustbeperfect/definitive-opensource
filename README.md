@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 304</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 305</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -547,7 +547,8 @@ Abandoned - Development Halted
 | [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darktable-org/darktable?style=for-the-badge&label=%20&color=white) |
 | [RawTherapee](https://github.com/RawTherapee/RawTherapee) | A powerful cross-platform raw photo processing program | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=for-the-badge&label=%20&color=white) |
 | [Penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot?style=for-the-badge&label=%20&color=white) |
-| [OpenSCAD](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
+| [OpenSCAD](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
+| [CadQuery](https://github.com/CadQuery/cadquery) | A python parametric CAD scripting framework based on OCCT | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=for-the-badge&label=%20&color=white) |
 
 ### Image Processing
 
