@@ -123,7 +123,7 @@ Abandoned - Development Halted
   - [Games](#games)
   - [Git GUI](#git-gui)
   - [Graphics](#graphics)
-  - [Home Management](#home-management)
+  - [Home Automation](#home-automation)
   - [IDE](#ide)
   - [Image Processing](#image-processing)
   - [Information Processing](#information-processing)
@@ -149,6 +149,7 @@ Abandoned - Development Halted
   - [Search Engine](#search-engine)
   - [Shell](#shell)
   - [Spreadsheet](#spreadsheet)
+  - [Surveillance](#surveillance)
   - [Sync](#sync)
   - [System Monitoring](#system-monitoring)
   - [System](#system)
@@ -223,8 +224,9 @@ Abandoned - Development Halted
       - [Video Transcoder](#video-transcoder)
   - Media/Home Server
       - [Dashboard](#dashboard)
-      - [Home Management](#home-management)
+      - [Home Automation](#home-automation)
       - [Media Management](#media-management)
+      - [Surveillance](#surveillance)
   - Operating Systems
       - [Windows](#windows)
       - [MacOS](#macos)
@@ -633,14 +635,12 @@ Abandoned - Development Halted
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge&label=%20&color=white) |
 
-### Home Management
+### Home Automation
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
-| [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
 | [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/domoticz/domoticz?style=for-the-badge&label=%20&color=white) |
-| [Scrypted](https://github.com/koush/scrypted) | Scrypted is a high performance video integration and automation platform | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/koush/scrypted?style=for-the-badge&label=%20&color=white) |
 | [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
@@ -654,6 +654,13 @@ Abandoned - Development Halted
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
 | [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | ```IOS``` ```Android``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/advplyr/audiobookshelf?style=for-the-badge&label=%20&color=white) |
 | [Memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pulsejet/memories?style=for-the-badge&label=%20&color=white) |
+
+### Surveillance
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Scrypted](https://github.com/koush/scrypted) | Scrypted is a high performance video integration and automation platform | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/koush/scrypted?style=for-the-badge&label=%20&color=white) |
+| [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
 
 # Operating Systems - [Go to top](#contents)
 
