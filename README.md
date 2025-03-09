@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 321</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 322</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -924,6 +924,7 @@ Abandoned - Development Halted
 | [Filestash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=%20&color=white) |
 | [FileGator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filegator/filegator?style=for-the-badge&label=%20&color=white) |
 | [File Browser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge&label=%20&color=white) |
+| [xplr](https://github.com/sayanarijit/xplr) | A hackable, minimal, fast TUI file explorer | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sayanarijit/xplr?style=for-the-badge&label=%20&color=white) |
 
 ### File Sharing
 
