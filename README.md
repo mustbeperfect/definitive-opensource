@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 303</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 304</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -617,6 +617,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
 | [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
+| [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/domoticz/domoticz?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
 
