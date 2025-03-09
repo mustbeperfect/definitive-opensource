@@ -27,3 +27,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [openHAB](https://github.com/openhab)
 - [AliasVault](https://github.com/lanedirt/AliasVault)
 - [Leader Key](https://github.com/mikker/LeaderKey.app)
+- [ByteStash](https://github.com/jordan-dalby/ByteStash)
