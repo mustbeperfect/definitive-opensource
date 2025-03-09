@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 310</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 311</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -720,6 +720,7 @@ Abandoned - Development Halted
 | [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/actualbudget/actual?style=for-the-badge&label=%20&color=white) |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=for-the-badge&label=%20&color=white) |
 | [Wallos](https://github.com/ellite/Wallos) | Wallos: Open-Source Personal Subscription Tracker | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ellite/Wallos?style=for-the-badge&label=%20&color=white) |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge&label=%20&color=white) |
 
 ### Knowledge Base
 
