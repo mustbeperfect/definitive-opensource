@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 314</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 315</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -616,6 +616,7 @@ Abandoned - Development Halted
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
+| [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge&label=%20&color=white) |
 
 ### Home Management
 
