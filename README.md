@@ -293,6 +293,7 @@ Abandoned - Development Halted
 | [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
+| [SD.Next](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one for AI generative image | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=for-the-badge&label=%20&color=white) |
 
 ### Information Processing
 
