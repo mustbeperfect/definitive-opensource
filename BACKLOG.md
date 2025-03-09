@@ -25,3 +25,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Pinry](https://github.com/pinry/pinry)
 - [openHAB](https://github.com/openhab)
 - [AliasVault](https://github.com/lanedirt/AliasVault)
+- [Leader Key](https://github.com/mikker/LeaderKey.app)
