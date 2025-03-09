@@ -112,6 +112,7 @@ Abandoned - Development Halted
   - [Dashboard](#dashboard)
   - [Dev Tools](#dev-tools)
   - [Document Editor](#document-editor)
+  - [Document Management](#document-management)
   - [Document Modifier](#document-modifier)
   - [Dotfiles Manager](#dotfiles-manager)
   - [Download Manager](#download-manager)
@@ -237,6 +238,7 @@ Abandoned - Development Halted
       - [Operating System](#operating-system)
   - Organization
       - [Bookmark Manager](#bookmark-manager)
+      - [Document Management](#document-management)
   - Productivity
       - [Calendar](#calendar)
       - [Document Modifier](#document-modifier)
@@ -732,6 +734,13 @@ Abandoned - Development Halted
 | [hoarder](https://github.com/hoarder-app/hoarder) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hoarder-app/hoarder?style=for-the-badge&label=%20&color=white) |
 | [Shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/go-shiori/shiori?style=for-the-badge&label=%20&color=white) |
 | [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wallabag/wallabag?style=for-the-badge&label=%20&color=white) |
+
+### Document Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Docspell](https://github.com/eikek/docspell) | Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. | ```SelfHost``` ```CLI+``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/eikek/docspell?style=for-the-badge&label=%20&color=white) |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=for-the-badge&label=%20&color=white) |
 
 # Productivity - [Go to top](#contents)
 
