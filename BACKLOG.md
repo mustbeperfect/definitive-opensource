@@ -22,3 +22,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Xplorer](https://github.com/kimlimjustin/xplorer)
 - [Slash](https://github.com/yourselfhosted/slash)
 - [Pinry](https://github.com/pinry/pinry)
+- [openHAB](https://github.com/openhab)
