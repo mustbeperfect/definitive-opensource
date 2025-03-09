@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 309</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 310</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -623,6 +623,7 @@ Abandoned - Development Halted
 | [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
 | [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/domoticz/domoticz?style=for-the-badge&label=%20&color=white) |
 | [Scrypted](https://github.com/koush/scrypted) | Scrypted is a high performance video integration and automation platform | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/koush/scrypted?style=for-the-badge&label=%20&color=white) |
+| [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
 
