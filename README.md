@@ -550,6 +550,7 @@ Abandoned - Development Halted
 | [Penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot?style=for-the-badge&label=%20&color=white) |
 | [OpenSCAD](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
 | [CadQuery](https://github.com/CadQuery/cadquery) | A python parametric CAD scripting framework based on OCCT | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=for-the-badge&label=%20&color=white) |
+| [Krita](https://github.com/KDE/krita) | Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/krita?style=for-the-badge&label=%20&color=white) |
 
 ### Image Processing
 
