@@ -21,7 +21,7 @@ To establish uniformity accross the project, please adhere to these conventions.
 - Platform tags are listed in the following order: ```Desktop OS (Order: Windows, MacOS, Linux)```, ```Mobile (Order: Android, IOS)```, ```CLI```, ```SelfHost```, ```Web```, ```Plugin```
 - One space to the ```| left and right |``` for row elements
 - For projects with multiple repositories (EX: one for IOS, Windows, etc) link the organization. For API star retrieval use their most popular repository.
-- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization or their official website, or their repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with our tables. 
+- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization or their official website, or the repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with our tables. 
 - We use [Github Flavored Markdown (GFM)](https://docs.github.com/en/get-started/writing-on-github)
 
 >[!NOTE]
@@ -32,6 +32,7 @@ To establish uniformity accross the project, please adhere to these conventions.
 - Make sure the category is fitting
 - The pull request and commit should have concise and descriptive titles
 - If a project is in the grey zone for submission guidelines, include why it should be included.
+- Proposals for new categories or the re-organization of existing categories must be discussed and approved via an issue prior to the pull request
 
 ## How To Contribute
 [How to create a pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
