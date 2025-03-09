@@ -851,7 +851,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=%20&color=white) |
-| [Dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
+| [Dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
 | [Colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/abiosoft/colima?style=for-the-badge&label=%20&color=white) |
 
 ### Dotfiles Manager
