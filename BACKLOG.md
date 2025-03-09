@@ -3,6 +3,7 @@
 Projects that require a further vetting process. 
 - [grimoire](https://github.com/goniszewski/grimoire)
 - [YaCy](https://github.com/yacy/yacy_search_server)
+- [Cerebro](https://github.com/cerebroapp/cerebro)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
