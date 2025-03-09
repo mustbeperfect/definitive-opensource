@@ -90,6 +90,7 @@ Abandoned - Development Halted
 <details>
   <summary><b>Alphabetical</b></summary> <br />
 
+  - [AD Blocker](#ad-blocker)
   - [Agent](#agent)
   - [AI Image GUI](#ai-image-gui)
   - [Audio Editor](#audio-editor)
@@ -113,6 +114,7 @@ Abandoned - Development Halted
   - [Document Modifier](#document-modifier)
   - [Dotfiles Manager](#dotfiles-manager)
   - [Download Manager](#download-manager)
+  - [Emacs Packages](#emacs-packages)
   - [File Manager](#file-manager)
   - [File Sharing](#file-sharing)
   - [Finance](#finance)
@@ -162,6 +164,7 @@ Abandoned - Development Halted
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
   - [Virtual Machine](#virtual-machine)
+  - [VPN](#vpn)
   - [Wiki](#wiki)
   - [Window Management](#window-management)
   - [Other](#other)
@@ -202,6 +205,7 @@ Abandoned - Development Halted
       - [Games](#games)
   - Extensions
       - [Browser Extensions](#browser-extensions)
+      - [Emacs Packages](#emacs-packages)
       - [Neovim Extensions](#neovim-extensions)
   - Internet
       - [Browser](#browser)
@@ -237,7 +241,9 @@ Abandoned - Development Halted
       - [Task Management](#task-management)
       - [Time Management](#time-management)
   - Security/Privacy
+      - [AD Blocker](#ad-blocker)
       - [Password Manager](#password-manager)
+      - [VPN](#vpn)
   - Text
       - [Document Editor](#document-editor)
       - [Markdown Editor](#markdown-editor)
@@ -484,6 +490,11 @@ Abandoned - Development Halted
 | [uBlock Origin](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
 | [Dark Reader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
 | [Page Assist](https://github.com/n4ze3m/page-assist) | Use your locally running AI models to assist you in your web browsing | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/page-assist?style=for-the-badge&label=%20&color=white) |
+
+### Emacs Packages
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 ### Neovim Extensions
 
@@ -764,6 +775,11 @@ Abandoned - Development Halted
 
 # Security/Privacy - [Go to top](#contents)
 
+### AD Blocker
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Password Manager
 
 | Name | Description | Platform | Stars |
@@ -772,6 +788,11 @@ Abandoned - Development Halted
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 | [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
+
+### VPN
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 # Text - [Go to top](#contents)
 
