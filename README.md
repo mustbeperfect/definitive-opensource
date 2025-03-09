@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 348</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 354</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -643,6 +643,7 @@ Abandoned - Development Halted
 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge&label=%20&color=white) |
 | [dashdot](https://github.com/MauriceNino/dashdot) | A simple, modern server dashboard, primarily used by smaller private servers | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MauriceNino/dashdot?style=for-the-badge&label=%20&color=white) |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | An Application dashboard and launcher | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxserver/Heimdall?style=for-the-badge&label=%20&color=white) |
+| [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 
 ### Home Automation
 
@@ -650,7 +651,8 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
 | [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/domoticz/domoticz?style=for-the-badge&label=%20&color=white) |
-| [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=for-the-badge&label=%20&color=white) |
+| [Gladys](https://github.com/GladysAssistant/Gladys) | A privacy-first, open-source home assistant | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=for-the-badge&label=%20&color=white) |
+| [ESPHome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/esphome/esphome?style=for-the-badge&label=%20&color=white) |
 
 ### Home Server
 
@@ -660,6 +662,7 @@ Abandoned - Development Halted
 | [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/caprover/caprover?style=for-the-badge&label=%20&color=white) |
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/azukaar/Cosmos-Server?style=for-the-badge&label=%20&color=white) |
+| [Sandstorm](https://github.com/sandstorm-io/sandstorm) | Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sandstorm-io/sandstorm?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
 
@@ -675,6 +678,8 @@ Abandoned - Development Halted
 | [Librum](https://github.com/Librum-Reader/Librum) | The Librum client application | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Librum-Reader/Librum?style=for-the-badge&label=%20&color=white) |
 | [LibrePhotos](https://github.com/LibrePhotos/librephotos) | A self-hosted open source photo management service. This is the repository of the backend. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=for-the-badge&label=%20&color=white) |
 | [Kavita](https://github.com/Kareadita/Kavita) | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Kareadita/Kavita?style=for-the-badge&label=%20&color=white) |
+| [Piwigi](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=for-the-badge&label=%20&color=white) |
+| [Calibre-Web](https://github.com/janeczku/calibre-web) | 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/janeczku/calibre-web?style=for-the-badge&label=%20&color=white) |
 
 ### Surveillance
 
@@ -682,6 +687,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Scrypted](https://github.com/koush/scrypted) | Scrypted is a high performance video integration and automation platform | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/koush/scrypted?style=for-the-badge&label=%20&color=white) |
 | [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
+| [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=for-the-badge&label=%20&color=white) |
 
 # Operating Systems - [Go to top](#contents)
 
