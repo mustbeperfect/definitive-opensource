@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 322</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 325</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -948,6 +948,9 @@ Abandoned - Development Halted
 | [Ueli](https://github.com/oliverschwendener/ueli) | Cross-Platform Keystroke Launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli?style=for-the-badge&label=%20&color=white) |
 | [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ospfranco/sol?style=for-the-badge&label=%20&color=white) |
 | [Kando](https://github.com/kando-menu/kando) | 🌸 Do things with utmost efficiency. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando?style=for-the-badge&label=%20&color=white) |
+| [Albert](https://github.com/albertlauncher/albert) | A fast and flexible keyboard launcher | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert?style=for-the-badge&label=%20&color=white) |
+| [Ulauncher](https://github.com/Ulauncher/Ulauncher) | Feature rich application Launcher for Linux | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=for-the-badge&label=%20&color=white) |
+| [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Wox-launcher/Wox?style=for-the-badge&label=%20&color=white) |
 
 ### Package Manager
 
