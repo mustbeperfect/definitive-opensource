@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 312</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 313</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -826,6 +826,7 @@ Abandoned - Development Halted
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
+| [BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=for-the-badge&label=%20&color=white) |
 
 # Utilities - [Go to top](#contents)
 
