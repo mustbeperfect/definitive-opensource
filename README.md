@@ -546,7 +546,7 @@ Abandoned - Development Halted
 | [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darktable-org/darktable?style=for-the-badge&label=%20&color=white) |
 | [RawTherapee](https://github.com/RawTherapee/RawTherapee) | A powerful cross-platform raw photo processing program | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=for-the-badge&label=%20&color=white) |
 | [Penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot?style=for-the-badge&label=%20&color=white) |
-| [OpenSCAD](https://github.com/openscad/openscad) ```❌``` | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
+| [OpenSCAD](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/openscad/openscad?style=for-the-badge&label=%20&color=white) |
 
 ### Image Processing
 
