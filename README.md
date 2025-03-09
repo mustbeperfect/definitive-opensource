@@ -146,6 +146,7 @@ Abandoned - Development Halted
   - [Screen Recording](#screen-recording)
   - [Search Engine](#search-engine)
   - [Shell](#shell)
+  - [Spreadsheet](#spreadsheet)
   - [Sync](#sync)
   - [System Monitoring](#system-monitoring)
   - [System](#system)
@@ -242,6 +243,7 @@ Abandoned - Development Halted
       - [Markdown Editor](#markdown-editor)
       - [Note Taking](#note-taking)
       - [Office Suite](#office-suite)
+      - [Spreadsheet](#spreadsheet)
       - [Text Editor](#text-editor)
       - [Wiki](#wiki)
   - Utilities
@@ -809,7 +811,13 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ONLYOFFICE/DesktopEditors?style=for-the-badge&label=%20&color=white) |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LibreOffice/core?style=for-the-badge&label=%20&color=white) |
-| [CryptPad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=for-the-badge&label=%20&color=white) |
+| [CryptPad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=for-the-badge&label=%20&color=white) |
+
+### Spreadsheet
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Grist](https://github.com/gristlabs/grist-core) | Grist is the evolution of spreadsheets. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=for-the-badge&label=%20&color=white) |
 
 ### Text Editor
 
