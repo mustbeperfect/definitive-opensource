@@ -23,3 +23,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Slash](https://github.com/yourselfhosted/slash)
 - [Pinry](https://github.com/pinry/pinry)
 - [openHAB](https://github.com/openhab)
+- [AliasVault](https://github.com/lanedirt/AliasVault)
