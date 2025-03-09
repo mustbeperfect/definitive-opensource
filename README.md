@@ -780,7 +780,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
+| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=for-the-badge&label=%20&color=white) |
 
 # Security/Privacy - [Go to top](#contents)
 
@@ -788,6 +788,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=for-the-badge&label=%20&color=white) |
 
 ### Password Manager
 
