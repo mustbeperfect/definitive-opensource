@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 320</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 321</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -978,6 +978,7 @@ Abandoned - Development Halted
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge&label=%20&color=white) |
 | [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=for-the-badge&label=%20&color=white) |
 | [rga](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/phiresky/ripgrep-all?style=for-the-badge&label=%20&color=white) |
+| [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to 'find' | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
