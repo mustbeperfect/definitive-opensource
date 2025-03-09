@@ -222,7 +222,7 @@ Abandoned - Development Halted
       - [Video Editing](#video-editing)
       - [Video Player](#video-player)
       - [Video Transcoder](#video-transcoder)
-  - Media/Home Server
+  - Server
       - [Dashboard](#dashboard)
       - [Home Automation](#home-automation)
       - [Media Management](#media-management)
@@ -620,7 +620,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=for-the-badge&label=%20&color=white) |
 
-# Media/Home Server - [Go to top](#contents)
+# Server - [Go to top](#contents)
 
 ### Dashboard
 
