@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 313</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 314</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -337,6 +337,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
+| [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=%20&color=white) |
 
 ### Collaboration
 
