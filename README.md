@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 311</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 312</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -372,6 +372,7 @@ Abandoned - Development Halted
 | [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/borgbackup/borg?style=for-the-badge&label=%20&color=white) |
 | [Rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rclone/rclone?style=for-the-badge&label=%20&color=white) |
 | [Timeshift](https://github.com/linuxmint/timeshift) | System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxmint/timeshift?style=for-the-badge&label=%20&color=white) |
+| [Backrest](https://github.com/garethgeorge/backrest) | Backrest is a web UI and orchestrator for restic backup. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
