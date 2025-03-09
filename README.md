@@ -517,6 +517,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
 | [Scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zaidmukaddam/scira?style=for-the-badge&label=%20&color=white) |
+| [SearXNG](ttps://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng?style=for-the-badge&label=%20&color=white) |
 
 # Media - [Go to top](#contents)
 
