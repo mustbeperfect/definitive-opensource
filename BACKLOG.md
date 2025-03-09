@@ -36,3 +36,5 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [tillywork](https://github.com/tillywork/tillywork)
 - [zipline](https://github.com/diced/zipline)
 - [viseron](https://github.com/roflcoopter/viseron)
+- [manyfold](https://github.com/manyfold3d/manyfold)
+- [flatnotes](https://github.com/dullage/flatnotes)
