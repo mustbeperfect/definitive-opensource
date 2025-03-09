@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 317</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 318</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -938,6 +938,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/exelban/stats?style=for-the-badge&label=%20&color=white) |
 | [Vitals](https://github.com/corecoding/Vitals) | A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/corecoding/Vitals?style=for-the-badge&label=%20&color=white) |
+| [bottom](https://github.com/ClementTsang/bottom) | Yet another cross-platform graphical process/system monitor. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=for-the-badge&label=%20&color=white) |
 
 ### System
 
