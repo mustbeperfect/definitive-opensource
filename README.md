@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 343</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 345</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -814,6 +814,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=for-the-badge&label=%20&color=white) |
+| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | ```SelfHost``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=for-the-badge&label=%20&color=white) |
+| [Pi-hole](s://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=for-the-badge&label=%20&color=white) |
 
 ### Authentication
 
