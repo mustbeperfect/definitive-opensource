@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 325</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 326</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -932,6 +932,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Mobile``` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
 | [OnionShare](https://github.com/onionshare/onionshare) | Securely and anonymously share files, host websites, and chat with friends using the Tor network | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/onionshare/onionshare?style=for-the-badge&label=%20&color=white) |
+| [PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup. | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=for-the-badge&label=%20&color=white) |
 
 ### Keyboard Manager
 
