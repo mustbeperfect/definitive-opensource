@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 360</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 369</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -94,6 +94,7 @@ Abandoned - Development Halted
   - [Agent](#agent)
   - [AI Image GUI](#ai-image-gui)
   - [Antivirus](#antivirus)
+  - [Arr](#arr)
   - [Audio Editor](#audio-editor)
   - [Audio Player](#audio-player)
   - [Authentication](#authentication)
@@ -229,6 +230,7 @@ Abandoned - Development Halted
       - [Video Player](#video-player)
       - [Video Transcoder](#video-transcoder)
   - Server
+      - [Arr](#arr)
       - [Dashboard](#dashboard)
       - [Home Automation](#home-automation)
       - [Home Server](#home-server)
@@ -636,6 +638,20 @@ Abandoned - Development Halted
 | [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=for-the-badge&label=%20&color=white) |
 
 # Server - [Go to top](#contents)
+
+### Arr
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Jellyseerr](https://github.com/fallenbagel/fallenbagel) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fallenbagel/HandBrake?style=for-the-badge&label=%20&color=white) |
+| [autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/autobrr/autobrr?style=for-the-badge&label=%20&color=white) |
+| [Overseerr](https://github.com/sct/overseerr) | Request management and media discovery tool for the Plex ecosystem | ```Windows``` ```Linux``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr?style=for-the-badge&label=%20&color=white) |
+| [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Sonarr/Sonarr?style=for-the-badge&label=%20&color=white) |
+| [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Prowlarr/Prowlarr?style=for-the-badge&label=%20&color=white) |
+| [Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Radarr/Radarr?style=for-the-badge&label=%20&color=white) |
+| [Readarr](https://github.com/Readarr/Readarr) | Book Manager and Automation (Sonarr for Ebooks) | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Readarr/Readarr?style=for-the-badge&label=%20&color=white) |
+| [Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lidarr/Lidarr?style=for-the-badge&label=%20&color=white) |
+| [Bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/morpheus65535/bazarr?style=for-the-badge&label=%20&color=white) |
 
 ### Dashboard
 
