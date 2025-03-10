@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 355</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 356</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -441,6 +441,7 @@ Abandoned - Development Halted
 | [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 | [Watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=for-the-badge&label=%20&color=white) |
 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=for-the-badge&label=%20&color=white) |
+| [Harper](https://github.com/automattic/harper) | The Grammar Checker for Developers | ```VS Code``` | ![GitHub Repo stars](https://img.shields.io/github/stars/automattic/harper?style=for-the-badge&label=%20&color=white) |
 
 ### Game Engine
 
