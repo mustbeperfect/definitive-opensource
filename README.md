@@ -13,16 +13,17 @@
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
-> [!CAUTION]  
-> We have a **rigorous** vetting and research process. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
-
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
 
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
-This list aims to be comprehensive and highly curated, consolidating only the best open source projects. Mostly apps with a solid user base, solid set of contributors, and visible long term growth are included. These criteria are nothing more than suggestions, however, and projects with potential or ones that set out on a unique path can bypass the above criteria. 
+This list aims to be comprehensive relative to our guidelines, consolidating only the best open source projects and serving as a single centralized location for projects with a solid user base, solid set of contributors, visible long term growth, and overall product quality. Our guidelines include strict minimum requirements and additional research for vetting. For a project to pass it's likely popular enough to survive far into the future, however we continously monitor projects on the list and remove anything that no longer fits the criteria. 
+
+It is a fundamental goal for this list to be as neutral as possible and simply present options, not persuade or redact, regardless of the maintainer's opinion. Projects that fit the criteria, which by passing will inherently be used by thousands to millions, are put on the list. This list is _"curated"_ - not relative to opinion, but to statistics and facts. 
+
+Although the list is called _definitive,_ in this context it doesn't quite mean the implied dictionary definition of finality. This project can only survive and thrive through continuous contributions by the community, as this list is, in itself, open source. 
 
 ## Tags
 
