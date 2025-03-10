@@ -147,6 +147,7 @@ Abandoned - Development Halted
   - [Package Manager](#package-manager)
   - [Password Manager](#password-manager)
   - [Project Management](#project-management)
+  - [Proofreading](#proofreading)
   - [Rag](#rag)
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
@@ -259,6 +260,7 @@ Abandoned - Development Halted
       - [Markdown Editor](#markdown-editor)
       - [Note Taking](#note-taking)
       - [Office Suite](#office-suite)
+      - [Proofreading](#proofreading)
       - [Spreadsheet](#spreadsheet)
       - [Text Editor](#text-editor)
       - [Wiki](#wiki)
@@ -441,7 +443,6 @@ Abandoned - Development Halted
 | [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=for-the-badge&label=%20&color=white) |
 | [Watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=for-the-badge&label=%20&color=white) |
 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=for-the-badge&label=%20&color=white) |
-| [Harper](https://github.com/automattic/harper) | The Grammar Checker for Developers | ```VS Code``` | ![GitHub Repo stars](https://img.shields.io/github/stars/automattic/harper?style=for-the-badge&label=%20&color=white) |
 
 ### Game Engine
 
@@ -898,6 +899,13 @@ Abandoned - Development Halted
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ONLYOFFICE/DesktopEditors?style=for-the-badge&label=%20&color=white) |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LibreOffice/core?style=for-the-badge&label=%20&color=white) |
 | [CryptPad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=for-the-badge&label=%20&color=white) |
+
+### Proofreading
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Harper](https://github.com/automattic/harper) | The Grammar Checker for Developers | ```VS Code``` | ![GitHub Repo stars](https://img.shields.io/github/stars/automattic/harper?style=for-the-badge&label=%20&color=white) |
+| [LanguageTool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=for-the-badge&label=%20&color=white) |
 
 ### Spreadsheet
 
