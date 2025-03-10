@@ -703,6 +703,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/marticliment/UniGetUI?style=for-the-badge&label=%20&color=white) |
 
 ### MacOS
 
