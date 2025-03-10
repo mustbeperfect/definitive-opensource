@@ -34,7 +34,11 @@ To avoid the clutter trap that many other lists succumb to as they scale, only t
 - ```⚠️``` The project should have a clear roadmap or general path and the means to deliver this goal
 
 ### 5. Quality
-- ```✅``` The project should be competent and decently good quality. 
+- ```✅``` The project should be competent and decently good quality.
+
+## What is Open Source? (In Development)
+The project should abide by the [Open Source Definition (OSD)](https://opensource.org/osd). 
+The project's license should be an [OSI Approved License](https://opensource.org/licenses). If not, it should fall under the OSD. 
 
 ## Examples
 
