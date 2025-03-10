@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 369</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 370</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -701,6 +701,7 @@ Abandoned - Development Halted
 | [Kavita](https://github.com/Kareadita/Kavita) | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Kareadita/Kavita?style=for-the-badge&label=%20&color=white) |
 | [Piwigi](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=for-the-badge&label=%20&color=white) |
 | [Calibre-Web](https://github.com/janeczku/calibre-web) | 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/janeczku/calibre-web?style=for-the-badge&label=%20&color=white) |
+| [Lychee](https://github.com/LycheeOrg/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=for-the-badge&label=%20&color=white) |
 
 ### Surveillance
 
