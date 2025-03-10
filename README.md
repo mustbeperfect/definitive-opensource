@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 357</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 359</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -570,6 +570,7 @@ Abandoned - Development Halted
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin?style=for-the-badge&label=%20&color=white) |
 | [Supersonic](https://github.com/dweymouth/supersonic) | A lightweight cross-platform desktop client for self-hosted music servers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dweymouth/supersonic?style=for-the-badge&label=%20&color=white) | 
+| [Navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/navidrome/navidrome?style=for-the-badge&label=%20&color=white) |
 
 ### Graphics
 
@@ -952,6 +953,7 @@ Abandoned - Development Halted
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
 | [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Hammerspoon/hammerspoon?style=for-the-badge&label=%20&color=white) |
 | [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
+| [Semaphore](https://github.com/semaphoreui/semaphore) | Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/semaphoreui/semaphore?style=for-the-badge&label=%20&color=white) |
 
 ### Cleaner
 
