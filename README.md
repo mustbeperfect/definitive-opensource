@@ -1201,14 +1201,14 @@ Projects that were once on this list but removed - usually due to abandonement o
 
 ## FAQ
 <details>
-  <summary><b>How about a JSON file with a script that generates the readme?</b></summary> <br />
-  I’ve given this a lot of thought. Such a system would make fundamental changes and reorganization far easier whilst minimizing formatting and grammatical errors.
-  
-  However, for the foreseeable future, the list will continue to be edited directly as a markdown file. This is for one main reason: to keep everything simple. I will likely change my stance on this later as the project scales and when I have time to architect such a system. Although it can be tedious, the current system will have to suffice. 
-</details>
-<details>
-  <summary><b>How about a website, perhaps an automated one?</b></summary> <br />
-  I’ve considered making a website, one with features like filtering with tags or even an automated system that scans github repositories and categorizes them. The problem is that it wouldn't be much different from other tools out there like openalternative or trendshift and an automated system will always have shortcomings. The point of definitive-opensource is to be highly curated, and the current best execution of that is in a readme. I’m a busy college student and the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file.
+  <summary><b>How about a JSON file with scripts or a website?</b></summary> <br />
+A JSON file with scripts that generate the README(s) would make fundamental changes and reorginization far easier whilst minimizing formatting and grammatical errors. A website would provide much requested features like tag based filtering and even automation.
+<p>&nbsp;</p>
+However, for the foreseeable future, the list will to be edited directly as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within, not how to present said projects.
+<p>&nbsp;</p>
+The current markdown system could also be considered a stepping stone to guage the community's needs prior to building a more complex system. I will likely migrate to a JSON file as the project scales and when I have time to architect such a system. 
+<p>&nbsp;</p>
+As for the website, the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file. Depending on the popularity of the project, however, this idea will remain the back of my mind. 
 </details>
 
 ## License
