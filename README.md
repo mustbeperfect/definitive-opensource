@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 377</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 380</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -330,6 +330,7 @@ Abandoned - Development Halted
 | [screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
 | [AIChat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sigoden/aichat?style=for-the-badge&label=%20&color=white) |
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&label=%20&color=white) |
+| [WrenAI](https://github.com/Canner/WrenAI) | 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Canner/WrenAI?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -351,6 +352,7 @@ Abandoned - Development Halted
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | ```Cross``` ```CLI+``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&label=%20&color=white) |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
+| [DeepSearcher](https://github.com/zilliztech/deep-searcher) | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=for-the-badge&label=%20&color=white) |
 
 ### LLM GUI
 
@@ -378,6 +380,7 @@ Abandoned - Development Halted
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/Verba?style=for-the-badge&label=%20&color=white) |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=for-the-badge&label=%20&color=white) |
 | [PaperQA2](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=for-the-badge&label=%20&color=white) |
+| [R2R](https://github.com/SciPhi-AI/R2R) | The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=for-the-badge&label=%20&color=white) |
 
 # Communication - [Go to top](#contents)
 
