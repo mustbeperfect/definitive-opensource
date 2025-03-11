@@ -355,6 +355,7 @@ Abandoned - Development Halted
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | ```Cross``` ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=for-the-badge&label=%20&color=white) |
+| [AIChat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sigoden/aichat?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
