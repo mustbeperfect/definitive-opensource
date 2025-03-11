@@ -26,8 +26,9 @@
   <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/CONTRIBUTING.md">Contributing</a>
 </h4>
 
-## Our Goal
-There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
+##
+
+**Our Goal:** There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
 This list aims to serve as a single centralized location for the best of open source. 
 
