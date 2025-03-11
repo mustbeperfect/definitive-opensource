@@ -13,6 +13,9 @@
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
 
+> [!CAUTION]
+> Due to the rapidly evolving AI landscape and explosion of AI projects, expect a completly rework of categories and organization for AI once things are relatively stable. 
+
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
 
