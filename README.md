@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 376</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 377</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -317,6 +317,8 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
 | [screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
+| [AIChat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sigoden/aichat?style=for-the-badge&label=%20&color=white) |
+| [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -355,7 +357,6 @@ Abandoned - Development Halted
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | ```Cross``` ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=for-the-badge&label=%20&color=white) |
-| [AIChat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sigoden/aichat?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
