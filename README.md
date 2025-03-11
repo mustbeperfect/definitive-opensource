@@ -16,6 +16,16 @@
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
 
+##
+
+<h4 align="center">
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/GUIDELINES.md">Guidelines</a>
+  <span> · </span>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/issues">Issues</a>
+  <span> · </span>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/CONTRIBUTING.md">Contributing</a>
+</h4>
+
 ## Our Goal
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
