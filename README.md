@@ -118,8 +118,11 @@ Abandoned - Development Halted
   - [AD Blocker](#ad-blocker)
   - [Agent](#agent)
   - [AI Image GUI](#ai-image-gui)
+  - [AI Utilities](#ai-utilities)
+  - [All In One](#all-in-one)
   - [Antivirus](#antivirus)
   - [Arr](#arr)
+  - [Assistant](#assistant)
   - [Audio Editor](#audio-editor)
   - [Audio Player](#audio-player)
   - [Authentication](#authentication)
@@ -130,11 +133,11 @@ Abandoned - Development Halted
   - [Browser](#browser)
   - [Calendar](#calendar)
   - [Chat](#chat)
-  - [Collaboration](#collaboration)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
   - [Code Assistant](#code-assistant)
   - [Code Editor](#code-editor)
+  - [Collaboration](#collaboration)
   - [Containers](#containers)
   - [Dashboard](#dashboard)
   - [Dev Tools](#dev-tools)
@@ -162,11 +165,12 @@ Abandoned - Development Halted
   - [Knowledge Base](#knowledge-base)
   - [Language Package Manager](#language-package-manager)
   - [Launcher](#launcher)
-  - [LLM Gui](#llm-gui)
+  - [LLM GUI](#llm-gui)
   - [Mail](#mail)
   - [Markdown-editor](#markdown-editor)
   - [Media Downloader](#media-downloader)
   - [Media Management](#media-management)
+  - [Model Tools](#model-tools)
   - [Neovim Extensions](#neovim-extensions)
   - [Note Taking](#note-taking)
   - [Office Suite](#office-suite)
@@ -177,6 +181,7 @@ Abandoned - Development Halted
   - [Proofreading](#proofreading)
   - [Rag](#rag)
   - [Remote Desktop](#remote-desktop)
+  - [Research](#research)
   - [Screen Recording](#screen-recording)
   - [Search Engine](#search-engine)
   - [Shell](#shell)
@@ -214,9 +219,14 @@ Abandoned - Development Halted
   - Artificial Intelligence (AI)
       - [Agent](#agent)
       - [AI Image GUI](#ai-image-gui)
+      - [AI Utilities](#ai-utilities)
+      - [All In One](#all-in-one)
+      - [Assistant](#assistant)
       - [Information Processing](#information-processing)
-      - [LLM Gui](#llm-gui)
+      - [LLM GUI](#llm-gui)
+      - [Model Tools](#model-tools)
       - [RAG](#rag)
+      - [Research](#research)
   - Communication
       - [Chat](#chat)
       - [Collaboration](#collaboration)
@@ -347,6 +357,21 @@ Abandoned - Development Halted
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 | [SD.Next](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one for AI generative image | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=for-the-badge&label=%20&color=white) |
 
+### AI Utilities
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### All In One
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### Assistant
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Information Processing
 
 | Name | Description | Platform | Stars |
@@ -374,6 +399,11 @@ Abandoned - Development Halted
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | ```Cross``` ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=for-the-badge&label=%20&color=white) |
 
+### Model Tools
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### RAG
 
 | Name | Description | Platform | Stars |
@@ -384,6 +414,11 @@ Abandoned - Development Halted
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=for-the-badge&label=%20&color=white) |
 | [PaperQA2](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=for-the-badge&label=%20&color=white) |
 | [R2R](https://github.com/SciPhi-AI/R2R) | The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=for-the-badge&label=%20&color=white) |
+
+### Research
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 # Communication - [Go to top](#contents)
 
