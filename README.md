@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 371</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 373</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -431,7 +431,9 @@ Abandoned - Development Halted
 | [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/block/goose?style=for-the-badge&label=%20&color=white) |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=for-the-badge&label=%20&color=white) |
-| [Roo Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.  | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=for-the-badge&label=%20&color=white) |
+| [Roo Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=for-the-badge&label=%20&color=white) |
+| [Cody](https://github.com/sourcegraph/cody) | Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=for-the-badge&label=%20&color=white) |
+| [Plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=for-the-badge&label=%20&color=white) |
 
 ### Code Editor
 
