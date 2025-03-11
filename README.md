@@ -1202,7 +1202,7 @@ Projects that were once on this list but removed - usually due to abandonement o
 ## FAQ
 <details>
   <summary><b>How about a JSON file with scripts or a website?</b></summary> <br />
-A JSON file with scripts that generate the README(s) would make fundamental changes and reorginization far easier whilst minimizing formatting and grammatical errors. A website would provide much requested features like tag based filtering and even automation.
+A JSON file with scripts that generate the README(s) would make fundamental changes and reorganization far easier whilst minimizing formatting and grammatical errors. A website would provide much requested features like tag based filtering and even automation.
 <p>&nbsp;</p>
 However, for the foreseeable future, the list will to be edited directly as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within, not how to present said projects.
 <p>&nbsp;</p>
