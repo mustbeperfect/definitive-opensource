@@ -8,6 +8,7 @@ Projects that require a further vetting process.
 - [Lorien](https://github.com/mbrlabs/Lorien)
 - [Freeplane](https://github.com/freeplane/freeplane)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
+- [Pinry](https://github.com/pinry/pinry)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
