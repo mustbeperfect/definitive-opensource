@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 401</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 402</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -340,6 +340,7 @@ Abandoned - Development Halted
 | [TEN Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=for-the-badge&label=%20&color=white) |
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn?style=for-the-badge&label=%20&color=white) |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=for-the-badge&label=%20&color=white) |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
