@@ -167,6 +167,7 @@ Abandoned - Development Halted
   - [Launcher](#launcher)
   - [LLM GUI](#llm-gui)
   - [Mail](#mail)
+  - [Manager](#manager)
   - [Markdown-editor](#markdown-editor)
   - [Media Downloader](#media-downloader)
   - [Media Management](#media-management)
@@ -224,6 +225,7 @@ Abandoned - Development Halted
       - [Assistant](#assistant)
       - [Information Processing](#information-processing)
       - [LLM GUI](#llm-gui)
+      - [Manager](#manager)
       - [Model Tools](#model-tools)
       - [RAG](#rag)
       - [Research](#research)
@@ -354,7 +356,6 @@ Abandoned - Development Halted
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=for-the-badge&label=%20&color=white) |
 | [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
-| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 | [SD.Next](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one for AI generative image | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=for-the-badge&label=%20&color=white) |
 
 ### AI Utilities
@@ -387,7 +388,6 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ollama](https://github.com/ollama/ollama) ```🌍``` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```CLI``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=%20&color=white) |
 | [Open WebUI](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=for-the-badge&label=%20&color=white) |
 | [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=for-the-badge&label=%20&color=white) |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=for-the-badge&label=%20&color=white) |
@@ -399,6 +399,13 @@ Abandoned - Development Halted
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | ```Cross``` ```Mobile``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=for-the-badge&label=%20&color=white) |
+
+### Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Ollama](https://github.com/ollama/ollama) ```🌍``` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```CLI``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=%20&color=white) |
+| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 
 ### Model Tools
 
