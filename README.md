@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 390</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 396</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -853,6 +853,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Docspell](https://github.com/eikek/docspell) | Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. | ```SelfHost``` ```CLI+``` ```Android``` | ![GitHub Repo stars](https://img.shields.io/github/stars/eikek/docspell?style=for-the-badge&label=%20&color=white) |
 | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=for-the-badge&label=%20&color=white) |
+| [TagSpaces](https://github.com/tagspaces/tagspaces) |  TagSpaces is an offline, open source, document manager with tagging support | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tagspaces/tagspaces?style=for-the-badge&label=%20&color=white) |
 
 # Productivity - [Go to top](#contents)
 
@@ -893,6 +894,7 @@ Abandoned - Development Halted
 | [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline?style=for-the-badge&label=%20&color=white) |
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge&label=%20&color=white) |
 | [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=for-the-badge&label=%20&color=white) |
+| [Foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/foambubble/foam?style=for-the-badge&label=%20&color=white) |
 
 ### Project Management
 
@@ -998,6 +1000,9 @@ Abandoned - Development Halted
 | [Rnote](https://github.com/flxzt/rnote) | Sketch and take handwritten notes. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote?style=for-the-badge&label=%20&color=white) |
 | [SilverBullet](https://github.com/silverbulletmd/silverbullet) | The knowledge tinkerer's notebook | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=for-the-badge&label=%20&color=white) |
 | [Reor](https://github.com/reorproject/reor) | Private & local AI personal knowledge management app for high entropy people. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/reorproject/reor?style=for-the-badge&label=%20&color=white) |
+| [VNote](https://github.com/vnotex/vnote) | A pleasant note-taking platform in native C++. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vnotex/vnote?style=for-the-badge&label=%20&color=white) |
+| [nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xwmx/nb?style=for-the-badge&label=%20&color=white) |
+| [jrnl](https://github.com/jrnl-org/jrnl) | Collect your thoughts and notes without leaving the command line. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jrnl-org/jrnl?style=for-the-badge&label=%20&color=white) |
 
 ### Office Suite
 
