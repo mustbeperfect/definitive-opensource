@@ -5,6 +5,8 @@ Projects that require a further vetting process.
 - [YaCy](https://github.com/yacy/yacy_search_server)
 - [Cerebro](https://github.com/cerebroapp/cerebro)
 - [Yacht](https://github.com/SelfhostedPro/Yacht)
+- [Lorien](https://github.com/mbrlabs/Lorien)
+- [Freeplane](https://github.com/freeplane/freeplane)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
