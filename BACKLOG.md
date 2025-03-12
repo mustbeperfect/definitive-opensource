@@ -7,6 +7,7 @@ Projects that require a further vetting process.
 - [Yacht](https://github.com/SelfhostedPro/Yacht)
 - [Lorien](https://github.com/mbrlabs/Lorien)
 - [Freeplane](https://github.com/freeplane/freeplane)
+- [HomeBox](https://github.com/sysadminsmedia/homebox)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
