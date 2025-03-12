@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 384</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 390</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -43,11 +43,6 @@ This list aims to serve as a single centralized location for the best of open so
   <p>&nbsp;</p>
   Although the list is called definitive, in this context it doesn't quite mean the implied dictionary definition of finality. This project can only survive and thrive through continuous contributions by the community, as this list is, in itself, open source. 
 </details>
-
-
-
-
-
 
 ## Tags
 
@@ -345,6 +340,7 @@ Abandoned - Development Halted
 | [screenpipe](https://github.com/mediar-ai/screenpipe) ```💥``` | AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording | ```MacOS``` ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=for-the-badge&label=%20&color=white) |
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&label=%20&color=white) |
 | [WrenAI](https://github.com/Canner/WrenAI) | 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Canner/WrenAI?style=for-the-badge&label=%20&color=white) |
+| [TEN Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -375,6 +371,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/leon-ai/leon?style=for-the-badge&label=%20&color=white) |
 
 ### Information Processing
 
@@ -384,6 +381,7 @@ Abandoned - Development Halted
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=for-the-badge&label=%20&color=white) |
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 | [Code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=for-the-badge&label=%20&color=white) |
+| [Repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yamadashy/repomix?style=for-the-badge&label=%20&color=white) |
 
 ### LLM GUI
 
@@ -411,6 +409,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
@@ -423,6 +422,7 @@ Abandoned - Development Halted
 | [PaperQA2](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=for-the-badge&label=%20&color=white) |
 | [R2R](https://github.com/SciPhi-AI/R2R) | The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=for-the-badge&label=%20&color=white) |
 | [AutoFlow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pingcap/autoflow?style=for-the-badge&label=%20&color=white) |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=for-the-badge&label=%20&color=white) |
 
 ### Research
 
@@ -500,6 +500,7 @@ Abandoned - Development Halted
 | [Roo Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=for-the-badge&label=%20&color=white) |
 | [Cody](https://github.com/sourcegraph/cody) | Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=for-the-badge&label=%20&color=white) |
 | [Plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=for-the-badge&label=%20&color=white) |
+| [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) |  The first real AI developer | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=for-the-badge&label=%20&color=white) |
 
 ### Code Editor
 
