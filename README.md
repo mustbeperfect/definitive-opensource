@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 398</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 401</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -338,6 +338,8 @@ Abandoned - Development Halted
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&label=%20&color=white) |
 | [WrenAI](https://github.com/Canner/WrenAI) | 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Canner/WrenAI?style=for-the-badge&label=%20&color=white) |
 | [TEN Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=for-the-badge&label=%20&color=white) |
+| [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn?style=for-the-badge&label=%20&color=white) |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
@@ -379,6 +381,7 @@ Abandoned - Development Halted
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
 | [Code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=for-the-badge&label=%20&color=white) |
 | [Repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yamadashy/repomix?style=for-the-badge&label=%20&color=white) |
+| [Docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/DS4SD/docling?style=for-the-badge&label=%20&color=white) |
 
 ### LLM GUI
 
