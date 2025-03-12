@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 404</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 406</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -1246,6 +1246,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
+| [Mealie](https://github.com/mealie-recipes/mealie) | Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=for-the-badge&label=%20&color=white) |
+| [Grocy](https://github.com/grocy/grocy) | ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home | ```Windows``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/grocy/grocy?style=for-the-badge&label=%20&color=white) |
 
 ### Uncategorized
 
