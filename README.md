@@ -361,6 +361,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
 
 ### All In One
 
@@ -1223,7 +1224,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
-| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
 
 ### Uncategorized
 
