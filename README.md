@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 402</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 403</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -966,6 +966,7 @@ Abandoned - Development Halted
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 | [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | ```Cross``` ```CLI``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
+| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | ```Cross``` ```CLI+``` ```SelfHost``` ```Mobile``` ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
 
 ### VPN
 
