@@ -341,7 +341,7 @@ Abandoned - Development Halted
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn?style=for-the-badge&label=%20&color=white) |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=for-the-badge&label=%20&color=white) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=for-the-badge&label=%20&color=white) |
-| [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/telegraf/AutoGPT?style=for-the-badge&label=%20&color=white) |
+| [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/influxdata/telegraf?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
