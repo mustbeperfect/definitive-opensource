@@ -1,8 +1,8 @@
 
 # Submission Guidelines
-This list is for projects that are "directly used", not projects with the sole purpose of building another project. Development technologies like frameworks or databases and enterprise systems like CRM or marketing are not allowed. 
+This list is for projects that are _directly used_, not projects with the sole purpose of building another project. Development technologies like frameworks or databases are not allowed. _Enterprise systems_ like CRM or marketing are currently no allowed but may be considered once the core of the list is ironed out. 
 
-```Definitive-opensource``` has a **very rigorous** vetting process that involves comprehensive research into a project. 
+```Definitive-opensource``` has a **rigorous** vetting process that involves comprehensive research into a project. 
 
 We continously monitor projects on the list and will immediately remove projects that no longer fit the criteria. 
 
