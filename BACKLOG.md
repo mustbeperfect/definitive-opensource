@@ -9,6 +9,7 @@ Projects that require a further vetting process.
 - [Freeplane](https://github.com/freeplane/freeplane)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
 - [Pinry](https://github.com/pinry/pinry)
+- [olmocr](https://github.com/allenai/olmocr)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
