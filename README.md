@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 407</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 408</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -975,6 +975,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | ```Cross``` ```Mobile``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
+| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | ```Cross``` ```Mobile``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ProtonVPN/android-app?style=for-the-badge&label=%20&color=white) |
 
 # Text - [Go to top](#contents)
 
