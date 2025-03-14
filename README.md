@@ -179,6 +179,7 @@ Abandoned - Development Halted
   - [Search Engine](#search-engine)
   - [Shell](#shell)
   - [Spreadsheet](#spreadsheet)
+  - [Storage](#storage)
   - [Surveillance](#surveillance)
   - [Sync](#sync)
   - [System Monitoring](#system-monitoring)
@@ -228,6 +229,7 @@ Abandoned - Development Halted
       - [Video Conference](#video-conference)
   - Data
       - [Backup](#backup)
+      - [Storage](#storage)
       - [Sync](#sync)
   - Development
       - [Code Assistant](#code-assistant)
@@ -481,6 +483,11 @@ Abandoned - Development Halted
 | [Timeshift](https://github.com/linuxmint/timeshift) | System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/linuxmint/timeshift?style=for-the-badge&label=%20&color=white) |
 | [Backrest](https://github.com/garethgeorge/backrest) | Backrest is a web UI and orchestrator for restic backup. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=for-the-badge&label=%20&color=white) |
 | [Duplicacy](https://github.com/gilbertchen/duplicacy) | A new generation cloud backup tool | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gilbertchen/duplicacy?style=for-the-badge&label=%20&color=white) |
+
+### Storage
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 ### Sync
 
