@@ -10,6 +10,7 @@ Projects that require a further vetting process.
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
+- [Sidekick](https://github.com/johnbean393/Sidekick)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
