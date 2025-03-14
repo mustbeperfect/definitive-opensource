@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 408</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 412</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -489,6 +489,10 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
+| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | ```Cross``` ```Mobile``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
+| [ownCloud](https://github.com/owncloud/core) | ☁️ ownCloud web server core (Files, DAV, etc.) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/owncloud/core?style=for-the-badge&label=%20&color=white) |
+| [Ceph](https://github.com/ceph/ceph) | Ceph is a distributed object, block, and file storage platform | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=for-the-badge&label=%20&color=white) |
+| [myDrive](https://github.com/subnub/myDrive) | Node.js and mongoDB Google Drive Clone | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/subnub/myDrive?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
