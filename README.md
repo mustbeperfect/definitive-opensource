@@ -488,6 +488,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
@@ -750,7 +751,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=for-the-badge&label=%20&color=white) |
-| [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [Glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/glanceapp/glance?style=for-the-badge&label=%20&color=white) |
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge&label=%20&color=white) |
 | [homepage](https://github.com/gethomepage/homepage) | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge&label=%20&color=white) |
