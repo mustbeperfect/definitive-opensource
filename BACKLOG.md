@@ -48,5 +48,5 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [viseron](https://github.com/roflcoopter/viseron)
 - [manyfold](https://github.com/manyfold3d/manyfold)
 - [flatnotes](https://github.com/dullage/flatnotes)
-- [myDrive](https://github.com/subnub/myDrive)
 - [PaperMerge](https://github.com/ciur/papermerge)
+- [Ollama Deep Researcher](https://github.com/langchain-ai/ollama-deep-researcher)
