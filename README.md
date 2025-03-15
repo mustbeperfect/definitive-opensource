@@ -185,8 +185,9 @@ Abandoned - Development Halted
   - [System Monitoring](#system-monitoring)
   - [System](#system)
   - [Task Management](#task-management)
+  - [Terminal Emulator](#terminal-emulator)
   - [Terminal Multiplexer](#terminal-multiplexer)
-  - [Terminal](#terminal)
+  - [Terminal Utilities](#terminal-utilities)
   - [Text Editor](#text-editor)
   - [Time Management](#time-management)
   - [Tools](#tools)
@@ -290,6 +291,11 @@ Abandoned - Development Halted
       - [Firewall](#firewall)
       - [Password Manager](#password-manager)
       - [VPN](#vpn)
+  - Terminal
+      - [Shell](#shell)
+      - [Terminal Emulator](#terminal-emulator)
+      - [Terminal Multiplexer](#terminal-multiplexer)
+      - [Terminal Utilities](#terminal-utilities)
   - Text
       - [Document Editor](#document-editor)
       - [Markdown Editor](#markdown-editor)
@@ -311,11 +317,8 @@ Abandoned - Development Halted
       - [Launcher](#launcher)
       - [Package Manager](#package-manager)
       - [Remote Desktop](#remote-desktop)
-      - [Shell](#shell)
       - [System Monitoring](#system-monitoring)
       - [System](#system)
-      - [Terminal Multiplexer](#terminal-multiplexer)
-      - [Terminal](#terminal)
       - [Tools](#tools)
       - [Version Manager](#version-manager)
       - [Virtual Machine](#virtual-machine)
@@ -991,6 +994,39 @@ Abandoned - Development Halted
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
 | [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | ```Cross``` ```Mobile``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ProtonVPN/android-app?style=for-the-badge&label=%20&color=white) |
 
+# Terminal - [Go to top](#contents)
+
+### Shell
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [fish](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fish-shell/fish-shell?style=for-the-badge&label=%20&color=white) |
+| [xonsh](https://github.com/xonsh/xonsh) | 🐚 Python-powered shell. Full-featured and cross-platform. | ```Linux``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xonsh/xonsh?style=for-the-badge&label=%20&color=white) |
+
+### Terminal Emulator
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=for-the-badge&label=%20&color=white) |
+| [WezTerm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=for-the-badge&label=%20&color=white) |
+| [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=for-the-badge&label=%20&color=white) |
+| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=for-the-badge&label=%20&color=white) |
+| [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=for-the-badge&label=%20&color=white) |
+| [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/raphamorim/rio?style=for-the-badge&label=%20&color=white) |
+| [Ghostty](github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=%20&color=white) |
+
+### Terminal Multiplexer
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=for-the-badge&label=%20&color=white) |
+| [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
+
+### Terminal Utilities
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 # Text - [Go to top](#contents)
 
 ### Document Editor
@@ -1173,13 +1209,6 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [RustDesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=for-the-badge&label=%20&color=white) |
 
-### Shell
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [fish](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fish-shell/fish-shell?style=for-the-badge&label=%20&color=white) |
-| [xonsh](https://github.com/xonsh/xonsh) | 🐚 Python-powered shell. Full-featured and cross-platform. | ```Linux``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/xonsh/xonsh?style=for-the-badge&label=%20&color=white) |
-
 ### System Monitoring
 
 | Name | Description | Platform | Stars |
@@ -1193,25 +1222,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Background Music](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
-
-### Terminal Multiplexer
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=for-the-badge&label=%20&color=white) |
-| [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
-
-### Terminal
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=for-the-badge&label=%20&color=white) |
-| [WezTerm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=for-the-badge&label=%20&color=white) |
-| [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=for-the-badge&label=%20&color=white) |
-| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=for-the-badge&label=%20&color=white) |
-| [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=for-the-badge&label=%20&color=white) |
-| [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/raphamorim/rio?style=for-the-badge&label=%20&color=white) |
-| [Ghostty](github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=%20&color=white) |
 
 ### Tools
 
