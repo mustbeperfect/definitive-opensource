@@ -1303,7 +1303,7 @@ However, for the foreseeable future, the list will to be edited directly as a ma
 <p>&nbsp;</p>
 The current markdown system could also be considered a stepping stone to guage the community's needs prior to building a more complex system. I will likely migrate to a JSON file as the project scales and when I have time to architect such a system. 
 <p>&nbsp;</p>
-As for the website, the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file. Depending on the popularity of the project, however, this idea will remain the back of my mind. 
+As for the website, the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file. Depending on the popularity of the project, however, this idea will remain in the back of my mind. 
 </details>
 
 ## License
