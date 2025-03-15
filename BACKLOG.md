@@ -13,6 +13,7 @@ Projects that require a further vetting process.
 - [Dify](https://github.com/langgenius/dify) - Tool to build other tools, might not be suited for this list
 - [onyx](https://github.com/onyx-dot-app/onyx) - Concerned about corporate influence
 - [Browser Use](https://github.com/browser-use/browser-use) - Might be tool to build tools, also concerned with corporate influence
+- [thefuck](https://github.com/nvbn/thefuck) - Might be abandoned
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
@@ -50,3 +51,4 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [flatnotes](https://github.com/dullage/flatnotes)
 - [PaperMerge](https://github.com/ciur/papermerge)
 - [Ollama Deep Researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Unmaintained for years, development started again
