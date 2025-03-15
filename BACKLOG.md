@@ -12,6 +12,7 @@ Projects that require a further vetting process.
 - [olmocr](https://github.com/allenai/olmocr)
 - [Dify](https://github.com/langgenius/dify) - Tool to build other tools, might not be suited for this list
 - [onyx](https://github.com/onyx-dot-app/onyx) - Concerned about corporate influence
+- [Browser Use](https://github.com/browser-use/browser-use) - Might be tool to build tools, also concerned with corporate influence
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
