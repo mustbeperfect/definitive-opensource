@@ -14,6 +14,9 @@ Projects that require a further vetting process.
 - [onyx](https://github.com/onyx-dot-app/onyx) - Concerned about corporate influence
 - [Browser Use](https://github.com/browser-use/browser-use) - Might be tool to build tools, also concerned with corporate influence
 - [thefuck](https://github.com/nvbn/thefuck) - Might be abandoned
+- [zx](https://github.com/google/zx) - Need to look into it's purpose in more depth
+- [pure](https://github.com/sindresorhus/pure) - Might be abandoned
+- [WindTerm](https://github.com/kingToolbox/WindTerm) - Need to look into it's purpose in more depth
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
