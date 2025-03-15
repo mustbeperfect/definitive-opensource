@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 414</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 415</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -416,6 +416,7 @@ Abandoned - Development Halted
 | [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | ```Cross``` ```CLI+``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=for-the-badge&label=%20&color=white) |
 | [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=for-the-badge&label=%20&color=white) |
 | [Agno](https://github.com/agno-agi/agno) | Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=for-the-badge&label=%20&color=white) |
+| [Kiln](https://github.com/Kiln-AI/Kiln) | The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Kiln-AI/Kiln?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
