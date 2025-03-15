@@ -11,6 +11,7 @@ Projects that require a further vetting process.
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
 - [Sidekick](https://github.com/johnbean393/Sidekick)
+- [Dify](https://github.com/langgenius/dify)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
