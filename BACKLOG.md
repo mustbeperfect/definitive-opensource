@@ -4,18 +4,19 @@ Projects that require a further vetting process.
 - [grimoire](https://github.com/goniszewski/grimoire)
 - [YaCy](https://github.com/yacy/yacy_search_server)
 - [Cerebro](https://github.com/cerebroapp/cerebro)
-- [Yacht](https://github.com/SelfhostedPro/Yacht)
+- [Yacht](https://github.com/SelfhostedPro/Yacht) - Might be abandoned
 - [Lorien](https://github.com/mbrlabs/Lorien)
 - [Freeplane](https://github.com/freeplane/freeplane)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
-- [Sidekick](https://github.com/johnbean393/Sidekick)
-- [Dify](https://github.com/langgenius/dify)
+- [Dify](https://github.com/langgenius/dify) - Tool to build other tools, might not be suited for this list
+- [onyx](https://github.com/onyx-dot-app/onyx) - Concerned about corporate influence
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
 
+- [Sidekick](https://github.com/johnbean393/Sidekick)
 - [Taiga](https://github.com/taigaio)
 - [Polaris](https://github.com/agersant/polaris)
 - [AM](https://github.com/ivan-hc/AM)
