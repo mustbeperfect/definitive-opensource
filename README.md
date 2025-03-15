@@ -746,7 +746,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Jellyseerr](https://github.com/fallenbagel/fallenbagel) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fallenbagel/fallenbagel?style=for-the-badge&label=%20&color=white) |
+| [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fallenbagel/jellyseerr?style=for-the-badge&label=%20&color=white) |
 | [autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/autobrr/autobrr?style=for-the-badge&label=%20&color=white) |
 | [Overseerr](https://github.com/sct/overseerr) | Request management and media discovery tool for the Plex ecosystem | ```Windows``` ```Linux``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr?style=for-the-badge&label=%20&color=white) |
 | [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Sonarr/Sonarr?style=for-the-badge&label=%20&color=white) |
