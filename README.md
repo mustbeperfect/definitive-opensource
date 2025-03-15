@@ -1042,6 +1042,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Harper](https://github.com/automattic/harper) | The Grammar Checker for Developers | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/automattic/harper?style=for-the-badge&label=%20&color=white) |
 | [LanguageTool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | ```SelfHost``` ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=for-the-badge&label=%20&color=white) |
+| [WritingTools](https://github.com/theJayTea/WritingTools) | The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/theJayTea/WritingTools?style=for-the-badge&label=%20&color=white) |
 
 ### Spreadsheet
 
