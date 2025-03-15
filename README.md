@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 417</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 422</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -1028,6 +1028,11 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/atuinsh/atuin?style=for-the-badge&label=%20&color=white) |
+| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=for-the-badge&label=%20&color=white) |
+| [McFly](https://github.com/cantino/mcfly) | Fly through your shell history. Great Scott! | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cantino/mcfly?style=for-the-badge&label=%20&color=white) |
+| [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=for-the-badge&label=%20&color=white) |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zsh-users/zsh-autosuggestions?style=for-the-badge&label=%20&color=white) |
+| [ShellGPT](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheR1D/shell_gpt?style=for-the-badge&label=%20&color=white) |
 
 # Text - [Go to top](#contents)
 
