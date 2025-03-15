@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 412</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 414</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -516,7 +516,9 @@ Abandoned - Development Halted
 | [Roo Code](https://github.com/RooVetGit/Roo-Code) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=for-the-badge&label=%20&color=white) |
 | [Cody](https://github.com/sourcegraph/cody) | Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. | ```VSCode``` ```JetBrains``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=for-the-badge&label=%20&color=white) |
 | [Plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=for-the-badge&label=%20&color=white) |
-| [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) |  The first real AI developer | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=for-the-badge&label=%20&color=white) |
+| [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=for-the-badge&label=%20&color=white) |
+| [Aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Aider-AI/aider?style=for-the-badge&label=%20&color=white) |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | ```Cross``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=for-the-badge&label=%20&color=white) |
 
 ### Code Editor
 
