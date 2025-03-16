@@ -69,7 +69,7 @@ This list aims to serve as a single centralized location for the best of open so
 
 ```💡``` - Innovative
 
-### Awards (At 1k Stars)
+### Awards (At 10k Stars)
 ```🏆``` - Crown of open source
 
 ```🥈``` - Second
