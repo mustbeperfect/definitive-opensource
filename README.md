@@ -44,7 +44,7 @@ This list aims to serve as a single centralized location for the best of open so
 ## Tags
 
 ### Alerts
-```🟢``` ```🟡``` ```🟠``` ```🔴``` - Security incident **(Minor, Moderate, Major, Critical)**
+```🟡``` ```🟠``` ```🔴``` ```⭕``` - Security incident **(Minor, Moderate, Major, Critical)**
 
 ```🚫``` - Potentially abandoned
 
@@ -52,7 +52,7 @@ This list aims to serve as a single centralized location for the best of open so
 
 ```⁉️``` - Suspicious license
 
-```⭕``` - Corporate influence
+```🟥``` - Corporate influence
 
 ```🧪``` - Experimental (Pre-Alpha)
 
@@ -528,7 +528,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zed](https://github.com/zed-industries/zed) ```⭕``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=for-the-badge&label=%20&color=white) |
+| [Zed](https://github.com/zed-industries/zed) ```🟥``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=for-the-badge&label=%20&color=white) |
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=for-the-badge&label=%20&color=white) |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=for-the-badge&label=%20&color=white) |
 | [Vim](https://github.com/vim/vim) ```🌍``` | The official Vim repository | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?style=for-the-badge&label=%20&color=white) |
@@ -913,7 +913,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq?style=for-the-badge&label=%20&color=white) |
 | [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=for-the-badge&label=%20&color=white) |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ```⭕``` | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=for-the-badge&label=%20&color=white) |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ```🟥``` | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=for-the-badge&label=%20&color=white) |
 | [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=for-the-badge&label=%20&color=white) |
 | [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline?style=for-the-badge&label=%20&color=white) |
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge&label=%20&color=white) |
@@ -1110,7 +1110,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [docmost](https://github.com/docmost/docmost) ```⭕``` ```🛑```  | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
+| [docmost](https://github.com/docmost/docmost) ```🟥``` ```🛑```  | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost?style=for-the-badge&label=%20&color=white) |
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=for-the-badge&label=%20&color=white) |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/requarks/wiki?style=for-the-badge&label=%20&color=white) |
 | [BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=for-the-badge&label=%20&color=white) |
