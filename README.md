@@ -11,7 +11,7 @@
 <p align="center"><code>Status: Active</code> - <code>Projects: 422</code></p>
 
 > [!TIP]
-> Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
+> Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](resources/dev/GUIDELINES.md) for open-source software submissions, consult their respective pages.
 
 > [!CAUTION]
 > We are currently undergoing major changes and refactoring as we migrate to a JSON file with Python scripts that generate the READMEs. 
@@ -22,11 +22,11 @@
 ##
 
 <h4 align="center">
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/GUIDELINES.md">Guidelines</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/dev/GUIDELINES.md">Guidelines</a>
   <span> · </span>
   <a href="https://github.com/mustbeperfect/definitive-opensource/issues">Issues</a>
   <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </h4>
 
 ##
