@@ -11,7 +11,10 @@
 <p align="center"><code>Status: Active</code> - <code>Projects: 422</code></p>
 
 > [!TIP]
-> Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
+> Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages.
+
+> [!CAUTION]
+> We are currently undergoing major changes and refactoring as we migrate to a JSON file with Python scripts that generate the READMEs. 
 
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
