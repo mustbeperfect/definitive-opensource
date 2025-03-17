@@ -4,8 +4,8 @@ name: Generate README
 on:
   push:
     paths:
-      - 'source/data/applications.json'
-      - 'source/data/categories.json'
+      - 'definitive-opensource/source/data/applications.json'
+      - 'definitive-opensource/source/data/categories.json'
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt || true
 
       - name: Run script to generate README
-        run: python source/scripts/readme_generator.py
+        run: python definitive-opensource/source/scripts/readme_generator.py
 
       - name: Commit and push changes
         run: |
