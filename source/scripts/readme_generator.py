@@ -56,8 +56,8 @@ def save_markdown(content, output_path):
 
 
 if __name__ == "__main__":
-    applications_path = "applications.json"  # Update with actual path
-    categories_path = "categories.json"  # Update with actual path
+    applications_path = "source/data/applications.json"  # Update with actual path
+    categories_path = "source/data/categories.json"  # Update with actual path
     output_path = "source/testing/test.md"
 
     try:
