@@ -1,10 +1,10 @@
 import json
 
 def load_categories():
-    with open("categories.json", "r", encoding="utf-8") as f:
+    with open("source/data/categories.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-def generate_table_of_contents():
+def generate_tableofcontents():
     data = load_categories()
     categories = sorted(data["categories"], key=lambda x: x["Name"].lower())
     subcategories = sorted(data["subcategories"], key=lambda x: x["Name"].lower())
@@ -44,7 +44,7 @@ def generate_table_of_contents():
     return "\n".join(toc)
 
 if __name__ == "__main__":
-    toc_content = generate_table_of_contents()
+    toc_content = generate_tableofcontents()
     with open("tableofcontents.md", "w", encoding="utf-8") as f:
         f.write(toc_content)
     print("Generated tableofcontents.md")

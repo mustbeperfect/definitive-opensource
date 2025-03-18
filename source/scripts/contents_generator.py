@@ -1,9 +1,9 @@
 import json
 
 def load_data():
-    with open("categories.json", "r", encoding="utf-8") as f:
+    with open("source/data/categories.json", "r", encoding="utf-8") as f:
         categories_data = json.load(f)
-    with open("applications.json", "r", encoding="utf-8") as f:
+    with open("source/data/applications.json", "r", encoding="utf-8") as f:
         applications_data = json.load(f)
     return categories_data, applications_data
 

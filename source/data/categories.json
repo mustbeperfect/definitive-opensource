@@ -663,19 +663,19 @@
 		{
 			"Name": "Other",
 			"id": "other",
-			"parent": "",
+			"parent": "other",
 			"description": ""
 		},
 		{
 			"Name": "Uncategorized",
 			"id": "uncategorized",
-			"parent": "",
+			"parent": "other",
 			"description": ""
 		},
 		{
 			"Name": "Removed Projects",
 			"id": "removed-projects",
-			"parent": "",
+			"parent": "other",
 			"description": ""
 		}
 	]

@@ -1,7 +1,7 @@
 import json
 import os
 
-from tableofcontents_generator import generate_table_of_contents
+from tableofcontents_generator import generate_tableofcontents
 from contents_generator import generate_markdown
 
 def load_file(filename):
@@ -10,18 +10,18 @@ def load_file(filename):
 
 def generate_readme(platform="all"):
     header_map = {
-        "cross": "crossheader.md",
-        "macos": "macosheader.md",
-        "windows": "windowsheader.md",
-        "selfhost": "selfhostheader.md",
+        "cross": "source/lib/crossheader.md",
+        "macos": "source/lib/macosheader.md",
+        "windows": "source/lib/windowsheader.md",
+        "selfhost": "source/lib/selfhostheader.md",
     }
     
-    header_file = header_map.get(platform, "header.md")
+    header_file = header_map.get(platform, "source/lib/header.md")
     header = load_file(header_file)
-    tags = load_file("tags.md")
-    footer = load_file("footer.md")
+    tags = load_file("source/lib/tags.md")
+    footer = load_file("source/lib/footer.md")
     
-    toc = generate_table_of_contents()
+    toc = generate_tableofcontents()
     content = generate_markdown(platform)
     
     readme_content = "\n".join([header, tags, toc, content, footer])
