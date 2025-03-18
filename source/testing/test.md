@@ -1,4 +1,4 @@
-# Contents
+# Contents (All Platforms)
 
 # Artificial Intelligence (AI) - [Go to top](#contents)
 
