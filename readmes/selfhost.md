@@ -263,6 +263,7 @@
       - [Version Manager](#version-manager)
       - [Virtual Machine](#virtual-machine)
       - [Window Management](#window-management)
+  - [Other](#other)
 </details>
 
 ## Contents

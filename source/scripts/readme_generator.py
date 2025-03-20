@@ -10,16 +10,15 @@ def load_file(filename):
 
 def generate_readme(platform="all"):
     header_map = {
-        "cross": "source/lib/crossheader.md",
-        "macos": "source/lib/macosheader.md",
-        "windows": "source/lib/windowsheader.md",
-        "selfhost": "source/lib/selfhostheader.md",
+        "macos": "source/components/macosheader.md",
+        "windows": "source/components/windowsheader.md",
+        "selfhost": "source/components/selfhostheader.md",
     }
     
-    header_file = header_map.get(platform, "source/lib/header.md")
+    header_file = header_map.get(platform, "source/components/header.md")
     header = load_file(header_file)
-    tags = load_file("source/lib/tags.md")
-    footer = load_file("source/lib/footer.md")
+    tags = load_file("source/components/tags.md")
+    footer = load_file("source/components/footer.md")
     
     toc = generate_tableofcontents()
     content = generate_markdown(platform)
@@ -32,5 +31,5 @@ def generate_readme(platform="all"):
     print(f"Generated {output_file}")
 
 if __name__ == "__main__":
-    for platform in ["all", "cross", "macos", "windows", "selfhost"]:
+    for platform in ["all", "windows", "macos", "linux", "selfhost"]:
         generate_readme(platform)
