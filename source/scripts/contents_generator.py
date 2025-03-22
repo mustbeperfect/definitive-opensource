@@ -89,11 +89,12 @@ def generate_contents(platform="all"):
                 name = app.get("name", "")
                 description = app.get("description", "")
                 link = app.get("link", "#")
+                tags = " ".join(app["tags"])
                 # Join the platform tags as provided.
                 app_platforms = " ".join(app.get("platforms", []))
                 repo_path = extract_repo_path(link)
                 stars_badge = f"![GitHub Repo stars](https://img.shields.io/github/stars/{repo_path}?style=for-the-badge&label=%20&color=white)" if repo_path else ""
-                md_output += f"| [{name}]({link}) | {description} | {app_platforms} | {stars_badge} |\n"
+                md_output += f"| [{name}]({link}) {tags} | {description} | {app_platforms} | {stars_badge} |\n"
             md_output += "\n"
     return md_output
 
