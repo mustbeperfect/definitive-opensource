@@ -402,7 +402,7 @@
 | [myDrive](https://github.com/subnub/myDrive) | Node.js and mongoDB Google Drive Clone | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/subnub/myDrive?style=for-the-badge&label=%20&color=white) |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | `Cross` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [ownCloud](https://github.com/owncloud/core) | ☁️ ownCloud web server core (Files, DAV, etc.) | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/owncloud/core?style=for-the-badge&label=%20&color=white) |
-| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `Mobile` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
+| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
@@ -621,7 +621,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/plankanban/planka?style=for-the-badge&label=%20&color=white) |
+| [Planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/plankanban/planka?style=for-the-badge&label=%20&color=white) |
 
 ### Time Management
 
@@ -635,7 +635,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `Mobile` `Chromium` `Firefox` |  |
+| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` |  |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=for-the-badge&label=%20&color=white) |
 | [Pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=for-the-badge&label=%20&color=white) |
 
@@ -664,7 +664,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
+| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 
 ### VPN

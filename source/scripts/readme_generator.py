@@ -6,7 +6,7 @@ from mainheader_generator import generate_mainheader
 # List of target platforms
 platforms = ["all", "windows", "macos", "linux", "selfhost"]
 
-# Map platform to the header file to use
+# Platforms mapped to corresponding header files
 header_files = {
     "all": "source/components/header.md",
     "windows": "source/components/windowsheader.md",
@@ -23,7 +23,7 @@ def generate_readme_for_platform(platform):
     if platform == "all":
         content += generate_mainheader()
     
-    # Inject header (for 'all', use header.md; for others, use the platform-specific header)
+    # Inject header
     with open(header_file, "r", encoding="utf-8") as f:
         content += f.read() + "\n"
     
@@ -31,7 +31,7 @@ def generate_readme_for_platform(platform):
     with open("source/components/tags.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
     
-    # Generate Table of Contents using the imported function
+    # Generate Table of Contents
     toc_md = generate_table_of_contents()
     content += toc_md + "\n"
     

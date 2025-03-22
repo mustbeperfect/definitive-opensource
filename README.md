@@ -429,7 +429,7 @@ Abandoned - Development Halted
 | [h2oGPT](https://github.com/h2oai/h2ogpt) | Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/ | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2ogpt?style=for-the-badge&label=%20&color=white) |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=for-the-badge&label=%20&color=white) |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=for-the-badge&label=%20&color=white) |
-| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | `Cross` `Mobile` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
+| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | `Cross` `CLI+` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 | [Open WebUI](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=for-the-badge&label=%20&color=white) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=for-the-badge&label=%20&color=white) |
 | [Text generation webUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
@@ -477,7 +477,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | `Cross` |  |
-| [SimpleX](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` `CLI` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=for-the-badge&label=%20&color=white) |
+| [SimpleX](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` `CLI` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=for-the-badge&label=%20&color=white) |
 | [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=%20&color=white) |
 
 ### Collaboration
@@ -499,8 +499,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | `Mobile` `Web` |  |
-| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | `Mobile` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
+| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | `CLI+` `Web` |  |
+| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | `CLI+` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
 
 # Data - [Go to top](#contents)
 
@@ -525,7 +525,7 @@ Abandoned - Development Halted
 | [myDrive](https://github.com/subnub/myDrive) | Node.js and mongoDB Google Drive Clone | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/subnub/myDrive?style=for-the-badge&label=%20&color=white) |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | `Cross` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 | [ownCloud](https://github.com/owncloud/core) | ☁️ ownCloud web server core (Files, DAV, etc.) | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/owncloud/core?style=for-the-badge&label=%20&color=white) |
-| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `Mobile` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
+| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
@@ -650,12 +650,12 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/ms-jpq/coq_nvim?style=for-the-badge&label=%20&color=white) |
-| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=for-the-badge&label=%20&color=white) |
-| [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvim-neorg/neorg?style=for-the-badge&label=%20&color=white) |
-| [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovide/neovide?style=for-the-badge&label=%20&color=white) |
-| [nvim-dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap?style=for-the-badge&label=%20&color=white) |
-| [VimWiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki?style=for-the-badge&label=%20&color=white) |
+| [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/ms-jpq/coq_nvim?style=for-the-badge&label=%20&color=white) |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=for-the-badge&label=%20&color=white) |
+| [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvim-neorg/neorg?style=for-the-badge&label=%20&color=white) |
+| [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovide/neovide?style=for-the-badge&label=%20&color=white) |
+| [nvim-dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap?style=for-the-badge&label=%20&color=white) |
+| [VimWiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki?style=for-the-badge&label=%20&color=white) |
 
 # Internet - [Go to top](#contents)
 
@@ -848,7 +848,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/plankanban/planka?style=for-the-badge&label=%20&color=white) |
+| [Planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/plankanban/planka?style=for-the-badge&label=%20&color=white) |
 | [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=for-the-badge&label=%20&color=white) |
 
 ### Time Management
@@ -864,7 +864,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `Mobile` `Chromium` `Firefox` |  |
+| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` |  |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=for-the-badge&label=%20&color=white) |
 | [Pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=for-the-badge&label=%20&color=white) |
 
@@ -896,17 +896,17 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` |  |
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
-| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | `Cross` `CLI` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
-| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
+| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | `Cross` `CLI` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
+| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 
 ### VPN
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
+| [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
-| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `Mobile` |  |
+| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` |  |
 
 # Server - [Go to top](#contents)
 
@@ -1002,10 +1002,10 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
-| [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
-| [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
-| [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | `N/A` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
+| [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
+| [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
+| [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
 
 ### Surveillance
 
@@ -1073,7 +1073,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Better Notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. All in Zotero. | `Plugin` | ![GitHub Repo stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=for-the-badge&label=%20&color=white) |
+| [Better Notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. All in Zotero. | ``Plugin`` | ![GitHub Repo stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=for-the-badge&label=%20&color=white) |
 | [Blinko](https://github.com/blinko-space/blinko) | An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/blinko-space/blinko?style=for-the-badge&label=%20&color=white) |
 | [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=for-the-badge&label=%20&color=white) |
 | [jrnl](https://github.com/jrnl-org/jrnl) | Collect your thoughts and notes without leaving the command line. | `Cross` `CLI` | ![GitHub Repo stars](https://img.shields.io/github/stars/jrnl-org/jrnl?style=for-the-badge&label=%20&color=white) |
@@ -1192,7 +1192,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | `Cross` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
 | [OnionShare](https://github.com/onionshare/onionshare) | Securely and anonymously share files, host websites, and chat with friends using the Tor network | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/onionshare/onionshare?style=for-the-badge&label=%20&color=white) |
 | [PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup. | `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=for-the-badge&label=%20&color=white) |
 

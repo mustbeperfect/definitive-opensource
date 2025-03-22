@@ -7,7 +7,7 @@
 			"link": "https://github.com/OpenInterpreter/open-interpreter",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "agent"
 		},
@@ -19,8 +19,8 @@
 				"💥"
 			],
 			"platforms": [
-				"`MacOS`",
-				"`Windows`"
+				"MacOS",
+				"Windows"
 			],
 			"category": "agent"
 		},
@@ -30,8 +30,8 @@
 			"link": "https://github.com/gptme/gptme",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "agent"
 		},
@@ -41,7 +41,7 @@
 			"link": "https://github.com/Canner/WrenAI",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "agent"
 		},
@@ -51,7 +51,7 @@
 			"link": "https://github.com/TEN-framework/TEN-Agent",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "agent"
 		},
@@ -61,7 +61,7 @@
 			"link": "https://github.com/huginn/huginn",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "agent"
 		},
@@ -71,7 +71,7 @@
 			"link": "https://github.com/reworkd/AgentGPT",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "agent"
 		},
@@ -81,7 +81,7 @@
 			"link": "https://github.com/Significant-Gravitas/AutoGPT",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "agent"
 		},
@@ -91,8 +91,8 @@
 			"link": "https://github.com/influxdata/telegraf",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "agent"
 		},
@@ -102,7 +102,7 @@
 			"link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ai-image-gui"
 		},
@@ -112,7 +112,7 @@
 			"link": "https://github.com/comfyanonymous/ComfyUI",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ai-image-gui"
 		},
@@ -122,7 +122,7 @@
 			"link": "https://github.com/invoke-ai/InvokeAI",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "ai-image-gui"
 		},
@@ -132,7 +132,7 @@
 			"link": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ai-image-gui"
 		},
@@ -142,7 +142,7 @@
 			"link": "https://github.com/lllyasviel/Fooocus",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ai-image-gui"
 		},
@@ -152,7 +152,7 @@
 			"link": "https://github.com/vladmandic/sdnext",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ai-image-gui"
 		},
@@ -162,7 +162,7 @@
 			"link": "https://github.com/lutzroeder/netron",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "ai-utilities"
 		},
@@ -172,8 +172,8 @@
 			"link": "https://github.com/sigoden/aichat",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "all-in-one"
 		},
@@ -183,7 +183,7 @@
 			"link": "https://github.com/lobehub/lobe-chat",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "all-in-one"
 		},
@@ -193,7 +193,7 @@
 			"link": "https://github.com/khoj-ai/khoj",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "all-in-one"
 		},
@@ -203,7 +203,7 @@
 			"link": "https://github.com/leon-ai/leon",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "assistant"
 		},
@@ -213,9 +213,9 @@
 			"link": "https://github.com/Zipstack/unstract",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`Linux`",
-				"`SelfHost`"
+				"MacOS",
+				"Linux",
+				"SelfHost"
 			],
 			"category": "information-processing"
 		},
@@ -225,7 +225,7 @@
 			"link": "https://github.com/mendableai/firecrawl",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "information-processing"
 		},
@@ -235,7 +235,7 @@
 			"link": "https://github.com/BuilderIO/gpt-crawler",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "information-processing"
 		},
@@ -245,8 +245,8 @@
 			"link": "https://github.com/mufeedvh/code2prompt",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "information-processing"
 		},
@@ -256,8 +256,8 @@
 			"link": "https://github.com/yamadashy/repomix",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "information-processing"
 		},
@@ -267,8 +267,8 @@
 			"link": "https://github.com/DS4SD/docling",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "information-processing"
 		},
@@ -278,7 +278,7 @@
 			"link": "https://github.com/open-webui/open-webui",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "llm-gui"
 		},
@@ -288,7 +288,7 @@
 			"link": "https://github.com/nomic-ai/gpt4all",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "llm-gui"
 		},
@@ -298,7 +298,7 @@
 			"link": "https://github.com/janhq/jan",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "llm-gui"
 		},
@@ -308,7 +308,7 @@
 			"link": "https://github.com/Bin-Huang/chatbox",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "llm-gui"
 		},
@@ -318,7 +318,7 @@
 			"link": "https://github.com/oobabooga/text-generation-webui",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "llm-gui"
 		},
@@ -328,7 +328,7 @@
 			"link": "https://github.com/CherryHQ/cherry-studio",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "llm-gui"
 		},
@@ -338,7 +338,7 @@
 			"link": "https://github.com/SillyTavern/SillyTavern",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "llm-gui"
 		},
@@ -348,9 +348,9 @@
 			"link": "https://github.com/ChatGPTNextWeb/NextChat",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Mobile`",
-				"`Web`"
+				"Cross",
+				"CLI+",
+				"Web"
 			],
 			"category": "llm-gui"
 		},
@@ -360,7 +360,7 @@
 			"link": "https://github.com/danny-avila/LibreChat",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "llm-gui"
 		},
@@ -370,7 +370,7 @@
 			"link": "https://github.com/h2oai/h2ogpt",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "llm-gui"
 		},
@@ -382,9 +382,9 @@
 				"🌍"
 			],
 			"platforms": [
-				"`Cross`",
-				"`CLI`",
-				"`SelfHost`"
+				"Cross",
+				"CLI",
+				"SelfHost"
 			],
 			"category": "manager"
 		},
@@ -394,7 +394,7 @@
 			"link": "https://github.com/LykosAI/StabilityMatrix",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "manager"
 		},
@@ -404,8 +404,8 @@
 			"link": "https://github.com/hiyouga/LLaMA-Factory",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "model-tools"
 		},
@@ -415,8 +415,8 @@
 			"link": "https://github.com/Lightning-AI/pytorch-lightning",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "model-tools"
 		},
@@ -426,8 +426,8 @@
 			"link": "https://github.com/agno-agi/agno",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "model-tools"
 		},
@@ -437,7 +437,7 @@
 			"link": "https://github.com/Kiln-AI/Kiln",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "model-tools"
 		},
@@ -447,7 +447,7 @@
 			"link": "https://github.com/Mintplex-Labs/anything-llm",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "rag"
 		},
@@ -457,7 +457,7 @@
 			"link": "https://github.com/Cinnamon/kotaemon",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "rag"
 		},
@@ -467,7 +467,7 @@
 			"link": "https://github.com/weaviate/Verba",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "rag"
 		},
@@ -477,7 +477,7 @@
 			"link": "https://github.com/infiniflow/ragflow",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "rag"
 		},
@@ -487,8 +487,8 @@
 			"link": "https://github.com/Future-House/paper-qa",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "rag"
 		},
@@ -498,8 +498,8 @@
 			"link": "https://github.com/SciPhi-AI/R2R",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "rag"
 		},
@@ -509,7 +509,7 @@
 			"link": "https://github.com/pingcap/autoflow",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "rag"
 		},
@@ -519,8 +519,8 @@
 			"link": "https://github.com/arc53/DocsGPT",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "rag"
 		},
@@ -530,8 +530,8 @@
 			"link": "https://github.com/zilliztech/deep-searcher",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "research"
 		},
@@ -541,9 +541,9 @@
 			"link": "https://github.com/assafelovic/gpt-researcher",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`",
-				"`SelfHost`"
+				"Cross",
+				"CLI+",
+				"SelfHost"
 			],
 			"category": "research"
 		},
@@ -553,7 +553,7 @@
 			"link": "https://github.com/signalapp",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "chat"
 		},
@@ -563,7 +563,7 @@
 			"link": "https://github.com/telegramdesktop/tdesktop",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "chat"
 		},
@@ -573,9 +573,9 @@
 			"link": "https://github.com/simplex-chat/simplex-chat",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`",
-				"`Mobile`"
+				"Cross",
+				"CLI",
+				"CLI+"
 			],
 			"category": "chat"
 		},
@@ -585,7 +585,7 @@
 			"link": "https://github.com/mattermost/mattermost",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "collaboration"
 		},
@@ -595,8 +595,8 @@
 			"link": "https://github.com/zulip/zulip",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "collaboration"
 		},
@@ -606,8 +606,8 @@
 			"link": "https://github.com/RocketChat/Rocket.Chat",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "collaboration"
 		},
@@ -617,7 +617,7 @@
 			"link": "https://github.com/Foundry376/Mailspring",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "mail"
 		},
@@ -627,7 +627,7 @@
 			"link": "https://github.com/thunderbird",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "mail"
 		},
@@ -637,8 +637,8 @@
 			"link": "https://github.com/jitsi/jitsi-meet",
 			"tags": [],
 			"platforms": [
-				"`Mobile`",
-				"`Web`"
+				"CLI+",
+				"Web"
 			],
 			"category": "video-conference"
 		},
@@ -648,8 +648,8 @@
 			"link": "https://github.com/element-hq",
 			"tags": [],
 			"platforms": [
-				"`Mobile`",
-				"`Web`"
+				"CLI+",
+				"Web"
 			],
 			"category": "video-conference"
 		},
@@ -659,8 +659,8 @@
 			"link": "https://github.com/kopia/kopia",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "backup"
 		},
@@ -670,8 +670,8 @@
 			"link": "https://github.com/restic/restic",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "backup"
 		},
@@ -681,7 +681,7 @@
 			"link": "https://github.com/duplicati/duplicati",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "backup"
 		},
@@ -691,8 +691,8 @@
 			"link": "https://github.com/borgbackup/borg",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "backup"
 		},
@@ -702,8 +702,8 @@
 			"link": "https://github.com/rclone/rclone",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "backup"
 		},
@@ -713,7 +713,7 @@
 			"link": "https://github.com/linuxmint/timeshift",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "backup"
 		},
@@ -723,8 +723,8 @@
 			"link": "https://github.com/garethgeorge/backrest",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "backup"
 		},
@@ -734,8 +734,8 @@
 			"link": "https://github.com/gilbertchen/duplicacy",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "backup"
 		},
@@ -745,8 +745,8 @@
 			"link": "https://github.com/nextcloud/server",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "storage"
 		},
@@ -756,9 +756,9 @@
 			"link": "https://github.com/haiwen/seafile",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Mobile`",
-				"`SelfHost`"
+				"Cross",
+				"CLI+",
+				"SelfHost"
 			],
 			"category": "storage"
 		},
@@ -768,7 +768,7 @@
 			"link": "https://github.com/owncloud/core",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "storage"
 		},
@@ -778,7 +778,7 @@
 			"link": "https://github.com/ceph/ceph",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "storage"
 		},
@@ -788,7 +788,7 @@
 			"link": "https://github.com/subnub/myDrive",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "storage"
 		},
@@ -798,8 +798,8 @@
 			"link": "https://github.com/syncthing/syncthing",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "sync"
 		},
@@ -809,8 +809,8 @@
 			"link": "https://github.com/syncthing/syncthing-macos",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`CLI+`"
+				"MacOS",
+				"CLI+"
 			],
 			"category": "sync"
 		},
@@ -820,8 +820,8 @@
 			"link": "https://github.com/RsyncProject/rsync",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "sync"
 		},
@@ -831,9 +831,9 @@
 			"link": "https://github.com/TabbyML/tabby",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`VSCode`",
-				"`JetBrains`"
+				"SelfHost",
+				"VSCode",
+				"JetBrains"
 			],
 			"category": "code-assistant"
 		},
@@ -843,8 +843,8 @@
 			"link": "https://github.com/continuedev/continue",
 			"tags": [],
 			"platforms": [
-				"`VSCode`",
-				"`JetBrains`"
+				"VSCode",
+				"JetBrains"
 			],
 			"category": "code-assistant"
 		},
@@ -854,7 +854,7 @@
 			"link": "https://github.com/cline/cline",
 			"tags": [],
 			"platforms": [
-				"`VSCode`"
+				"VSCode"
 			],
 			"category": "code-assistant"
 		},
@@ -864,8 +864,8 @@
 			"link": "https://github.com/block/goose",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "code-assistant"
 		},
@@ -875,8 +875,8 @@
 			"link": "https://github.com/geekan/MetaGPT",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "code-assistant"
 		},
@@ -886,7 +886,7 @@
 			"link": "https://github.com/RooVetGit/Roo-Code",
 			"tags": [],
 			"platforms": [
-				"`VSCode`"
+				"VSCode"
 			],
 			"category": "code-assistant"
 		},
@@ -896,8 +896,8 @@
 			"link": "https://github.com/sourcegraph/cody",
 			"tags": [],
 			"platforms": [
-				"`VSCode`",
-				"`JetBrains`"
+				"VSCode",
+				"JetBrains"
 			],
 			"category": "code-assistant"
 		},
@@ -907,8 +907,8 @@
 			"link": "https://github.com/plandex-ai/plandex",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-assistant"
 		},
@@ -918,8 +918,8 @@
 			"link": "https://github.com/Pythagora-io/gpt-pilot",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-assistant"
 		},
@@ -929,8 +929,8 @@
 			"link": "https://github.com/Aider-AI/aider",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-assistant"
 		},
@@ -940,8 +940,8 @@
 			"link": "https://github.com/All-Hands-AI/OpenHands",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "code-assistant"
 		},
@@ -953,8 +953,8 @@
 				"🟥"
 			],
 			"platforms": [
-				"`MacOS`",
-				"`Linux`"
+				"MacOS",
+				"Linux"
 			],
 			"category": "code-editor"
 		},
@@ -964,8 +964,8 @@
 			"link": "https://github.com/helix-editor/helix",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -975,7 +975,7 @@
 			"link": "https://github.com/lapce/lapce",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "code-editor"
 		},
@@ -987,8 +987,8 @@
 				"🌍"
 			],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -998,8 +998,8 @@
 			"link": "https://github.com/neovim/neovim",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -1009,8 +1009,8 @@
 			"link": "https://github.com/SpaceVim/SpaceVim",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -1020,8 +1020,8 @@
 			"link": "https://github.com/NvChad/NvChad",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -1031,8 +1031,8 @@
 			"link": "https://github.com/LazyVim/LazyVim",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "code-editor"
 		},
@@ -1042,7 +1042,7 @@
 			"link": "https://github.com/microsoft/vscode",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "code-editor"
 		},
@@ -1052,7 +1052,7 @@
 			"link": "https://github.com/VSCodium/vscodium",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "code-editor"
 		},
@@ -1062,7 +1062,7 @@
 			"link": "https://github.com/CodeEditApp/CodeEdit",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "code-editor"
 		},
@@ -1072,7 +1072,7 @@
 			"link": "https://github.com/coder/code-server",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "code-editor"
 		},
@@ -1082,8 +1082,8 @@
 			"link": "https://github.com/voideditor/void",
 			"tags": [],
 			"platforms": [
-				"`Windows`",
-				"`MacOS`"
+				"Windows",
+				"MacOS"
 			],
 			"category": "code-editor"
 		},
@@ -1093,7 +1093,7 @@
 			"link": "https://github.com/DevToys-app/DevToys",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "dev-tools"
 		},
@@ -1103,7 +1103,7 @@
 			"link": "https://github.com/massCodeIO/massCode",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "dev-tools"
 		},
@@ -1113,8 +1113,8 @@
 			"link": "https://github.com/watchexec/watchexec",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "dev-tools"
 		},
@@ -1124,8 +1124,8 @@
 			"link": "https://github.com/sharkdp/bat",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "dev-tools"
 		},
@@ -1135,7 +1135,7 @@
 			"link": "https://github.com/godotengine/godot",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "game-engine"
 		},
@@ -1145,7 +1145,7 @@
 			"link": "https://github.com/4ian/GDevelop",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "game-engine"
 		},
@@ -1155,7 +1155,7 @@
 			"link": "https://github.com/desktop/desktop",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "git-gui"
 		},
@@ -1165,7 +1165,7 @@
 			"link": "https://github.com/JetBrains/intellij-community",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "ide"
 		},
@@ -1175,8 +1175,8 @@
 			"link": "https://github.com/yarnpkg/berry",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "language-package-manager"
 		},
@@ -1186,8 +1186,8 @@
 			"link": "https://github.com/pnpm/pnpm",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "language-package-manager"
 		},
@@ -1197,8 +1197,8 @@
 			"link": "https://github.com/oven-sh/bun",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "language-package-manager"
 		},
@@ -1208,8 +1208,8 @@
 			"link": "https://github.com/astral-sh/uv",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "language-package-manager"
 		},
@@ -1219,7 +1219,7 @@
 			"link": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "game-launcher"
 		},
@@ -1229,7 +1229,7 @@
 			"link": "https://github.com/JosefNemec/Playnite/",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "game-launcher"
 		},
@@ -1239,7 +1239,7 @@
 			"link": "https://github.com/rommapp/romm",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "game-launcher"
 		},
@@ -1249,7 +1249,7 @@
 			"link": "https://github.com/pelican-dev/panel",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "game-launcher"
 		},
@@ -1259,7 +1259,7 @@
 			"link": "https://github.com/endless-sky/endless-sky",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "games"
 		},
@@ -1269,7 +1269,7 @@
 			"link": "https://github.com/CleverRaven/Cataclysm-DDA",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "games"
 		},
@@ -1279,8 +1279,8 @@
 			"link": "https://github.com/yairm210/Unciv",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Android`"
+				"Cross",
+				"Android"
 			],
 			"category": "games"
 		},
@@ -1290,7 +1290,7 @@
 			"link": "https://github.com/wesnoth/wesnoth",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "games"
 		},
@@ -1300,7 +1300,7 @@
 			"link": "https://github.com/veloren/veloren",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "games"
 		},
@@ -1310,7 +1310,7 @@
 			"link": "https://github.com/lichess-org/lila",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "games"
 		},
@@ -1320,7 +1320,7 @@
 			"link": "https://github.com/OpenRA/OpenRA",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "games"
 		},
@@ -1330,8 +1330,8 @@
 			"link": "https://github.com/gorhill/uBlock",
 			"tags": [],
 			"platforms": [
-				"`Chromium`",
-				"`Firefox`"
+				"Chromium",
+				"Firefox"
 			],
 			"category": "browser-extensions"
 		},
@@ -1341,8 +1341,8 @@
 			"link": "https://github.com/darkreader/darkreader",
 			"tags": [],
 			"platforms": [
-				"`Chromium`",
-				"`Firefox`"
+				"Chromium",
+				"Firefox"
 			],
 			"category": "browser-extensions"
 		},
@@ -1352,8 +1352,8 @@
 			"link": "https://github.com/n4ze3m/page-assist",
 			"tags": [],
 			"platforms": [
-				"`Chromium`",
-				"`Firefox`"
+				"Chromium",
+				"Firefox"
 			],
 			"category": "browser-extensions"
 		},
@@ -1423,7 +1423,7 @@
 			"link": "https://github.com/zen-browser/desktop",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "browser"
 		},
@@ -1433,7 +1433,7 @@
 			"link": "https://github.com/brave/brave-browser",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "browser"
 		},
@@ -1443,7 +1443,7 @@
 			"link": "https://github.com/Floorp-Projects/Floorp",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "browser"
 		},
@@ -1453,7 +1453,7 @@
 			"link": "https://github.com/minbrowser/min",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "browser"
 		},
@@ -1463,7 +1463,7 @@
 			"link": "https://github.com/lencx/Noi",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "browser"
 		},
@@ -1473,7 +1473,7 @@
 			"link": "https://github.com/m1k1o/neko",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "browser"
 		},
@@ -1483,7 +1483,7 @@
 			"link": "https://github.com/GopeedLab/gopeed",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "download-manager"
 		},
@@ -1493,7 +1493,7 @@
 			"link": "https://github.com/amir1376/ab-download-manager",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "download-manager"
 		},
@@ -1503,7 +1503,7 @@
 			"link": "https://github.com/persepolisdm/persepolis",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "download-manager"
 		},
@@ -1513,7 +1513,7 @@
 			"link": "https://github.com/filecxx/FileCentipede",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "download-manager"
 		},
@@ -1523,7 +1523,7 @@
 			"link": "https://github.com/ItzCrazyKns/Perplexica",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "search-engine"
 		},
@@ -1533,8 +1533,8 @@
 			"link": "https://github.com/zaidmukaddam/scira",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "search-engine"
 		},
@@ -1544,7 +1544,7 @@
 			"link": "https://github.com/audacity/audacity",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "audio-editor"
 		},
@@ -1554,7 +1554,7 @@
 			"link": "https://github.com/stakira/OpenUtau",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "audio-editor"
 		},
@@ -1564,7 +1564,7 @@
 			"link": "https://github.com/KRTirtho/spotube",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "audio-player"
 		},
@@ -1574,8 +1574,8 @@
 			"link": "https://github.com/jeffvli/feishin",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "audio-player"
 		},
@@ -1585,7 +1585,7 @@
 			"link": "https://github.com/dweymouth/supersonic",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "audio-player"
 		},
@@ -1595,8 +1595,8 @@
 			"link": "https://github.com/navidrome/navidrome",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "audio-player"
 		},
@@ -1606,7 +1606,7 @@
 			"link": "https://github.com/GraphiteEditor/Graphite",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "graphics"
 		},
@@ -1616,7 +1616,7 @@
 			"link": "https://github.com/FreeCAD/FreeCAD",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1626,7 +1626,7 @@
 			"link": "https://github.com/blender/blender",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1636,7 +1636,7 @@
 			"link": "https://github.com/gaphor/gaphor",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1646,7 +1646,7 @@
 			"link": "https://github.com/darktable-org/darktable",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1656,7 +1656,7 @@
 			"link": "https://github.com/RawTherapee/RawTherapee",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1666,7 +1666,7 @@
 			"link": "https://github.com/penpot/penpot",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "graphics"
 		},
@@ -1676,7 +1676,7 @@
 			"link": "https://github.com/openscad/openscad",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1686,7 +1686,7 @@
 			"link": "https://github.com/CadQuery/cadquery",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1696,7 +1696,7 @@
 			"link": "https://github.com/KDE/krita",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "graphics"
 		},
@@ -1706,7 +1706,7 @@
 			"link": "https://github.com/upscayl/upscayl",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "image-processing"
 		},
@@ -1716,7 +1716,7 @@
 			"link": "https://github.com/chaiNNer-org/chaiNNer",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "image-processing"
 		},
@@ -1726,8 +1726,8 @@
 			"link": "https://github.com/yt-dlp/yt-dlp",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "media-downloader"
 		},
@@ -1737,7 +1737,7 @@
 			"link": "https://github.com/Tyrrrz/YoutubeDownloader",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "media-downloader"
 		},
@@ -1747,7 +1747,7 @@
 			"link": "https://github.com/imputnet/cobalt",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "media-downloader"
 		},
@@ -1757,7 +1757,7 @@
 			"link": "https://github.com/obsproject/obs-studio",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "screen-recording"
 		},
@@ -1767,7 +1767,7 @@
 			"link": "https://github.com/ShareX/ShareX",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "screen-recording"
 		},
@@ -1777,7 +1777,7 @@
 			"link": "https://github.com/CapSoftware/Cap",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "screen-recording"
 		},
@@ -1787,7 +1787,7 @@
 			"link": "https://github.com/flameshot-org/flameshot",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "screen-recording"
 		},
@@ -1797,7 +1797,7 @@
 			"link": "https://github.com/KDE/kdenlive",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-editing"
 		},
@@ -1807,7 +1807,7 @@
 			"link": "https://github.com/mltframework/shotcut",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-editing"
 		},
@@ -1817,7 +1817,7 @@
 			"link": "https://github.com/olive-editor/olive",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-editing"
 		},
@@ -1827,7 +1827,7 @@
 			"link": "https://github.com/mifi/lossless-cut",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-editing"
 		},
@@ -1837,7 +1837,7 @@
 			"link": "https://github.com/NatronGitHub/Natron",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-editing"
 		},
@@ -1847,7 +1847,7 @@
 			"link": "https://github.com/mpv-player/mpv",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-player"
 		},
@@ -1857,7 +1857,7 @@
 			"link": "https://github.com/iina/iina",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "video-player"
 		},
@@ -1867,7 +1867,7 @@
 			"link": "https://github.com/videolan/vlc",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-player"
 		},
@@ -1877,7 +1877,7 @@
 			"link": "https://github.com/HandBrake/HandBrake",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "video-transcoder"
 		},
@@ -1887,7 +1887,7 @@
 			"link": "https://github.com/Fallenbagel/jellyseerr",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1897,8 +1897,8 @@
 			"link": "https://github.com/autobrr/autobrr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1908,9 +1908,9 @@
 			"link": "https://github.com/sct/overseerr",
 			"tags": [],
 			"platforms": [
-				"`Windows`",
-				"`Linux`",
-				"`SelfHost`"
+				"Windows",
+				"Linux",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1920,8 +1920,8 @@
 			"link": "https://github.com/Sonarr/Sonarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1931,8 +1931,8 @@
 			"link": "https://github.com/Prowlarr/Prowlarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1942,8 +1942,8 @@
 			"link": "https://github.com/Radarr/Radarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1953,8 +1953,8 @@
 			"link": "https://github.com/Readarr/Readarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1964,8 +1964,8 @@
 			"link": "https://github.com/Lidarr/Lidarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1975,8 +1975,8 @@
 			"link": "https://github.com/morpheus65535/bazarr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "arr"
 		},
@@ -1986,7 +1986,7 @@
 			"link": "https://github.com/cockpit-project/cockpit",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "dashboard"
 		},
@@ -1996,7 +1996,7 @@
 			"link": "https://github.com/glanceapp/glance",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2006,7 +2006,7 @@
 			"link": "https://github.com/Lissy93/dashy",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2016,7 +2016,7 @@
 			"link": "https://github.com/gethomepage/homepage",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2026,7 +2026,7 @@
 			"link": "https://github.com/MauriceNino/dashdot",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2036,7 +2036,7 @@
 			"link": "https://github.com/linuxserver/Heimdall",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2046,7 +2046,7 @@
 			"link": "https://github.com/bastienwirtz/homer",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "dashboard"
 		},
@@ -2056,8 +2056,8 @@
 			"link": "https://github.com/home-assistant/core",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "home-automation"
 		},
@@ -2067,7 +2067,7 @@
 			"link": "https://github.com/domoticz/domoticz",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-automation"
 		},
@@ -2077,7 +2077,7 @@
 			"link": "https://github.com/GladysAssistant/Gladys",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-automation"
 		},
@@ -2087,7 +2087,7 @@
 			"link": "https://github.com/esphome/esphome",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-automation"
 		},
@@ -2097,7 +2097,7 @@
 			"link": "https://github.com/runtipi/runtipi",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-server"
 		},
@@ -2107,7 +2107,7 @@
 			"link": "https://github.com/caprover/caprover",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "home-server"
 		},
@@ -2117,7 +2117,7 @@
 			"link": "https://github.com/IceWhaleTech/CasaOS",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "home-server"
 		},
@@ -2127,7 +2127,7 @@
 			"link": "https://github.com/azukaar/Cosmos-Server",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-server"
 		},
@@ -2137,7 +2137,7 @@
 			"link": "https://github.com/sandstorm-io/sandstorm",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "home-server"
 		},
@@ -2147,7 +2147,7 @@
 			"link": "https://github.com/immich-app/immich",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2157,7 +2157,7 @@
 			"link": "https://github.com/photoprism/photoprism",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2167,7 +2167,7 @@
 			"link": "https://github.com/jellyfin/jellyfin",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2177,7 +2177,7 @@
 			"link": "https://github.com/ente-io/ente",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "media-management"
 		},
@@ -2187,8 +2187,8 @@
 			"link": "https://github.com/xbmc/xbmc",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2198,9 +2198,9 @@
 			"link": "https://github.com/advplyr/audiobookshelf",
 			"tags": [],
 			"platforms": [
-				"`IOS`",
-				"`Android`",
-				"`SelfHost`"
+				"IOS",
+				"Android",
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2210,7 +2210,7 @@
 			"link": "https://github.com/pulsejet/memories",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2220,7 +2220,7 @@
 			"link": "https://github.com/Librum-Reader/Librum",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2230,7 +2230,7 @@
 			"link": "https://github.com/LibrePhotos/librephotos",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2240,7 +2240,7 @@
 			"link": "https://github.com/Kareadita/Kavita",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2250,7 +2250,7 @@
 			"link": "https://github.com/Piwigo/Piwigo",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2260,7 +2260,7 @@
 			"link": "https://github.com/janeczku/calibre-web",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2270,7 +2270,7 @@
 			"link": "https://github.com/LycheeOrg/Lychee",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "media-management"
 		},
@@ -2280,7 +2280,7 @@
 			"link": "https://github.com/koush/scrypted",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "surveillance"
 		},
@@ -2290,7 +2290,7 @@
 			"link": "https://github.com/blakeblackshear/frigate",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "surveillance"
 		},
@@ -2300,7 +2300,7 @@
 			"link": "https://github.com/ZoneMinder/zoneminder",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "surveillance"
 		},
@@ -2310,7 +2310,7 @@
 			"link": "https://github.com/marticliment/UniGetUI",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "windows"
 		},
@@ -2320,7 +2320,7 @@
 			"link": "https://github.com/TheBoredTeam/boring.notch",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2330,7 +2330,7 @@
 			"link": "https://github.com/jordanbaird/Ice",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2340,7 +2340,7 @@
 			"link": "https://github.com/buresdv/Cork",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2350,7 +2350,7 @@
 			"link": "https://github.com/milanvarady/Applite",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "macos"
 		},
@@ -2360,7 +2360,7 @@
 			"link": "https://github.com/newmarcel/KeepingYouAwake",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2370,7 +2370,7 @@
 			"link": "https://github.com/lwouis/alt-tab-macos",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2380,7 +2380,7 @@
 			"link": "https://github.com/FelixKratz/SketchyBar",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2390,7 +2390,7 @@
 			"link": "https://github.com/swiftbar/SwiftBar",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2400,7 +2400,7 @@
 			"link": "https://github.com/alin23/Lunar",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2410,7 +2410,7 @@
 			"link": "https://github.com/linearmouse/linearmouse",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2420,7 +2420,7 @@
 			"link": "https://github.com/jacklandrin/OnlySwitch",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2430,7 +2430,7 @@
 			"link": "https://github.com/leits/MeetingBar",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2440,7 +2440,7 @@
 			"link": "https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "macos"
 		},
@@ -2450,7 +2450,7 @@
 			"link": "https://github.com/tchx84/Flatseal",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "linux"
 		},
@@ -2460,7 +2460,7 @@
 			"link": "https://github.com/mjakeman/extension-manager",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "linux"
 		},
@@ -2510,8 +2510,8 @@
 			"link": "https://github.com/jarun/buku",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2521,7 +2521,7 @@
 			"link": "https://github.com/linkwarden/linkwarden",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2531,7 +2531,7 @@
 			"link": "https://github.com/sissbruecker/linkding",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2541,7 +2541,7 @@
 			"link": "https://github.com/hoarder-app/hoarder",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2551,7 +2551,7 @@
 			"link": "https://github.com/go-shiori/shiori",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2561,7 +2561,7 @@
 			"link": "https://github.com/wallabag/wallabag",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "bookmark-manager"
 		},
@@ -2571,9 +2571,9 @@
 			"link": "https://github.com/eikek/docspell",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`CLI+`",
-				"`Android`"
+				"SelfHost",
+				"CLI+",
+				"Android"
 			],
 			"category": "document-management"
 		},
@@ -2583,7 +2583,7 @@
 			"link": "https://github.com/paperless-ngx/paperless-ngx",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "document-management"
 		},
@@ -2593,7 +2593,7 @@
 			"link": "https://github.com/tagspaces/tagspaces",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "document-management"
 		},
@@ -2603,7 +2603,7 @@
 			"link": "https://github.com/calcom/cal.com",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "calendar"
 		},
@@ -2613,9 +2613,9 @@
 			"link": "https://github.com/Stirling-Tools/Stirling-PDF",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`Windows`",
-				"`SelfHost`"
+				"MacOS",
+				"Windows",
+				"SelfHost"
 			],
 			"category": "document-modifier"
 		},
@@ -2625,7 +2625,7 @@
 			"link": "https://github.com/docusealco/docuseal",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "document-modifier"
 		},
@@ -2635,8 +2635,8 @@
 			"link": "https://github.com/ocrmypdf/OCRmyPDF",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "document-modifier"
 		},
@@ -2646,8 +2646,8 @@
 			"link": "https://github.com/documenso/documenso",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "document-modifier"
 		},
@@ -2657,8 +2657,8 @@
 			"link": "https://github.com/OpenSignLabs/OpenSign",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "document-modifier"
 		},
@@ -2668,7 +2668,7 @@
 			"link": "https://github.com/maybe-finance/maybe",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "finance"
 		},
@@ -2678,8 +2678,8 @@
 			"link": "https://github.com/actualbudget/actual",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Cross`"
+				"SelfHost",
+				"Cross"
 			],
 			"category": "finance"
 		},
@@ -2689,7 +2689,7 @@
 			"link": "https://github.com/ghostfolio/ghostfolio",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "finance"
 		},
@@ -2699,7 +2699,7 @@
 			"link": "https://github.com/ellite/Wallos",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "finance"
 		},
@@ -2709,7 +2709,7 @@
 			"link": "https://github.com/firefly-iii/firefly-iii",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "finance"
 		},
@@ -2719,7 +2719,7 @@
 			"link": "https://github.com/logseq/logseq",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2729,7 +2729,7 @@
 			"link": "https://github.com/anyproto/anytype-ts",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2741,7 +2741,7 @@
 				"🟥"
 			],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2751,7 +2751,7 @@
 			"link": "https://github.com/toeverything/AFFiNE",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2761,7 +2761,7 @@
 			"link": "https://github.com/outline/outline",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2771,7 +2771,7 @@
 			"link": "https://github.com/siyuan-note/siyuan",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2781,7 +2781,7 @@
 			"link": "https://github.com/labring/FastGPT",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "knowledge-base"
 		},
@@ -2791,7 +2791,7 @@
 			"link": "https://github.com/foambubble/foam",
 			"tags": [],
 			"platforms": [
-				"`VSCode`"
+				"VSCode"
 			],
 			"category": "knowledge-base"
 		},
@@ -2801,8 +2801,8 @@
 			"link": "https://github.com/makeplane/plane",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "project-management"
 		},
@@ -2812,8 +2812,8 @@
 			"link": "https://github.com/mattermost-community/focalboard",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "project-management"
 		},
@@ -2823,8 +2823,8 @@
 			"link": "https://github.com/hcengineering/platform",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "project-management"
 		},
@@ -2834,7 +2834,7 @@
 			"link": "https://github.com/opf/openproject",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "project-management"
 		},
@@ -2844,7 +2844,7 @@
 			"link": "https://github.com/Leantime/leantime",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "project-management"
 		},
@@ -2854,7 +2854,7 @@
 			"link": "https://github.com/johannesjo/super-productivity",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "task-management"
 		},
@@ -2864,8 +2864,8 @@
 			"link": "https://github.com/plankanban/planka",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Mobile`"
+				"SelfHost",
+				"CLI+"
 			],
 			"category": "task-management"
 		},
@@ -2875,8 +2875,8 @@
 			"link": "https://github.com/solidtime-io/solidtime",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "time-management"
 		},
@@ -2886,8 +2886,8 @@
 			"link": "https://github.com/ActivityWatch/activitywatch",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Android`"
+				"Cross",
+				"Android"
 			],
 			"category": "time-management"
 		},
@@ -2897,7 +2897,7 @@
 			"link": "https://github.com/0xERR0R/blocky",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ad-blocker"
 		},
@@ -2907,10 +2907,10 @@
 			"link": "https://github.com/AdguardTeam",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Mobile`",
-				"`Chromium`",
-				"`Firefox`"
+				"SelfHost",
+				"CLI+",
+				"Chromium",
+				"Firefox"
 			],
 			"category": "ad-blocker"
 		},
@@ -2920,7 +2920,7 @@
 			"link": "https://github.com/pi-hole/pi-hole",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "ad-blocker"
 		},
@@ -2930,8 +2930,8 @@
 			"link": "https://github.com/Cisco-Talos/clamav",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`SelfHost`"
+				"Cross",
+				"SelfHost"
 			],
 			"category": "antivirus"
 		},
@@ -2941,7 +2941,7 @@
 			"link": "https://github.com/Bubka/2FAuth",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "authentication"
 		},
@@ -2951,7 +2951,7 @@
 			"link": "https://github.com/authelia/authelia",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "authentication"
 		},
@@ -2961,7 +2961,7 @@
 			"link": "https://github.com/tailscale/tailscale",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "authentication"
 		},
@@ -2971,7 +2971,7 @@
 			"link": "https://github.com/beemdevelopment/Aegis",
 			"tags": [],
 			"platforms": [
-				"`Android`"
+				"Android"
 			],
 			"category": "authentication"
 		},
@@ -2981,7 +2981,7 @@
 			"link": "https://github.com/bunkerity/bunkerweb",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "firewall"
 		},
@@ -2991,7 +2991,7 @@
 			"link": "https://github.com/chaitin/SafeLine",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "firewall"
 		},
@@ -3001,7 +3001,7 @@
 			"link": "https://github.com/bitwarden",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "password-manager"
 		},
@@ -3011,7 +3011,7 @@
 			"link": "https://github.com/keepassxreboot/keepassxc",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "password-manager"
 		},
@@ -3021,7 +3021,7 @@
 			"link": "https://github.com/dani-garcia/vaultwarden",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "password-manager"
 		},
@@ -3031,11 +3031,11 @@
 			"link": "https://github.com/lesspass/lesspass",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`",
-				"`Mobile`",
-				"`Chromium`",
-				"`Firefox`"
+				"Cross",
+				"CLI",
+				"CLI+",
+				"Chromium",
+				"Firefox"
 			],
 			"category": "password-manager"
 		},
@@ -3045,12 +3045,12 @@
 			"link": "https://github.com/passbolt/passbolt_api",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`",
-				"`SelfHost`",
-				"`Mobile`",
-				"`Chromium`",
-				"`Firefox`"
+				"Cross",
+				"CLI+",
+				"SelfHost",
+				"CLI+",
+				"Chromium",
+				"Firefox"
 			],
 			"category": "password-manager"
 		},
@@ -3060,8 +3060,8 @@
 			"link": "https://github.com/amnezia-vpn/amnezia-client",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Mobile`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "vpn"
 		},
@@ -3071,7 +3071,7 @@
 			"link": "https://github.com/netbirdio/netbird",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "vpn"
 		},
@@ -3081,8 +3081,8 @@
 			"link": "https://github.com/ProtonVPN",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Mobile`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "vpn"
 		},
@@ -3092,8 +3092,8 @@
 			"link": "https://github.com/fish-shell/fish-shell",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "shell"
 		},
@@ -3103,8 +3103,8 @@
 			"link": "https://github.com/xonsh/xonsh",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "shell"
 		},
@@ -3114,8 +3114,8 @@
 			"link": "https://github.com/nushell/nushell",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "shell"
 		},
@@ -3125,7 +3125,7 @@
 			"link": "https://github.com/kovidgoyal/kitty",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3135,7 +3135,7 @@
 			"link": "https://github.com/wez/wezterm",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3145,7 +3145,7 @@
 			"link": "https://github.com/wavetermdev/waveterm",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3155,7 +3155,7 @@
 			"link": "https://github.com/alacritty/alacritty",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3165,7 +3165,7 @@
 			"link": "https://github.com/Eugeny/tabby",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3175,7 +3175,7 @@
 			"link": "https://github.com/raphamorim/rio",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "terminal-emulator"
 		},
@@ -3185,8 +3185,8 @@
 			"link": "https://github.com/zellij-org/zellij",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-multiplexer"
 		},
@@ -3196,8 +3196,8 @@
 			"link": "https://github.com/tmux/tmux",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-multiplexer"
 		},
@@ -3207,8 +3207,8 @@
 			"link": "https://github.com/atuinsh/atuin",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3218,8 +3218,8 @@
 			"link": "https://github.com/ohmyzsh/ohmyzsh",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3229,8 +3229,8 @@
 			"link": "https://github.com/cantino/mcfly",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3240,8 +3240,8 @@
 			"link": "https://github.com/ajeetdsouza/zoxide",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3251,8 +3251,8 @@
 			"link": "https://github.com/zsh-users/zsh-autosuggestions",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3262,8 +3262,8 @@
 			"link": "https://github.com/TheR1D/shell_gpt",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "terminal-utilities"
 		},
@@ -3273,8 +3273,8 @@
 			"link": "https://github.com/ether/etherpad-lite",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "document-editor"
 		},
@@ -3284,7 +3284,7 @@
 			"link": "https://github.com/Zettlr/Zettlr",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "markdown-editor"
 		},
@@ -3294,7 +3294,7 @@
 			"link": "https://github.com/hedgedoc/hedgedoc",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "markdown-editor"
 		},
@@ -3304,7 +3304,7 @@
 			"link": "https://github.com/laurent22/joplin",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3314,7 +3314,7 @@
 			"link": "https://github.com/streetwriters/notesnook",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3324,9 +3324,9 @@
 			"link": "https://github.com/standardnotes/app",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`IOS`",
-				"`Android`"
+				"Cross",
+				"IOS",
+				"Android"
 			],
 			"category": "note-taking"
 		},
@@ -3336,9 +3336,9 @@
 			"link": "https://github.com/Automattic/simplenote-electron",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`IOS`",
-				"`Android`"
+				"Cross",
+				"IOS",
+				"Android"
 			],
 			"category": "note-taking"
 		},
@@ -3358,7 +3358,7 @@
 			"link": "https://github.com/usememos/memos",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "note-taking"
 		},
@@ -3368,7 +3368,7 @@
 			"link": "https://github.com/blinko-space/blinko",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "note-taking"
 		},
@@ -3378,7 +3378,7 @@
 			"link": "https://github.com/flxzt/rnote",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3388,7 +3388,7 @@
 			"link": "https://github.com/silverbulletmd/silverbullet",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3398,7 +3398,7 @@
 			"link": "https://github.com/reorproject/reor",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3408,7 +3408,7 @@
 			"link": "https://github.com/vnotex/vnote",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "note-taking"
 		},
@@ -3418,8 +3418,8 @@
 			"link": "https://github.com/xwmx/nb",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "note-taking"
 		},
@@ -3429,8 +3429,8 @@
 			"link": "https://github.com/jrnl-org/jrnl",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "note-taking"
 		},
@@ -3440,7 +3440,7 @@
 			"link": "https://github.com/ONLYOFFICE/DesktopEditors",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "office-suite"
 		},
@@ -3450,7 +3450,7 @@
 			"link": "https://github.com/libreoffice",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "office-suite"
 		},
@@ -3460,7 +3460,7 @@
 			"link": "https://github.com/cryptpad/cryptpad",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "office-suite"
 		},
@@ -3470,7 +3470,7 @@
 			"link": "https://github.com/automattic/harper",
 			"tags": [],
 			"platforms": [
-				"`VSCode`"
+				"VSCode"
 			],
 			"category": "proofreading"
 		},
@@ -3480,8 +3480,8 @@
 			"link": "https://github.com/languagetool-org/languagetool",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "proofreading"
 		},
@@ -3491,7 +3491,7 @@
 			"link": "https://github.com/theJayTea/WritingTools",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "proofreading"
 		},
@@ -3501,8 +3501,8 @@
 			"link": "https://github.com/gristlabs/grist-core",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`",
-				"`Web`"
+				"SelfHost",
+				"Web"
 			],
 			"category": "spreadsheet"
 		},
@@ -3512,7 +3512,7 @@
 			"link": "https://github.com/slab/quill",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "text-editor"
 		},
@@ -3522,7 +3522,7 @@
 			"link": "https://github.com/coteditor/CotEditor",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "text-editor"
 		},
@@ -3532,8 +3532,8 @@
 			"link": "https://github.com/zyedidia/micro",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "text-editor"
 		},
@@ -3543,7 +3543,7 @@
 			"link": "https://github.com/0x7c13/Notepads",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "text-editor"
 		},
@@ -3553,8 +3553,8 @@
 			"link": "https://github.com/mawww/kakoune",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "text-editor"
 		},
@@ -3564,7 +3564,7 @@
 			"link": "https://github.com/lite-xl/lite-xl",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "text-editor"
 		},
@@ -3574,7 +3574,7 @@
 			"link": "https://github.com/emacs-mirror/emacs",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "text-editor"
 		},
@@ -3584,7 +3584,7 @@
 			"link": "https://github.com/dail8859/NotepadNext",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "text-editor"
 		},
@@ -3594,7 +3594,7 @@
 			"link": "https://github.com/wikimedia/mediawiki",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "wiki"
 		},
@@ -3604,7 +3604,7 @@
 			"link": "https://github.com/requarks/wiki",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "wiki"
 		},
@@ -3614,7 +3614,7 @@
 			"link": "https://github.com/BookStackApp/BookStack",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "wiki"
 		},
@@ -3624,8 +3624,8 @@
 			"link": "https://github.com/ansible/ansible",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "automation"
 		},
@@ -3635,7 +3635,7 @@
 			"link": "https://github.com/Hammerspoon/hammerspoon",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "automation"
 		},
@@ -3645,7 +3645,7 @@
 			"link": "https://github.com/johnlindquist/kit",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "automation"
 		},
@@ -3655,7 +3655,7 @@
 			"link": "https://github.com/semaphoreui/semaphore",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "automation"
 		},
@@ -3665,9 +3665,9 @@
 			"link": "https://github.com/jhuckaby/Cronicle",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI+`",
-				"`SelfHost`"
+				"Cross",
+				"CLI+",
+				"SelfHost"
 			],
 			"category": "automation"
 		},
@@ -3677,7 +3677,7 @@
 			"link": "https://github.com/alienator88/Pearcleaner",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "cleaner"
 		},
@@ -3687,8 +3687,8 @@
 			"link": "https://github.com/bleachbit/bleachbit",
 			"tags": [],
 			"platforms": [
-				"`Windows`",
-				"`Linux`"
+				"Windows",
+				"Linux"
 			],
 			"category": "cleaner"
 		},
@@ -3698,7 +3698,7 @@
 			"link": "https://github.com/p0deje/Maccy",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "clipboard-manager"
 		},
@@ -3708,7 +3708,7 @@
 			"link": "https://github.com/Slackadays/Clipboard",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "clipboard-manager"
 		},
@@ -3718,7 +3718,7 @@
 			"link": "https://github.com/hluk/CopyQ",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "clipboard-manager"
 		},
@@ -3728,7 +3728,7 @@
 			"link": "https://github.com/louislam/dockge",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "containers"
 		},
@@ -3738,8 +3738,8 @@
 			"link": "https://github.com/abiosoft/colima",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "containers"
 		},
@@ -3749,8 +3749,8 @@
 			"link": "https://github.com/yadm-dev/yadm",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "dotfiles-manager"
 		},
@@ -3760,7 +3760,7 @@
 			"link": "https://github.com/twpayne/chezmoi",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "dotfiles-manager"
 		},
@@ -3770,7 +3770,7 @@
 			"link": "https://github.com/spacedriveapp/spacedrive",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "file-manager"
 		},
@@ -3780,7 +3780,7 @@
 			"link": "https://github.com/files-community/Files",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "file-manager"
 		},
@@ -3790,8 +3790,8 @@
 			"link": "https://github.com/jarun/nnn",
 			"tags": [],
 			"platforms": [
-				"`Linux`",
-				"`CLI`"
+				"Linux",
+				"CLI"
 			],
 			"category": "file-manager"
 		},
@@ -3801,8 +3801,8 @@
 			"link": "https://github.com/sxyazi/yazi",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "file-manager"
 		},
@@ -3812,8 +3812,8 @@
 			"link": "https://github.com/ranger/ranger",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "file-manager"
 		},
@@ -3823,7 +3823,7 @@
 			"link": "https://github.com/electerm/electerm",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "file-manager"
 		},
@@ -3833,8 +3833,8 @@
 			"link": "https://github.com/gokcehan/lf",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "file-manager"
 		},
@@ -3844,7 +3844,7 @@
 			"link": "https://github.com/yorukot/superfile",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "file-manager"
 		},
@@ -3854,7 +3854,7 @@
 			"link": "https://github.com/mickael-kerjean/filestash",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "file-manager"
 		},
@@ -3864,7 +3864,7 @@
 			"link": "https://github.com/filegator/filegator",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "file-manager"
 		},
@@ -3874,7 +3874,7 @@
 			"link": "https://github.com/filebrowser/filebrowser",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "file-manager"
 		},
@@ -3884,8 +3884,8 @@
 			"link": "https://github.com/sayanarijit/xplr",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "file-manager"
 		},
@@ -3895,8 +3895,8 @@
 			"link": "https://github.com/localsend/localsend",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`Mobile`"
+				"Cross",
+				"CLI+"
 			],
 			"category": "file-sharing"
 		},
@@ -3906,7 +3906,7 @@
 			"link": "https://github.com/onionshare/onionshare",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "file-sharing"
 		},
@@ -3916,7 +3916,7 @@
 			"link": "https://github.com/schlagmichdoch/PairDrop",
 			"tags": [],
 			"platforms": [
-				"`Web`"
+				"Web"
 			],
 			"category": "file-sharing"
 		},
@@ -3926,7 +3926,7 @@
 			"link": "https://github.com/pqrs-org/Karabiner-Elements",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "keyboard-manager"
 		},
@@ -3936,7 +3936,7 @@
 			"link": "https://github.com/jtroo/kanata",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "keyboard-manager"
 		},
@@ -3946,7 +3946,7 @@
 			"link": "https://github.com/kmonad/kmonad",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "keyboard-manager"
 		},
@@ -3956,7 +3956,7 @@
 			"link": "https://github.com/oliverschwendener/ueli",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "launcher"
 		},
@@ -3966,7 +3966,7 @@
 			"link": "https://github.com/ospfranco/sol",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "launcher"
 		},
@@ -3976,7 +3976,7 @@
 			"link": "https://github.com/kando-menu/kando",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "launcher"
 		},
@@ -3986,7 +3986,7 @@
 			"link": "https://github.com/albertlauncher/albert",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "launcher"
 		},
@@ -3996,7 +3996,7 @@
 			"link": "https://github.com/Ulauncher/Ulauncher",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "launcher"
 		},
@@ -4006,7 +4006,7 @@
 			"link": "https://github.com/Wox-launcher/Wox",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "launcher"
 		},
@@ -4016,9 +4016,9 @@
 			"link": "https://github.com/Homebrew/brew",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`Linux`",
-				"`CLI`"
+				"MacOS",
+				"Linux",
+				"CLI"
 			],
 			"category": "package-manager"
 		},
@@ -4028,7 +4028,7 @@
 			"link": "https://github.com/chocolatey/choco",
 			"tags": [],
 			"platforms": [
-				"`Windows`"
+				"Windows"
 			],
 			"category": "package-manager"
 		},
@@ -4038,7 +4038,7 @@
 			"link": "https://github.com/NixOS/nix",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "package-manager"
 		},
@@ -4048,7 +4048,7 @@
 			"link": "https://github.com/spack/spack",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "package-manager"
 		},
@@ -4058,7 +4058,7 @@
 			"link": "https://github.com/rustdesk/rustdesk",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "remote-desktop"
 		},
@@ -4068,7 +4068,7 @@
 			"link": "https://github.com/exelban/stats",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "system-monitoring"
 		},
@@ -4078,7 +4078,7 @@
 			"link": "https://github.com/corecoding/Vitals",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "system-monitoring"
 		},
@@ -4088,8 +4088,8 @@
 			"link": "https://github.com/ClementTsang/bottom",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "system-monitoring"
 		},
@@ -4099,7 +4099,7 @@
 			"link": "https://github.com/kyleneideck/BackgroundMusic",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "system"
 		},
@@ -4109,8 +4109,8 @@
 			"link": "https://github.com/qarmin/czkawka",
 			"tags": [],
 			"platforms": [
-				"`Windows`",
-				"`Linux`"
+				"Windows",
+				"Linux"
 			],
 			"category": "tools"
 		},
@@ -4120,7 +4120,7 @@
 			"link": "https://github.com/balena-io/etcher",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "tools"
 		},
@@ -4130,7 +4130,7 @@
 			"link": "https://github.com/MonitorControl/MonitorControl",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "tools"
 		},
@@ -4140,7 +4140,7 @@
 			"link": "https://github.com/CalcProgrammer1/OpenRGB",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "tools"
 		},
@@ -4150,8 +4150,8 @@
 			"link": "https://github.com/microsoft/inshellisense",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "tools"
 		},
@@ -4161,8 +4161,8 @@
 			"link": "https://github.com/phiresky/ripgrep-all",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "tools"
 		},
@@ -4172,8 +4172,8 @@
 			"link": "https://github.com/sharkdp/fd",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "tools"
 		},
@@ -4183,7 +4183,7 @@
 			"link": "https://github.com/XcodesOrg/XcodesApp",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "version-manager"
 		},
@@ -4193,8 +4193,8 @@
 			"link": "https://github.com/rbenv/rbenv",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4204,8 +4204,8 @@
 			"link": "https://github.com/pyenv/pyenv",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4215,8 +4215,8 @@
 			"link": "https://github.com/nvm-sh/nvm",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4226,8 +4226,8 @@
 			"link": "https://github.com/jdx/mise",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4237,8 +4237,8 @@
 			"link": "https://github.com/asdf-vm/asdf",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4248,8 +4248,8 @@
 			"link": "https://github.com/version-fox/vfox",
 			"tags": [],
 			"platforms": [
-				"`Cross`",
-				"`CLI`"
+				"Cross",
+				"CLI"
 			],
 			"category": "version-manager"
 		},
@@ -4259,7 +4259,7 @@
 			"link": "https://github.com/utmapp/UTM",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "virtual-machine"
 		},
@@ -4269,7 +4269,7 @@
 			"link": "https://github.com/insidegui/VirtualBuddy",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "virtual-machine"
 		},
@@ -4279,8 +4279,8 @@
 			"link": "https://github.com/lima-vm/lima",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`Linux`"
+				"MacOS",
+				"Linux"
 			],
 			"category": "virtual-machine"
 		},
@@ -4290,8 +4290,8 @@
 			"link": "https://github.com/quickemu-project/quickemu",
 			"tags": [],
 			"platforms": [
-				"`MacOS`",
-				"`Linux`"
+				"MacOS",
+				"Linux"
 			],
 			"category": "virtual-machine"
 		},
@@ -4301,7 +4301,7 @@
 			"link": "https://github.com/rxhanson/Rectangle",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "window-management"
 		},
@@ -4311,7 +4311,7 @@
 			"link": "https://github.com/MrKai77/Loop",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "window-management"
 		},
@@ -4321,7 +4321,7 @@
 			"link": "https://github.com/nikitabobko/AeroSpace",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "window-management"
 		},
@@ -4331,7 +4331,7 @@
 			"link": "https://github.com/ianyh/Amethyst",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "window-management"
 		},
@@ -4341,7 +4341,7 @@
 			"link": "https://github.com/commaai/openpilot",
 			"tags": [],
 			"platforms": [
-				"`Linux`"
+				"Linux"
 			],
 			"category": "other"
 		},
@@ -4351,7 +4351,7 @@
 			"link": "https://github.com/mealie-recipes/mealie",
 			"tags": [],
 			"platforms": [
-				"`SelfHost`"
+				"SelfHost"
 			],
 			"category": "other"
 		},
@@ -4361,8 +4361,8 @@
 			"link": "https://github.com/grocy/grocy",
 			"tags": [],
 			"platforms": [
-				"`Windows`",
-				"`SelfHost`"
+				"Windows",
+				"SelfHost"
 			],
 			"category": "other"
 		},
@@ -4372,7 +4372,7 @@
 			"link": "https://github.com/Whisky-App/Whisky",
 			"tags": [],
 			"platforms": [
-				"`MacOS`"
+				"MacOS"
 			],
 			"category": "uncategorized"
 		},
@@ -4382,7 +4382,7 @@
 			"link": "https://github.com/xpipe-io/xpipe",
 			"tags": [],
 			"platforms": [
-				"`Cross`"
+				"Cross"
 			],
 			"category": "uncategorized"
 		}

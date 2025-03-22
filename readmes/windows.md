@@ -329,7 +329,7 @@
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
 | [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=for-the-badge&label=%20&color=white) |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=for-the-badge&label=%20&color=white) |
-| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | `Cross` `Mobile` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
+| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows | `Cross` `CLI+` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=for-the-badge&label=%20&color=white) |
 
 ### Manager
 
@@ -370,7 +370,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | `Cross` |  |
-| [SimpleX](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` `CLI` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=for-the-badge&label=%20&color=white) |
+| [SimpleX](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` `CLI` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=for-the-badge&label=%20&color=white) |
 | [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=%20&color=white) |
 
 ### Collaboration
@@ -409,7 +409,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | `Cross` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
-| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `Mobile` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
+| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
@@ -721,16 +721,16 @@
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` |  |
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
-| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | `Cross` `CLI` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
-| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
+| [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | `Cross` `CLI` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
+| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
 
 ### VPN
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
+| [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
-| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `Mobile` |  |
+| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` |  |
 
 # Server - [Go to top](#contents)
 
@@ -946,7 +946,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | `Cross` `Mobile` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
 | [OnionShare](https://github.com/onionshare/onionshare) | Securely and anonymously share files, host websites, and chat with friends using the Tor network | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/onionshare/onionshare?style=for-the-badge&label=%20&color=white) |
 
 ### Keyboard Manager
