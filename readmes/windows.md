@@ -46,6 +46,7 @@
 
 <details>
   <summary><b>Alphabetical</b></summary> <br />
+
 - [AD Blocker](#ad-blocker)
 - [Agent](#agent)
 - [AI Image GUI](#ai-image-gui)
@@ -149,6 +150,7 @@
 
 <details open>
   <summary><b>Categorized</b></summary> <br />
+  
 - Artificial Intelligence (AI)
     - [Agent](#agent)
     - [AI Image GUI](#ai-image-gui)
@@ -264,7 +266,6 @@
 - Other
     - [Other](#other)
     - [Uncategorized](#uncategorized)
-- [Uncategorized](#uncategorized)
 - [Removed Projects](#removed-projects)
 - [FAQ](#faq)
 - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)

@@ -52,11 +52,13 @@ def generate_table_of_contents():
 
 <details>
   <summary><b>Alphabetical</b></summary> <br />
+
 {alphabetical_md}
 </details>
 
 <details open>
   <summary><b>Categorized</b></summary> <br />
+  
 {categorized_md}
 </details>
 """
