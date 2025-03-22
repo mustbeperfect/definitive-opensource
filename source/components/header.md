@@ -2,20 +2,19 @@
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](resources/dev/GUIDELINES.md) for open-source software submissions, consult their respective pages.
 
-> [!CAUTION]
-> We are currently undergoing major changes and refactoring as we migrate to a JSON file with Python scripts that generate the READMEs. 
-
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
 
 ##
 
 <h4 align="center">
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/dev/GUIDELINES.md">Guidelines</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/windows.md">Windows</a>
   <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/issues">Issues</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/macos.md">MacOS</a>
   <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/linux.md">Linux</a>
+  <span> · </span>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/selfhost.md">SelfHosted</a>
 </h4>
 
 ##

@@ -1068,14 +1068,10 @@ Projects that were once on this list but removed - usually due to abandonement o
 
 ## FAQ
 <details>
-  <summary><b>How about a JSON file with scripts or a website?</b></summary> <br />
-A JSON file with scripts that generate the README(s) would make fundamental changes and reorganization far easier whilst minimizing formatting and grammatical errors. A website would provide much requested features like tag based filtering and even automation.
+  <summary><b>Will there ever be a definitive-opensource website?</b></summary> <br />
+A website is definitely on the roadmap. It would provide much requested features like tag based filtering and, on the backend, automate much of what we currently have to do manually. However, for the foreseeable future, the list will remain as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within. The complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file.
 <p>&nbsp;</p>
-However, for the foreseeable future, the list will to be edited directly as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within, not how to present said projects.
-<p>&nbsp;</p>
-The current markdown system could also be considered a stepping stone to guage the community's needs prior to building a more complex system. I will likely migrate to a JSON file as the project scales and when I have time to architect such a system. 
-<p>&nbsp;</p>
-As for the website, the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file. Depending on the popularity of the project, however, this idea will remain in the back of my mind. 
+The current system could also be considered a stepping stone to guage the community's needs prior to building a website, which would inherently be far more complex. 
 </details>
 
 ## License

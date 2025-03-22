@@ -13,16 +13,14 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 The scale of what this project is attempting to accomplish is one that can only be done collectively. All contributions are highly valued. For submission guidelines on projects, please consult the [submission guidelines](guidelines.md)
 
 >[!IMPORTANT]
->When possible, please edit the file directly and start a pull request instead of raising an issue.
+>When possible, please edit the file directly and start a pull request instead of raising an issue. DO NOT EDIT THE README. Edit applications.json.
 
 ## Conventions
 To establish uniformity accross the project, please adhere to these conventions.
 - Use the project's official name, not the repository name. Repository names often use lowercase and place dashes in place of spaces. Fallback to **Title Casing** if capitalization is not clear. 
 - Platform tags are listed in the following order: ```Desktop OS (Order: Windows, MacOS, Linux)```, ```Mobile (Order: Android, IOS)```, ```CLI```, ```SelfHost```, ```Web```, ```Plugin```
-- One space to the ```| left and right |``` for row elements
-- For projects with multiple repositories (EX: one for IOS, Windows, etc) link the organization. For API star retrieval use their most popular repository.
-- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization or their official website, or the repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with our tables. 
-- We use [Github Flavored Markdown (GFM)](https://docs.github.com/en/get-started/writing-on-github)
+- For projects with multiple repositories (EX: one for IOS, Windows, etc) link the repository with the most stars.
+- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization, their official website, or the repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with GFM tables. 
 
 >[!NOTE]
 >These conventions can seem overly complicated. Make sure you skim over them but don't get too caught up  over them. Basically, just follow what's already been done and fallback here when you aren't sure of something. 

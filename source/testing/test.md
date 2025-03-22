@@ -13,20 +13,19 @@
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](resources/dev/GUIDELINES.md) for open-source software submissions, consult their respective pages.
 
-> [!CAUTION]
-> We are currently undergoing major changes and refactoring as we migrate to a JSON file with Python scripts that generate the READMEs. 
-
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
 
 ##
 
 <h4 align="center">
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/dev/GUIDELINES.md">Guidelines</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/windows.md">Windows</a>
   <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/issues">Issues</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/macos.md">MacOS</a>
   <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/linux.md">Linux</a>
+  <span> · </span>
+  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/readmes/selfhost.md">SelfHosted</a>
 </h4>
 
 ##
@@ -49,10 +48,11 @@ This list aims to serve as a single centralized location for the best of open so
 
   Definitive-opensource was initially a single markdown file that was edited directly. However, as the list scaled, this manual approach proved cumbersome and limited. Additionally, as popularity increased, we recieved many requests for README's of individual platforms - something that would be not be realistic to do manually.
   <p>&nbsp;</p>
-  As of v0.6.2-beta, the project was fundamentally re-made. Categories and applications were put in categories.json and applications.json, respectively. Python scripts were made to generate one main list and more platform-specific lists. This was paired with GitHub actions to run the scripts when any changes were made. This makes refactoring the list format far easier and eliminates typos. This new system also opens the door to 
+  As of v0.6.2-beta, the project was fundamentally re-made. Categories and applications were put in categories.json and applications.json, respectively. Python scripts were made to generate one main list and more platform-specific lists. This was paired with GitHub actions to run the scripts when any changes were made. This makes refactoring the list format far easier and eliminates typos.
   <p>&nbsp;</p>
   The project architecture is as follows:
-  ```text
+  <p>&nbsp;</p>
+  <code>
   definitive-opensource/
   ├── assets/
   ├── readmes/
@@ -66,7 +66,7 @@ This list aims to serve as a single centralized location for the best of open so
   |       └── utils/
   │   └── testing/
   └── README.md
-  ```
+  </code>
 </details>
 
 ## Project Status
@@ -1330,14 +1330,10 @@ Projects that were once on this list but removed - usually due to abandonement o
 
 ## FAQ
 <details>
-  <summary><b>How about a JSON file with scripts or a website?</b></summary> <br />
-A JSON file with scripts that generate the README(s) would make fundamental changes and reorganization far easier whilst minimizing formatting and grammatical errors. A website would provide much requested features like tag based filtering and even automation.
+  <summary><b>Will there ever be a definitive-opensource website?</b></summary> <br />
+A website is definitely on the roadmap. It would provide much requested features like tag based filtering and, on the backend, automate much of what we currently have to do manually. However, for the foreseeable future, the list will remain as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within. The complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file.
 <p>&nbsp;</p>
-However, for the foreseeable future, the list will to be edited directly as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within, not how to present said projects.
-<p>&nbsp;</p>
-The current markdown system could also be considered a stepping stone to guage the community's needs prior to building a more complex system. I will likely migrate to a JSON file as the project scales and when I have time to architect such a system. 
-<p>&nbsp;</p>
-As for the website, the complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file. Depending on the popularity of the project, however, this idea will remain in the back of my mind. 
+The current system could also be considered a stepping stone to guage the community's needs prior to building a website, which would inherently be far more complex. 
 </details>
 
 ## License
