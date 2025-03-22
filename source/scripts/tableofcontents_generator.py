@@ -1,50 +1,67 @@
 import json
 
-def load_categories():
-    with open("source/data/categories.json", "r", encoding="utf-8") as f:
-        return json.load(f)
+def slugify(name):
+    #Create an anchor-friendly slug from a string.
+    return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
 
-def generate_tableofcontents():
-    data = load_categories()
-    categories = sorted(data["categories"], key=lambda x: x["Name"].lower())
-    subcategories = sorted(data["subcategories"], key=lambda x: x["Name"].lower())
+def generate_table_of_contents():
+    # Load the categories JSON data
+    with open("source/data/categories.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    categories = data.get("categories", [])
+    subcategories = data.get("subcategories", [])
     
-    toc = ["## Contents\n"]
+    # Build the alphabetical list (ignoring parent categories)
+    subcat_names = [sub["Name"] for sub in subcategories]
+    subcat_names.sort(key=lambda x: x.lower())
+    alphabetical_md = ""
+    for name in subcat_names:
+        alphabetical_md += f"- [{name}](#{slugify(name)})\n"
     
-    # Alphabetical section
-    toc.append("<details>\n  <summary><b>Alphabetical</b></summary> <br />\n")
+    # Build the categorized list.
+    # Create a mapping from parent id to parent name.
+    parent_map = {cat["id"]: cat["Name"] for cat in categories}
+    # Group subcategories by their parent id.
+    grouped = {}
     for sub in subcategories:
-        toc.append(f"  - [{sub['Name']}](#{sub['id']})")
-    toc.append("</details>\n")
+        parent = sub.get("parent", "other")
+        grouped.setdefault(parent, []).append(sub["Name"])
+    # Sort each group's subcategories alphabetically.
+    for key in grouped:
+        grouped[key].sort(key=lambda x: x.lower())
+    # Sort parent categories (exclude "other", which is appended at the end)
+    parents = [(pid, parent_map.get(pid, "Other")) for pid in grouped if pid != "other"]
+    parents.sort(key=lambda x: x[1].lower())
+    if "other" in grouped:
+        parents.append(("other", "Other"))
     
-    # Categorized section
-    toc.append("<details open>\n  <summary><b>Categorized</b></summary> <br />\n")
+    categorized_md_lines = []
+    for pid, pname in parents:
+        categorized_md_lines.append(f"- {pname}")
+        for subname in grouped[pid]:
+            categorized_md_lines.append(f"    - [{subname}](#{slugify(subname)})")
     
-    category_map = {cat["id"]: cat["Name"] for cat in categories}
-    organized_subcategories = {}
+    # Append fixed sections at the end of the categorized TOC.
+    fixed_sections = ["Removed Projects", "FAQ", "Honorable Mentions of Closed-Source Software"]
+    for item in fixed_sections:
+        categorized_md_lines.append(f"- [{item}](#{slugify(item)})")
     
-    for sub in subcategories:
-        parent = sub["parent"]
-        if parent not in organized_subcategories:
-            organized_subcategories[parent] = []
-        organized_subcategories[parent].append(sub)
+    categorized_md = "\n".join(categorized_md_lines)
     
-    for cat in categories:
-        cat_id = cat["id"]
-        toc.append(f"  - {cat['Name']}")
-        if cat_id in organized_subcategories:
-            for sub in organized_subcategories[cat_id]:
-                toc.append(f"      - [{sub['Name']}](#{sub['id']})")
-    
-    # Other category at the end
-    if "other" in organized_subcategories:
-        toc.append("  - [Other](#other)")
-    
-    toc.append("</details>\n")
-    return "\n".join(toc)
+    toc = f"""## Table of Contents
+
+<details>
+  <summary><b>Alphabetical</b></summary> <br />
+{alphabetical_md}
+</details>
+
+<details open>
+  <summary><b>Categorized</b></summary> <br />
+{categorized_md}
+</details>
+"""
+    return toc
 
 if __name__ == "__main__":
-    toc_content = generate_tableofcontents()
-    with open("tableofcontents.md", "w", encoding="utf-8") as f:
-        f.write(toc_content)
-    print("Generated tableofcontents.md")
+    # For testing the TOC generator
+    print(generate_table_of_contents())

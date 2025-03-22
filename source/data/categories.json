@@ -671,12 +671,6 @@
 			"id": "uncategorized",
 			"parent": "other",
 			"description": ""
-		},
-		{
-			"Name": "Removed Projects",
-			"id": "removed-projects",
-			"parent": "other",
-			"description": ""
 		}
 	]
 }
