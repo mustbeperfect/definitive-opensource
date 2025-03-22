@@ -1,4 +1,7 @@
 
+<h1 align="center">[ MacOS ] </h1>
+<p align="center">Filtered for MacOS and cross-platform apps</p>
+
 ## Tags
 
 ### Alerts
@@ -11,6 +14,8 @@
 `⁉️` - Suspicious license
 
 `🟥` - Corporate influence
+
+`🔺` - Commercial
 
 `🧪` - Experimental (Pre-Alpha)
 
@@ -42,6 +47,7 @@
 `CLI+` - CLI in addition to GUI
 
 `Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `N/A`
+
 ## Table of Contents
 
 <details>
@@ -1056,6 +1062,7 @@
 | --- | --- | --- | --- |
 | [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/Whisky-App/Whisky?style=for-the-badge&label=%20&color=white) |
 | [XPipe](https://github.com/xpipe-io/xpipe) | Your entire server infrastructure at your fingertips | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/xpipe-io/xpipe?style=for-the-badge&label=%20&color=white) |
+
 
 
 ## Honorable Mentions of Closed-Source Software

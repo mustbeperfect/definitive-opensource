@@ -1,15 +1,4 @@
 
-<table align="center">
-  <tr>
-    <td>🇺🇦 v0.5.2-beta</td>
-  </tr>
-</table>
-
-<h1 align="center">[ definitive-opensource ] </h1>
-<p align="center"> A definitive list of the best of everything open source</p>
-
-<p align="center"><code>Status: Active</code> - <code>Projects: 422</code></p>
-
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](resources/dev/GUIDELINES.md) for open-source software submissions, consult their respective pages.
 
@@ -42,6 +31,31 @@ This list aims to serve as a single centralized location for the best of open so
   It is a fundamental goal for this list to be as neutral as possible and simply present options, not persuade or redact, regardless of the maintainer's opinion. Projects that fit the criteria, which by passing will inherently be used by thousands to millions, are put on the list. This list is "curated" - not relative to opinion but statistics and facts.
   <p>&nbsp;</p>
   Although the list is called definitive, in this context it doesn't quite mean the implied dictionary definition of finality. This project can only survive and thrive through continuous contributions by the community, as this list is, in itself, open source. 
+</details>
+
+<details>
+  <summary><b>How The List Works</b></summary><br />
+
+  Definitive-opensource was initially a single markdown file that was edited directly. However, as the list scaled, this manual approach proved cumbersome and limited. Additionally, as popularity increased, we recieved many requests for README's of individual platforms - something that would be not be realistic to do manually.
+  <p>&nbsp;</p>
+  As of v0.6.2-beta, the project was fundamentally re-made. Categories and applications were put in categories.json and applications.json, respectively. Python scripts were made to generate one main list and more platform-specific lists. This was paired with GitHub actions to run the scripts when any changes were made. This makes refactoring the list format far easier and eliminates typos. This new system also opens the door to 
+  <p>&nbsp;</p>
+  The project architecture is as follows:
+  ```text
+  definitive-opensource/
+  ├── assets/
+  ├── readmes/
+  ├── resources/
+  │   ├── backup/
+  │   └── dev/
+  ├── source/
+  │   ├── components/
+  │   ├── data/
+  │   ├── scripts/
+  |       └── utils/
+  │   └── testing/
+  └── README.md
+  ```
 </details>
 
 ## Project Status

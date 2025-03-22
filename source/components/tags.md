@@ -11,6 +11,8 @@
 
 `🟥` - Corporate influence
 
+`🔺` - Commercial
+
 `🧪` - Experimental (Pre-Alpha)
 
 `🚧` - Critically unstable/buggy

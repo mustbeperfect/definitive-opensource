@@ -1,4 +1,7 @@
 
+<h1 align="center">[ SelfHosted ] </h1>
+<p align="center">Filtered for selfhosted apps</p>
+
 ## Tags
 
 ### Alerts
@@ -11,6 +14,8 @@
 `⁉️` - Suspicious license
 
 `🟥` - Corporate influence
+
+`🔺` - Commercial
 
 `🧪` - Experimental (Pre-Alpha)
 
@@ -42,6 +47,7 @@
 `CLI+` - CLI in addition to GUI
 
 `Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `N/A`
+
 ## Table of Contents
 
 <details>
@@ -928,6 +934,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+
 
 
 ## Honorable Mentions of Closed-Source Software

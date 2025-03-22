@@ -1,6 +1,7 @@
 import os
 from tableofcontents_generator import generate_table_of_contents
 from contents_generator import generate_contents
+from mainheader_generator import generate_mainheader
 
 # List of target platforms
 platforms = ["all", "windows", "macos", "linux", "selfhost"]
@@ -17,6 +18,10 @@ header_files = {
 def generate_readme_for_platform(platform):
     content = ""
     header_file = header_files.get(platform, "source/components/header.md")
+
+    # Inject mainheader with dynamic project count
+    if platform == "all":
+        content += generate_mainheader()
     
     # Inject header (for 'all', use header.md; for others, use the platform-specific header)
     with open(header_file, "r", encoding="utf-8") as f:
@@ -30,7 +35,7 @@ def generate_readme_for_platform(platform):
     toc_md = generate_table_of_contents()
     content += toc_md + "\n"
     
-    # Generate the actual list of contents (Markdown list) for the given platform
+    # Generate the actual markdown list of contents for the given platform
     contents_md = generate_contents(platform)
     content += contents_md + "\n"
     
@@ -38,7 +43,7 @@ def generate_readme_for_platform(platform):
     with open("source/components/footer.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
     
-    # Write output file; for "all" use README.md, otherwise README-<platform>.md
+    # Write output file
     output_filename = "source/testing/test.md" if platform == "all" else f"readmes/{platform}.md"
     with open(output_filename, "w", encoding="utf-8") as f:
         f.write(content)

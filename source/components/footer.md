@@ -1,3 +1,4 @@
+
 ## Honorable Mentions of Closed-Source Software
 Some proprietary software just deserve recognition.
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional Editing, Color, Effects and Audio Post!
