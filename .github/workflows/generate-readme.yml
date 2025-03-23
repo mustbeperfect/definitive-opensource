@@ -4,8 +4,8 @@ name: Generate README
 on:
   push:
     paths:
-      - './source/data/**'
-      - './source/components/**'
+      - 'source/data/**'
+      - 'source/components/**'
   workflow_dispatch:
 
 jobs:
