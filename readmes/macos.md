@@ -208,6 +208,9 @@
     - [Video Player](#video-player)
     - [Video Transcoder](#video-transcoder)
 - Operating System
+    - [Linux](#linux)
+    - [MacOS](#macos)
+    - [Operating System](#operating-system)
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
@@ -232,10 +235,7 @@
     - [Dashboard](#dashboard)
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
-    - [Linux](#linux)
-    - [MacOS](#macos)
     - [Media Management](#media-management)
-    - [Operating System](#operating-system)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -626,6 +626,34 @@
 
 # Operating System - [Go to top](#contents)
 
+### Linux
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### MacOS
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
+| [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
+| [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
+| [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
+| [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
+| [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
+| [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file) | Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?tab=readme-ov-file?style=for-the-badge&label=%20&color=white) |
+| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
+| [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
+| [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
+
+### Operating System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Windows
 
 | Name | Description | Platform | Stars |
@@ -764,39 +792,11 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 
-### Linux
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-
-### MacOS
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
-| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
-| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
-| [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
-| [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
-| [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
-| [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
-| [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
-| [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file) | Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?tab=readme-ov-file?style=for-the-badge&label=%20&color=white) |
-| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
-| [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
-| [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
-
 ### Media Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | `Cross` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
-
-### Operating System
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
 
 ### Surveillance
 

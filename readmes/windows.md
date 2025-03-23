@@ -208,6 +208,9 @@
     - [Video Player](#video-player)
     - [Video Transcoder](#video-transcoder)
 - Operating System
+    - [Linux](#linux)
+    - [MacOS](#macos)
+    - [Operating System](#operating-system)
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
@@ -232,10 +235,7 @@
     - [Dashboard](#dashboard)
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
-    - [Linux](#linux)
-    - [MacOS](#macos)
     - [Media Management](#media-management)
-    - [Operating System](#operating-system)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -623,6 +623,22 @@
 
 # Operating System - [Go to top](#contents)
 
+### Linux
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### MacOS
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
+
+### Operating System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Windows
 
 | Name | Description | Platform | Stars |
@@ -763,27 +779,11 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 
-### Linux
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-
-### MacOS
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
-
 ### Media Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | `Cross` `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/xbmc/xbmc?style=for-the-badge&label=%20&color=white) |
-
-### Operating System
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
 
 ### Surveillance
 
