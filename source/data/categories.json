@@ -381,19 +381,19 @@
 		{
 			"Name": "MacOS",
 			"id": "macos",
-			"parent": "server",
+			"parent": "os",
 			"description": ""
 		},
 		{
 			"Name": "Linux",
 			"id": "linux",
-			"parent": "server",
+			"parent": "os",
 			"description": ""
 		},
 		{
 			"Name": "Operating System",
 			"id": "operating-system",
-			"parent": "server",
+			"parent": "os",
 			"description": ""
 		},
 		{
