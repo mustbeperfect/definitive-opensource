@@ -50,23 +50,7 @@ This list aims to serve as a single centralized location for the best of open so
   <p>&nbsp;</p>
   As of v0.6.2-beta, the project was fundamentally re-made. Categories and applications were put in categories.json and applications.json, respectively. Python scripts were made to generate one main list and more platform-specific lists. This was paired with GitHub actions to run the scripts when any changes were made. This makes refactoring the list format far easier and eliminates typos.
   <p>&nbsp;</p>
-  The project architecture is as follows:
-  <p>&nbsp;</p>
-  <code>
-  definitive-opensource/
-  ├── assets/
-  ├── readmes/
-  ├── resources/
-  │   ├── backup/
-  │   └── dev/
-  ├── source/
-  │   ├── components/
-  │   ├── data/
-  │   ├── scripts/
-  |       └── utils/
-  │   └── testing/
-  └── README.md
-  </code>
+  This list aims to stand in the middle ground between human input and automation. Fully automated websites exist for finding open source projects, but statistics alone fails to encompass the complete picture. This list has scripts to automate markdown formatting, updating project stats, and finding potentially abandoned projects. However, the actual process of choosing which projects make it onto the list, which ones should be removed, and what tags to assign is controlled entirely by humans. 
 </details>
 
 ## Project Status
@@ -292,6 +276,9 @@ Abandoned - Development Halted
     - [Video Player](#video-player)
     - [Video Transcoder](#video-transcoder)
 - Operating System
+    - [Linux](#linux)
+    - [MacOS](#macos)
+    - [Operating System](#operating-system)
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
@@ -316,10 +303,7 @@ Abandoned - Development Halted
     - [Dashboard](#dashboard)
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
-    - [Linux](#linux)
-    - [MacOS](#macos)
     - [Media Management](#media-management)
-    - [Operating System](#operating-system)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -769,6 +753,40 @@ Abandoned - Development Halted
 
 # Operating System - [Go to top](#contents)
 
+### Linux
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Extension Manager](https://github.com/mjakeman/extension-manager) | A utility for browsing and installing GNOME Shell Extensions. | `Linux` | ![GitHub Repo stars](https://img.shields.io/github/stars/mjakeman/extension-manager?style=for-the-badge&label=%20&color=white) |
+| [Flatseal](https://github.com/tchx84/Flatseal) | Manage Flatpak permissions | `Linux` | ![GitHub Repo stars](https://img.shields.io/github/stars/tchx84/Flatseal?style=for-the-badge&label=%20&color=white) |
+
+### MacOS
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
+| [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
+| [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
+| [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
+| [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
+| [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
+| [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file) | Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?tab=readme-ov-file?style=for-the-badge&label=%20&color=white) |
+| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
+| [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
+| [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
+
+### Operating System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
+| [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
+| [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
+| [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
+
 ### Windows
 
 | Name | Description | Platform | Stars |
@@ -955,31 +973,6 @@ Abandoned - Development Halted
 | [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/runtipi/runtipi?style=for-the-badge&label=%20&color=white) |
 | [Sandstorm](https://github.com/sandstorm-io/sandstorm) | Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.  | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/sandstorm-io/sandstorm?style=for-the-badge&label=%20&color=white) |
 
-### Linux
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Extension Manager](https://github.com/mjakeman/extension-manager) | A utility for browsing and installing GNOME Shell Extensions. | `Linux` | ![GitHub Repo stars](https://img.shields.io/github/stars/mjakeman/extension-manager?style=for-the-badge&label=%20&color=white) |
-| [Flatseal](https://github.com/tchx84/Flatseal) | Manage Flatpak permissions | `Linux` | ![GitHub Repo stars](https://img.shields.io/github/stars/tchx84/Flatseal?style=for-the-badge&label=%20&color=white) |
-
-### MacOS
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [AltTab](https://github.com/lwouis/alt-tab-macos) | Windows alt-tab on macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=for-the-badge&label=%20&color=white) |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
-| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
-| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
-| [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
-| [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
-| [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
-| [MeetingBar](https://github.com/leits/MeetingBar) | 🇺🇦 Your meetings at your fingertips in the macOS menu bar | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/leits/MeetingBar?style=for-the-badge&label=%20&color=white) |
-| [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) | ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=for-the-badge&label=%20&color=white) |
-| [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file) | Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?tab=readme-ov-file?style=for-the-badge&label=%20&color=white) |
-| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/FelixKratz/SketchyBar?style=for-the-badge&label=%20&color=white) |
-| [SwiftBar](https://github.com/swiftbar/SwiftBar) | Powerful macOS menu bar customization tool | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/swiftbar/SwiftBar?style=for-the-badge&label=%20&color=white) |
-| [TheBoringNotch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
-
 ### Media Management
 
 | Name | Description | Platform | Stars |
@@ -997,15 +990,6 @@ Abandoned - Development Halted
 | [Memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/pulsejet/memories?style=for-the-badge&label=%20&color=white) |
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?style=for-the-badge&label=%20&color=white) |
 | [Piwigi](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=for-the-badge&label=%20&color=white) |
-
-### Operating System
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [openmediavault](https://github.com/openmediavault/openmediavault) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/openmediavault/openmediavault?style=for-the-badge&label=%20&color=white) |
-| [Puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/HeyPuter/puter?style=for-the-badge&label=%20&color=white) |
-| [umbrelOS](https://github.com/getumbrel/umbrel) | A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=for-the-badge&label=%20&color=white) |
-| [YunoHost](https://github.com/YunoHost/yunohost) | YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. | ``N/A`` | ![GitHub Repo stars](https://img.shields.io/github/stars/YunoHost/yunohost?style=for-the-badge&label=%20&color=white) |
 
 ### Surveillance
 

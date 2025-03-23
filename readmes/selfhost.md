@@ -208,6 +208,9 @@
     - [Video Player](#video-player)
     - [Video Transcoder](#video-transcoder)
 - Operating System
+    - [Linux](#linux)
+    - [MacOS](#macos)
+    - [Operating System](#operating-system)
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
@@ -232,10 +235,7 @@
     - [Dashboard](#dashboard)
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
-    - [Linux](#linux)
-    - [MacOS](#macos)
     - [Media Management](#media-management)
-    - [Operating System](#operating-system)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -553,6 +553,21 @@
 
 # Operating System - [Go to top](#contents)
 
+### Linux
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### MacOS
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### Operating System
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Windows
 
 | Name | Description | Platform | Stars |
@@ -716,16 +731,6 @@
 | [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/runtipi/runtipi?style=for-the-badge&label=%20&color=white) |
 | [Sandstorm](https://github.com/sandstorm-io/sandstorm) | Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.  | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/sandstorm-io/sandstorm?style=for-the-badge&label=%20&color=white) |
 
-### Linux
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-
-### MacOS
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-
 ### Media Management
 
 | Name | Description | Platform | Stars |
@@ -742,11 +747,6 @@
 | [Memories](https://github.com/pulsejet/memories) | Fast, modern and advanced photo management suite. Runs as a Nextcloud app. | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/pulsejet/memories?style=for-the-badge&label=%20&color=white) |
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?style=for-the-badge&label=%20&color=white) |
 | [Piwigi](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=for-the-badge&label=%20&color=white) |
-
-### Operating System
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
 
 ### Surveillance
 
