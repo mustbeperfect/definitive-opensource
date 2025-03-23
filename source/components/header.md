@@ -38,24 +38,6 @@ This list aims to serve as a single centralized location for the best of open so
   Definitive-opensource was initially a single markdown file that was edited directly. However, as the list scaled, this manual approach proved cumbersome and limited. Additionally, as popularity increased, we recieved many requests for README's of individual platforms - something that would be not be realistic to do manually.
   <p>&nbsp;</p>
   As of v0.6.2-beta, the project was fundamentally re-made. Categories and applications were put in categories.json and applications.json, respectively. Python scripts were made to generate one main list and more platform-specific lists. This was paired with GitHub actions to run the scripts when any changes were made. This makes refactoring the list format far easier and eliminates typos.
-  <p>&nbsp;</p>
-  The project architecture is as follows:
-  <p>&nbsp;</p>
-  <code>
-  definitive-opensource/
-  ├── assets/
-  ├── readmes/
-  ├── resources/
-  │   ├── backup/
-  │   └── dev/
-  ├── source/
-  │   ├── components/
-  │   ├── data/
-  │   ├── scripts/
-  |       └── utils/
-  │   └── testing/
-  └── README.md
-  </code>
 </details>
 
 ## Project Status
