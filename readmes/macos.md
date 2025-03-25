@@ -1090,10 +1090,19 @@ Projects that were once on this list but removed - usually due to abandonement o
 
 ## FAQ
 <details>
-  <summary><b>Will there ever be a definitive-opensource website?</b></summary> <br />
+  <summary><b>How about a definitive-opensource website?</b></summary> <br />
 A website is definitely on the roadmap. It would provide much requested features like tag based filtering and, on the backend, automate much of what we currently have to do manually. However, for the foreseeable future, the list will remain as a markdown file for one reason: to keep things simple. The current system lets me focus solely on the projects within. The complexities of web development seem unnecessary and an added pain for a task that can suffice, for now, as a markdown file.
 <p>&nbsp;</p>
 The current system could also be considered a stepping stone to guage the community's needs prior to building a website, which would inherently be far more complex. 
+</details>
+
+<details>
+  <summary><b>Stars aren't a good metric to guage popularity/quality.</b></summary> <br />
+The minimum star count of 1k has been a major point of contention. Admittedly, star counts don't always reflect project popularity and quality. Stars are biased towards developers because they are the ones with a GitHub account, thus leaving out the input of the end users. But no solution is going to be a __one size fits all__ solution. It's critically important that as the list scales it doesn't devolve into a clutter trap, even if the price is some projects getting left out.
+<p>&nbsp;</p>
+Stars tend to be synonomous with community recognition, making it a good starting point for further vetting to check for contributors, future plans, and popularity. Most compotent software will have no trouble reaching the 1k star count. This requirement is also just the first step for further vetting.
+<p>&nbsp;</p>
+Artificial star counts (EX: buying stars) has also been brought up. This isn't that big of a problem, again, stars are just to quality a project for further vetting. A popular project should have lots of community activity, GitHub issues, pr's, etc. Evidence of foul play will disquality a project. 
 </details>
 
 ## License
