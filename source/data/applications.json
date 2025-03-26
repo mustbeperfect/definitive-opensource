@@ -767,7 +767,7 @@
         {
             "name": "Element",
             "description": "Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations.",
-            "link": "https://github.com/element-hq",
+            "link": "https://github.com/element-hq/element-web",
             "tags": [],
             "platforms": [
                 "CLI+",
