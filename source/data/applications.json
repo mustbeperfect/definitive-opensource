@@ -550,7 +550,7 @@
 		{
 			"name": "Signal",
 			"description": "A private messenger.",
-			"link": "https://github.com/signalapp",
+			"link": "https://github.com/signalapp/Signal-Android",
 			"tags": [],
 			"platforms": [
 				"Cross"
