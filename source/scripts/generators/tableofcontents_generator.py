@@ -12,7 +12,7 @@ def generate_table_of_contents():
     subcategories = data.get("subcategories", [])
     
     # Build the alphabetical list (ignoring parent categories)
-    subcat_names = [sub["Name"] for sub in subcategories]
+    subcat_names = [sub["name"] for sub in subcategories]
     subcat_names.sort(key=lambda x: x.lower())
     alphabetical_md = ""
     for name in subcat_names:
@@ -20,12 +20,12 @@ def generate_table_of_contents():
     
     # Build the categorized list
     # Create a mapping from parent id to parent name
-    parent_map = {cat["id"]: cat["Name"] for cat in categories}
+    parent_map = {cat["id"]: cat["name"] for cat in categories}
     # Group subcategories by their parent id
     grouped = {}
     for sub in subcategories:
         parent = sub.get("parent", "other")
-        grouped.setdefault(parent, []).append(sub["Name"])
+        grouped.setdefault(parent, []).append(sub["name"])
     # Sort each group's subcategories alphabetically
     for key in grouped:
         grouped[key].sort(key=lambda x: x.lower())

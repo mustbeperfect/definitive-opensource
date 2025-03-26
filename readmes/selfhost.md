@@ -9,13 +9,15 @@
 
 `🚫` - Potentially abandoned
 
-`🛑` - Potentially closed source
+`🔒` - Potentially closed source
 
-`⁉️` - Suspicious license
+`🛑` - Development paused
 
-`🟥` - Corporate influence
+`⚠️` - Suspicious license
 
-`🔺` - Commercial
+`🏦` - Corporate influence
+
+`💰` - Commercial
 
 `🧪` - Experimental (Pre-Alpha)
 

@@ -1,0 +1,90 @@
+{
+	"tags":
+	[
+		{
+			"emoji": "🟡",
+			"id": "si-minor",
+			"description": "Minor Security Incident"
+		},
+        {
+			"emoji": "🟠",
+			"id": "si-moderate",
+			"description": "Moderate Security Incident"
+		},
+        {
+			"emoji": "🔴",
+			"id": "si-major",
+			"description": "Major Security Incident"
+		},
+        {
+			"emoji": "⭕",
+			"id": "si-critical",
+			"description": "Critical Security Incident"
+		},
+        {
+			"emoji": "🚫",
+			"id": "abandoned",
+			"description": "Potentially Abandoned"
+		},
+        {
+			"emoji": "🛑",
+			"id": "paused",
+			"description": "Development Paused"
+		},
+        {
+			"emoji": "🔒",
+			"id": "closed-source",
+			"description": "Potentially Closed Source"
+		},
+        {
+			"emoji": "⚠️",
+			"id": "suspicious-license",
+			"description": "Suspicious License"
+		},
+        {
+			"emoji": "🏦",
+			"id": "corporate-influence",
+			"description": "Corporate Influence"
+		},
+        {
+			"emoji": "💰",
+			"id": "commercial",
+			"description": "Commercial"
+		},
+        {
+			"emoji": "🧪",
+			"id": "experimental",
+			"description": "Experimental (Pre-Alpha)"
+		},
+        {
+			"emoji": "🚧",
+			"id": "unstable",
+			"description": "Critically Unstable/Buggy"
+		},
+        {
+			"emoji": "❌",
+			"id": "removal",
+			"description": "On Watch For Removal"
+		},
+        {
+			"emoji": "💥",
+			"id": "disruptive",
+			"description": "disruptive"
+		},
+        {
+			"emoji": "🌍",
+			"id": "influential",
+			"description": "Influential"
+		},
+        {
+			"emoji": "🌟",
+			"id": "pioneering",
+			"description": "Pioneering"
+		},
+        {
+			"emoji": "💡",
+			"id": "innovative",
+			"description": "Innovative"
+		}
+	]
+}

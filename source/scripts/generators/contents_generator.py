@@ -23,14 +23,14 @@ def generate_contents(platform="all"):
     applications = app_data.get("applications", [])
     
     # Map parent categories id to corresponding name
-    parent_map = {cat["id"]: cat["Name"] for cat in categories}
+    parent_map = {cat["id"]: cat["name"] for cat in categories}
     
     # Group subcategories by their parent
     subcat_by_parent = {}
     for sub in subcategories:
         parent = sub.get("parent", "other")
         subcat_by_parent.setdefault(parent, []).append({
-            "Name": sub["Name"],
+            "Name": sub["name"],
             "id": sub["id"]
         })
     # Sort subcategories alphabetically in each parent group
