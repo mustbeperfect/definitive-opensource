@@ -485,7 +485,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Element](https://github.com/element-hq) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | `CLI+` `Web` |  |
+| [Element](https://github.com/element-hq/element-web) | Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations. | `CLI+` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/element-hq/element-web?style=for-the-badge&label=%20&color=white) |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | `CLI+` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=for-the-badge&label=%20&color=white) |
 
 # Data - [Go to top](#contents)

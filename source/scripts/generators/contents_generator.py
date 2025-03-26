@@ -12,11 +12,13 @@ def extract_repo_path(link):
     return ""
 
 def generate_contents(platform="all"):
-    # Load categories and applications JSON data
+    # Load categories, applications, and tags JSON data
     with open("source/data/categories.json", "r", encoding="utf-8") as f:
         cat_data = json.load(f)
     with open("source/data/applications.json", "r", encoding="utf-8") as f:
         app_data = json.load(f)
+    with open("source/data/tags.json", "r", encoding="utf-8") as f:
+        tags_data = json.load(f)    
     
     categories = cat_data.get("categories", [])
     subcategories = cat_data.get("subcategories", [])
@@ -24,6 +26,9 @@ def generate_contents(platform="all"):
     
     # Map parent categories id to corresponding name
     parent_map = {cat["id"]: cat["name"] for cat in categories}
+
+    # Map tag id to emoji
+    tag_map = {tag["id"]: tag["emoji"] for tag in tags_data["tags"]}
     
     # Group subcategories by their parent
     subcat_by_parent = {}
@@ -86,8 +91,13 @@ def generate_contents(platform="all"):
                 description = app.get("description", "")
                 link = app.get("link", "#")
                 tags = ""
+                """
                 if app.get("tags"):
                     tags += " " + " ".join(app["tags"])
+                """        
+                if app.get("tags"):
+                    tags = " " + " ".join(tag_map.get(tag, tag) for tag in app.get("tags", []))
+
                 # Join the platform tags as provided
                 app_platforms = " ".join(f"`{p}`" for p in app.get("platforms", []))
                 repo_path = extract_repo_path(link)

@@ -18,7 +18,7 @@
             "description": "AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording",
             "link": "https://github.com/mediar-ai/screenpipe",
             "tags": [
-                "💥"
+                "disruptive"
             ],
             "platforms": [
                 "MacOS",
@@ -451,7 +451,7 @@
             "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
             "link": "https://github.com/ollama/ollama",
             "tags": [
-                "🌍"
+                "influential"
             ],
             "platforms": [
                 "Cross",
@@ -1128,7 +1128,7 @@
             "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
             "link": "https://github.com/zed-industries/zed",
             "tags": [
-                "🟥"
+                "corporate-influence"
             ],
             "platforms": [
                 "MacOS",
@@ -1168,7 +1168,7 @@
             "description": "The official Vim repository",
             "link": "https://github.com/vim/vim",
             "tags": [
-                "🌍"
+                "influential"
             ],
             "platforms": [
                 "Cross",
@@ -3264,7 +3264,7 @@
             "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
             "link": "https://github.com/AppFlowy-IO/AppFlowy",
             "tags": [
-                "🟥"
+                "commercial"
             ],
             "platforms": [
                 "Cross"
