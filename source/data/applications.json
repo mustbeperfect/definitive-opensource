@@ -11,7 +11,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "screenpipe",
@@ -26,7 +26,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "gptme",
@@ -39,7 +39,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "WrenAI",
@@ -51,7 +51,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "TEN Agent",
@@ -63,7 +63,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Huginn",
@@ -75,7 +75,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AgentGPT",
@@ -87,7 +87,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AutoGPT",
@@ -99,7 +99,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Telegraf",
@@ -112,7 +112,7 @@
             ],
             "category": "agent",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Auto1111",
@@ -124,7 +124,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ComfyUI",
@@ -136,7 +136,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "InvokeAI",
@@ -148,7 +148,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "WebUI Forge",
@@ -160,7 +160,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Fooocus",
@@ -172,7 +172,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SD.Next",
@@ -184,7 +184,7 @@
             ],
             "category": "ai-image-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Netron",
@@ -196,7 +196,7 @@
             ],
             "category": "ai-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AIChat",
@@ -209,7 +209,7 @@
             ],
             "category": "all-in-one",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lobe Chat",
@@ -221,7 +221,7 @@
             ],
             "category": "all-in-one",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Khoj AI",
@@ -233,7 +233,7 @@
             ],
             "category": "all-in-one",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Leon",
@@ -245,7 +245,7 @@
             ],
             "category": "assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Unstract",
@@ -259,7 +259,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Firecrawl",
@@ -271,7 +271,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GPT crawler",
@@ -283,7 +283,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Code2prompt",
@@ -296,7 +296,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Repomix",
@@ -309,7 +309,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Docling",
@@ -322,7 +322,7 @@
             ],
             "category": "information-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Open WebUI",
@@ -334,7 +334,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GPT4ALL",
@@ -346,7 +346,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Jan",
@@ -358,7 +358,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Chatbox",
@@ -370,7 +370,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Text generation webUI",
@@ -382,7 +382,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cherry Studio",
@@ -394,7 +394,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SillyTavern",
@@ -406,7 +406,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "NextChat",
@@ -420,7 +420,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LibreChat",
@@ -432,7 +432,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "h2oGPT",
@@ -444,7 +444,7 @@
             ],
             "category": "llm-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ollama",
@@ -460,7 +460,7 @@
             ],
             "category": "manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "StabilityMatrix",
@@ -472,7 +472,7 @@
             ],
             "category": "manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LLaMa-Factory",
@@ -485,7 +485,7 @@
             ],
             "category": "model-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "PyTorch Lightning",
@@ -498,7 +498,7 @@
             ],
             "category": "model-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Agno",
@@ -511,7 +511,7 @@
             ],
             "category": "model-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kiln",
@@ -523,7 +523,7 @@
             ],
             "category": "model-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AnythingLLM",
@@ -535,7 +535,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "kotaemon",
@@ -547,7 +547,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Verba",
@@ -559,7 +559,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "RAGFlow",
@@ -571,7 +571,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "PaperQA2",
@@ -584,7 +584,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "R2R",
@@ -597,7 +597,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AutoFlow",
@@ -609,7 +609,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "DocsGPT",
@@ -622,7 +622,7 @@
             ],
             "category": "rag",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "DeepSearcher",
@@ -635,7 +635,7 @@
             ],
             "category": "research",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GPT Researcher",
@@ -649,7 +649,7 @@
             ],
             "category": "research",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Signal",
@@ -661,7 +661,7 @@
             ],
             "category": "chat",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Telegram Desktop",
@@ -673,7 +673,7 @@
             ],
             "category": "chat",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SimpleX",
@@ -687,7 +687,7 @@
             ],
             "category": "chat",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Mattermost",
@@ -699,7 +699,7 @@
             ],
             "category": "collaboration",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Zulip",
@@ -712,7 +712,7 @@
             ],
             "category": "collaboration",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rocket.Chat",
@@ -725,7 +725,7 @@
             ],
             "category": "collaboration",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Mailspring",
@@ -737,7 +737,7 @@
             ],
             "category": "mail",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Thunderbird",
@@ -749,7 +749,7 @@
             ],
             "category": "mail",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Jitsi Meet",
@@ -762,7 +762,7 @@
             ],
             "category": "video-conference",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Element",
@@ -775,7 +775,7 @@
             ],
             "category": "video-conference",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kopia",
@@ -788,7 +788,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Restic",
@@ -801,7 +801,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Duplicati",
@@ -813,7 +813,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Borg",
@@ -826,7 +826,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rclone",
@@ -839,7 +839,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Timeshift",
@@ -851,7 +851,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Backrest",
@@ -864,7 +864,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Duplicacy",
@@ -877,7 +877,7 @@
             ],
             "category": "backup",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Nextcloud",
@@ -890,7 +890,7 @@
             ],
             "category": "storage",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Seafile",
@@ -904,7 +904,7 @@
             ],
             "category": "storage",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ownCloud",
@@ -916,7 +916,7 @@
             ],
             "category": "storage",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ceph",
@@ -928,7 +928,7 @@
             ],
             "category": "storage",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "myDrive",
@@ -940,7 +940,7 @@
             ],
             "category": "storage",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Syncthing",
@@ -953,7 +953,7 @@
             ],
             "category": "sync",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "syncthing-macos",
@@ -966,7 +966,7 @@
             ],
             "category": "sync",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rsync",
@@ -979,7 +979,7 @@
             ],
             "category": "sync",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Tabby",
@@ -993,7 +993,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Continue",
@@ -1006,7 +1006,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cline",
@@ -1018,7 +1018,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Goose",
@@ -1031,7 +1031,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "MetaGPT",
@@ -1044,7 +1044,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Roo Code",
@@ -1056,7 +1056,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cody",
@@ -1069,7 +1069,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Plandex",
@@ -1082,7 +1082,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GPT Pilot",
@@ -1095,7 +1095,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Aider",
@@ -1108,7 +1108,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenHands",
@@ -1121,7 +1121,7 @@
             ],
             "category": "code-assistant",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Zed",
@@ -1136,7 +1136,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Helix",
@@ -1149,7 +1149,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lapce",
@@ -1161,7 +1161,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Vim",
@@ -1176,7 +1176,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "neovim",
@@ -1189,7 +1189,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SpaceVim",
@@ -1202,7 +1202,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "NvChad",
@@ -1215,7 +1215,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LazyVim",
@@ -1228,7 +1228,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VS Code",
@@ -1240,7 +1240,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VSCodium",
@@ -1252,7 +1252,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CodeEdit",
@@ -1264,7 +1264,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "code-server",
@@ -1276,7 +1276,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Void",
@@ -1289,7 +1289,7 @@
             ],
             "category": "code-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "DevToys",
@@ -1301,7 +1301,7 @@
             ],
             "category": "dev-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "massCode",
@@ -1313,7 +1313,7 @@
             ],
             "category": "dev-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Watchexec",
@@ -1326,7 +1326,7 @@
             ],
             "category": "dev-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "bat",
@@ -1339,7 +1339,7 @@
             ],
             "category": "dev-tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Godot",
@@ -1351,7 +1351,7 @@
             ],
             "category": "game-engine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GDevelop",
@@ -1363,7 +1363,7 @@
             ],
             "category": "game-engine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GitHub Desktop",
@@ -1375,7 +1375,7 @@
             ],
             "category": "git-gui",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "IntelliJ IDEA",
@@ -1387,7 +1387,7 @@
             ],
             "category": "ide",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Yarn",
@@ -1400,7 +1400,7 @@
             ],
             "category": "language-package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "PNPM",
@@ -1413,7 +1413,7 @@
             ],
             "category": "language-package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Bun",
@@ -1426,7 +1426,7 @@
             ],
             "category": "language-package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "uv",
@@ -1439,7 +1439,7 @@
             ],
             "category": "language-package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Heroic Games Launcher",
@@ -1451,7 +1451,7 @@
             ],
             "category": "game-launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Playnite",
@@ -1463,7 +1463,7 @@
             ],
             "category": "game-launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "RomM",
@@ -1475,7 +1475,7 @@
             ],
             "category": "game-launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Pelican Panel",
@@ -1487,7 +1487,7 @@
             ],
             "category": "game-launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Endless Sky",
@@ -1499,7 +1499,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cataclysm DDA",
@@ -1511,7 +1511,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Unciv",
@@ -1524,7 +1524,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Wesnoth",
@@ -1536,7 +1536,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Veloren",
@@ -1548,7 +1548,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "lichess",
@@ -1560,7 +1560,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenRA",
@@ -1572,7 +1572,7 @@
             ],
             "category": "games",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "uBlock Origin",
@@ -1585,7 +1585,7 @@
             ],
             "category": "browser-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Dark Reader",
@@ -1598,7 +1598,7 @@
             ],
             "category": "browser-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Page Assist",
@@ -1611,7 +1611,7 @@
             ],
             "category": "browser-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "nvim-dap",
@@ -1623,7 +1623,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Coq",
@@ -1635,7 +1635,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Neorg",
@@ -1647,7 +1647,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VimWiki",
@@ -1659,7 +1659,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Neovide",
@@ -1671,7 +1671,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "lazy.nvim",
@@ -1683,7 +1683,7 @@
             ],
             "category": "neovim-extensions",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Zen",
@@ -1695,7 +1695,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Brave",
@@ -1707,7 +1707,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Floorp",
@@ -1719,7 +1719,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Min",
@@ -1731,7 +1731,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Noi",
@@ -1743,7 +1743,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Neko",
@@ -1755,7 +1755,7 @@
             ],
             "category": "browser",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "GoPeed",
@@ -1767,7 +1767,7 @@
             ],
             "category": "download-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AB",
@@ -1779,7 +1779,7 @@
             ],
             "category": "download-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Persepolis",
@@ -1791,7 +1791,7 @@
             ],
             "category": "download-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "File Centipede",
@@ -1803,7 +1803,7 @@
             ],
             "category": "download-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Perplexica",
@@ -1815,7 +1815,7 @@
             ],
             "category": "search-engine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Scira",
@@ -1828,7 +1828,7 @@
             ],
             "category": "search-engine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Audacity",
@@ -1840,7 +1840,7 @@
             ],
             "category": "audio-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenUtau",
@@ -1852,7 +1852,7 @@
             ],
             "category": "audio-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Spotube",
@@ -1864,7 +1864,7 @@
             ],
             "category": "audio-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Feishin",
@@ -1877,7 +1877,7 @@
             ],
             "category": "audio-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Supersonic",
@@ -1889,7 +1889,7 @@
             ],
             "category": "audio-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Navidrome",
@@ -1902,7 +1902,7 @@
             ],
             "category": "audio-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Graphite",
@@ -1914,7 +1914,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "FreeCAD",
@@ -1926,7 +1926,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Blender",
@@ -1938,7 +1938,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Gaphor",
@@ -1950,7 +1950,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "darktable",
@@ -1962,7 +1962,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "RawTherapee",
@@ -1974,7 +1974,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Penpot",
@@ -1986,7 +1986,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenSCAD",
@@ -1998,7 +1998,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CadQuery",
@@ -2010,7 +2010,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Krita",
@@ -2022,7 +2022,7 @@
             ],
             "category": "graphics",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Upscayl",
@@ -2034,7 +2034,7 @@
             ],
             "category": "image-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "chaiNNer",
@@ -2046,7 +2046,7 @@
             ],
             "category": "image-processing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "yt-dlp",
@@ -2059,7 +2059,7 @@
             ],
             "category": "media-downloader",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "YoutubeDownloader",
@@ -2071,7 +2071,7 @@
             ],
             "category": "media-downloader",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cobalt",
@@ -2083,7 +2083,7 @@
             ],
             "category": "media-downloader",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OBS Studio",
@@ -2095,7 +2095,7 @@
             ],
             "category": "screen-recording",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ShareX",
@@ -2107,7 +2107,7 @@
             ],
             "category": "screen-recording",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cap",
@@ -2119,7 +2119,7 @@
             ],
             "category": "screen-recording",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Flameshot",
@@ -2131,7 +2131,7 @@
             ],
             "category": "screen-recording",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kdenlive",
@@ -2143,7 +2143,7 @@
             ],
             "category": "video-editing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Shotcut",
@@ -2155,7 +2155,7 @@
             ],
             "category": "video-editing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Olive",
@@ -2167,7 +2167,7 @@
             ],
             "category": "video-editing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LossletCut",
@@ -2179,7 +2179,7 @@
             ],
             "category": "video-editing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Natron",
@@ -2191,7 +2191,7 @@
             ],
             "category": "video-editing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "mpv",
@@ -2203,7 +2203,7 @@
             ],
             "category": "video-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "IINA",
@@ -2215,7 +2215,7 @@
             ],
             "category": "video-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VLC",
@@ -2227,7 +2227,7 @@
             ],
             "category": "video-player",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "HandBrake",
@@ -2239,7 +2239,7 @@
             ],
             "category": "video-transcoder",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Jellyseerr",
@@ -2251,7 +2251,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "autobrr",
@@ -2264,7 +2264,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Overseerr",
@@ -2278,7 +2278,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Sonarr",
@@ -2291,7 +2291,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Prowlarr",
@@ -2304,7 +2304,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Radarr",
@@ -2317,7 +2317,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Readarr",
@@ -2330,7 +2330,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lidarr",
@@ -2343,7 +2343,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Bazarr",
@@ -2356,7 +2356,7 @@
             ],
             "category": "arr",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cockpit",
@@ -2368,7 +2368,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Glance",
@@ -2380,7 +2380,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Dashy",
@@ -2392,7 +2392,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "homepage",
@@ -2404,7 +2404,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "dashdot",
@@ -2416,7 +2416,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Heimdall",
@@ -2428,7 +2428,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Homer",
@@ -2440,7 +2440,7 @@
             ],
             "category": "dashboard",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Home Assistant",
@@ -2453,7 +2453,7 @@
             ],
             "category": "home-automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Domoticz",
@@ -2465,7 +2465,7 @@
             ],
             "category": "home-automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Gladys",
@@ -2477,7 +2477,7 @@
             ],
             "category": "home-automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ESPHome",
@@ -2489,7 +2489,7 @@
             ],
             "category": "home-automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Runtipi",
@@ -2501,7 +2501,7 @@
             ],
             "category": "home-server",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CapRover",
@@ -2513,7 +2513,7 @@
             ],
             "category": "home-server",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CasaOS",
@@ -2525,7 +2525,7 @@
             ],
             "category": "home-server",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cosmos",
@@ -2537,7 +2537,7 @@
             ],
             "category": "home-server",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Sandstorm",
@@ -2549,7 +2549,7 @@
             ],
             "category": "home-server",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Immich",
@@ -2561,7 +2561,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "PhotoPrism",
@@ -2573,7 +2573,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Jellyfin",
@@ -2585,7 +2585,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ente",
@@ -2597,7 +2597,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kodi",
@@ -2610,7 +2610,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "audiobookshelf",
@@ -2624,7 +2624,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Memories",
@@ -2636,7 +2636,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Librum",
@@ -2648,7 +2648,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LibrePhotos",
@@ -2660,7 +2660,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kavita",
@@ -2672,7 +2672,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Piwigi",
@@ -2684,7 +2684,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Calibre-Web",
@@ -2696,7 +2696,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lychee",
@@ -2708,7 +2708,7 @@
             ],
             "category": "media-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Scrypted",
@@ -2720,7 +2720,7 @@
             ],
             "category": "surveillance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Frigate",
@@ -2732,7 +2732,7 @@
             ],
             "category": "surveillance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ZoneMinder",
@@ -2744,7 +2744,7 @@
             ],
             "category": "surveillance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "UniGetUI",
@@ -2756,7 +2756,7 @@
             ],
             "category": "windows",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "TheBoringNotch",
@@ -2768,7 +2768,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ice",
@@ -2780,7 +2780,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cork",
@@ -2792,7 +2792,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AppLite",
@@ -2804,7 +2804,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "KeepingYouAwake",
@@ -2816,7 +2816,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AltTab",
@@ -2828,7 +2828,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SketchyBar",
@@ -2840,7 +2840,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SwiftBar",
@@ -2852,7 +2852,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lunar",
@@ -2864,7 +2864,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LinearMouse",
@@ -2876,7 +2876,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OnlySwitch",
@@ -2888,7 +2888,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "MeetingBar",
@@ -2900,7 +2900,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Reminders MenuBar",
@@ -2912,7 +2912,7 @@
             ],
             "category": "macos",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Flatseal",
@@ -2924,7 +2924,7 @@
             ],
             "category": "linux",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Extension Manager",
@@ -2936,7 +2936,7 @@
             ],
             "category": "linux",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Puter",
@@ -2948,7 +2948,7 @@
             ],
             "category": "operating-system",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "umbrelOS",
@@ -2960,7 +2960,7 @@
             ],
             "category": "operating-system",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "openmediavault",
@@ -2972,7 +2972,7 @@
             ],
             "category": "operating-system",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "YunoHost",
@@ -2984,7 +2984,7 @@
             ],
             "category": "operating-system",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "buku",
@@ -2997,7 +2997,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Linkwarden",
@@ -3009,7 +3009,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "linkding",
@@ -3021,7 +3021,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "hoarder",
@@ -3033,7 +3033,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Shiori",
@@ -3045,7 +3045,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "wallabag",
@@ -3057,7 +3057,7 @@
             ],
             "category": "bookmark-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Docspell",
@@ -3071,7 +3071,7 @@
             ],
             "category": "document-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Paperless-ngx",
@@ -3083,7 +3083,7 @@
             ],
             "category": "document-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "TagSpaces",
@@ -3095,7 +3095,7 @@
             ],
             "category": "document-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cal",
@@ -3107,7 +3107,7 @@
             ],
             "category": "calendar",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Stirling PDF",
@@ -3121,7 +3121,7 @@
             ],
             "category": "document-modifier",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "DocuSeal",
@@ -3133,7 +3133,7 @@
             ],
             "category": "document-modifier",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OCRmyPDF",
@@ -3146,7 +3146,7 @@
             ],
             "category": "document-modifier",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Documenso",
@@ -3159,7 +3159,7 @@
             ],
             "category": "document-modifier",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenSign",
@@ -3172,7 +3172,7 @@
             ],
             "category": "document-modifier",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Maybe",
@@ -3184,7 +3184,7 @@
             ],
             "category": "finance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Actual",
@@ -3197,7 +3197,7 @@
             ],
             "category": "finance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ghostfolio",
@@ -3209,7 +3209,7 @@
             ],
             "category": "finance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Wallos",
@@ -3221,7 +3221,7 @@
             ],
             "category": "finance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Firefly III",
@@ -3233,7 +3233,7 @@
             ],
             "category": "finance",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Logseq",
@@ -3245,7 +3245,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Anytype",
@@ -3257,7 +3257,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AppFlowy",
@@ -3271,7 +3271,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Affine",
@@ -3283,7 +3283,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Outline",
@@ -3295,7 +3295,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Siyuan",
@@ -3307,7 +3307,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "FastGPT",
@@ -3319,7 +3319,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Foam",
@@ -3331,7 +3331,7 @@
             ],
             "category": "knowledge-base",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Plane",
@@ -3344,7 +3344,7 @@
             ],
             "category": "project-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Focalboard",
@@ -3357,7 +3357,7 @@
             ],
             "category": "project-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Huly",
@@ -3370,7 +3370,7 @@
             ],
             "category": "project-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenProject",
@@ -3382,7 +3382,7 @@
             ],
             "category": "project-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Leantime",
@@ -3394,7 +3394,7 @@
             ],
             "category": "project-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Super Productivity",
@@ -3406,7 +3406,7 @@
             ],
             "category": "task-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Planka",
@@ -3419,7 +3419,7 @@
             ],
             "category": "task-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "solidtime",
@@ -3432,7 +3432,7 @@
             ],
             "category": "time-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ActivityWatch",
@@ -3445,7 +3445,7 @@
             ],
             "category": "time-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Blocky",
@@ -3457,7 +3457,7 @@
             ],
             "category": "ad-blocker",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AdGuard",
@@ -3472,7 +3472,7 @@
             ],
             "category": "ad-blocker",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Pi-hole",
@@ -3484,7 +3484,7 @@
             ],
             "category": "ad-blocker",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ClamAV",
@@ -3497,7 +3497,7 @@
             ],
             "category": "antivirus",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "2FAuth",
@@ -3509,7 +3509,7 @@
             ],
             "category": "authentication",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "authelia",
@@ -3521,7 +3521,7 @@
             ],
             "category": "authentication",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Tailscale",
@@ -3533,7 +3533,7 @@
             ],
             "category": "authentication",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Aegis",
@@ -3545,7 +3545,7 @@
             ],
             "category": "authentication",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "BunkerWeb",
@@ -3557,7 +3557,7 @@
             ],
             "category": "firewall",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SafeLine",
@@ -3569,7 +3569,7 @@
             ],
             "category": "firewall",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Bitwarden",
@@ -3581,7 +3581,7 @@
             ],
             "category": "password-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "KeePass",
@@ -3593,7 +3593,7 @@
             ],
             "category": "password-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Vaultwarden",
@@ -3605,7 +3605,7 @@
             ],
             "category": "password-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LessPass",
@@ -3621,7 +3621,7 @@
             ],
             "category": "password-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Passbolt",
@@ -3638,7 +3638,7 @@
             ],
             "category": "password-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Amnezia",
@@ -3651,7 +3651,7 @@
             ],
             "category": "vpn",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "NetBird",
@@ -3663,7 +3663,7 @@
             ],
             "category": "vpn",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ProtonVPN",
@@ -3676,7 +3676,7 @@
             ],
             "category": "vpn",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "fish",
@@ -3689,7 +3689,7 @@
             ],
             "category": "shell",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "xonsh",
@@ -3702,7 +3702,7 @@
             ],
             "category": "shell",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Nushell",
@@ -3715,7 +3715,7 @@
             ],
             "category": "shell",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "kitty",
@@ -3727,7 +3727,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "WezTerm",
@@ -3739,7 +3739,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Waveterm",
@@ -3751,7 +3751,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Alacritty",
@@ -3763,7 +3763,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Tabby",
@@ -3775,7 +3775,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rio",
@@ -3787,7 +3787,7 @@
             ],
             "category": "terminal-emulator",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Zellij",
@@ -3800,7 +3800,7 @@
             ],
             "category": "terminal-multiplexer",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "tmux",
@@ -3813,7 +3813,7 @@
             ],
             "category": "terminal-multiplexer",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Atuin",
@@ -3826,7 +3826,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Oh My Zsh",
@@ -3839,7 +3839,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "McFly",
@@ -3852,7 +3852,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "zoxide",
@@ -3865,7 +3865,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "zsh-autosuggestions",
@@ -3878,7 +3878,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "ShellGPT",
@@ -3891,7 +3891,7 @@
             ],
             "category": "terminal-utilities",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Etherpad",
@@ -3904,7 +3904,7 @@
             ],
             "category": "document-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Zettlr",
@@ -3916,7 +3916,7 @@
             ],
             "category": "markdown-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "HedgeDoc",
@@ -3928,7 +3928,7 @@
             ],
             "category": "markdown-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Joplin",
@@ -3940,7 +3940,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Notesnook",
@@ -3952,7 +3952,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Standard Notes",
@@ -3966,7 +3966,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Simplenote",
@@ -3980,7 +3980,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Better Notes",
@@ -3992,7 +3992,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Memos",
@@ -4004,7 +4004,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Blinko",
@@ -4016,7 +4016,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rnote",
@@ -4028,7 +4028,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "SilverBullet",
@@ -4040,7 +4040,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Reor",
@@ -4052,7 +4052,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VNote",
@@ -4064,7 +4064,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "nb",
@@ -4077,7 +4077,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "jrnl",
@@ -4090,7 +4090,7 @@
             ],
             "category": "note-taking",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OnlyOffice",
@@ -4102,7 +4102,7 @@
             ],
             "category": "office-suite",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LibreOffice",
@@ -4114,7 +4114,7 @@
             ],
             "category": "office-suite",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CryptPad",
@@ -4126,7 +4126,7 @@
             ],
             "category": "office-suite",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Harper",
@@ -4138,7 +4138,7 @@
             ],
             "category": "proofreading",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LanguageTool",
@@ -4151,7 +4151,7 @@
             ],
             "category": "proofreading",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "WritingTools",
@@ -4163,7 +4163,7 @@
             ],
             "category": "proofreading",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Grist",
@@ -4176,7 +4176,7 @@
             ],
             "category": "spreadsheet",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Quill",
@@ -4188,7 +4188,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CotEditor",
@@ -4200,7 +4200,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Micro",
@@ -4213,7 +4213,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Notepads",
@@ -4225,7 +4225,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kakoune",
@@ -4238,7 +4238,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lite XL",
@@ -4250,7 +4250,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Emacs",
@@ -4262,7 +4262,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "NotepadNext",
@@ -4274,7 +4274,7 @@
             ],
             "category": "text-editor",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "MediaWiki",
@@ -4286,7 +4286,7 @@
             ],
             "category": "wiki",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Wiki.js",
@@ -4298,7 +4298,7 @@
             ],
             "category": "wiki",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "BookStack",
@@ -4310,7 +4310,7 @@
             ],
             "category": "wiki",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ansible",
@@ -4323,7 +4323,7 @@
             ],
             "category": "automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Hammerspoon",
@@ -4335,7 +4335,7 @@
             ],
             "category": "automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Script Kit",
@@ -4347,7 +4347,7 @@
             ],
             "category": "automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Semaphore",
@@ -4359,7 +4359,7 @@
             ],
             "category": "automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Cronicle",
@@ -4373,7 +4373,7 @@
             ],
             "category": "automation",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Pearcleaner",
@@ -4385,7 +4385,7 @@
             ],
             "category": "cleaner",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "BleachBit",
@@ -4398,7 +4398,7 @@
             ],
             "category": "cleaner",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Maccy",
@@ -4410,7 +4410,7 @@
             ],
             "category": "clipboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Clipboard",
@@ -4422,7 +4422,7 @@
             ],
             "category": "clipboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "CopyQ",
@@ -4434,7 +4434,7 @@
             ],
             "category": "clipboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Dockge",
@@ -4446,7 +4446,7 @@
             ],
             "category": "containers",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Colima",
@@ -4459,7 +4459,7 @@
             ],
             "category": "containers",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "yadm",
@@ -4472,7 +4472,7 @@
             ],
             "category": "dotfiles-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "chezmoi",
@@ -4484,7 +4484,7 @@
             ],
             "category": "dotfiles-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Spacedrive",
@@ -4496,7 +4496,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Files",
@@ -4508,7 +4508,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "nnn",
@@ -4521,7 +4521,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Yazi",
@@ -4534,7 +4534,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ranger",
@@ -4547,7 +4547,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Electerm",
@@ -4559,7 +4559,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "If",
@@ -4572,7 +4572,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Superfile",
@@ -4584,7 +4584,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Filestash",
@@ -4596,7 +4596,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "FileGator",
@@ -4608,7 +4608,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "File Browser",
@@ -4620,7 +4620,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "xplr",
@@ -4633,7 +4633,7 @@
             ],
             "category": "file-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "LocalSend",
@@ -4646,7 +4646,7 @@
             ],
             "category": "file-sharing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OnionShare",
@@ -4658,7 +4658,7 @@
             ],
             "category": "file-sharing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "PairDrop",
@@ -4670,7 +4670,7 @@
             ],
             "category": "file-sharing",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Karabiner-Elements",
@@ -4682,7 +4682,7 @@
             ],
             "category": "keyboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kanata",
@@ -4694,7 +4694,7 @@
             ],
             "category": "keyboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kmonad",
@@ -4706,7 +4706,7 @@
             ],
             "category": "keyboard-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ueli",
@@ -4718,7 +4718,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Sol",
@@ -4730,7 +4730,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Kando",
@@ -4742,7 +4742,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Albert",
@@ -4754,7 +4754,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Ulauncher",
@@ -4766,7 +4766,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Wox",
@@ -4778,7 +4778,7 @@
             ],
             "category": "launcher",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Homebrew",
@@ -4792,7 +4792,7 @@
             ],
             "category": "package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Choco",
@@ -4804,7 +4804,7 @@
             ],
             "category": "package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Nix",
@@ -4816,7 +4816,7 @@
             ],
             "category": "package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Spack",
@@ -4828,7 +4828,7 @@
             ],
             "category": "package-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "RustDesk",
@@ -4840,7 +4840,7 @@
             ],
             "category": "remote-desktop",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Stats",
@@ -4852,7 +4852,7 @@
             ],
             "category": "system-monitoring",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Vitals",
@@ -4864,7 +4864,7 @@
             ],
             "category": "system-monitoring",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "bottom",
@@ -4877,7 +4877,7 @@
             ],
             "category": "system-monitoring",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Background Music",
@@ -4889,7 +4889,7 @@
             ],
             "category": "system",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Czkawka",
@@ -4902,7 +4902,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "balenaEtcher",
@@ -4914,7 +4914,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "MonitorControl",
@@ -4926,7 +4926,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "OpenRGB",
@@ -4938,7 +4938,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "inshellisense",
@@ -4951,7 +4951,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "rga",
@@ -4964,7 +4964,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "fd",
@@ -4977,7 +4977,7 @@
             ],
             "category": "tools",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "XcodesApp",
@@ -4989,7 +4989,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "rbenv",
@@ -5002,7 +5002,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "pyenv",
@@ -5015,7 +5015,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "nvm",
@@ -5028,7 +5028,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "mise",
@@ -5041,7 +5041,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "asdf",
@@ -5054,7 +5054,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "vfox",
@@ -5067,7 +5067,7 @@
             ],
             "category": "version-manager",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "UTM",
@@ -5079,7 +5079,7 @@
             ],
             "category": "virtual-machine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "VirtualBuddy",
@@ -5091,7 +5091,7 @@
             ],
             "category": "virtual-machine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Lima",
@@ -5104,7 +5104,7 @@
             ],
             "category": "virtual-machine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Quickemu",
@@ -5117,7 +5117,7 @@
             ],
             "category": "virtual-machine",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Rectangle",
@@ -5129,7 +5129,7 @@
             ],
             "category": "window-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Loop",
@@ -5141,7 +5141,7 @@
             ],
             "category": "window-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "AeroSpace",
@@ -5153,7 +5153,7 @@
             ],
             "category": "window-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Amethyst",
@@ -5165,7 +5165,7 @@
             ],
             "category": "window-management",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "openpilot",
@@ -5177,7 +5177,7 @@
             ],
             "category": "other",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Mealie",
@@ -5189,7 +5189,7 @@
             ],
             "category": "other",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Grocy",
@@ -5202,7 +5202,7 @@
             ],
             "category": "other",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "Whisky",
@@ -5214,7 +5214,7 @@
             ],
             "category": "uncategorized",
             "stars": "",
-            "flags": ""
+            "flags": []
         },
         {
             "name": "XPipe",
@@ -5226,7 +5226,7 @@
             ],
             "category": "uncategorized",
             "stars": "",
-            "flags": ""
+            "flags": []
         }
     ]
 }

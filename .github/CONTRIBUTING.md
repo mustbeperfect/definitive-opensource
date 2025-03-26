@@ -20,15 +20,14 @@ To establish uniformity accross the project, please adhere to these conventions.
 - Use the project's official name, not the repository name. Repository names often use lowercase and place dashes in place of spaces. Fallback to **Title Casing** if capitalization is not clear. 
 - Platform tags are listed in the following order: ```Desktop OS (Order: Windows, MacOS, Linux)```, ```Mobile (Order: Android, IOS)```, ```CLI```, ```SelfHost```, ```Web```, ```Plugin```
 - For projects with multiple repositories (EX: one for IOS, Windows, etc) link the repository with the most stars.
-- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization, their official website, or the repo's README. **Do not write your own description and only use text from official sources of the project.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with GFM tables. 
-
->[!NOTE]
->These conventions can seem overly complicated. Make sure you skim over them but don't get too caught up  over them. Basically, just follow what's already been done and fallback here when you aren't sure of something. 
+- The description should be the repository description. If there are multiple repositories, no description, or an inadequate one, fall back to the organization, their official website, or the repo's README. **Do not write your own description, only use text from official sources of the project, and do not modify (EX: shorten) their description.** The ONLY change you can make is replacing ```|``` with ```-``` to prevent interference with GFM tables. If you not using the GitHub description, put the ```custom-description``` flag in the flags array so our description updator script does not override it. 
+- For tags, do not use the emoji. Go to [tags.json](source/data/tags.json) and find the id for the tag. Our script will generate it's corresponding emoji when it builds the README. 
 
 ## Guidelines
 - Check the archive, the backlog, and duplicates
 - Make sure the category is fitting
 - The pull request and commit should have concise and descriptive titles
+- One pull request per new addition
 - If a project is in the grey zone for submission guidelines, include why it should be included.
 - Proposals for new categories or the re-organization of existing categories must be discussed and approved via an issue prior to the pull request
 
