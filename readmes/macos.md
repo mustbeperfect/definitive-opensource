@@ -370,7 +370,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Signal](https://github.com/signalapp) | A private messenger. | `Cross` |  |
+| [Signal](https://github.com/signalapp/Signal-Android) | A private messenger. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android?style=for-the-badge&label=%20&color=white) |
 | [SimpleX](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` `CLI` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=for-the-badge&label=%20&color=white) |
 | [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=for-the-badge&label=%20&color=white) |
 
