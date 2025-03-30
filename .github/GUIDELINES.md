@@ -1,6 +1,6 @@
 
 # Submission Guidelines
-This list is for projects that are _directly used_, not projects with the sole purpose of building another project. Development technologies like frameworks or databases are not allowed. _Enterprise systems_ like CRM or marketing are currently no allowed but may be considered once the core of the list is ironed out. 
+This list is for projects that are _directly used_, not projects with the sole purpose of building another project. Development technologies like frameworks or databases are not allowed. _Enterprise systems_ like CRM or marketing are currently not allowed but may be considered once the core of the list is ironed out. 
 
 ```Definitive-opensource``` has a **rigorous** vetting process that involves comprehensive research into a project. 
 
@@ -35,9 +35,12 @@ To avoid the clutter trap that many other lists succumb to as they scale, only t
 ### 5. Quality
 - ```✅``` The project should be competent and decently good quality.
 
-## What is Open Source? (In Development)
+## What is Open Source?
 The project should abide by the [Open Source Definition (OSD)](https://opensource.org/osd). 
 The project's license should be an [OSI Approved License](https://opensource.org/licenses). If not, it should fall under the OSD. 
+
+## Projects Not Hosted on GitHub
+Most major projects hosted elsewhere have GitHub mirrors. Blender's mirror has 14.7k stars, Krita's has 8k, Gimp has 5.3, etc. The star counts of those mirrors are used. In the rare case that the project does not have a GitHub mirror, other measures will be taken to analyze product popularity.
 
 ## Examples
 
