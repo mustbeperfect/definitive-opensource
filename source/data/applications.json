@@ -10,7 +10,7 @@
                 "Cross"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -25,7 +25,7 @@
                 "Windows"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -38,7 +38,7 @@
                 "CLI"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -50,7 +50,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -62,7 +62,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -74,7 +74,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -86,7 +86,7 @@
                 "Cross"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -98,7 +98,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -111,7 +111,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -123,7 +123,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -135,7 +135,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -147,7 +147,7 @@
                 "Cross"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -159,7 +159,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -171,7 +171,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -183,7 +183,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -195,7 +195,7 @@
                 "Cross"
             ],
             "category": "ai-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -208,7 +208,7 @@
                 "CLI"
             ],
             "category": "all-in-one",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -220,7 +220,7 @@
                 "Cross"
             ],
             "category": "all-in-one",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -232,7 +232,7 @@
                 "SelfHost"
             ],
             "category": "all-in-one",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -244,7 +244,7 @@
                 "SelfHost"
             ],
             "category": "assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -258,7 +258,7 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -270,7 +270,7 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -282,7 +282,7 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -295,7 +295,7 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -308,7 +308,7 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -321,7 +321,7 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -333,7 +333,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -345,7 +345,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -357,7 +357,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -369,7 +369,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -381,7 +381,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -393,7 +393,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -405,7 +405,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -419,7 +419,7 @@
                 "Web"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -431,7 +431,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -443,7 +443,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -459,7 +459,7 @@
                 "SelfHost"
             ],
             "category": "manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -471,7 +471,7 @@
                 "Cross"
             ],
             "category": "manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -484,7 +484,7 @@
                 "CLI+"
             ],
             "category": "model-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -497,7 +497,7 @@
                 "CLI"
             ],
             "category": "model-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -510,7 +510,7 @@
                 "CLI"
             ],
             "category": "model-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -522,7 +522,7 @@
                 "Cross"
             ],
             "category": "model-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -534,7 +534,7 @@
                 "Cross"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -546,7 +546,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -558,7 +558,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -570,7 +570,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -583,7 +583,7 @@
                 "CLI"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -596,7 +596,7 @@
                 "CLI"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -608,7 +608,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -621,7 +621,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -634,7 +634,7 @@
                 "CLI"
             ],
             "category": "research",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -648,7 +648,7 @@
                 "SelfHost"
             ],
             "category": "research",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -660,7 +660,7 @@
                 "Cross"
             ],
             "category": "chat",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -672,7 +672,7 @@
                 "Cross"
             ],
             "category": "chat",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -686,7 +686,7 @@
                 "CLI+"
             ],
             "category": "chat",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -698,7 +698,7 @@
                 "SelfHost"
             ],
             "category": "collaboration",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -711,7 +711,7 @@
                 "Web"
             ],
             "category": "collaboration",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -724,7 +724,7 @@
                 "Web"
             ],
             "category": "collaboration",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -736,7 +736,7 @@
                 "Cross"
             ],
             "category": "mail",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -748,7 +748,7 @@
                 "Cross"
             ],
             "category": "mail",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -761,7 +761,7 @@
                 "Web"
             ],
             "category": "video-conference",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -774,7 +774,7 @@
                 "Web"
             ],
             "category": "video-conference",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -787,7 +787,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -800,7 +800,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -812,7 +812,7 @@
                 "Cross"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -825,7 +825,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -838,7 +838,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -850,7 +850,7 @@
                 "Linux"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -863,7 +863,7 @@
                 "SelfHost"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -876,7 +876,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -889,7 +889,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -903,7 +903,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -915,7 +915,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -927,7 +927,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -939,7 +939,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -952,7 +952,7 @@
                 "CLI+"
             ],
             "category": "sync",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -965,7 +965,7 @@
                 "CLI+"
             ],
             "category": "sync",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -978,7 +978,7 @@
                 "CLI"
             ],
             "category": "sync",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -992,7 +992,7 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1005,7 +1005,7 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1017,7 +1017,7 @@
                 "VSCode"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1030,7 +1030,7 @@
                 "CLI+"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1043,7 +1043,7 @@
                 "Web"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1055,7 +1055,7 @@
                 "VSCode"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1068,7 +1068,7 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1081,7 +1081,7 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1094,7 +1094,7 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1107,7 +1107,7 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1120,7 +1120,7 @@
                 "SelfHost"
             ],
             "category": "code-assistant",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1135,7 +1135,7 @@
                 "Linux"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1148,7 +1148,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1160,7 +1160,7 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1175,7 +1175,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1188,7 +1188,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1201,7 +1201,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1214,7 +1214,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1227,7 +1227,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1239,7 +1239,7 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1251,7 +1251,7 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1263,7 +1263,7 @@
                 "MacOS"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1275,7 +1275,7 @@
                 "SelfHost"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1288,7 +1288,7 @@
                 "MacOS"
             ],
             "category": "code-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1300,7 +1300,7 @@
                 "Cross"
             ],
             "category": "dev-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1312,7 +1312,7 @@
                 "Cross"
             ],
             "category": "dev-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1325,7 +1325,7 @@
                 "CLI"
             ],
             "category": "dev-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1338,7 +1338,7 @@
                 "CLI"
             ],
             "category": "dev-tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1350,7 +1350,7 @@
                 "Cross"
             ],
             "category": "game-engine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1362,7 +1362,7 @@
                 "Cross"
             ],
             "category": "game-engine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1374,7 +1374,7 @@
                 "Cross"
             ],
             "category": "git-gui",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1386,7 +1386,7 @@
                 "Cross"
             ],
             "category": "ide",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1399,7 +1399,7 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1412,7 +1412,7 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1425,7 +1425,7 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1438,7 +1438,7 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1450,7 +1450,7 @@
                 "Cross"
             ],
             "category": "game-launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1462,7 +1462,7 @@
                 "Windows"
             ],
             "category": "game-launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1474,7 +1474,7 @@
                 "SelfHost"
             ],
             "category": "game-launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1486,7 +1486,7 @@
                 "SelfHost"
             ],
             "category": "game-launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1498,7 +1498,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1510,7 +1510,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1523,7 +1523,7 @@
                 "Android"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1535,7 +1535,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1547,7 +1547,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1559,7 +1559,7 @@
                 "Web"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1571,7 +1571,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1584,7 +1584,7 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1597,7 +1597,7 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1610,7 +1610,7 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1622,7 +1622,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1634,7 +1634,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1646,7 +1646,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1658,7 +1658,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1670,7 +1670,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1682,7 +1682,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1694,7 +1694,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1706,7 +1706,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1718,7 +1718,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1730,7 +1730,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1742,7 +1742,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1754,7 +1754,7 @@
                 "SelfHost"
             ],
             "category": "browser",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1766,7 +1766,7 @@
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1778,7 +1778,7 @@
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1790,7 +1790,7 @@
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1802,7 +1802,7 @@
                 "SelfHost"
             ],
             "category": "download-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1814,7 +1814,7 @@
                 "SelfHost"
             ],
             "category": "search-engine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1827,7 +1827,7 @@
                 "Web"
             ],
             "category": "search-engine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1839,7 +1839,7 @@
                 "Cross"
             ],
             "category": "audio-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1851,7 +1851,7 @@
                 "Cross"
             ],
             "category": "audio-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1863,7 +1863,7 @@
                 "Cross"
             ],
             "category": "audio-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1876,7 +1876,7 @@
                 "SelfHost"
             ],
             "category": "audio-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1888,7 +1888,7 @@
                 "Cross"
             ],
             "category": "audio-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1901,7 +1901,7 @@
                 "SelfHost"
             ],
             "category": "audio-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1913,7 +1913,7 @@
                 "Web"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1925,7 +1925,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1937,7 +1937,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1949,7 +1949,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1961,7 +1961,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1973,7 +1973,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1985,7 +1985,7 @@
                 "Web"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -1997,7 +1997,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2009,7 +2009,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2021,7 +2021,7 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2033,7 +2033,7 @@
                 "Cross"
             ],
             "category": "image-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2045,7 +2045,7 @@
                 "Cross"
             ],
             "category": "image-processing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2058,7 +2058,7 @@
                 "CLI"
             ],
             "category": "media-downloader",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2070,7 +2070,7 @@
                 "Cross"
             ],
             "category": "media-downloader",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2082,7 +2082,7 @@
                 "Web"
             ],
             "category": "media-downloader",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2094,7 +2094,7 @@
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2106,7 +2106,7 @@
                 "Windows"
             ],
             "category": "screen-recording",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2118,7 +2118,7 @@
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2130,7 +2130,7 @@
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2142,7 +2142,7 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2154,7 +2154,7 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2166,7 +2166,7 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2178,7 +2178,7 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2190,7 +2190,7 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2202,7 +2202,7 @@
                 "Cross"
             ],
             "category": "video-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2214,7 +2214,7 @@
                 "MacOS"
             ],
             "category": "video-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2226,7 +2226,7 @@
                 "Cross"
             ],
             "category": "video-player",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2238,7 +2238,7 @@
                 "Cross"
             ],
             "category": "video-transcoder",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2250,7 +2250,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2263,7 +2263,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2277,7 +2277,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2290,7 +2290,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2303,7 +2303,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2316,7 +2316,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2329,7 +2329,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2342,7 +2342,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2355,7 +2355,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2367,7 +2367,7 @@
                 "Linux"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2379,7 +2379,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2391,7 +2391,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2403,7 +2403,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2415,7 +2415,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2427,7 +2427,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2439,7 +2439,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2452,7 +2452,7 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2464,7 +2464,7 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2476,7 +2476,7 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2488,7 +2488,7 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2500,7 +2500,7 @@
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2512,7 +2512,7 @@
                 "Linux"
             ],
             "category": "home-server",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2524,7 +2524,7 @@
                 "Linux"
             ],
             "category": "home-server",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2536,7 +2536,7 @@
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2548,7 +2548,7 @@
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2560,7 +2560,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2572,7 +2572,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2584,7 +2584,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2596,7 +2596,7 @@
                 "Web"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2609,7 +2609,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2623,7 +2623,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2635,7 +2635,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2647,7 +2647,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2659,7 +2659,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2671,7 +2671,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2683,7 +2683,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2695,7 +2695,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2707,7 +2707,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2719,7 +2719,7 @@
                 "SelfHost"
             ],
             "category": "surveillance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2731,7 +2731,7 @@
                 "SelfHost"
             ],
             "category": "surveillance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2743,7 +2743,7 @@
                 "SelfHost"
             ],
             "category": "surveillance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2755,7 +2755,7 @@
                 "Windows"
             ],
             "category": "windows",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2767,7 +2767,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2779,7 +2779,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2791,7 +2791,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2803,7 +2803,7 @@
                 "Cross"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2815,7 +2815,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2827,7 +2827,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2839,7 +2839,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2851,7 +2851,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2863,7 +2863,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2875,7 +2875,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2887,7 +2887,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2899,7 +2899,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2911,7 +2911,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2923,7 +2923,7 @@
                 "Linux"
             ],
             "category": "linux",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2935,7 +2935,7 @@
                 "Linux"
             ],
             "category": "linux",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2947,7 +2947,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2959,7 +2959,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2971,7 +2971,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2983,7 +2983,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -2996,7 +2996,7 @@
                 "CLI+"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3008,7 +3008,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3020,7 +3020,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3032,7 +3032,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3044,7 +3044,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3056,7 +3056,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3070,7 +3070,7 @@
                 "Android"
             ],
             "category": "document-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3082,7 +3082,7 @@
                 "SelfHost"
             ],
             "category": "document-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3094,7 +3094,7 @@
                 "SelfHost"
             ],
             "category": "document-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3106,7 +3106,7 @@
                 "SelfHost"
             ],
             "category": "calendar",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3120,7 +3120,7 @@
                 "SelfHost"
             ],
             "category": "document-modifier",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3132,7 +3132,7 @@
                 "SelfHost"
             ],
             "category": "document-modifier",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3145,7 +3145,7 @@
                 "CLI"
             ],
             "category": "document-modifier",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3158,7 +3158,7 @@
                 "Web"
             ],
             "category": "document-modifier",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3171,7 +3171,7 @@
                 "Web"
             ],
             "category": "document-modifier",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3183,7 +3183,7 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3196,7 +3196,7 @@
                 "Cross"
             ],
             "category": "finance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3208,7 +3208,7 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3220,7 +3220,7 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3232,7 +3232,7 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3244,7 +3244,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3256,7 +3256,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3270,7 +3270,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3282,7 +3282,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3294,7 +3294,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3306,7 +3306,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3318,7 +3318,7 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3330,7 +3330,7 @@
                 "VSCode"
             ],
             "category": "knowledge-base",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3343,7 +3343,7 @@
                 "Web"
             ],
             "category": "project-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3356,7 +3356,7 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3369,7 +3369,7 @@
                 "Web"
             ],
             "category": "project-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3381,7 +3381,7 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3393,7 +3393,7 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3405,7 +3405,7 @@
                 "Cross"
             ],
             "category": "task-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3418,7 +3418,7 @@
                 "CLI+"
             ],
             "category": "task-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3431,7 +3431,7 @@
                 "Web"
             ],
             "category": "time-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3444,7 +3444,7 @@
                 "Android"
             ],
             "category": "time-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3456,7 +3456,7 @@
                 "SelfHost"
             ],
             "category": "ad-blocker",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3471,7 +3471,7 @@
                 "Firefox"
             ],
             "category": "ad-blocker",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3483,7 +3483,7 @@
                 "SelfHost"
             ],
             "category": "ad-blocker",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3496,7 +3496,7 @@
                 "SelfHost"
             ],
             "category": "antivirus",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3508,7 +3508,7 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3520,7 +3520,7 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3532,7 +3532,7 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3544,7 +3544,7 @@
                 "Android"
             ],
             "category": "authentication",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3556,7 +3556,7 @@
                 "SelfHost"
             ],
             "category": "firewall",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3568,7 +3568,7 @@
                 "SelfHost"
             ],
             "category": "firewall",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3580,7 +3580,7 @@
                 "Cross"
             ],
             "category": "password-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3592,7 +3592,7 @@
                 "Cross"
             ],
             "category": "password-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3604,7 +3604,7 @@
                 "SelfHost"
             ],
             "category": "password-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3620,7 +3620,7 @@
                 "Firefox"
             ],
             "category": "password-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3637,7 +3637,7 @@
                 "Firefox"
             ],
             "category": "password-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3650,7 +3650,7 @@
                 "CLI+"
             ],
             "category": "vpn",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3662,7 +3662,7 @@
                 "Cross"
             ],
             "category": "vpn",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3675,7 +3675,7 @@
                 "CLI+"
             ],
             "category": "vpn",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3688,7 +3688,7 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3701,7 +3701,7 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3714,7 +3714,7 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3726,7 +3726,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3738,7 +3738,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3750,7 +3750,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3762,7 +3762,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3774,7 +3774,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3786,7 +3786,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3799,7 +3799,7 @@
                 "CLI"
             ],
             "category": "terminal-multiplexer",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3812,7 +3812,7 @@
                 "CLI"
             ],
             "category": "terminal-multiplexer",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3825,7 +3825,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3838,7 +3838,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3851,7 +3851,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3864,7 +3864,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3877,7 +3877,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3890,7 +3890,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3903,7 +3903,7 @@
                 "Web"
             ],
             "category": "document-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3915,7 +3915,7 @@
                 "Cross"
             ],
             "category": "markdown-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3927,7 +3927,7 @@
                 "SelfHost"
             ],
             "category": "markdown-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3939,7 +3939,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3951,7 +3951,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3965,7 +3965,7 @@
                 "Android"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3979,7 +3979,7 @@
                 "Android"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -3991,7 +3991,7 @@
                 "`Plugin`"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4003,7 +4003,7 @@
                 "SelfHost"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4015,7 +4015,7 @@
                 "SelfHost"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4027,7 +4027,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4039,7 +4039,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4051,7 +4051,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4063,7 +4063,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4076,7 +4076,7 @@
                 "CLI"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4089,7 +4089,7 @@
                 "CLI"
             ],
             "category": "note-taking",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4101,7 +4101,7 @@
                 "Cross"
             ],
             "category": "office-suite",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4113,7 +4113,7 @@
                 "Cross"
             ],
             "category": "office-suite",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4125,7 +4125,7 @@
                 "SelfHost"
             ],
             "category": "office-suite",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4137,7 +4137,7 @@
                 "VSCode"
             ],
             "category": "proofreading",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4150,7 +4150,7 @@
                 "Web"
             ],
             "category": "proofreading",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4162,7 +4162,7 @@
                 "Cross"
             ],
             "category": "proofreading",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4175,7 +4175,7 @@
                 "Web"
             ],
             "category": "spreadsheet",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4187,7 +4187,7 @@
                 "Web"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4199,7 +4199,7 @@
                 "MacOS"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4212,7 +4212,7 @@
                 "CLI"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4224,7 +4224,7 @@
                 "Windows"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4237,7 +4237,7 @@
                 "CLI"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4249,7 +4249,7 @@
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4261,7 +4261,7 @@
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4273,7 +4273,7 @@
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4285,7 +4285,7 @@
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4297,7 +4297,7 @@
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4309,7 +4309,7 @@
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4322,7 +4322,7 @@
                 "CLI+"
             ],
             "category": "automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4334,7 +4334,7 @@
                 "MacOS"
             ],
             "category": "automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4346,7 +4346,7 @@
                 "Cross"
             ],
             "category": "automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4358,7 +4358,7 @@
                 "Cross"
             ],
             "category": "automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4372,7 +4372,7 @@
                 "SelfHost"
             ],
             "category": "automation",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4384,7 +4384,7 @@
                 "MacOS"
             ],
             "category": "cleaner",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4397,7 +4397,7 @@
                 "Linux"
             ],
             "category": "cleaner",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4409,7 +4409,7 @@
                 "MacOS"
             ],
             "category": "clipboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4421,7 +4421,7 @@
                 "Cross"
             ],
             "category": "clipboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4433,7 +4433,7 @@
                 "Cross"
             ],
             "category": "clipboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4445,7 +4445,7 @@
                 "Cross"
             ],
             "category": "containers",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4458,7 +4458,7 @@
                 "CLI"
             ],
             "category": "containers",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4471,7 +4471,7 @@
                 "CLI"
             ],
             "category": "dotfiles-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4483,7 +4483,7 @@
                 "Cross"
             ],
             "category": "dotfiles-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4495,7 +4495,7 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4507,7 +4507,7 @@
                 "Windows"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4520,7 +4520,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4533,7 +4533,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4546,7 +4546,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4558,7 +4558,7 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4571,7 +4571,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4583,7 +4583,7 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4595,7 +4595,7 @@
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4607,7 +4607,7 @@
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4619,7 +4619,7 @@
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4632,7 +4632,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4645,7 +4645,7 @@
                 "CLI+"
             ],
             "category": "file-sharing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4657,7 +4657,7 @@
                 "Cross"
             ],
             "category": "file-sharing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4669,7 +4669,7 @@
                 "Web"
             ],
             "category": "file-sharing",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4681,7 +4681,7 @@
                 "MacOS"
             ],
             "category": "keyboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4693,7 +4693,7 @@
                 "Cross"
             ],
             "category": "keyboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4705,7 +4705,7 @@
                 "Cross"
             ],
             "category": "keyboard-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4717,7 +4717,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4729,7 +4729,7 @@
                 "MacOS"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4741,7 +4741,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4753,7 +4753,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4765,7 +4765,7 @@
                 "Linux"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4777,7 +4777,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4791,7 +4791,7 @@
                 "CLI"
             ],
             "category": "package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4803,7 +4803,7 @@
                 "Windows"
             ],
             "category": "package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4815,7 +4815,7 @@
                 "Cross"
             ],
             "category": "package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4827,7 +4827,7 @@
                 "Cross"
             ],
             "category": "package-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4839,7 +4839,7 @@
                 "Cross"
             ],
             "category": "remote-desktop",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4851,7 +4851,7 @@
                 "MacOS"
             ],
             "category": "system-monitoring",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4863,7 +4863,7 @@
                 "Linux"
             ],
             "category": "system-monitoring",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4876,7 +4876,7 @@
                 "CLI"
             ],
             "category": "system-monitoring",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4888,7 +4888,7 @@
                 "MacOS"
             ],
             "category": "system",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4901,7 +4901,7 @@
                 "Linux"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4913,7 +4913,7 @@
                 "Cross"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4925,7 +4925,7 @@
                 "MacOS"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4937,7 +4937,7 @@
                 "Cross"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4950,7 +4950,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4963,7 +4963,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4976,7 +4976,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -4988,7 +4988,7 @@
                 "MacOS"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5001,7 +5001,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5014,7 +5014,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5027,7 +5027,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5040,7 +5040,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5053,7 +5053,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5066,7 +5066,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5078,7 +5078,7 @@
                 "MacOS"
             ],
             "category": "virtual-machine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5090,7 +5090,7 @@
                 "MacOS"
             ],
             "category": "virtual-machine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5103,7 +5103,7 @@
                 "Linux"
             ],
             "category": "virtual-machine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5116,7 +5116,7 @@
                 "Linux"
             ],
             "category": "virtual-machine",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5128,7 +5128,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5140,7 +5140,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5152,7 +5152,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5164,7 +5164,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5176,7 +5176,7 @@
                 "Linux"
             ],
             "category": "other",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5188,7 +5188,7 @@
                 "SelfHost"
             ],
             "category": "other",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5201,7 +5201,7 @@
                 "SelfHost"
             ],
             "category": "other",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5213,7 +5213,7 @@
                 "MacOS"
             ],
             "category": "uncategorized",
-            "stars": "",
+            "stars": 0,
             "flags": []
         },
         {
@@ -5225,7 +5225,7 @@
                 "Cross"
             ],
             "category": "uncategorized",
-            "stars": "",
+            "stars": 0,
             "flags": []
         }
     ]
