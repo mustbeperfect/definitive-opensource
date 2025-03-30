@@ -22,8 +22,7 @@ To avoid the clutter trap that many other lists succumb to as they scale, only t
 - ```📔``` Projects with over 5000 stars are preferred.
 
 ### 2. A Foundation
-- ```🛑``` A minimum contributor count of 5.
-- ```📔``` Quality is more important than quantity here. A small team can pass if they are solid and dedicated.
+- ```⚠️``` A contributor count of 5. Quality is more important than quantity here. A small team can pass if they are solid and dedicated.
 - ```⚠️``` The project should have stable roots, as in no internal conflicts or major disagreements that impact development. 
 
 ### 3. Activity
@@ -46,7 +45,7 @@ The project's license should be an [OSI Approved License](https://opensource.org
 - **Description:** A free, source-available and fair-code licensed mac app cleaner 
 - **Stars:** 4.2k
 - **Contributors:** 7
-- **Explanation:** On the surface PearCleaner woudn't fit with a relatively small amount of stars and just seven contributors. But research brings about the following conclusion: PearCleaner is one of two major app cleaners for MacOS - the other being the proprietary AppCleaner. Despite just 7 contributors, they have been continuously pushing updates on a ~two week interval. They have a solid roadmap for future updates and been delivering on those promises. 
+- **Explanation:** On the surface PearCleaner woudn't fit with a relatively small amount of stars and just seven contributors. But research brings about the following conclusion: PearCleaner is one of two major app cleaners for MacOS - the other being the proprietary AppCleaner. Despite just 7 contributors, they have been continuously pushing updates on a ~two week interval. They have a solid roadmap for future updates and have been delivering on those promises. 
 - ```Result: ✅```
 
 ### 2. Marktext
