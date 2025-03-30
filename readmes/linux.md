@@ -95,6 +95,7 @@
 - [Game Launcher](#game-launcher)
 - [Games](#games)
 - [Git GUI](#git-gui)
+- [Git Hosting](#git-hosting)
 - [Graphics](#graphics)
 - [Home Automation](#home-automation)
 - [Home Server](#home-server)
@@ -186,6 +187,7 @@
     - [Dev Tools](#dev-tools)
     - [Game Engine](#game-engine)
     - [Git GUI](#git-gui)
+    - [Git Hosting](#git-hosting)
     - [IDE](#ide)
     - [Language Package Manager](#language-package-manager)
 - Entertainment
@@ -469,6 +471,11 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [GitHub Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=for-the-badge&label=%20&color=white) |
+
+### Git Hosting
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 ### IDE
 

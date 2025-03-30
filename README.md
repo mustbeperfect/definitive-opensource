@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center">The definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 423</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 426</code></p>
 
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](.github/GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -163,6 +163,7 @@ Abandoned - Development Halted
 - [Game Launcher](#game-launcher)
 - [Games](#games)
 - [Git GUI](#git-gui)
+- [Git Hosting](#git-hosting)
 - [Graphics](#graphics)
 - [Home Automation](#home-automation)
 - [Home Server](#home-server)
@@ -254,6 +255,7 @@ Abandoned - Development Halted
     - [Dev Tools](#dev-tools)
     - [Game Engine](#game-engine)
     - [Git GUI](#git-gui)
+    - [Git Hosting](#git-hosting)
     - [IDE](#ide)
     - [Language Package Manager](#language-package-manager)
 - Entertainment
@@ -578,6 +580,14 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [GitHub Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=for-the-badge&label=%20&color=white) |
+
+### Git Hosting
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge&label=%20&color=white) |
+| [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=for-the-badge&label=%20&color=white) |
+| [Gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/gogs/gogs?style=for-the-badge&label=%20&color=white) |
 
 ### IDE
 
