@@ -474,6 +474,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
+| [Qt Creator](https://github.com/qt-creator/qt-creator) | A cross-platform Qt IDE | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
