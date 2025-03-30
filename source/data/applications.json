@@ -5280,7 +5280,7 @@
         },
         {
             "name": "GitLab",
-            "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+            "description": "GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com",
             "link": "https://github.com/gitlabhq/gitlabhq",
             "tags": [],
             "platforms": [
