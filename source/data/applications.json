@@ -5229,6 +5229,30 @@
             "category": "uncategorized",
             "stars": 0,
             "flags": []
+        },
+        {
+            "name": "yabai",
+            "description": "A tiling window manager for macOS based on binary space partitioning",
+            "link": "https://github.com/koekeishiya/yabai",
+            "tags": [],
+            "platforms": [
+                "MacOS"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": []
+        },
+        {
+            "name": "Qt Creator",
+            "description": "A cross-platform Qt IDE",
+            "link": "https://github.com/qt-creator/qt-creator",
+            "tags": [],
+            "platforms": [
+                "Cross"
+            ],
+            "category": "ide",
+            "stars": 0,
+            "flags": []
         }
     ]
 }
