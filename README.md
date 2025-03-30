@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center">The definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 421</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 423</code></p>
 
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](.github/GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -584,6 +584,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
+| [Qt Creator](https://github.com/qt-creator/qt-creator) | A cross-platform Qt IDE | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
@@ -1271,6 +1272,7 @@ Abandoned - Development Halted
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS à la xmonad. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/ianyh/Amethyst?style=for-the-badge&label=%20&color=white) |
 | [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop?style=for-the-badge&label=%20&color=white) |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/rxhanson/Rectangle?style=for-the-badge&label=%20&color=white) |
+| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/koekeishiya/yabai?style=for-the-badge&label=%20&color=white) |
 
 # Other - [Go to top](#contents)
 
