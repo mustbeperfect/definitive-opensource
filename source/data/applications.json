@@ -5253,6 +5253,43 @@
             "category": "ide",
             "stars": 0,
             "flags": []
+        },
+        {
+            "name": "Gogs",
+            "description": "Gogs is a painless self-hosted Git service",
+            "link": "https://github.com/gogs/gogs",
+            "tags": [],
+            "platforms": [
+                "SelfHost"
+            ],
+            "category": "git-hosting",
+            "stars": 0,
+            "flags": []
+        },
+        {
+            "name": "Gitea",
+            "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+            "link": "https://github.com/go-gitea/gitea",
+            "tags": [],
+            "platforms": [
+                "SelfHost"
+            ],
+            "category": "git-hosting",
+            "stars": 0,
+            "flags": []
+        },
+        {
+            "name": "GitLab",
+            "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+            "link": "https://github.com/gitlabhq/gitlabhq",
+            "tags": [],
+            "platforms": [
+                "SelfHost",
+                "Web"
+            ],
+            "category": "git-hosting",
+            "stars": 0,
+            "flags": []
         }
     ]
 }

@@ -223,6 +223,12 @@
 			"description": ""
 		},
 		{
+			"name": "Git Hosting",
+			"id": "git-hosting",
+			"parent": "development",
+			"description": ""
+		},
+		{
 			"name": "IDE",
 			"id": "ide",
 			"parent": "development",
