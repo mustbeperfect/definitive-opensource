@@ -38,8 +38,8 @@
 		},
         {
 			"emoji": "⚠️",
-			"id": "suspicious-license",
-			"description": "Suspicious License"
+			"id": "restrictive-license",
+			"description": "Restrictive License"
 		},
         {
 			"emoji": "🏦",
