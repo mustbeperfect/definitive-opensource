@@ -81,7 +81,7 @@ Abandoned - Development Halted
 
 `🛑` - Development paused
 
-`⚠️` - Suspicious license
+`⚠️` - Restrictive license
 
 `🏦` - Corporate influence
 
