@@ -586,7 +586,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge&label=%20&color=white) |
-| [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=for-the-badge&label=%20&color=white) |
+| [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web` | ![GitHub Repo stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=for-the-badge&label=%20&color=white) |
 | [Gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | `SelfHost` | ![GitHub Repo stars](https://img.shields.io/github/stars/gogs/gogs?style=for-the-badge&label=%20&color=white) |
 
 ### IDE
