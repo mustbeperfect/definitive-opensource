@@ -756,7 +756,7 @@
 | --- | --- | --- | --- |
 | [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
-| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` |  |
+| [ProtonVPN](https://github.com/ProtonVPN/android-app) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/ProtonVPN/android-app?style=for-the-badge&label=%20&color=white) |
 
 # Server - [Go to top](#contents)
 
