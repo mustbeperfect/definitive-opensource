@@ -2774,7 +2774,9 @@
             "name": "Ice",
             "description": "Powerful menu bar manager for macOS",
             "link": "https://github.com/jordanbaird/Ice",
-            "tags": [],
+            "tags": [
+                "slowed"
+            ],
             "platforms": [
                 "MacOS"
             ],
