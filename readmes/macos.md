@@ -649,6 +649,7 @@
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
+| [Itsycal](https://github.com/sfsam/Itsycal) | Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/sfsam/Itsycal?style=for-the-badge&label=%20&color=white) |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Prevents your Mac from going to sleep. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=%20&color=white) |
 | [LinearMouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac. | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/linearmouse/linearmouse?style=for-the-badge&label=%20&color=white) |
 | [Lunar](https://github.com/alin23/Lunar) | Intelligent adaptive brightness for your external monitors | `MacOS` | ![GitHub Repo stars](https://img.shields.io/github/stars/alin23/Lunar?style=for-the-badge&label=%20&color=white) |
@@ -770,7 +771,7 @@
 | --- | --- | --- | --- |
 | [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/amnezia-vpn/amnezia-client?style=for-the-badge&label=%20&color=white) |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/netbirdio/netbird?style=for-the-badge&label=%20&color=white) |
-| [ProtonVPN](https://github.com/ProtonVPN) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` |  |
+| [ProtonVPN](https://github.com/ProtonVPN/android-app) | Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN. | `Cross` `CLI+` | ![GitHub Repo stars](https://img.shields.io/github/stars/ProtonVPN/android-app?style=for-the-badge&label=%20&color=white) |
 
 # Server - [Go to top](#contents)
 
