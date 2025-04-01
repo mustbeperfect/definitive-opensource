@@ -745,7 +745,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` |  |
+| [Bitwarden](https://github.com/bitwarden/server) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` `CLI+` `Mobile` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/server?style=for-the-badge&label=%20&color=white) |
 | [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | `Cross` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
 | [LessPass](https://github.com/lesspass/lesspass) | 🔑 stateless open source password manager | `Cross` `CLI` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/lesspass/lesspass?style=for-the-badge&label=%20&color=white) |
 | [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | ![GitHub Repo stars](https://img.shields.io/github/stars/passbolt/passbolt_api?style=for-the-badge&label=%20&color=white) |
