@@ -3574,10 +3574,14 @@
         {
             "name": "Bitwarden",
             "description": "Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations.",
-            "link": "https://github.com/bitwarden",
+            "link": "https://github.com/bitwarden/server",
             "tags": [],
             "platforms": [
-                "Cross"
+                "Cross",
+                "CLI+",
+                "Mobile",
+                "Chromium",
+                "Firefox"
             ],
             "category": "password-manager",
             "stars": 0,
