@@ -81,6 +81,8 @@ Abandoned - Development Halted
 
 `🛑` - Development paused
 
+`⏳` - Development slowed
+
 `⚠️` - Restrictive license
 
 `🏦` - Corporate influence
