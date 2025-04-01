@@ -3672,7 +3672,7 @@
         {
             "name": "ProtonVPN",
             "description": "Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN.",
-            "link": "https://github.com/ProtonVPN",
+            "link": "https://github.com/ProtonVPN/android-app",
             "tags": [],
             "platforms": [
                 "Cross",
@@ -5292,6 +5292,18 @@
                 "Web"
             ],
             "category": "git-hosting",
+            "stars": 0,
+            "flags": []
+        },
+        {
+            "name": "Itsycal",
+            "description": "Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal",
+            "link": "https://github.com/sfsam/Itsycal",
+            "tags": [],
+            "platforms": [
+                "MacOS"
+            ],
+            "category": "macos",
             "stars": 0,
             "flags": []
         }
