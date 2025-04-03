@@ -18,7 +18,8 @@
             "description": "AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording",
             "link": "https://github.com/mediar-ai/screenpipe",
             "tags": [
-                "disruptive"
+                "disruptive",
+                "commercial"
             ],
             "platforms": [
                 "MacOS",
