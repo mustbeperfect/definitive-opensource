@@ -17,6 +17,7 @@ Projects that require a further vetting process.
 - [zx](https://github.com/google/zx) - Need to look into it's purpose in more depth
 - [pure](https://github.com/sindresorhus/pure) - Might be abandoned
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - Need to look into it's purpose in more depth
+- [Inbox Zero](https://github.com/elie222/inbox-zero) - Needs to be vetted further
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
