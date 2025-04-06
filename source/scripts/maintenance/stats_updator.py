@@ -3,7 +3,7 @@ import requests
 import os
 from datetime import datetime
 
-GITHUB_TOKEN = os.getenv('GH_API_TOKEN') 
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN') 
 HEADERS = {
     'Authorization': f'token {GITHUB_TOKEN}',
     'Accept': 'application/vnd.github.v3+json'
