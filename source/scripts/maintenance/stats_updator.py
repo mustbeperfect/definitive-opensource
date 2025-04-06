@@ -36,7 +36,7 @@ def get_repo_data(owner, repo):
         'last_commit': last_commit_date
     }
 
-def update_applications(filepath='applications.json'):
+def update_applications(filepath='source/data/applications.json'):
     with open(filepath, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
