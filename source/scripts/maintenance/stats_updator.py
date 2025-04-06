@@ -37,8 +37,12 @@ def update_application_data(app):
         app['stars'] = repo_data.get('stargazers_count', app['stars'])
         app['language'] = repo_data.get('language', app['language'])
         
-        # Update license with SPDX identifier instead of the license name
-        app['license'] = repo_data.get('license', {}).get('spdx_id', app['license'])
+        # Check if 'license' is None, then safely extract 'spdx_id'
+        license_data = repo_data.get('license')
+        if license_data is not None:
+            app['license'] = license_data.get('spdx_id', app['license'])
+        else:
+            app['license'] = app['license']  # Retain the current license if no license exists
         
         # Update last commit date
         app['last_commit'] = datetime.strptime(repo_data['pushed_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%m/%d/%Y')
