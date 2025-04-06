@@ -1,6 +1,5 @@
 {
-    "applications": 
-	[
+    "applications": [
         {
             "name": "Open Intepreter",
             "description": "A natural language interface for computers",
@@ -11,7 +10,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "screenpipe",
@@ -27,7 +29,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "gptme",
@@ -40,7 +45,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "WrenAI",
@@ -52,7 +60,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "TEN Agent",
@@ -64,7 +75,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Huginn",
@@ -76,7 +90,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AgentGPT",
@@ -88,7 +105,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AutoGPT",
@@ -100,7 +120,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Telegraf",
@@ -113,7 +136,10 @@
             ],
             "category": "agent",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Auto1111",
@@ -125,7 +151,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ComfyUI",
@@ -137,7 +166,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "InvokeAI",
@@ -149,7 +181,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "WebUI Forge",
@@ -161,7 +196,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Fooocus",
@@ -173,7 +211,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SD.Next",
@@ -185,7 +226,10 @@
             ],
             "category": "ai-image-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Netron",
@@ -197,7 +241,10 @@
             ],
             "category": "ai-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AIChat",
@@ -210,7 +257,10 @@
             ],
             "category": "all-in-one",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lobe Chat",
@@ -222,7 +272,10 @@
             ],
             "category": "all-in-one",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Khoj AI",
@@ -234,7 +287,10 @@
             ],
             "category": "all-in-one",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Leon",
@@ -246,7 +302,10 @@
             ],
             "category": "assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Unstract",
@@ -260,7 +319,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Firecrawl",
@@ -272,7 +334,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GPT crawler",
@@ -284,7 +349,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Code2prompt",
@@ -297,7 +365,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Repomix",
@@ -310,7 +381,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Docling",
@@ -323,7 +397,10 @@
             ],
             "category": "information-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Open WebUI",
@@ -335,7 +412,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GPT4ALL",
@@ -347,7 +427,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Jan",
@@ -359,7 +442,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Chatbox",
@@ -371,7 +457,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Text generation webUI",
@@ -383,7 +472,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cherry Studio",
@@ -395,7 +487,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SillyTavern",
@@ -407,7 +502,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "NextChat",
@@ -421,7 +519,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LibreChat",
@@ -433,7 +534,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "h2oGPT",
@@ -445,7 +549,10 @@
             ],
             "category": "llm-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ollama",
@@ -461,7 +568,10 @@
             ],
             "category": "manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "StabilityMatrix",
@@ -473,7 +583,10 @@
             ],
             "category": "manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LLaMa-Factory",
@@ -486,7 +599,10 @@
             ],
             "category": "model-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "PyTorch Lightning",
@@ -499,7 +615,10 @@
             ],
             "category": "model-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Agno",
@@ -512,7 +631,10 @@
             ],
             "category": "model-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kiln",
@@ -524,7 +646,10 @@
             ],
             "category": "model-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AnythingLLM",
@@ -536,7 +661,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "kotaemon",
@@ -548,7 +676,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Verba",
@@ -560,7 +691,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "RAGFlow",
@@ -572,7 +706,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "PaperQA2",
@@ -585,7 +722,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "R2R",
@@ -598,7 +738,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AutoFlow",
@@ -610,7 +753,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "DocsGPT",
@@ -623,7 +769,10 @@
             ],
             "category": "rag",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "DeepSearcher",
@@ -636,7 +785,10 @@
             ],
             "category": "research",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GPT Researcher",
@@ -650,7 +802,10 @@
             ],
             "category": "research",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Signal",
@@ -662,7 +817,10 @@
             ],
             "category": "chat",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Telegram Desktop",
@@ -674,7 +832,10 @@
             ],
             "category": "chat",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SimpleX",
@@ -688,7 +849,10 @@
             ],
             "category": "chat",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Mattermost",
@@ -700,7 +864,10 @@
             ],
             "category": "collaboration",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Zulip",
@@ -713,7 +880,10 @@
             ],
             "category": "collaboration",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rocket.Chat",
@@ -726,7 +896,10 @@
             ],
             "category": "collaboration",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Mailspring",
@@ -738,7 +911,10 @@
             ],
             "category": "mail",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Thunderbird",
@@ -750,7 +926,10 @@
             ],
             "category": "mail",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Jitsi Meet",
@@ -763,7 +942,10 @@
             ],
             "category": "video-conference",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Element",
@@ -776,7 +958,10 @@
             ],
             "category": "video-conference",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kopia",
@@ -789,7 +974,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Restic",
@@ -802,7 +990,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Duplicati",
@@ -814,7 +1005,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Borg",
@@ -827,7 +1021,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rclone",
@@ -840,7 +1037,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Timeshift",
@@ -852,7 +1052,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Backrest",
@@ -865,7 +1068,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Duplicacy",
@@ -878,7 +1084,10 @@
             ],
             "category": "backup",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Nextcloud",
@@ -891,7 +1100,10 @@
             ],
             "category": "storage",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Seafile",
@@ -905,7 +1117,10 @@
             ],
             "category": "storage",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ownCloud",
@@ -917,7 +1132,10 @@
             ],
             "category": "storage",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ceph",
@@ -929,7 +1147,10 @@
             ],
             "category": "storage",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "myDrive",
@@ -941,7 +1162,10 @@
             ],
             "category": "storage",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Syncthing",
@@ -954,7 +1178,10 @@
             ],
             "category": "sync",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "syncthing-macos",
@@ -967,7 +1194,10 @@
             ],
             "category": "sync",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rsync",
@@ -980,7 +1210,10 @@
             ],
             "category": "sync",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Tabby",
@@ -994,7 +1227,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Continue",
@@ -1007,7 +1243,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cline",
@@ -1019,7 +1258,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Goose",
@@ -1032,7 +1274,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "MetaGPT",
@@ -1045,7 +1290,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Roo Code",
@@ -1057,7 +1305,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cody",
@@ -1070,7 +1321,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Plandex",
@@ -1083,7 +1337,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GPT Pilot",
@@ -1096,7 +1353,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Aider",
@@ -1109,7 +1369,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenHands",
@@ -1122,7 +1385,10 @@
             ],
             "category": "code-assistant",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Zed",
@@ -1137,7 +1403,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Helix",
@@ -1150,7 +1419,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lapce",
@@ -1162,7 +1434,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Vim",
@@ -1177,7 +1452,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "neovim",
@@ -1190,7 +1468,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SpaceVim",
@@ -1203,7 +1484,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "NvChad",
@@ -1216,7 +1500,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LazyVim",
@@ -1229,7 +1516,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VS Code",
@@ -1241,7 +1531,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VSCodium",
@@ -1253,7 +1546,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CodeEdit",
@@ -1265,7 +1561,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "code-server",
@@ -1277,7 +1576,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Void",
@@ -1290,7 +1592,10 @@
             ],
             "category": "code-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "DevToys",
@@ -1302,7 +1607,10 @@
             ],
             "category": "dev-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "massCode",
@@ -1314,7 +1622,10 @@
             ],
             "category": "dev-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Watchexec",
@@ -1327,7 +1638,10 @@
             ],
             "category": "dev-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "bat",
@@ -1340,7 +1654,10 @@
             ],
             "category": "dev-tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Godot",
@@ -1352,7 +1669,10 @@
             ],
             "category": "game-engine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GDevelop",
@@ -1364,7 +1684,10 @@
             ],
             "category": "game-engine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GitHub Desktop",
@@ -1376,7 +1699,10 @@
             ],
             "category": "git-gui",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "IntelliJ IDEA",
@@ -1388,7 +1714,10 @@
             ],
             "category": "ide",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Yarn",
@@ -1401,7 +1730,10 @@
             ],
             "category": "language-package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "PNPM",
@@ -1414,7 +1746,10 @@
             ],
             "category": "language-package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Bun",
@@ -1427,7 +1762,10 @@
             ],
             "category": "language-package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "uv",
@@ -1440,7 +1778,10 @@
             ],
             "category": "language-package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Heroic Games Launcher",
@@ -1452,7 +1793,10 @@
             ],
             "category": "game-launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Playnite",
@@ -1464,7 +1808,10 @@
             ],
             "category": "game-launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "RomM",
@@ -1476,7 +1823,10 @@
             ],
             "category": "game-launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Pelican Panel",
@@ -1488,7 +1838,10 @@
             ],
             "category": "game-launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Endless Sky",
@@ -1500,7 +1853,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cataclysm DDA",
@@ -1512,7 +1868,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Unciv",
@@ -1525,7 +1884,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Wesnoth",
@@ -1537,7 +1899,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Veloren",
@@ -1549,7 +1914,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "lichess",
@@ -1561,7 +1929,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenRA",
@@ -1573,7 +1944,10 @@
             ],
             "category": "games",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "uBlock Origin",
@@ -1586,7 +1960,10 @@
             ],
             "category": "browser-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Dark Reader",
@@ -1599,7 +1976,10 @@
             ],
             "category": "browser-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Page Assist",
@@ -1612,7 +1992,10 @@
             ],
             "category": "browser-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "nvim-dap",
@@ -1624,7 +2007,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Coq",
@@ -1636,7 +2022,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Neorg",
@@ -1648,7 +2037,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VimWiki",
@@ -1660,7 +2052,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Neovide",
@@ -1672,7 +2067,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "lazy.nvim",
@@ -1684,7 +2082,10 @@
             ],
             "category": "neovim-extensions",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Zen",
@@ -1696,7 +2097,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Brave",
@@ -1708,7 +2112,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Floorp",
@@ -1720,7 +2127,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Min",
@@ -1732,7 +2142,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Noi",
@@ -1744,7 +2157,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Neko",
@@ -1756,7 +2172,10 @@
             ],
             "category": "browser",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GoPeed",
@@ -1768,7 +2187,10 @@
             ],
             "category": "download-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AB",
@@ -1780,7 +2202,10 @@
             ],
             "category": "download-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Persepolis",
@@ -1792,7 +2217,10 @@
             ],
             "category": "download-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "File Centipede",
@@ -1804,7 +2232,10 @@
             ],
             "category": "download-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Perplexica",
@@ -1816,7 +2247,10 @@
             ],
             "category": "search-engine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Scira",
@@ -1829,7 +2263,10 @@
             ],
             "category": "search-engine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Audacity",
@@ -1841,7 +2278,10 @@
             ],
             "category": "audio-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenUtau",
@@ -1853,7 +2293,10 @@
             ],
             "category": "audio-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Spotube",
@@ -1865,7 +2308,10 @@
             ],
             "category": "audio-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Feishin",
@@ -1878,7 +2324,10 @@
             ],
             "category": "audio-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Supersonic",
@@ -1890,7 +2339,10 @@
             ],
             "category": "audio-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Navidrome",
@@ -1903,7 +2355,10 @@
             ],
             "category": "audio-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Graphite",
@@ -1915,7 +2370,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "FreeCAD",
@@ -1927,7 +2385,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Blender",
@@ -1939,7 +2400,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Gaphor",
@@ -1951,7 +2415,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "darktable",
@@ -1963,7 +2430,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "RawTherapee",
@@ -1975,7 +2445,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Penpot",
@@ -1987,7 +2460,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenSCAD",
@@ -1999,7 +2475,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CadQuery",
@@ -2011,7 +2490,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Krita",
@@ -2023,7 +2505,10 @@
             ],
             "category": "graphics",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Upscayl",
@@ -2035,7 +2520,10 @@
             ],
             "category": "image-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "chaiNNer",
@@ -2047,7 +2535,10 @@
             ],
             "category": "image-processing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "yt-dlp",
@@ -2060,7 +2551,10 @@
             ],
             "category": "media-downloader",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "YoutubeDownloader",
@@ -2072,7 +2566,10 @@
             ],
             "category": "media-downloader",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cobalt",
@@ -2084,7 +2581,10 @@
             ],
             "category": "media-downloader",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OBS Studio",
@@ -2096,7 +2596,10 @@
             ],
             "category": "screen-recording",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ShareX",
@@ -2108,7 +2611,10 @@
             ],
             "category": "screen-recording",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cap",
@@ -2120,7 +2626,10 @@
             ],
             "category": "screen-recording",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Flameshot",
@@ -2132,7 +2641,10 @@
             ],
             "category": "screen-recording",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kdenlive",
@@ -2144,7 +2656,10 @@
             ],
             "category": "video-editing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Shotcut",
@@ -2156,7 +2671,10 @@
             ],
             "category": "video-editing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Olive",
@@ -2168,7 +2686,10 @@
             ],
             "category": "video-editing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LossletCut",
@@ -2180,7 +2701,10 @@
             ],
             "category": "video-editing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Natron",
@@ -2192,7 +2716,10 @@
             ],
             "category": "video-editing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "mpv",
@@ -2204,7 +2731,10 @@
             ],
             "category": "video-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "IINA",
@@ -2216,7 +2746,10 @@
             ],
             "category": "video-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VLC",
@@ -2228,7 +2761,10 @@
             ],
             "category": "video-player",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "HandBrake",
@@ -2240,7 +2776,10 @@
             ],
             "category": "video-transcoder",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Jellyseerr",
@@ -2252,7 +2791,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "autobrr",
@@ -2265,7 +2807,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Overseerr",
@@ -2279,7 +2824,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Sonarr",
@@ -2292,7 +2840,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Prowlarr",
@@ -2305,7 +2856,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Radarr",
@@ -2318,7 +2872,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Readarr",
@@ -2331,7 +2888,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lidarr",
@@ -2344,7 +2904,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Bazarr",
@@ -2357,7 +2920,10 @@
             ],
             "category": "arr",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cockpit",
@@ -2369,7 +2935,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Glance",
@@ -2381,7 +2950,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Dashy",
@@ -2393,7 +2965,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "homepage",
@@ -2405,7 +2980,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "dashdot",
@@ -2417,7 +2995,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Heimdall",
@@ -2429,7 +3010,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Homer",
@@ -2441,7 +3025,10 @@
             ],
             "category": "dashboard",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Home Assistant",
@@ -2454,7 +3041,10 @@
             ],
             "category": "home-automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Domoticz",
@@ -2466,7 +3056,10 @@
             ],
             "category": "home-automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Gladys",
@@ -2478,7 +3071,10 @@
             ],
             "category": "home-automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ESPHome",
@@ -2490,7 +3086,10 @@
             ],
             "category": "home-automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Runtipi",
@@ -2502,7 +3101,10 @@
             ],
             "category": "home-server",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CapRover",
@@ -2514,7 +3116,10 @@
             ],
             "category": "home-server",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CasaOS",
@@ -2526,7 +3131,10 @@
             ],
             "category": "home-server",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cosmos",
@@ -2538,7 +3146,10 @@
             ],
             "category": "home-server",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Sandstorm",
@@ -2550,7 +3161,10 @@
             ],
             "category": "home-server",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Immich",
@@ -2562,7 +3176,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "PhotoPrism",
@@ -2574,7 +3191,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Jellyfin",
@@ -2586,7 +3206,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ente",
@@ -2598,7 +3221,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kodi",
@@ -2611,7 +3237,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "audiobookshelf",
@@ -2625,7 +3254,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Memories",
@@ -2637,7 +3269,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Librum",
@@ -2649,7 +3284,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LibrePhotos",
@@ -2661,7 +3299,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kavita",
@@ -2673,7 +3314,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Piwigi",
@@ -2685,7 +3329,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Calibre-Web",
@@ -2697,7 +3344,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lychee",
@@ -2709,7 +3359,10 @@
             ],
             "category": "media-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Scrypted",
@@ -2721,7 +3374,10 @@
             ],
             "category": "surveillance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Frigate",
@@ -2733,7 +3389,10 @@
             ],
             "category": "surveillance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ZoneMinder",
@@ -2745,7 +3404,10 @@
             ],
             "category": "surveillance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "UniGetUI",
@@ -2757,7 +3419,10 @@
             ],
             "category": "windows",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "TheBoringNotch",
@@ -2769,7 +3434,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ice",
@@ -2783,7 +3451,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cork",
@@ -2795,7 +3466,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AppLite",
@@ -2807,7 +3481,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "KeepingYouAwake",
@@ -2819,7 +3496,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AltTab",
@@ -2831,7 +3511,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SketchyBar",
@@ -2843,7 +3526,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SwiftBar",
@@ -2855,7 +3541,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lunar",
@@ -2867,7 +3556,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LinearMouse",
@@ -2879,7 +3571,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OnlySwitch",
@@ -2891,7 +3586,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "MeetingBar",
@@ -2903,7 +3601,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Reminders MenuBar",
@@ -2915,7 +3616,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Flatseal",
@@ -2927,7 +3631,10 @@
             ],
             "category": "linux",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Extension Manager",
@@ -2939,7 +3646,10 @@
             ],
             "category": "linux",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Puter",
@@ -2951,7 +3661,10 @@
             ],
             "category": "operating-system",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "umbrelOS",
@@ -2963,7 +3676,10 @@
             ],
             "category": "operating-system",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "openmediavault",
@@ -2975,7 +3691,10 @@
             ],
             "category": "operating-system",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "YunoHost",
@@ -2987,7 +3706,10 @@
             ],
             "category": "operating-system",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "buku",
@@ -3000,7 +3722,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Linkwarden",
@@ -3012,7 +3737,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "linkding",
@@ -3024,7 +3752,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "hoarder",
@@ -3036,7 +3767,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Shiori",
@@ -3048,7 +3782,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "wallabag",
@@ -3060,7 +3797,10 @@
             ],
             "category": "bookmark-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Docspell",
@@ -3074,7 +3814,10 @@
             ],
             "category": "document-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Paperless-ngx",
@@ -3086,7 +3829,10 @@
             ],
             "category": "document-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "TagSpaces",
@@ -3098,7 +3844,10 @@
             ],
             "category": "document-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cal",
@@ -3110,7 +3859,10 @@
             ],
             "category": "calendar",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Stirling PDF",
@@ -3124,7 +3876,10 @@
             ],
             "category": "document-modifier",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "DocuSeal",
@@ -3136,7 +3891,10 @@
             ],
             "category": "document-modifier",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OCRmyPDF",
@@ -3149,7 +3907,10 @@
             ],
             "category": "document-modifier",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Documenso",
@@ -3162,7 +3923,10 @@
             ],
             "category": "document-modifier",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenSign",
@@ -3175,7 +3939,10 @@
             ],
             "category": "document-modifier",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Maybe",
@@ -3187,7 +3954,10 @@
             ],
             "category": "finance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Actual",
@@ -3200,7 +3970,10 @@
             ],
             "category": "finance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ghostfolio",
@@ -3212,7 +3985,10 @@
             ],
             "category": "finance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Wallos",
@@ -3224,7 +4000,10 @@
             ],
             "category": "finance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Firefly III",
@@ -3236,7 +4015,10 @@
             ],
             "category": "finance",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Logseq",
@@ -3248,7 +4030,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Anytype",
@@ -3260,7 +4045,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AppFlowy",
@@ -3274,7 +4062,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Affine",
@@ -3286,7 +4077,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Outline",
@@ -3298,7 +4092,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Siyuan",
@@ -3310,7 +4107,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "FastGPT",
@@ -3322,7 +4122,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Foam",
@@ -3334,7 +4137,10 @@
             ],
             "category": "knowledge-base",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Plane",
@@ -3347,7 +4153,10 @@
             ],
             "category": "project-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Focalboard",
@@ -3360,7 +4169,10 @@
             ],
             "category": "project-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Huly",
@@ -3373,7 +4185,10 @@
             ],
             "category": "project-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenProject",
@@ -3385,7 +4200,10 @@
             ],
             "category": "project-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Leantime",
@@ -3397,7 +4215,10 @@
             ],
             "category": "project-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Super Productivity",
@@ -3409,7 +4230,10 @@
             ],
             "category": "task-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Planka",
@@ -3422,7 +4246,10 @@
             ],
             "category": "task-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "solidtime",
@@ -3435,7 +4262,10 @@
             ],
             "category": "time-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ActivityWatch",
@@ -3448,7 +4278,10 @@
             ],
             "category": "time-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Blocky",
@@ -3460,7 +4293,10 @@
             ],
             "category": "ad-blocker",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AdGuard",
@@ -3475,7 +4311,10 @@
             ],
             "category": "ad-blocker",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Pi-hole",
@@ -3487,7 +4326,10 @@
             ],
             "category": "ad-blocker",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ClamAV",
@@ -3500,7 +4342,10 @@
             ],
             "category": "antivirus",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "2FAuth",
@@ -3512,7 +4357,10 @@
             ],
             "category": "authentication",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "authelia",
@@ -3524,7 +4372,10 @@
             ],
             "category": "authentication",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Tailscale",
@@ -3536,7 +4387,10 @@
             ],
             "category": "authentication",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Aegis",
@@ -3548,7 +4402,10 @@
             ],
             "category": "authentication",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "BunkerWeb",
@@ -3560,7 +4417,10 @@
             ],
             "category": "firewall",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SafeLine",
@@ -3572,7 +4432,10 @@
             ],
             "category": "firewall",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Bitwarden",
@@ -3588,7 +4451,10 @@
             ],
             "category": "password-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "KeePass",
@@ -3600,7 +4466,10 @@
             ],
             "category": "password-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Vaultwarden",
@@ -3612,7 +4481,10 @@
             ],
             "category": "password-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LessPass",
@@ -3628,7 +4500,10 @@
             ],
             "category": "password-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Passbolt",
@@ -3645,7 +4520,10 @@
             ],
             "category": "password-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Amnezia",
@@ -3658,7 +4536,10 @@
             ],
             "category": "vpn",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "NetBird",
@@ -3670,7 +4551,10 @@
             ],
             "category": "vpn",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ProtonVPN",
@@ -3683,7 +4567,10 @@
             ],
             "category": "vpn",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "fish",
@@ -3696,7 +4583,10 @@
             ],
             "category": "shell",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "xonsh",
@@ -3709,7 +4599,10 @@
             ],
             "category": "shell",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Nushell",
@@ -3722,7 +4615,10 @@
             ],
             "category": "shell",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "kitty",
@@ -3734,7 +4630,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "WezTerm",
@@ -3746,7 +4645,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Waveterm",
@@ -3758,7 +4660,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Alacritty",
@@ -3770,7 +4675,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Tabby",
@@ -3782,7 +4690,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rio",
@@ -3794,7 +4705,10 @@
             ],
             "category": "terminal-emulator",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Zellij",
@@ -3807,7 +4721,10 @@
             ],
             "category": "terminal-multiplexer",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "tmux",
@@ -3820,7 +4737,10 @@
             ],
             "category": "terminal-multiplexer",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Atuin",
@@ -3833,7 +4753,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Oh My Zsh",
@@ -3846,7 +4769,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "McFly",
@@ -3859,7 +4785,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "zoxide",
@@ -3872,7 +4801,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "zsh-autosuggestions",
@@ -3885,7 +4817,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "ShellGPT",
@@ -3898,7 +4833,10 @@
             ],
             "category": "terminal-utilities",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Etherpad",
@@ -3911,7 +4849,10 @@
             ],
             "category": "document-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Zettlr",
@@ -3923,7 +4864,10 @@
             ],
             "category": "markdown-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "HedgeDoc",
@@ -3935,7 +4879,10 @@
             ],
             "category": "markdown-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Joplin",
@@ -3947,7 +4894,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Notesnook",
@@ -3959,7 +4909,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Standard Notes",
@@ -3973,7 +4926,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Simplenote",
@@ -3987,7 +4943,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Better Notes",
@@ -3999,7 +4958,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Memos",
@@ -4011,7 +4973,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Blinko",
@@ -4023,7 +4988,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rnote",
@@ -4035,7 +5003,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "SilverBullet",
@@ -4047,7 +5018,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Reor",
@@ -4059,7 +5033,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VNote",
@@ -4071,7 +5048,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "nb",
@@ -4084,7 +5064,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "jrnl",
@@ -4097,7 +5080,10 @@
             ],
             "category": "note-taking",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OnlyOffice",
@@ -4109,7 +5095,10 @@
             ],
             "category": "office-suite",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LibreOffice",
@@ -4121,7 +5110,10 @@
             ],
             "category": "office-suite",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CryptPad",
@@ -4133,7 +5125,10 @@
             ],
             "category": "office-suite",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Harper",
@@ -4145,7 +5140,10 @@
             ],
             "category": "proofreading",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LanguageTool",
@@ -4158,7 +5156,10 @@
             ],
             "category": "proofreading",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "WritingTools",
@@ -4170,7 +5171,10 @@
             ],
             "category": "proofreading",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Grist",
@@ -4183,7 +5187,10 @@
             ],
             "category": "spreadsheet",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Quill",
@@ -4195,7 +5202,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CotEditor",
@@ -4207,7 +5217,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Micro",
@@ -4220,7 +5233,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Notepads",
@@ -4232,7 +5248,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kakoune",
@@ -4245,7 +5264,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lite XL",
@@ -4257,7 +5279,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Emacs",
@@ -4269,7 +5294,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "NotepadNext",
@@ -4281,7 +5309,10 @@
             ],
             "category": "text-editor",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "MediaWiki",
@@ -4293,7 +5324,10 @@
             ],
             "category": "wiki",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Wiki.js",
@@ -4305,7 +5339,10 @@
             ],
             "category": "wiki",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "BookStack",
@@ -4317,7 +5354,10 @@
             ],
             "category": "wiki",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ansible",
@@ -4330,7 +5370,10 @@
             ],
             "category": "automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Hammerspoon",
@@ -4342,7 +5385,10 @@
             ],
             "category": "automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Script Kit",
@@ -4354,7 +5400,10 @@
             ],
             "category": "automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Semaphore",
@@ -4366,7 +5415,10 @@
             ],
             "category": "automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Cronicle",
@@ -4380,7 +5432,10 @@
             ],
             "category": "automation",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Pearcleaner",
@@ -4392,7 +5447,10 @@
             ],
             "category": "cleaner",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "BleachBit",
@@ -4405,7 +5463,10 @@
             ],
             "category": "cleaner",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Maccy",
@@ -4417,7 +5478,10 @@
             ],
             "category": "clipboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Clipboard",
@@ -4429,7 +5493,10 @@
             ],
             "category": "clipboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "CopyQ",
@@ -4441,7 +5508,10 @@
             ],
             "category": "clipboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Dockge",
@@ -4453,7 +5523,10 @@
             ],
             "category": "containers",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Colima",
@@ -4466,7 +5539,10 @@
             ],
             "category": "containers",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "yadm",
@@ -4479,7 +5555,10 @@
             ],
             "category": "dotfiles-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "chezmoi",
@@ -4491,7 +5570,10 @@
             ],
             "category": "dotfiles-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Spacedrive",
@@ -4505,7 +5587,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Files",
@@ -4517,7 +5602,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "nnn",
@@ -4530,7 +5618,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Yazi",
@@ -4543,7 +5634,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ranger",
@@ -4556,7 +5650,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Electerm",
@@ -4568,7 +5665,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "If",
@@ -4581,7 +5681,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Superfile",
@@ -4593,7 +5696,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Filestash",
@@ -4605,7 +5711,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "FileGator",
@@ -4617,7 +5726,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "File Browser",
@@ -4629,7 +5741,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "xplr",
@@ -4642,7 +5757,10 @@
             ],
             "category": "file-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "LocalSend",
@@ -4655,7 +5773,10 @@
             ],
             "category": "file-sharing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OnionShare",
@@ -4667,7 +5788,10 @@
             ],
             "category": "file-sharing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "PairDrop",
@@ -4679,7 +5803,10 @@
             ],
             "category": "file-sharing",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Karabiner-Elements",
@@ -4691,7 +5818,10 @@
             ],
             "category": "keyboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kanata",
@@ -4703,7 +5833,10 @@
             ],
             "category": "keyboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kmonad",
@@ -4715,7 +5848,10 @@
             ],
             "category": "keyboard-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ueli",
@@ -4727,7 +5863,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Sol",
@@ -4739,7 +5878,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Kando",
@@ -4751,7 +5893,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Albert",
@@ -4763,7 +5908,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Ulauncher",
@@ -4775,7 +5923,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Wox",
@@ -4787,7 +5938,10 @@
             ],
             "category": "launcher",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Homebrew",
@@ -4801,7 +5955,10 @@
             ],
             "category": "package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Choco",
@@ -4813,7 +5970,10 @@
             ],
             "category": "package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Nix",
@@ -4825,7 +5985,10 @@
             ],
             "category": "package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Spack",
@@ -4837,7 +6000,10 @@
             ],
             "category": "package-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "RustDesk",
@@ -4849,7 +6015,10 @@
             ],
             "category": "remote-desktop",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Stats",
@@ -4861,7 +6030,10 @@
             ],
             "category": "system-monitoring",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Vitals",
@@ -4873,7 +6045,10 @@
             ],
             "category": "system-monitoring",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "bottom",
@@ -4886,7 +6061,10 @@
             ],
             "category": "system-monitoring",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Background Music",
@@ -4898,7 +6076,10 @@
             ],
             "category": "system",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Czkawka",
@@ -4911,7 +6092,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "balenaEtcher",
@@ -4923,7 +6107,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "MonitorControl",
@@ -4935,7 +6122,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "OpenRGB",
@@ -4947,7 +6137,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "inshellisense",
@@ -4960,7 +6153,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "rga",
@@ -4973,7 +6169,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "fd",
@@ -4986,7 +6185,10 @@
             ],
             "category": "tools",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "XcodesApp",
@@ -4998,7 +6200,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "rbenv",
@@ -5011,7 +6216,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "pyenv",
@@ -5024,7 +6232,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "nvm",
@@ -5037,7 +6248,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "mise",
@@ -5050,7 +6264,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "asdf",
@@ -5063,7 +6280,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "vfox",
@@ -5076,7 +6296,10 @@
             ],
             "category": "version-manager",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "UTM",
@@ -5088,7 +6311,10 @@
             ],
             "category": "virtual-machine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "VirtualBuddy",
@@ -5100,7 +6326,10 @@
             ],
             "category": "virtual-machine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Lima",
@@ -5113,7 +6342,10 @@
             ],
             "category": "virtual-machine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Quickemu",
@@ -5126,7 +6358,10 @@
             ],
             "category": "virtual-machine",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Rectangle",
@@ -5138,7 +6373,10 @@
             ],
             "category": "window-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Loop",
@@ -5150,7 +6388,10 @@
             ],
             "category": "window-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "AeroSpace",
@@ -5162,7 +6403,10 @@
             ],
             "category": "window-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Amethyst",
@@ -5174,7 +6418,10 @@
             ],
             "category": "window-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "openpilot",
@@ -5186,7 +6433,10 @@
             ],
             "category": "other",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Mealie",
@@ -5198,7 +6448,10 @@
             ],
             "category": "other",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Grocy",
@@ -5211,7 +6464,10 @@
             ],
             "category": "other",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Whisky",
@@ -5223,7 +6479,10 @@
             ],
             "category": "uncategorized",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "XPipe",
@@ -5235,7 +6494,10 @@
             ],
             "category": "uncategorized",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "yabai",
@@ -5247,7 +6509,10 @@
             ],
             "category": "window-management",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Qt Creator",
@@ -5259,7 +6524,10 @@
             ],
             "category": "ide",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Gogs",
@@ -5271,7 +6539,10 @@
             ],
             "category": "git-hosting",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Gitea",
@@ -5283,7 +6554,10 @@
             ],
             "category": "git-hosting",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "GitLab",
@@ -5296,7 +6570,10 @@
             ],
             "category": "git-hosting",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         },
         {
             "name": "Itsycal",
@@ -5308,7 +6585,10 @@
             ],
             "category": "macos",
             "stars": 0,
-            "flags": []
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": ""
         }
     ]
 }
