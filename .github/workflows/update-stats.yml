@@ -16,6 +16,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -24,7 +27,7 @@ jobs:
 
     - name: Run update script
       env:
-        GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
+        GH_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python .source/scripts/maintenance/stats_updator.py
 
