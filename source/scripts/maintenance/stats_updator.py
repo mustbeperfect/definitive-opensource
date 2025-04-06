@@ -1,69 +1,60 @@
-import json
-import requests
 import os
+import requests
+import json
 from datetime import datetime
 
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN') 
-HEADERS = {
+# Load the applications data from the JSON file
+with open('source/data/applications.json', 'r') as f:
+    data = json.load(f)
+
+# GitHub API token from the environment variables
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+
+# Headers for the API request
+headers = {
     'Authorization': f'token {GITHUB_TOKEN}',
     'Accept': 'application/vnd.github.v3+json'
 }
 
-def get_repo_data(owner, repo):
-    repo_url = f'https://api.github.com/repos/{owner}/{repo}'
-    commits_url = f'{repo_url}/commits'
+# Function to get the latest data for each application
+def update_application_data(app):
+    # Extract repository name from the GitHub URL
+    repo_name = app["link"].split("github.com/")[1]
+    
+    # API URL for the repository
+    repo_url = f'https://api.github.com/repos/{repo_name}'
 
-    repo_response = requests.get(repo_url, headers=HEADERS)
-    commit_response = requests.get(commits_url, headers=HEADERS)
+    print(f"Updating: {repo_name}")  # Debugging output to see which repo is being processed
+    print(f"API URL: {repo_url}")  # Debugging output to check URL
 
-    if repo_response.status_code != 200:
-        print(f"Failed to fetch data for {owner}/{repo}")
-        return {}
+    # Make the request to the GitHub API
+    response = requests.get(repo_url, headers=headers)
 
-    repo_data = repo_response.json()
-    commits_data = commit_response.json()
+    if response.status_code == 200:
+        repo_data = response.json()
 
-    last_commit_date = ''
-    if isinstance(commits_data, list) and len(commits_data) > 0:
-        last_commit_date = commits_data[0]['commit']['committer']['date']
-        last_commit_date = datetime.strptime(last_commit_date, "%Y-%m-%dT%H:%M:%SZ").strftime("%m/%d/%Y")
+        # Update the app's fields with the data from the GitHub API
+        app['stars'] = repo_data.get('stargazers_count', app['stars'])
+        app['language'] = repo_data.get('language', app['language'])
+        
+        # Update license with SPDX identifier instead of the license name
+        app['license'] = repo_data.get('license', {}).get('spdx_id', app['license'])
+        
+        # Update last commit date
+        app['last_commit'] = datetime.strptime(repo_data['pushed_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%m/%d/%Y')
 
-    return {
-        'description': repo_data.get('description', ''),
-        'stars': repo_data.get('stargazers_count', 0),
-        'language': repo_data.get('language', ''),
-        'license': repo_data.get('license', {}).get('spdx_id', '') if repo_data.get('license') else '',
-        'last_commit': last_commit_date
-    }
+        return app
+    else:
+        print(f"Error: Unable to fetch data for {repo_name}. Status Code: {response.status_code}")  # Print status code
+        print(f"Response: {response.text}")  # Print response content for more insight
+        return app
 
-def update_applications(filepath='source/data/applications.json'):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+# Update the applications data
+for app in data['applications']:
+    app = update_application_data(app)
 
-    for app in data.get('applications', []):
-        try:
-            url = app['link']
-            if "github.com" not in url:
-                continue
-            parts = url.split('/')
-            owner, repo = parts[3], parts[4]
-            print(f"Updating: {owner}/{repo}")
+# Write the updated data back to the JSON file
+with open('source/data/applications.json', 'w') as f:
+    json.dump(data, f, indent=4)
 
-            updated_info = get_repo_data(owner, repo)
-
-            app['description'] = updated_info.get('description', app['description'])
-            app['stars'] = updated_info.get('stars', app['stars'])
-            app['language'] = updated_info.get('language', app['language'])
-            app['license'] = updated_info.get('license', app['license'])
-            app['last_commit'] = updated_info.get('last_commit', app['last_commit'])
-
-        except Exception as e:
-            print(f"Error updating {app.get('name')}: {e}")
-
-    with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
-
-    print("Update complete!")
-
-if __name__ == "__main__":
-    update_applications()
+print("Updated application data successfully!")
