@@ -52,7 +52,7 @@
         },
         {
             "name": "WrenAI",
-            "description": "🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻",
+            "description": "\ud83e\udd16 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. \ud83d\udcc8\ud83d\udcca\ud83d\udccb\ud83e\uddd1\u200d\ud83d\udcbb",
             "link": "https://github.com/Canner/WrenAI",
             "tags": [],
             "platforms": [
@@ -97,7 +97,7 @@
         },
         {
             "name": "AgentGPT",
-            "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+            "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.",
             "link": "https://github.com/reworkd/AgentGPT",
             "tags": [],
             "platforms": [
@@ -264,7 +264,7 @@
         },
         {
             "name": "Lobe Chat",
-            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
             "link": "https://github.com/lobehub/lobe-chat",
             "tags": [],
             "platforms": [
@@ -294,7 +294,7 @@
         },
         {
             "name": "Leon",
-            "description": "🧠 Leon is your open-source personal assistant.",
+            "description": "\ud83e\udde0 Leon is your open-source personal assistant.",
             "link": "https://github.com/leon-ai/leon",
             "tags": [],
             "platforms": [
@@ -326,7 +326,7 @@
         },
         {
             "name": "Firecrawl",
-            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "description": "\ud83d\udd25 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
             "link": "https://github.com/mendableai/firecrawl",
             "tags": [],
             "platforms": [
@@ -372,7 +372,7 @@
         },
         {
             "name": "Repomix",
-            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+            "description": "\ud83d\udce6 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
             "link": "https://github.com/yamadashy/repomix",
             "tags": [],
             "platforms": [
@@ -479,7 +479,7 @@
         },
         {
             "name": "Cherry Studio",
-            "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+            "description": "\ud83c\udf52 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
             "link": "https://github.com/CherryHQ/cherry-studio",
             "tags": [],
             "platforms": [
@@ -509,7 +509,7 @@
         },
         {
             "name": "NextChat",
-            "description": "✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows",
+            "description": "\u2728 Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows",
             "link": "https://github.com/ChatGPTNextWeb/NextChat",
             "tags": [],
             "platforms": [
@@ -839,7 +839,7 @@
         },
         {
             "name": "SimpleX",
-            "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+            "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
             "link": "https://github.com/simplex-chat/simplex-chat",
             "tags": [],
             "platforms": [
@@ -903,7 +903,7 @@
         },
         {
             "name": "Mailspring",
-            "description": "💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+            "description": "\ud83d\udc8c A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
             "link": "https://github.com/Foundry376/Mailspring",
             "tags": [],
             "platforms": [
@@ -1091,7 +1091,7 @@
         },
         {
             "name": "Nextcloud",
-            "description": "☁️ Nextcloud server, a safe home for all your data",
+            "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
             "link": "https://github.com/nextcloud/server",
             "tags": [],
             "platforms": [
@@ -1124,7 +1124,7 @@
         },
         {
             "name": "ownCloud",
-            "description": "☁️ ownCloud web server core (Files, DAV, etc.)",
+            "description": "\u2601\ufe0f ownCloud web server core (Files, DAV, etc.)",
             "link": "https://github.com/owncloud/core",
             "tags": [],
             "platforms": [
@@ -1234,7 +1234,7 @@
         },
         {
             "name": "Continue",
-            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains ",
+            "description": "\u23e9 Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains ",
             "link": "https://github.com/continuedev/continue",
             "tags": [],
             "platforms": [
@@ -1281,7 +1281,7 @@
         },
         {
             "name": "MetaGPT",
-            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
             "link": "https://github.com/geekan/MetaGPT",
             "tags": [],
             "platforms": [
@@ -1376,7 +1376,7 @@
         },
         {
             "name": "OpenHands",
-            "description": "🙌 OpenHands: Code Less, Make More",
+            "description": "\ud83d\ude4c OpenHands: Code Less, Make More",
             "link": "https://github.com/All-Hands-AI/OpenHands",
             "tags": [],
             "platforms": [
@@ -1392,7 +1392,7 @@
         },
         {
             "name": "Zed",
-            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
             "link": "https://github.com/zed-industries/zed",
             "tags": [
                 "corporate-influence"
@@ -1553,7 +1553,7 @@
         },
         {
             "name": "CodeEdit",
-            "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "description": "CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
             "link": "https://github.com/CodeEditApp/CodeEdit",
             "tags": [],
             "platforms": [
@@ -1661,7 +1661,7 @@
         },
         {
             "name": "Godot",
-            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine",
             "link": "https://github.com/godotengine/godot",
             "tags": [],
             "platforms": [
@@ -1676,7 +1676,7 @@
         },
         {
             "name": "GDevelop",
-            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "description": "\ud83c\udfae Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
             "link": "https://github.com/4ian/GDevelop",
             "tags": [],
             "platforms": [
@@ -1753,7 +1753,7 @@
         },
         {
             "name": "Bun",
-            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one ",
+            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one ",
             "link": "https://github.com/oven-sh/bun",
             "tags": [],
             "platforms": [
@@ -1921,7 +1921,7 @@
         },
         {
             "name": "lichess",
-            "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+            "description": "\u265e lichess.org: the forever free, adless and open source chess server \u265e",
             "link": "https://github.com/lichess-org/lila",
             "tags": [],
             "platforms": [
@@ -2074,7 +2074,7 @@
         },
         {
             "name": "lazy.nvim",
-            "description": "💤 A modern plugin manager for Neovim ",
+            "description": "\ud83d\udca4 A modern plugin manager for Neovim ",
             "link": "https://github.com/folke/lazy.nvim",
             "tags": [],
             "platforms": [
@@ -2089,7 +2089,7 @@
         },
         {
             "name": "Zen",
-            "description": "🌀 Experience tranquillity while browsing the web without people tracking you!",
+            "description": "\ud83c\udf00 Experience tranquillity while browsing the web without people tracking you!",
             "link": "https://github.com/zen-browser/desktop",
             "tags": [],
             "platforms": [
@@ -2119,7 +2119,7 @@
         },
         {
             "name": "Floorp",
-            "description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊",
+            "description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative \ud83e\udd8a",
             "link": "https://github.com/Floorp-Projects/Floorp",
             "tags": [],
             "platforms": [
@@ -2149,7 +2149,7 @@
         },
         {
             "name": "Noi",
-            "description": "🚀 Power Your World with AI - Explore, Extend, Empower.",
+            "description": "\ud83d\ude80 Power Your World with AI - Explore, Extend, Empower.",
             "link": "https://github.com/lencx/Noi",
             "tags": [],
             "platforms": [
@@ -2300,7 +2300,7 @@
         },
         {
             "name": "Spotube",
-            "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+            "description": "\ud83c\udfa7 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
             "link": "https://github.com/KRTirtho/spotube",
             "tags": [],
             "platforms": [
@@ -2346,7 +2346,7 @@
         },
         {
             "name": "Navidrome",
-            "description": "🎧☁️ Your Personal Streaming Service",
+            "description": "\ud83c\udfa7\u2601\ufe0f Your Personal Streaming Service",
             "link": "https://github.com/navidrome/navidrome",
             "tags": [],
             "platforms": [
@@ -2512,7 +2512,7 @@
         },
         {
             "name": "Upscayl",
-            "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+            "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
             "link": "https://github.com/upscayl/upscayl",
             "tags": [],
             "platforms": [
@@ -2633,7 +2633,7 @@
         },
         {
             "name": "Flameshot",
-            "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+            "description": "Powerful yet simple to use screenshot software \ud83d\udda5\ufe0f \ud83d\udcf8",
             "link": "https://github.com/flameshot-org/flameshot",
             "tags": [],
             "platforms": [
@@ -2723,7 +2723,7 @@
         },
         {
             "name": "mpv",
-            "description": "🎥 Command line video player",
+            "description": "\ud83c\udfa5 Command line video player",
             "link": "https://github.com/mpv-player/mpv",
             "tags": [],
             "platforms": [
@@ -2957,7 +2957,7 @@
         },
         {
             "name": "Dashy",
-            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "description": "\ud83d\ude80 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
             "link": "https://github.com/Lissy93/dashy",
             "tags": [],
             "platforms": [
@@ -3032,7 +3032,7 @@
         },
         {
             "name": "Home Assistant",
-            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
             "link": "https://github.com/home-assistant/core",
             "tags": [],
             "platforms": [
@@ -3093,7 +3093,7 @@
         },
         {
             "name": "Runtipi",
-            "description": "Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨",
+            "description": "Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. \u2728",
             "link": "https://github.com/runtipi/runtipi",
             "tags": [],
             "platforms": [
@@ -3138,7 +3138,7 @@
         },
         {
             "name": "Cosmos",
-            "description": "☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)",
+            "description": "\u2601\ufe0f The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)",
             "link": "https://github.com/azukaar/Cosmos-Server",
             "tags": [],
             "platforms": [
@@ -3183,7 +3183,7 @@
         },
         {
             "name": "PhotoPrism",
-            "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+            "description": "AI-Powered Photos App for the Decentralized Web \ud83c\udf08\ud83d\udc8e\u2728",
             "link": "https://github.com/photoprism/photoprism",
             "tags": [],
             "platforms": [
@@ -3336,7 +3336,7 @@
         },
         {
             "name": "Calibre-Web",
-            "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+            "description": "\ud83d\udcda Web app for browsing, reading and downloading eBooks stored in a Calibre database",
             "link": "https://github.com/janeczku/calibre-web",
             "tags": [],
             "platforms": [
@@ -3426,7 +3426,7 @@
         },
         {
             "name": "TheBoringNotch",
-            "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶 ",
+            "description": "TheBoringNotch: Not so boring notch That Rocks \ud83c\udfb8\ud83c\udfb6 ",
             "link": "https://github.com/TheBoredTeam/boring.notch",
             "tags": [],
             "platforms": [
@@ -3578,7 +3578,7 @@
         },
         {
             "name": "OnlySwitch",
-            "description": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+            "description": "\u2699\ufe0f All-in-One menu bar app, hide \ud83d\udcbbMacBook Pro's notch, dark mode, AirPods, Shortcuts",
             "link": "https://github.com/jacklandrin/OnlySwitch",
             "tags": [],
             "platforms": [
@@ -3593,7 +3593,7 @@
         },
         {
             "name": "MeetingBar",
-            "description": "🇺🇦 Your meetings at your fingertips in the macOS menu bar",
+            "description": "\ud83c\uddfa\ud83c\udde6 Your meetings at your fingertips in the macOS menu bar",
             "link": "https://github.com/leits/MeetingBar",
             "tags": [],
             "platforms": [
@@ -3653,7 +3653,7 @@
         },
         {
             "name": "Puter",
-            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "description": "\ud83c\udf10 The Internet OS! Free, Open-Source, and Self-Hostable.",
             "link": "https://github.com/HeyPuter/puter",
             "tags": [],
             "platforms": [
@@ -3713,7 +3713,7 @@
         },
         {
             "name": "buku",
-            "description": "🔖 Personal mini-web in text",
+            "description": "\ud83d\udd16 Personal mini-web in text",
             "link": "https://github.com/jarun/buku",
             "tags": [],
             "platforms": [
@@ -3729,7 +3729,7 @@
         },
         {
             "name": "Linkwarden",
-            "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.",
+            "description": "\u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0fSelf-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.",
             "link": "https://github.com/linkwarden/linkwarden",
             "tags": [],
             "platforms": [
@@ -3883,7 +3883,7 @@
         },
         {
             "name": "DocuSeal",
-            "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+            "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
             "link": "https://github.com/docusealco/docuseal",
             "tags": [],
             "platforms": [
@@ -3930,7 +3930,7 @@
         },
         {
             "name": "OpenSign",
-            "description": "🔥 The free & Open Source DocuSign alternative",
+            "description": "\ud83d\udd25 The free & Open Source DocuSign alternative",
             "link": "https://github.com/OpenSignLabs/OpenSign",
             "tags": [],
             "platforms": [
@@ -3977,7 +3977,7 @@
         },
         {
             "name": "Ghostfolio",
-            "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
+            "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript \ud83e\udd0d",
             "link": "https://github.com/ghostfolio/ghostfolio",
             "tags": [],
             "platforms": [
@@ -4069,7 +4069,7 @@
         },
         {
             "name": "Affine",
-            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
             "link": "https://github.com/toeverything/AFFiNE",
             "tags": [],
             "platforms": [
@@ -4144,7 +4144,7 @@
         },
         {
             "name": "Plane",
-            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
             "link": "https://github.com/makeplane/plane",
             "tags": [],
             "platforms": [
@@ -4176,7 +4176,7 @@
         },
         {
             "name": "Huly",
-            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "description": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
             "link": "https://github.com/hcengineering/platform",
             "tags": [],
             "platforms": [
@@ -4409,7 +4409,7 @@
         },
         {
             "name": "BunkerWeb",
-            "description": "🛡️ Open-source and next-generation Web Application Firewall (WAF)",
+            "description": "\ud83d\udee1\ufe0f Open-source and next-generation Web Application Firewall (WAF)",
             "link": "https://github.com/bunkerity/bunkerweb",
             "tags": [],
             "platforms": [
@@ -4458,7 +4458,7 @@
         },
         {
             "name": "KeePass",
-            "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
+            "description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.",
             "link": "https://github.com/keepassxreboot/keepassxc",
             "tags": [],
             "platforms": [
@@ -4488,7 +4488,7 @@
         },
         {
             "name": "LessPass",
-            "description": "🔑 stateless open source password manager",
+            "description": "\ud83d\udd11 stateless open source password manager",
             "link": "https://github.com/lesspass/lesspass",
             "tags": [],
             "platforms": [
@@ -4543,7 +4543,7 @@
         },
         {
             "name": "NetBird",
-            "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+            "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
             "link": "https://github.com/netbirdio/netbird",
             "tags": [],
             "platforms": [
@@ -4590,7 +4590,7 @@
         },
         {
             "name": "xonsh",
-            "description": "🐚 Python-powered shell. Full-featured and cross-platform.",
+            "description": "\ud83d\udc1a Python-powered shell. Full-featured and cross-platform.",
             "link": "https://github.com/xonsh/xonsh",
             "tags": [],
             "platforms": [
@@ -4744,7 +4744,7 @@
         },
         {
             "name": "Atuin",
-            "description": "✨ Magical shell history",
+            "description": "\u2728 Magical shell history",
             "link": "https://github.com/atuinsh/atuin",
             "tags": [],
             "platforms": [
@@ -4760,7 +4760,7 @@
         },
         {
             "name": "Oh My Zsh",
-            "description": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+            "description": "\ud83d\ude43 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
             "link": "https://github.com/ohmyzsh/ohmyzsh",
             "tags": [],
             "platforms": [
@@ -5055,7 +5055,7 @@
         },
         {
             "name": "nb",
-            "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+            "description": "CLI and local web plain text note\u2011taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
             "link": "https://github.com/xwmx/nb",
             "tags": [],
             "platforms": [
@@ -5286,7 +5286,7 @@
         },
         {
             "name": "Emacs",
-            "description": "An extensible, customizable, free/libre text editor — and more.",
+            "description": "An extensible, customizable, free/libre text editor \u2014 and more.",
             "link": "https://github.com/emacs-mirror/emacs",
             "tags": [],
             "platforms": [
@@ -5316,7 +5316,7 @@
         },
         {
             "name": "MediaWiki",
-            "description": "🌻 The collaborative editing software that runs Wikipedia.",
+            "description": "\ud83c\udf3b The collaborative editing software that runs Wikipedia.",
             "link": "https://github.com/wikimedia/mediawiki",
             "tags": [],
             "platforms": [
@@ -5485,7 +5485,7 @@
         },
         {
             "name": "Clipboard",
-            "description": "😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager",
+            "description": "\ud83d\ude0e\ud83c\udfd6\ufe0f\ud83d\udc2c Your new, \ud835\ude67\ud835\ude5e\ud835\ude59\ud835\ude64\ud835\ude63\ud835\ude60\ud835\ude6a\ud835\ude61\ud835\ude5e\ud835\ude58\ud835\ude5e\ud835\ude64\ud835\ude6a\ud835\ude68\ud835\ude61\ud835\ude6e smart clipboard manager",
             "link": "https://github.com/Slackadays/Clipboard",
             "tags": [],
             "platforms": [
@@ -5609,7 +5609,7 @@
         },
         {
             "name": "nnn",
-            "description": "n³ The unorthodox terminal file manager",
+            "description": "n\u00b3 The unorthodox terminal file manager",
             "link": "https://github.com/jarun/nnn",
             "tags": [],
             "platforms": [
@@ -5625,7 +5625,7 @@
         },
         {
             "name": "Yazi",
-            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.",
             "link": "https://github.com/sxyazi/yazi",
             "tags": [],
             "platforms": [
@@ -5657,7 +5657,7 @@
         },
         {
             "name": "Electerm",
-            "description": "📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)",
+            "description": "\ud83d\udcfbTerminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)",
             "link": "https://github.com/electerm/electerm",
             "tags": [],
             "platforms": [
@@ -5703,7 +5703,7 @@
         },
         {
             "name": "Filestash",
-            "description": "🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
+            "description": "\ud83e\udd84 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
             "link": "https://github.com/mickael-kerjean/filestash",
             "tags": [],
             "platforms": [
@@ -5733,7 +5733,7 @@
         },
         {
             "name": "File Browser",
-            "description": "📂 Web File Browser",
+            "description": "\ud83d\udcc2 Web File Browser",
             "link": "https://github.com/filebrowser/filebrowser",
             "tags": [],
             "platforms": [
@@ -5885,7 +5885,7 @@
         },
         {
             "name": "Kando",
-            "description": "🌸 Do things with utmost efficiency.",
+            "description": "\ud83c\udf38 Do things with utmost efficiency.",
             "link": "https://github.com/kando-menu/kando",
             "tags": [],
             "platforms": [
@@ -6114,7 +6114,7 @@
         },
         {
             "name": "MonitorControl",
-            "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+            "description": "\ud83d\udda5 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
             "link": "https://github.com/MonitorControl/MonitorControl",
             "tags": [],
             "platforms": [
@@ -6410,7 +6410,7 @@
         },
         {
             "name": "Amethyst",
-            "description": "Automatic tiling window manager for macOS à la xmonad.",
+            "description": "Automatic tiling window manager for macOS \u00e0 la xmonad.",
             "link": "https://github.com/ianyh/Amethyst",
             "tags": [],
             "platforms": [
