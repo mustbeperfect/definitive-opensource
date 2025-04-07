@@ -664,7 +664,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` | **0** |
+| [AdGuard](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` | **0** |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | `SelfHost` | **5.2k** |
 | [Pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | `SelfHost` | **51.4k** |
 
