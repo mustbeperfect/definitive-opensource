@@ -483,7 +483,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | `Cross` | **16.2k** |
-| [Thunderbird](https://github.com/thunderbird) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | `Cross` | **0** |
+| [Thunderbird](https://github.com/thunderbird/thunderbird-android) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | `Cross` | **0** |
 
 ### Video Conference
 
@@ -898,7 +898,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AdGuard](https://github.com/AdguardTeam) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` | **0** |
+| [AdGuard](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` | **0** |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | `SelfHost` | **5.2k** |
 | [Pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | `SelfHost` | **51.4k** |
 
@@ -1092,7 +1092,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [CryptPad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source. | `SelfHost` | **6.2k** |
-| [LibreOffice](https://github.com/libreoffice) | No description provided. | `Cross` | **0** |
+| [LibreOffice](https://github.com/LibreOffice/core) | No description provided. | `Cross` | **0** |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | `Cross` | **3.4k** |
 
 ### Proofreading

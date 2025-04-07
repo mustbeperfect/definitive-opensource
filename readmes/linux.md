@@ -389,7 +389,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | `Cross` | **16.2k** |
-| [Thunderbird](https://github.com/thunderbird) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | `Cross` | **0** |
+| [Thunderbird](https://github.com/thunderbird/thunderbird-android) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | `Cross` | **0** |
 
 ### Video Conference
 
@@ -875,7 +875,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [LibreOffice](https://github.com/libreoffice) | No description provided. | `Cross` | **0** |
+| [LibreOffice](https://github.com/LibreOffice/core) | No description provided. | `Cross` | **0** |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | `Cross` | **3.4k** |
 
 ### Proofreading
