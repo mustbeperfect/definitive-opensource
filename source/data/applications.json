@@ -926,7 +926,9 @@
             ],
             "category": "mail",
             "stars": 0,
-            "flags": [],
+            "flags": [
+                "custom-description"
+            ],
             "last_commit": "",
             "language": "",
             "license": ""
@@ -4451,7 +4453,9 @@
             ],
             "category": "password-manager",
             "stars": 16353,
-            "flags": [],
+            "flags": [
+                "custom-description"
+            ],
             "last_commit": "04/07/2025",
             "language": "C#",
             "license": "NOASSERTION"
