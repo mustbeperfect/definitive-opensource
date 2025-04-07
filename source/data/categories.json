@@ -409,8 +409,8 @@
 			"description": ""
 		},
 		{
-			"name": "Document Manager",
-			"id": "document-manager",
+			"name": "Document Management",
+			"id": "document-management",
 			"parent": "organization",
 			"description": ""
 		},
