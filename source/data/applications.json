@@ -919,7 +919,7 @@
         {
             "name": "Thunderbird",
             "description": "Meet Thunderbird, the email and productivity app that maximizes your freedoms.",
-            "link": "https://github.com/thunderbird",
+            "link": "https://github.com/thunderbird/thunderbird-android",
             "tags": [],
             "platforms": [
                 "Cross"
@@ -4301,7 +4301,7 @@
         {
             "name": "AdGuard",
             "description": "Network-wide ads & trackers blocking DNS server",
-            "link": "https://github.com/AdguardTeam",
+            "link": "https://github.com/AdguardTeam/AdGuardHome",
             "tags": [],
             "platforms": [
                 "SelfHost",
@@ -5103,7 +5103,7 @@
         {
             "name": "LibreOffice",
             "description": "No description provided.",
-            "link": "https://github.com/libreoffice",
+            "link": "https://github.com/LibreOffice/core",
             "tags": [],
             "platforms": [
                 "Cross"
