@@ -16,18 +16,25 @@ headers = {
 def update_application_data(app):
 
     repo_name = app["link"].split("github.com/")[1]
+    
+
     repo_url = f'https://api.github.com/repos/{repo_name}'
 
     print(f"Updating: {repo_name}")
     print(f"API URL: {repo_url}")
+
 
     response = requests.get(repo_url, headers=headers)
 
     if response.status_code == 200:
         repo_data = response.json()
 
+
         app['stars'] = repo_data.get('stargazers_count', app['stars'])
         app['language'] = repo_data.get('language', app['language'])
+
+        if 'custom-description' not in app.get('flags', []):
+            app['description'] = repo_data.get('description', app.get('description'))
         
         license_data = repo_data.get('license')
         if license_data is not None:
@@ -40,7 +47,7 @@ def update_application_data(app):
         return app
     else:
         print(f"Error: Unable to fetch data for {repo_name}. Status Code: {response.status_code}")  # Print status code
-        print(f"Response: {response.text}")
+        print(f"Response: {response.text}")  # Print response content for more insight
         return app
 
 for app in data['applications']:

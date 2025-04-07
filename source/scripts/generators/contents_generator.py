@@ -96,7 +96,7 @@ def generate_contents(platform="all"):
             apps = apps_by_subcat.get(sub["id"], [])
             for app in apps:
                 name = app.get("name", "")
-                description = app.get("description", "")
+                description = app.get("description", "").replace("|", "-")
                 link = app.get("link", "#")
                 tags = ""
                 """
