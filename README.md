@@ -152,7 +152,7 @@ Abandoned - Development Halted
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
-- [Document Manager](#document-manager)
+- [Document Management](#document-management)
 - [Document Modifier](#document-modifier)
 - [Dotfiles Manager](#dotfiles-manager)
 - [Download Manager](#download-manager)
@@ -288,7 +288,7 @@ Abandoned - Development Halted
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
-    - [Document Manager](#document-manager)
+    - [Document Management](#document-management)
 - Productivity
     - [Calendar](#calendar)
     - [Document Modifier](#document-modifier)
@@ -822,10 +822,13 @@ Abandoned - Development Halted
 | [Shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | `SelfHost` | **10.2k** |
 | [wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | `SelfHost` | **11.1k** |
 
-### Document Manager
+### Document Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Docspell](https://github.com/eikek/docspell) | Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. | `SelfHost` `CLI+` `Android` | **1.8k** |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents | `SelfHost` | **26.2k** |
+| [TagSpaces](https://github.com/tagspaces/tagspaces) |  TagSpaces is an offline, open source, document manager with tagging support | `SelfHost` | **4.1k** |
 
 # Productivity - [Go to top](#contents)
 

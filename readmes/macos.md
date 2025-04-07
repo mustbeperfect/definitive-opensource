@@ -84,7 +84,7 @@
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
-- [Document Manager](#document-manager)
+- [Document Management](#document-management)
 - [Document Modifier](#document-modifier)
 - [Dotfiles Manager](#dotfiles-manager)
 - [Download Manager](#download-manager)
@@ -220,7 +220,7 @@
     - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
-    - [Document Manager](#document-manager)
+    - [Document Management](#document-management)
 - Productivity
     - [Calendar](#calendar)
     - [Document Modifier](#document-modifier)
@@ -680,7 +680,7 @@
 | --- | --- | --- | --- |
 | [buku](https://github.com/jarun/buku) | 🔖 Personal mini-web in text | `Cross` `CLI+` | **6.7k** |
 
-### Document Manager
+### Document Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
