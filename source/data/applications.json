@@ -1803,7 +1803,7 @@
         {
             "name": "Playnite",
             "description": "Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.",
-            "link": "https://github.com/JosefNemec/Playnite/",
+            "link": "https://github.com/JosefNemec/Playnite",
             "tags": [],
             "platforms": [
                 "Windows"
