@@ -32,6 +32,7 @@ def update_application_data(app):
 
         app['stars'] = repo_data.get('stargazers_count', app['stars'])
         app['language'] = repo_data.get('language', app['language'])
+        app['homepage_url'] = repo_data.get('homepage', app['homepage_url'])
 
         if 'custom-description' not in app.get('flags', []):
             app['description'] = repo_data.get('description', app.get('description'))
@@ -46,8 +47,8 @@ def update_application_data(app):
 
         return app
     else:
-        print(f"Error: Unable to fetch data for {repo_name}. Status Code: {response.status_code}")  # Print status code
-        print(f"Response: {response.text}")  # Print response content for more insight
+        print(f"Error: Unable to fetch data for {repo_name}. Status Code: {response.status_code}")
+        print(f"Response: {response.text}")
         return app
 
 for app in data['applications']:
