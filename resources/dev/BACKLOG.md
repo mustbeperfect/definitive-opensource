@@ -26,7 +26,8 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Taiga](https://github.com/taigaio)
 - [Polaris](https://github.com/agersant/polaris)
 - [AM](https://github.com/ivan-hc/AM)
-- [kunkun](https://github.com/kunkunsh/kunkun)
+- [kunkun](https://github.com/kunkunsh/kunkun) - Only waiting on stars
+- [gauntlet](https://github.com/project-gauntlet/gauntlet) - Only waiting on stars
 - [Raindrop.io](https://github.com/raindropio)
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
 - [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)
