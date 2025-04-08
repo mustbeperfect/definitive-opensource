@@ -6,9 +6,7 @@ with open("source/data/applications.json", "r", encoding="utf-8") as file:
 
 # Add "flags" and "stars" properties to each application
 for app in data.get("applications", []):
-    app["last_commit"] = ""
-    app["language"] = ""
-    app["license"] = ""
+    app["homepage_url"] = ""
 
 # Save the updated JSON back to the file
 with open("source/data/applications.json", "w", encoding="utf-8") as file:

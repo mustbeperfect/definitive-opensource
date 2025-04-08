@@ -25,7 +25,7 @@ def parse_readme(readme_path):
             applications.append({
                 "name": name,
                 "description": description,
-                "link": link,
+                "repo_url": link,
                 "tags": [tag] if tag else [],
                 "platforms": platforms.split(),
                 "category": category

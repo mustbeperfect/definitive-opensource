@@ -97,7 +97,7 @@ def generate_contents(platform="all"):
             for app in apps:
                 name = app.get("name", "")
                 description = app.get("description", "").replace("|", "-")
-                link = app.get("link", "#")
+                link = app.get("repo_url", "#")
                 tags = ""
                 """
                 if app.get("tags"):

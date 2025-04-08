@@ -15,7 +15,7 @@ headers = {
 
 def update_application_data(app):
 
-    repo_name = app["link"].split("github.com/")[1]
+    repo_name = app["repo_url"].split("github.com/")[1]
     
 
     repo_url = f'https://api.github.com/repos/{repo_name}'
