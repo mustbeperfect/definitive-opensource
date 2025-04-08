@@ -9,7 +9,7 @@
                 "Cross"
             ],
             "category": "agent",
-            "stars": 59023,
+            "stars": 59030,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "Python",
@@ -17,7 +17,7 @@
         },
         {
             "name": "screenpipe",
-            "description": "AI app store powered by 24/7 desktop history. open source - 100% local - dev friendly - 24/7 screen, mic recording",
+            "description": "AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording",
             "link": "https://github.com/mediar-ai/screenpipe",
             "tags": [
                 "disruptive",
@@ -28,7 +28,7 @@
                 "Windows"
             ],
             "category": "agent",
-            "stars": 13147,
+            "stars": 13166,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "TypeScript",
@@ -44,54 +44,54 @@
                 "CLI"
             ],
             "category": "agent",
-            "stars": 3701,
+            "stars": 3703,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "MIT"
         },
         {
             "name": "WrenAI",
-            "description": "\ud83e\udd16 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. \ud83d\udcc8\ud83d\udcca\ud83d\udccb\ud83e\uddd1\u200d\ud83d\udcbb",
+            "description": "\ud83e\udd16 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. \ud83d\udcc8\ud83d\udcca\ud83d\udccb\ud83e\uddd1\u200d\ud83d\udcbb",
             "link": "https://github.com/Canner/WrenAI",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": 7374,
+            "stars": 7386,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
         {
             "name": "TEN Agent",
-            "description": "TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze.",
+            "description": "TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like  seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze.",
             "link": "https://github.com/TEN-framework/TEN-Agent",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": 5496,
+            "stars": 5507,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
         {
             "name": "Huginn",
-            "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+            "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
             "link": "https://github.com/huginn/huginn",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": 45724,
+            "stars": 45741,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Ruby",
             "license": "MIT"
         },
@@ -104,7 +104,7 @@
                 "Cross"
             ],
             "category": "agent",
-            "stars": 33670,
+            "stars": 33686,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "TypeScript",
@@ -119,7 +119,7 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": 174220,
+            "stars": 174243,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "Python",
@@ -135,9 +135,9 @@
                 "SelfHost"
             ],
             "category": "agent",
-            "stars": 15477,
+            "stars": 15482,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -150,7 +150,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": 150754,
+            "stars": 150802,
             "flags": [],
             "last_commit": "03/04/2025",
             "language": "Python",
@@ -165,9 +165,9 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": 73508,
+            "stars": 73605,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "GPL-3.0"
         },
@@ -180,22 +180,22 @@
                 "Cross"
             ],
             "category": "ai-image-gui",
-            "stars": 24792,
+            "stars": 24801,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
         {
             "name": "WebUI Forge",
-            "description": "Stable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features.",
+            "description": null,
             "link": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": 10391,
+            "stars": 10406,
             "flags": [],
             "last_commit": "03/04/2025",
             "language": "Python",
@@ -210,7 +210,7 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": 44180,
+            "stars": 44204,
             "flags": [],
             "last_commit": "01/24/2025",
             "language": "Python",
@@ -225,9 +225,9 @@
                 "SelfHost"
             ],
             "category": "ai-image-gui",
-            "stars": 6169,
+            "stars": 6174,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
@@ -240,7 +240,7 @@
                 "Cross"
             ],
             "category": "ai-utilities",
-            "stars": 29840,
+            "stars": 29850,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "JavaScript",
@@ -256,7 +256,7 @@
                 "CLI"
             ],
             "category": "all-in-one",
-            "stars": 6305,
+            "stars": 6320,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "Rust",
@@ -264,31 +264,31 @@
         },
         {
             "name": "Lobe Chat",
-            "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
             "link": "https://github.com/lobehub/lobe-chat",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "all-in-one",
-            "stars": 58597,
+            "stars": 58631,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
         {
             "name": "Khoj AI",
-            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. ",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
             "link": "https://github.com/khoj-ai/khoj",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "all-in-one",
-            "stars": 28523,
+            "stars": 28538,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
@@ -301,7 +301,7 @@
                 "SelfHost"
             ],
             "category": "assistant",
-            "stars": 16131,
+            "stars": 16137,
             "flags": [],
             "last_commit": "03/22/2025",
             "language": "TypeScript",
@@ -318,9 +318,9 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": 5010,
+            "stars": 5014,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
@@ -333,9 +333,9 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": 34239,
+            "stars": 34353,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -348,7 +348,7 @@
                 "SelfHost"
             ],
             "category": "information-processing",
-            "stars": 21308,
+            "stars": 21309,
             "flags": [],
             "last_commit": "01/23/2025",
             "language": "TypeScript",
@@ -364,7 +364,7 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": 5300,
+            "stars": 5312,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Rust",
@@ -380,15 +380,15 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": 14253,
+            "stars": 14310,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
         {
             "name": "Docling",
-            "description": "Get your documents ready for gen AI ",
+            "description": "Get your documents ready for gen AI",
             "link": "https://github.com/DS4SD/docling",
             "tags": [],
             "platforms": [
@@ -396,9 +396,9 @@
                 "CLI"
             ],
             "category": "information-processing",
-            "stars": 26169,
+            "stars": 26454,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "MIT"
         },
@@ -411,7 +411,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": 87927,
+            "stars": 88155,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "JavaScript",
@@ -426,7 +426,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": 73025,
+            "stars": 73036,
             "flags": [],
             "last_commit": "03/19/2025",
             "language": "C++",
@@ -434,16 +434,16 @@
         },
         {
             "name": "Jan",
-            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
             "link": "https://github.com/janhq/jan",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": 28351,
+            "stars": 28377,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -456,7 +456,7 @@
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": 33952,
+            "stars": 33980,
             "flags": [],
             "last_commit": "03/20/2025",
             "language": "TypeScript",
@@ -464,31 +464,31 @@
         },
         {
             "name": "Text generation webUI",
-            "description": "A Gradio web UI for Large Language Models.",
+            "description": "A Gradio web UI for Large Language Models with support for multiple inference backends.",
             "link": "https://github.com/oobabooga/text-generation-webui",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": 43087,
+            "stars": 43098,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
         {
             "name": "Cherry Studio",
-            "description": "\ud83c\udf52 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+            "description": "\ud83c\udf52 Cherry Studio is a desktop client that supports for multiple LLM providers.",
             "link": "https://github.com/CherryHQ/cherry-studio",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "llm-gui",
-            "stars": 22241,
+            "stars": 22414,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "NOASSERTION"
         },
@@ -501,7 +501,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": 13181,
+            "stars": 13223,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "JavaScript",
@@ -509,7 +509,7 @@
         },
         {
             "name": "NextChat",
-            "description": "\u2728 Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android - Linux - Windows",
+            "description": "\u2728 Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
             "link": "https://github.com/ChatGPTNextWeb/NextChat",
             "tags": [],
             "platforms": [
@@ -518,9 +518,9 @@
                 "Web"
             ],
             "category": "llm-gui",
-            "stars": 82516,
+            "stars": 82547,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -533,7 +533,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": 24147,
+            "stars": 24191,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -548,7 +548,7 @@
                 "SelfHost"
             ],
             "category": "llm-gui",
-            "stars": 11752,
+            "stars": 11754,
             "flags": [],
             "last_commit": "03/26/2025",
             "language": "Python",
@@ -556,7 +556,7 @@
         },
         {
             "name": "Ollama",
-            "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+            "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
             "link": "https://github.com/ollama/ollama",
             "tags": [
                 "influential"
@@ -567,9 +567,9 @@
                 "SelfHost"
             ],
             "category": "manager",
-            "stars": 136227,
+            "stars": 136382,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -582,7 +582,7 @@
                 "Cross"
             ],
             "category": "manager",
-            "stars": 5757,
+            "stars": 5768,
             "flags": [],
             "last_commit": "03/24/2025",
             "language": "C#",
@@ -598,9 +598,9 @@
                 "CLI+"
             ],
             "category": "model-tools",
-            "stars": 46168,
+            "stars": 46268,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
@@ -614,15 +614,15 @@
                 "CLI"
             ],
             "category": "model-tools",
-            "stars": 29249,
+            "stars": 29253,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
         {
             "name": "Agno",
-            "description": "Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.",
+            "description": "A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.",
             "link": "https://github.com/agno-agi/agno",
             "tags": [],
             "platforms": [
@@ -630,9 +630,9 @@
                 "CLI"
             ],
             "category": "model-tools",
-            "stars": 24048,
+            "stars": 24176,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "MPL-2.0"
         },
@@ -645,7 +645,7 @@
                 "Cross"
             ],
             "category": "model-tools",
-            "stars": 3326,
+            "stars": 3339,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -653,16 +653,16 @@
         },
         {
             "name": "AnythingLLM",
-            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
             "link": "https://github.com/Mintplex-Labs/anything-llm",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "rag",
-            "stars": 42353,
+            "stars": 42412,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "JavaScript",
             "license": "MIT"
         },
@@ -675,7 +675,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": 21906,
+            "stars": 21916,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "Python",
@@ -690,7 +690,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": 7006,
+            "stars": 7010,
             "flags": [],
             "last_commit": "03/24/2025",
             "language": "Python",
@@ -705,9 +705,9 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": 48028,
+            "stars": 48180,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -721,7 +721,7 @@
                 "CLI"
             ],
             "category": "rag",
-            "stars": 7142,
+            "stars": 7149,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "Python",
@@ -729,7 +729,7 @@
         },
         {
             "name": "R2R",
-            "description": "The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+            "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
             "link": "https://github.com/SciPhi-AI/R2R",
             "tags": [],
             "platforms": [
@@ -737,9 +737,9 @@
                 "CLI"
             ],
             "category": "rag",
-            "stars": 6228,
+            "stars": 6255,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "MIT"
         },
@@ -752,7 +752,7 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": 2494,
+            "stars": 2496,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "TypeScript",
@@ -768,9 +768,9 @@
                 "SelfHost"
             ],
             "category": "rag",
-            "stars": 15509,
+            "stars": 15514,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -784,9 +784,9 @@
                 "CLI"
             ],
             "category": "research",
-            "stars": 5262,
+            "stars": 5293,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
@@ -801,24 +801,24 @@
                 "SelfHost"
             ],
             "category": "research",
-            "stars": 20748,
+            "stars": 20763,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
         {
             "name": "Signal",
-            "description": "A private messenger.",
+            "description": "A private messenger for Android.",
             "link": "https://github.com/signalapp/Signal-Android",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "chat",
-            "stars": 26714,
+            "stars": 26720,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Kotlin",
             "license": "AGPL-3.0"
         },
@@ -831,7 +831,7 @@
                 "Cross"
             ],
             "category": "chat",
-            "stars": 27308,
+            "stars": 27310,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "C++",
@@ -848,24 +848,24 @@
                 "CLI+"
             ],
             "category": "chat",
-            "stars": 8234,
+            "stars": 8240,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Kotlin",
             "license": "AGPL-3.0"
         },
         {
             "name": "Mattermost",
-            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
             "link": "https://github.com/mattermost/mattermost",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "collaboration",
-            "stars": 32209,
+            "stars": 32216,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -879,9 +879,9 @@
                 "Web"
             ],
             "category": "collaboration",
-            "stars": 22604,
+            "stars": 22612,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
@@ -895,7 +895,7 @@
                 "Web"
             ],
             "category": "collaboration",
-            "stars": 42400,
+            "stars": 42406,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -903,14 +903,14 @@
         },
         {
             "name": "Mailspring",
-            "description": "\ud83d\udc8c A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+            "description": ":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
             "link": "https://github.com/Foundry376/Mailspring",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "mail",
-            "stars": 16195,
+            "stars": 16197,
             "flags": [],
             "last_commit": "02/03/2025",
             "language": "JavaScript",
@@ -925,13 +925,13 @@
                 "Cross"
             ],
             "category": "mail",
-            "stars": 0,
+            "stars": 11709,
             "flags": [
                 "custom-description"
             ],
-            "last_commit": "",
-            "language": "",
-            "license": ""
+            "last_commit": "04/07/2025",
+            "language": "Kotlin",
+            "license": "Apache-2.0"
         },
         {
             "name": "Jitsi Meet",
@@ -943,15 +943,15 @@
                 "Web"
             ],
             "category": "video-conference",
-            "stars": 25144,
+            "stars": 25158,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
         {
             "name": "Element",
-            "description": "Founded by the creators of Matrix, we build digitally sovereign, secure and interoperable real-time communication solutions for large organisations.",
+            "description": "A glossy Matrix collaboration client for the web.",
             "link": "https://github.com/element-hq/element-web",
             "tags": [],
             "platforms": [
@@ -959,9 +959,9 @@
                 "Web"
             ],
             "category": "video-conference",
-            "stars": 11636,
+            "stars": 11638,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -975,7 +975,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": 9174,
+            "stars": 9194,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Go",
@@ -983,7 +983,7 @@
         },
         {
             "name": "Restic",
-            "description": "Fast, secure, efficient backup program ",
+            "description": "Fast, secure, efficient backup program",
             "link": "https://github.com/restic/restic",
             "tags": [],
             "platforms": [
@@ -991,7 +991,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": 28149,
+            "stars": 28161,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Go",
@@ -1006,7 +1006,7 @@
                 "Cross"
             ],
             "category": "backup",
-            "stars": 12019,
+            "stars": 12067,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C#",
@@ -1022,7 +1022,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": 11683,
+            "stars": 11690,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -1038,9 +1038,9 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": 49686,
+            "stars": 49710,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -1053,7 +1053,7 @@
                 "Linux"
             ],
             "category": "backup",
-            "stars": 2984,
+            "stars": 2986,
             "flags": [],
             "last_commit": "02/07/2025",
             "language": "Vala",
@@ -1069,7 +1069,7 @@
                 "SelfHost"
             ],
             "category": "backup",
-            "stars": 2581,
+            "stars": 2590,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Go",
@@ -1077,7 +1077,7 @@
         },
         {
             "name": "Duplicacy",
-            "description": "A new generation cloud backup tool",
+            "description": "A new generation cloud backup tool ",
             "link": "https://github.com/gilbertchen/duplicacy",
             "tags": [],
             "platforms": [
@@ -1085,7 +1085,7 @@
                 "CLI"
             ],
             "category": "backup",
-            "stars": 5384,
+            "stars": 5386,
             "flags": [],
             "last_commit": "12/19/2024",
             "language": "Go",
@@ -1101,9 +1101,9 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": 29158,
+            "stars": 29163,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
@@ -1118,7 +1118,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": 12930,
+            "stars": 12937,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "C",
@@ -1126,7 +1126,7 @@
         },
         {
             "name": "ownCloud",
-            "description": "\u2601\ufe0f ownCloud web server core (Files, DAV, etc.)",
+            "description": ":cloud: ownCloud web server core (Files, DAV, etc.)",
             "link": "https://github.com/owncloud/core",
             "tags": [],
             "platforms": [
@@ -1141,16 +1141,16 @@
         },
         {
             "name": "Ceph",
-            "description": "Ceph is a distributed object, block, and file storage platform",
+            "description": "Ceph is a distributed object, block, and file storage platform ",
             "link": "https://github.com/ceph/ceph",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": 14837,
+            "stars": 14843,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -1163,7 +1163,7 @@
                 "SelfHost"
             ],
             "category": "storage",
-            "stars": 3695,
+            "stars": 3696,
             "flags": [],
             "last_commit": "03/09/2025",
             "language": "TypeScript",
@@ -1179,9 +1179,9 @@
                 "CLI+"
             ],
             "category": "sync",
-            "stars": 69192,
+            "stars": 69214,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MPL-2.0"
         },
@@ -1195,7 +1195,7 @@
                 "CLI+"
             ],
             "category": "sync",
-            "stars": 2946,
+            "stars": 2948,
             "flags": [],
             "last_commit": "03/02/2025",
             "language": "Objective-C",
@@ -1211,7 +1211,7 @@
                 "CLI"
             ],
             "category": "sync",
-            "stars": 3372,
+            "stars": 3384,
             "flags": [],
             "last_commit": "02/11/2025",
             "language": "C",
@@ -1228,15 +1228,15 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": 30685,
+            "stars": 30700,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "NOASSERTION"
         },
         {
             "name": "Continue",
-            "description": "\u23e9 Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains ",
+            "description": "\u23e9 Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
             "link": "https://github.com/continuedev/continue",
             "tags": [],
             "platforms": [
@@ -1244,24 +1244,24 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": 25270,
+            "stars": 25320,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
         {
             "name": "Cline",
-            "description": " Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
             "link": "https://github.com/cline/cline",
             "tags": [],
             "platforms": [
                 "VSCode"
             ],
             "category": "code-assistant",
-            "stars": 38863,
+            "stars": 39023,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -1275,9 +1275,9 @@
                 "CLI+"
             ],
             "category": "code-assistant",
-            "stars": 11318,
+            "stars": 11346,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -1291,7 +1291,7 @@
                 "Web"
             ],
             "category": "code-assistant",
-            "stars": 54243,
+            "stars": 54294,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "Python",
@@ -1306,9 +1306,9 @@
                 "VSCode"
             ],
             "category": "code-assistant",
-            "stars": 10375,
+            "stars": 10471,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -1322,9 +1322,9 @@
                 "JetBrains"
             ],
             "category": "code-assistant",
-            "stars": 3507,
+            "stars": 3514,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -1338,7 +1338,7 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": 11426,
+            "stars": 11433,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Go",
@@ -1354,7 +1354,7 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": 32562,
+            "stars": 32560,
             "flags": [],
             "last_commit": "03/04/2025",
             "language": "Python",
@@ -1370,9 +1370,9 @@
                 "CLI"
             ],
             "category": "code-assistant",
-            "stars": 30671,
+            "stars": 30748,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
@@ -1386,9 +1386,9 @@
                 "SelfHost"
             ],
             "category": "code-assistant",
-            "stars": 52473,
+            "stars": 52532,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "MIT"
         },
@@ -1404,9 +1404,9 @@
                 "Linux"
             ],
             "category": "code-editor",
-            "stars": 56657,
+            "stars": 56710,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "NOASSERTION"
         },
@@ -1420,9 +1420,9 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 36792,
+            "stars": 36815,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "MPL-2.0"
         },
@@ -1435,9 +1435,9 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": 35094,
+            "stars": 35098,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -1453,9 +1453,9 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 37883,
+            "stars": 37886,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Vim Script",
             "license": "Vim"
         },
@@ -1469,15 +1469,15 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 88429,
+            "stars": 88447,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Vim Script",
             "license": "NOASSERTION"
         },
         {
             "name": "SpaceVim",
-            "description": "A modular Vim/Neovim configuration",
+            "description": "A modular configuration of Vim and Neovim",
             "link": "https://github.com/SpaceVim/SpaceVim",
             "tags": [],
             "platforms": [
@@ -1485,7 +1485,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 20374,
+            "stars": 20375,
             "flags": [],
             "last_commit": "02/17/2025",
             "language": "Vim Script",
@@ -1493,7 +1493,7 @@
         },
         {
             "name": "NvChad",
-            "description": "Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+            "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
             "link": "https://github.com/NvChad/NvChad",
             "tags": [],
             "platforms": [
@@ -1501,7 +1501,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 25885,
+            "stars": 25895,
             "flags": [],
             "last_commit": "01/13/2025",
             "language": "Lua",
@@ -1509,7 +1509,7 @@
         },
         {
             "name": "LazyVim",
-            "description": "Neovim config for the lazy ",
+            "description": "Neovim config for the lazy",
             "link": "https://github.com/LazyVim/LazyVim",
             "tags": [],
             "platforms": [
@@ -1517,7 +1517,7 @@
                 "CLI"
             ],
             "category": "code-editor",
-            "stars": 19981,
+            "stars": 19990,
             "flags": [],
             "last_commit": "03/01/2025",
             "language": "Lua",
@@ -1532,9 +1532,9 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": 169627,
+            "stars": 169650,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -1547,24 +1547,24 @@
                 "Cross"
             ],
             "category": "code-editor",
-            "stars": 26875,
+            "stars": 26880,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Shell",
             "license": "MIT"
         },
         {
             "name": "CodeEdit",
-            "description": "CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
+            "description": "\ud83d\udcdd CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
             "link": "https://github.com/CodeEditApp/CodeEdit",
             "tags": [],
             "platforms": [
                 "MacOS"
             ],
             "category": "code-editor",
-            "stars": 21574,
+            "stars": 21577,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Swift",
             "license": "MIT"
         },
@@ -1577,15 +1577,15 @@
                 "SelfHost"
             ],
             "category": "code-editor",
-            "stars": 70658,
+            "stars": 70682,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
         {
             "name": "Void",
-            "description": "Void is the open-source Cursor alternative.",
+            "description": null,
             "link": "https://github.com/voideditor/void",
             "tags": [],
             "platforms": [
@@ -1593,7 +1593,7 @@
                 "MacOS"
             ],
             "category": "code-editor",
-            "stars": 11418,
+            "stars": 11442,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -1608,7 +1608,7 @@
                 "Cross"
             ],
             "category": "dev-tools",
-            "stars": 28431,
+            "stars": 28455,
             "flags": [],
             "last_commit": "03/26/2025",
             "language": "C#",
@@ -1625,7 +1625,7 @@
             "category": "dev-tools",
             "stars": 6039,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Vue",
             "license": "AGPL-3.0"
         },
@@ -1639,9 +1639,9 @@
                 "CLI"
             ],
             "category": "dev-tools",
-            "stars": 5865,
+            "stars": 5871,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -1655,9 +1655,9 @@
                 "CLI"
             ],
             "category": "dev-tools",
-            "stars": 52070,
+            "stars": 52077,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -1670,9 +1670,9 @@
                 "Cross"
             ],
             "category": "game-engine",
-            "stars": 95872,
+            "stars": 95894,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "MIT"
         },
@@ -1685,9 +1685,9 @@
                 "Cross"
             ],
             "category": "game-engine",
-            "stars": 13570,
+            "stars": 13580,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "NOASSERTION"
         },
@@ -1700,7 +1700,7 @@
                 "Cross"
             ],
             "category": "git-gui",
-            "stars": 20380,
+            "stars": 20386,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "TypeScript",
@@ -1715,7 +1715,7 @@
                 "Cross"
             ],
             "category": "ide",
-            "stars": 17810,
+            "stars": 17813,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "Java",
@@ -1723,7 +1723,7 @@
         },
         {
             "name": "Yarn",
-            "description": "Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions",
+            "description": "\ud83d\udce6\ud83d\udc08 Active development trunk for Yarn \u2692",
             "link": "https://github.com/yarnpkg/berry",
             "tags": [],
             "platforms": [
@@ -1731,9 +1731,9 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": 7664,
+            "stars": 7666,
             "flags": [],
-            "last_commit": "03/31/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "BSD-2-Clause"
         },
@@ -1747,15 +1747,15 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": 31247,
+            "stars": 31261,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
         {
             "name": "Bun",
-            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one ",
+            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
             "link": "https://github.com/oven-sh/bun",
             "tags": [],
             "platforms": [
@@ -1763,9 +1763,9 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": 77302,
+            "stars": 77320,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Zig",
             "license": "NOASSERTION"
         },
@@ -1779,9 +1779,9 @@
                 "CLI"
             ],
             "category": "language-package-manager",
-            "stars": 48195,
+            "stars": 48360,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -1794,9 +1794,9 @@
                 "Cross"
             ],
             "category": "game-launcher",
-            "stars": 8987,
+            "stars": 8990,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "GPL-3.0"
         },
@@ -1824,15 +1824,15 @@
                 "SelfHost"
             ],
             "category": "game-launcher",
-            "stars": 3490,
+            "stars": 3497,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
         {
             "name": "Pelican Panel",
-            "description": "Pelican Panel is an open-source, web-based application designed for easy management of game servers.",
+            "description": null,
             "link": "https://github.com/pelican-dev/panel",
             "tags": [],
             "platforms": [
@@ -1841,7 +1841,7 @@
             "category": "game-launcher",
             "stars": 1221,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
@@ -1854,9 +1854,9 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": 6438,
+            "stars": 6439,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -1885,9 +1885,9 @@
                 "Android"
             ],
             "category": "games",
-            "stars": 9062,
+            "stars": 9065,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Kotlin",
             "license": "MPL-2.0"
         },
@@ -1900,15 +1900,15 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": 5864,
+            "stars": 5867,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-2.0"
         },
         {
             "name": "Veloren",
-            "description": "An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",
+            "description": "[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",
             "link": "https://github.com/veloren/veloren",
             "tags": [],
             "platforms": [
@@ -1917,7 +1917,7 @@
             "category": "games",
             "stars": 6213,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "GPL-3.0"
         },
@@ -1930,9 +1930,9 @@
                 "Web"
             ],
             "category": "games",
-            "stars": 16449,
+            "stars": 16450,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Scala",
             "license": "AGPL-3.0"
         },
@@ -1945,7 +1945,7 @@
                 "Cross"
             ],
             "category": "games",
-            "stars": 15438,
+            "stars": 15442,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C#",
@@ -1961,9 +1961,9 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": 52497,
+            "stars": 52541,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "GPL-3.0"
         },
@@ -1977,9 +1977,9 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": 20500,
+            "stars": 20508,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -1993,7 +1993,7 @@
                 "Firefox"
             ],
             "category": "browser-extensions",
-            "stars": 6143,
+            "stars": 6150,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "TypeScript",
@@ -2008,7 +2008,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 6150,
+            "stars": 6153,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "Lua",
@@ -2023,7 +2023,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 3664,
+            "stars": 3666,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "Python",
@@ -2038,7 +2038,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 6789,
+            "stars": 6790,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "Lua",
@@ -2053,7 +2053,7 @@
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 8997,
+            "stars": 9001,
             "flags": [],
             "last_commit": "12/01/2024",
             "language": "Vim Script",
@@ -2061,14 +2061,14 @@
         },
         {
             "name": "Neovide",
-            "description": "No Nonsense Neovim Client in Rust ",
+            "description": "No Nonsense Neovim Client in Rust",
             "link": "https://github.com/neovide/neovide",
             "tags": [],
             "platforms": [
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 13847,
+            "stars": 13852,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Rust",
@@ -2076,14 +2076,14 @@
         },
         {
             "name": "lazy.nvim",
-            "description": "\ud83d\udca4 A modern plugin manager for Neovim ",
+            "description": "\ud83d\udca4 A modern plugin manager for Neovim",
             "link": "https://github.com/folke/lazy.nvim",
             "tags": [],
             "platforms": [
                 "`N/A`"
             ],
             "category": "neovim-extensions",
-            "stars": 16924,
+            "stars": 16934,
             "flags": [],
             "last_commit": "02/25/2025",
             "language": "Lua",
@@ -2091,16 +2091,16 @@
         },
         {
             "name": "Zen",
-            "description": "\ud83c\udf00 Experience tranquillity while browsing the web without people tracking you!",
+            "description": "A calmer internet, without any gimmicks.",
             "link": "https://github.com/zen-browser/desktop",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "browser",
-            "stars": 28304,
+            "stars": 28375,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "MPL-2.0"
         },
@@ -2113,9 +2113,9 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": 19019,
+            "stars": 19023,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "JavaScript",
             "license": "MPL-2.0"
         },
@@ -2128,7 +2128,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": 7152,
+            "stars": 7158,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C++",
@@ -2143,7 +2143,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": 8290,
+            "stars": 8292,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "JavaScript",
@@ -2158,7 +2158,7 @@
                 "Cross"
             ],
             "category": "browser",
-            "stars": 7349,
+            "stars": 7359,
             "flags": [],
             "last_commit": "03/16/2025",
             "language": "JavaScript",
@@ -2173,22 +2173,22 @@
                 "SelfHost"
             ],
             "category": "browser",
-            "stars": 9966,
+            "stars": 9984,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "Apache-2.0"
         },
         {
             "name": "GoPeed",
-            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
             "link": "https://github.com/GopeedLab/gopeed",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": 18696,
+            "stars": 18709,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Dart",
@@ -2203,7 +2203,7 @@
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": 6917,
+            "stars": 6934,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Kotlin",
@@ -2218,7 +2218,7 @@
                 "Cross"
             ],
             "category": "download-manager",
-            "stars": 6465,
+            "stars": 6464,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Python",
@@ -2226,14 +2226,14 @@
         },
         {
             "name": "File Centipede",
-            "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.",
+            "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",
             "link": "https://github.com/filecxx/FileCentipede",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "download-manager",
-            "stars": 10295,
+            "stars": 10300,
             "flags": [],
             "last_commit": "03/24/2025",
             "language": "C++",
@@ -2248,9 +2248,9 @@
                 "SelfHost"
             ],
             "category": "search-engine",
-            "stars": 21171,
+            "stars": 21194,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -2264,7 +2264,7 @@
                 "Web"
             ],
             "category": "search-engine",
-            "stars": 7575,
+            "stars": 7579,
             "flags": [],
             "last_commit": "03/27/2025",
             "language": "TypeScript",
@@ -2272,16 +2272,16 @@
         },
         {
             "name": "Audacity",
-            "description": "Audio Editor",
+            "description": "Audio Editor                                     ",
             "link": "https://github.com/audacity/audacity",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "audio-editor",
-            "stars": 13359,
+            "stars": 13367,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -2294,7 +2294,7 @@
                 "Cross"
             ],
             "category": "audio-editor",
-            "stars": 2513,
+            "stars": 2520,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "C#",
@@ -2309,9 +2309,9 @@
                 "Cross"
             ],
             "category": "audio-player",
-            "stars": 39461,
+            "stars": 39493,
             "flags": [],
-            "last_commit": "03/28/2025",
+            "last_commit": "04/07/2025",
             "language": "Dart",
             "license": "NOASSERTION"
         },
@@ -2325,7 +2325,7 @@
                 "SelfHost"
             ],
             "category": "audio-player",
-            "stars": 3609,
+            "stars": 3614,
             "flags": [],
             "last_commit": "03/10/2025",
             "language": "TypeScript",
@@ -2333,16 +2333,16 @@
         },
         {
             "name": "Supersonic",
-            "description": "A lightweight cross-platform desktop client for self-hosted music servers.",
+            "description": "A lightweight and full-featured cross-platform desktop client for self-hosted music servers",
             "link": "https://github.com/dweymouth/supersonic",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "audio-player",
-            "stars": 1259,
+            "stars": 1262,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "GPL-3.0"
         },
@@ -2356,22 +2356,22 @@
                 "SelfHost"
             ],
             "category": "audio-player",
-            "stars": 13866,
+            "stars": 13882,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "GPL-3.0"
         },
         {
             "name": "Graphite",
-            "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. ",
+            "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
             "link": "https://github.com/GraphiteEditor/Graphite",
             "tags": [],
             "platforms": [
                 "Web"
             ],
             "category": "graphics",
-            "stars": 11403,
+            "stars": 11414,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "Rust",
@@ -2386,9 +2386,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 23815,
+            "stars": 23826,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -2401,9 +2401,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 14747,
+            "stars": 14754,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -2416,9 +2416,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 2001,
+            "stars": 2003,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": ""
         },
@@ -2431,9 +2431,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 10605,
+            "stars": 10616,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "C",
             "license": "GPL-3.0"
         },
@@ -2446,9 +2446,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 3198,
+            "stars": 3200,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -2461,24 +2461,24 @@
                 "Web"
             ],
             "category": "graphics",
-            "stars": 37286,
+            "stars": 37303,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Clojure",
             "license": "MPL-2.0"
         },
         {
             "name": "OpenSCAD",
-            "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
+            "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
             "link": "https://github.com/openscad/openscad",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 7660,
+            "stars": 7672,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -2491,9 +2491,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 3583,
+            "stars": 3587,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "NOASSERTION"
         },
@@ -2506,9 +2506,9 @@
                 "Cross"
             ],
             "category": "graphics",
-            "stars": 8011,
+            "stars": 8013,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -2521,7 +2521,7 @@
                 "Cross"
             ],
             "category": "image-processing",
-            "stars": 36183,
+            "stars": 36203,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "TypeScript",
@@ -2536,7 +2536,7 @@
                 "Cross"
             ],
             "category": "image-processing",
-            "stars": 4990,
+            "stars": 4993,
             "flags": [],
             "last_commit": "03/12/2025",
             "language": "Python",
@@ -2552,7 +2552,7 @@
                 "CLI"
             ],
             "category": "media-downloader",
-            "stars": 106780,
+            "stars": 106889,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -2567,7 +2567,7 @@
                 "Cross"
             ],
             "category": "media-downloader",
-            "stars": 10997,
+            "stars": 11014,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "C#",
@@ -2575,14 +2575,14 @@
         },
         {
             "name": "Cobalt",
-            "description": "best way to save what you love ",
+            "description": "best way to save what you love",
             "link": "https://github.com/imputnet/cobalt",
             "tags": [],
             "platforms": [
                 "Web"
             ],
             "category": "media-downloader",
-            "stars": 30376,
+            "stars": 30400,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Svelte",
@@ -2597,9 +2597,9 @@
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": 63331,
+            "stars": 63354,
             "flags": [],
-            "last_commit": "04/03/2025",
+            "last_commit": "04/08/2025",
             "language": "C",
             "license": "GPL-2.0"
         },
@@ -2612,7 +2612,7 @@
                 "Windows"
             ],
             "category": "screen-recording",
-            "stars": 31802,
+            "stars": 31822,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "C#",
@@ -2627,24 +2627,24 @@
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": 7229,
+            "stars": 7273,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
         {
             "name": "Flameshot",
-            "description": "Powerful yet simple to use screenshot software \ud83d\udda5\ufe0f \ud83d\udcf8",
+            "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
             "link": "https://github.com/flameshot-org/flameshot",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "screen-recording",
-            "stars": 25904,
+            "stars": 25912,
             "flags": [],
-            "last_commit": "03/17/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -2657,9 +2657,9 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": 3631,
+            "stars": 3632,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -2672,22 +2672,22 @@
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": 11736,
+            "stars": 11739,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
         {
             "name": "Olive",
-            "description": "Free open-source non-linear video editor ",
+            "description": "Free open-source non-linear video editor",
             "link": "https://github.com/olive-editor/olive",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": 8475,
+            "stars": 8477,
             "flags": [],
             "last_commit": "12/05/2024",
             "language": "C++",
@@ -2695,14 +2695,14 @@
         },
         {
             "name": "LossletCut",
-            "description": "The swiss army knife of lossless video/audio editing ",
+            "description": "The swiss army knife of lossless video/audio editing",
             "link": "https://github.com/mifi/lossless-cut",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": 30520,
+            "stars": 30531,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "TypeScript",
@@ -2710,31 +2710,31 @@
         },
         {
             "name": "Natron",
-            "description": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. ",
+            "description": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
             "link": "https://github.com/NatronGitHub/Natron",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-editing",
-            "stars": 4879,
+            "stars": 4880,
             "flags": [],
-            "last_commit": "03/23/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-2.0"
         },
         {
             "name": "mpv",
-            "description": "\ud83c\udfa5 Command line video player",
+            "description": "\ud83c\udfa5 Command line media player",
             "link": "https://github.com/mpv-player/mpv",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-player",
-            "stars": 30239,
+            "stars": 30241,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "C",
             "license": "NOASSERTION"
         },
@@ -2747,7 +2747,7 @@
                 "MacOS"
             ],
             "category": "video-player",
-            "stars": 39922,
+            "stars": 39933,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Swift",
@@ -2755,29 +2755,29 @@
         },
         {
             "name": "VLC",
-            "description": "VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere.",
+            "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc",
             "link": "https://github.com/videolan/vlc",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-player",
-            "stars": 15231,
+            "stars": 15235,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C",
             "license": "GPL-2.0"
         },
         {
             "name": "HandBrake",
-            "description": "HandBrake's main development repository",
+            "description": "HandBrake's main development repository ",
             "link": "https://github.com/HandBrake/HandBrake",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "video-transcoder",
-            "stars": 19174,
+            "stars": 19179,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C",
@@ -2792,9 +2792,9 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 4989,
+            "stars": 4999,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -2808,7 +2808,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 1748,
+            "stars": 1751,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Go",
@@ -2825,7 +2825,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 4372,
+            "stars": 4375,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -2841,9 +2841,9 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 11603,
+            "stars": 11606,
             "flags": [],
-            "last_commit": "04/01/2025",
+            "last_commit": "04/08/2025",
             "language": "C#",
             "license": "GPL-3.0"
         },
@@ -2857,7 +2857,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 4632,
+            "stars": 4637,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C#",
@@ -2873,9 +2873,9 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 11289,
+            "stars": 11293,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C#",
             "license": "GPL-3.0"
         },
@@ -2889,7 +2889,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 3132,
+            "stars": 3133,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "C#",
@@ -2905,7 +2905,7 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 4003,
+            "stars": 4006,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "C#",
@@ -2921,9 +2921,9 @@
                 "SelfHost"
             ],
             "category": "arr",
-            "stars": 3131,
+            "stars": 3133,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "GPL-3.0"
         },
@@ -2936,9 +2936,9 @@
                 "Linux"
             ],
             "category": "dashboard",
-            "stars": 11875,
+            "stars": 11880,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "LGPL-2.1"
         },
@@ -2951,7 +2951,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 21814,
+            "stars": 21914,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "Go",
@@ -2966,7 +2966,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 20311,
+            "stars": 20325,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Vue",
@@ -2981,9 +2981,9 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 22698,
+            "stars": 22707,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "JavaScript",
             "license": "GPL-3.0"
         },
@@ -2996,7 +2996,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 2877,
+            "stars": 2878,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "TypeScript",
@@ -3011,7 +3011,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 8296,
+            "stars": 8295,
             "flags": [],
             "last_commit": "11/05/2024",
             "language": "PHP",
@@ -3026,7 +3026,7 @@
                 "SelfHost"
             ],
             "category": "dashboard",
-            "stars": 9980,
+            "stars": 9989,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Vue",
@@ -3034,7 +3034,7 @@
         },
         {
             "name": "Home Assistant",
-            "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+            "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
             "link": "https://github.com/home-assistant/core",
             "tags": [],
             "platforms": [
@@ -3042,9 +3042,9 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": 77901,
+            "stars": 77932,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "Apache-2.0"
         },
@@ -3059,7 +3059,7 @@
             "category": "home-automation",
             "stars": 3581,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
@@ -3072,9 +3072,9 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": 2789,
+            "stars": 2788,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "Apache-2.0"
         },
@@ -3087,7 +3087,7 @@
                 "SelfHost"
             ],
             "category": "home-automation",
-            "stars": 9147,
+            "stars": 9153,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "C++",
@@ -3102,7 +3102,7 @@
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": 8356,
+            "stars": 8357,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -3117,7 +3117,7 @@
                 "Linux"
             ],
             "category": "home-server",
-            "stars": 13866,
+            "stars": 13869,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "TypeScript",
@@ -3132,7 +3132,7 @@
                 "Linux"
             ],
             "category": "home-server",
-            "stars": 29265,
+            "stars": 29277,
             "flags": [],
             "last_commit": "03/08/2025",
             "language": "Go",
@@ -3140,14 +3140,14 @@
         },
         {
             "name": "Cosmos",
-            "description": "\u2601\ufe0f The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)",
+            "description": "\u2601\ufe0f The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)",
             "link": "https://github.com/azukaar/Cosmos-Server",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": 4397,
+            "stars": 4395,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "JavaScript",
@@ -3155,14 +3155,14 @@
         },
         {
             "name": "Sandstorm",
-            "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. ",
+            "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
             "link": "https://github.com/sandstorm-io/sandstorm",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "home-server",
-            "stars": 6833,
+            "stars": 6835,
             "flags": [],
             "last_commit": "12/17/2024",
             "language": "JavaScript",
@@ -3177,9 +3177,9 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 63016,
+            "stars": 63111,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -3192,37 +3192,37 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 36896,
+            "stars": 36913,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "NOASSERTION"
         },
         {
             "name": "Jellyfin",
-            "description": "The Free Software Media System",
+            "description": "The Free Software Media System - Server Backend & API",
             "link": "https://github.com/jellyfin/jellyfin",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 38490,
+            "stars": 38531,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C#",
             "license": "GPL-2.0"
         },
         {
             "name": "Ente",
-            "description": "FOSS, End-to-End Encrypted Cloud",
+            "description": "End-to-end encrypted platform for photos, videos and 2FA secrets.",
             "link": "https://github.com/ente-io/ente",
             "tags": [],
             "platforms": [
                 "Web"
             ],
             "category": "media-management",
-            "stars": 18695,
+            "stars": 18706,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "Dart",
@@ -3238,9 +3238,9 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 19158,
+            "stars": 19157,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "NOASSERTION"
         },
@@ -3255,9 +3255,9 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 8277,
+            "stars": 8287,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "GPL-3.0"
         },
@@ -3270,7 +3270,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 3444,
+            "stars": 3447,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Vue",
@@ -3285,7 +3285,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 4427,
+            "stars": 4430,
             "flags": [],
             "last_commit": "07/29/2024",
             "language": "C++",
@@ -3300,7 +3300,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 7240,
+            "stars": 7239,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -3315,7 +3315,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 7426,
+            "stars": 7430,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C#",
@@ -3330,7 +3330,7 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 3420,
+            "stars": 3421,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "PHP",
@@ -3338,14 +3338,14 @@
         },
         {
             "name": "Calibre-Web",
-            "description": "\ud83d\udcda Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+            "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
             "link": "https://github.com/janeczku/calibre-web",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 14294,
+            "stars": 14313,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "Fluent",
@@ -3360,9 +3360,9 @@
                 "SelfHost"
             ],
             "category": "media-management",
-            "stars": 3620,
+            "stars": 3622,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "MIT"
         },
@@ -3375,9 +3375,9 @@
                 "SelfHost"
             ],
             "category": "surveillance",
-            "stars": 4699,
+            "stars": 4702,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -3390,15 +3390,15 @@
                 "SelfHost"
             ],
             "category": "surveillance",
-            "stars": 21895,
+            "stars": 21910,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
         {
             "name": "ZoneMinder",
-            "description": "ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.",
+            "description": "ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras. ",
             "link": "https://github.com/ZoneMinder/zoneminder",
             "tags": [],
             "platforms": [
@@ -3420,22 +3420,22 @@
                 "Windows"
             ],
             "category": "windows",
-            "stars": 15412,
+            "stars": 15416,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "C#",
             "license": "MIT"
         },
         {
             "name": "TheBoringNotch",
-            "description": "TheBoringNotch: Not so boring notch That Rocks \ud83c\udfb8\ud83c\udfb6 ",
+            "description": "TheBoringNotch: Not so boring notch That Rocks \ud83c\udfb8\ud83c\udfb6",
             "link": "https://github.com/TheBoredTeam/boring.notch",
             "tags": [],
             "platforms": [
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 2959,
+            "stars": 2970,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Swift",
@@ -3452,7 +3452,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 17858,
+            "stars": 17901,
             "flags": [],
             "last_commit": "01/26/2025",
             "language": "Swift",
@@ -3467,9 +3467,9 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 2980,
+            "stars": 2984,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Swift",
             "license": ""
         },
@@ -3482,7 +3482,7 @@
                 "Cross"
             ],
             "category": "macos",
-            "stars": 4814,
+            "stars": 4824,
             "flags": [],
             "last_commit": "03/07/2025",
             "language": "Swift",
@@ -3497,7 +3497,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 5799,
+            "stars": 5802,
             "flags": [],
             "last_commit": "02/11/2025",
             "language": "Objective-C",
@@ -3505,14 +3505,14 @@
         },
         {
             "name": "AltTab",
-            "description": "Windows alt-tab on macOS",
+            "description": "Windows alt-tab on macOS ",
             "link": "https://github.com/lwouis/alt-tab-macos",
             "tags": [],
             "platforms": [
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 12084,
+            "stars": 12090,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "Swift",
@@ -3527,7 +3527,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 8348,
+            "stars": 8358,
             "flags": [],
             "last_commit": "02/25/2025",
             "language": "C",
@@ -3542,7 +3542,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 3168,
+            "stars": 3169,
             "flags": [],
             "last_commit": "03/11/2025",
             "language": "Swift",
@@ -3557,7 +3557,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 4970,
+            "stars": 4971,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Swift",
@@ -3572,7 +3572,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 4387,
+            "stars": 4393,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "Swift",
@@ -3587,7 +3587,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 4545,
+            "stars": 4548,
             "flags": [],
             "last_commit": "02/13/2025",
             "language": "Swift",
@@ -3595,7 +3595,7 @@
         },
         {
             "name": "MeetingBar",
-            "description": "\ud83c\uddfa\ud83c\udde6 Your meetings at your fingertips in the macOS menu bar",
+            "description": "\ud83c\uddfa\ud83c\udde6 Your meetings at your fingertips in the macOS menu bar ",
             "link": "https://github.com/leits/MeetingBar",
             "tags": [],
             "platforms": [
@@ -3617,7 +3617,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 3027,
+            "stars": 3032,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "Swift",
@@ -3632,7 +3632,7 @@
                 "Linux"
             ],
             "category": "linux",
-            "stars": 1297,
+            "stars": 1299,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "JavaScript",
@@ -3647,9 +3647,9 @@
                 "Linux"
             ],
             "category": "linux",
-            "stars": 1105,
+            "stars": 1108,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C",
             "license": "GPL-3.0"
         },
@@ -3662,9 +3662,9 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": 30051,
+            "stars": 30062,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "AGPL-3.0"
         },
@@ -3677,7 +3677,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": 8623,
+            "stars": 8632,
             "flags": [],
             "last_commit": "03/05/2025",
             "language": "TypeScript",
@@ -3692,7 +3692,7 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": 5583,
+            "stars": 5588,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "PHP",
@@ -3707,15 +3707,15 @@
                 "`N/A`"
             ],
             "category": "operating-system",
-            "stars": 2402,
+            "stars": 2404,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
         {
             "name": "buku",
-            "description": "\ud83d\udd16 Personal mini-web in text",
+            "description": ":bookmark: Personal mini-web in text",
             "link": "https://github.com/jarun/buku",
             "tags": [],
             "platforms": [
@@ -3723,9 +3723,9 @@
                 "CLI+"
             ],
             "category": "bookmark-manager",
-            "stars": 6673,
+            "stars": 6674,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "GPL-3.0"
         },
@@ -3738,9 +3738,9 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": 10991,
+            "stars": 10998,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -3753,7 +3753,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": 7938,
+            "stars": 7946,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "Python",
@@ -3768,7 +3768,7 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": 14785,
+            "stars": 14824,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -3783,9 +3783,9 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": 10214,
+            "stars": 10213,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -3798,9 +3798,9 @@
                 "SelfHost"
             ],
             "category": "bookmark-manager",
-            "stars": 11114,
+            "stars": 11119,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "MIT"
         },
@@ -3830,24 +3830,24 @@
                 "SelfHost"
             ],
             "category": "document-management",
-            "stars": 26207,
+            "stars": 26227,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "GPL-3.0"
         },
         {
             "name": "TagSpaces",
-            "description": " TagSpaces is an offline, open source, document manager with tagging support",
+            "description": "TagSpaces is an offline, open source, document manager with tagging support",
             "link": "https://github.com/tagspaces/tagspaces",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "document-management",
-            "stars": 4126,
+            "stars": 4130,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -3860,9 +3860,9 @@
                 "SelfHost"
             ],
             "category": "calendar",
-            "stars": 35513,
+            "stars": 35528,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -3877,7 +3877,7 @@
                 "SelfHost"
             ],
             "category": "document-modifier",
-            "stars": 55473,
+            "stars": 55516,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "Java",
@@ -3892,9 +3892,9 @@
                 "SelfHost"
             ],
             "category": "document-modifier",
-            "stars": 8958,
+            "stars": 8962,
             "flags": [],
-            "last_commit": "03/31/2025",
+            "last_commit": "04/07/2025",
             "language": "Ruby",
             "license": "AGPL-3.0"
         },
@@ -3908,7 +3908,7 @@
                 "CLI"
             ],
             "category": "document-modifier",
-            "stars": 26629,
+            "stars": 26695,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -3924,9 +3924,9 @@
                 "Web"
             ],
             "category": "document-modifier",
-            "stars": 10699,
+            "stars": 10707,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -3940,7 +3940,7 @@
                 "Web"
             ],
             "category": "document-modifier",
-            "stars": 4486,
+            "stars": 4490,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "JavaScript",
@@ -3955,9 +3955,9 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": 42649,
+            "stars": 42664,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Ruby",
             "license": "AGPL-3.0"
         },
@@ -3971,9 +3971,9 @@
                 "Cross"
             ],
             "category": "finance",
-            "stars": 18255,
+            "stars": 18270,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -3986,7 +3986,7 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": 5590,
+            "stars": 5595,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "TypeScript",
@@ -4016,24 +4016,24 @@
                 "SelfHost"
             ],
             "category": "finance",
-            "stars": 18622,
+            "stars": 18629,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
         {
             "name": "Logseq",
-            "description": "A privacy-first, open-source platform for knowledge management and collaboration.",
+            "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
             "link": "https://github.com/logseq/logseq",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 35859,
+            "stars": 35871,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Clojure",
             "license": "AGPL-3.0"
         },
@@ -4046,15 +4046,15 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 5238,
+            "stars": 5244,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
         {
             "name": "AppFlowy",
-            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
             "link": "https://github.com/AppFlowy-IO/AppFlowy",
             "tags": [
                 "commercial"
@@ -4063,24 +4063,24 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 61934,
+            "stars": 61961,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Dart",
             "license": "AGPL-3.0"
         },
         {
             "name": "Affine",
-            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
             "link": "https://github.com/toeverything/AFFiNE",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 49426,
+            "stars": 49464,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -4093,9 +4093,9 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 31475,
+            "stars": 31500,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -4108,9 +4108,9 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 33698,
+            "stars": 33725,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -4123,9 +4123,9 @@
                 "Cross"
             ],
             "category": "knowledge-base",
-            "stars": 23360,
+            "stars": 23387,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -4138,7 +4138,7 @@
                 "VSCode"
             ],
             "category": "knowledge-base",
-            "stars": 15859,
+            "stars": 15864,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "TypeScript",
@@ -4146,7 +4146,7 @@
         },
         {
             "name": "Plane",
-            "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
             "link": "https://github.com/makeplane/plane",
             "tags": [],
             "platforms": [
@@ -4154,9 +4154,9 @@
                 "Web"
             ],
             "category": "project-management",
-            "stars": 35073,
+            "stars": 35107,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "AGPL-3.0"
         },
@@ -4170,7 +4170,7 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": 23159,
+            "stars": 23154,
             "flags": [],
             "last_commit": "09/27/2024",
             "language": "TypeScript",
@@ -4186,9 +4186,9 @@
                 "Web"
             ],
             "category": "project-management",
-            "stars": 20087,
+            "stars": 20098,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "EPL-2.0"
         },
@@ -4201,9 +4201,9 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": 10290,
+            "stars": 10303,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Ruby",
             "license": "GPL-3.0"
         },
@@ -4216,22 +4216,22 @@
                 "SelfHost"
             ],
             "category": "project-management",
-            "stars": 5219,
+            "stars": 5222,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
         {
             "name": "Super Productivity",
-            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
             "link": "https://github.com/johannesjo/super-productivity",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "task-management",
-            "stars": 13306,
+            "stars": 13313,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "TypeScript",
@@ -4247,7 +4247,7 @@
                 "CLI+"
             ],
             "category": "task-management",
-            "stars": 8926,
+            "stars": 8930,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "JavaScript",
@@ -4263,9 +4263,9 @@
                 "Web"
             ],
             "category": "time-management",
-            "stars": 5346,
+            "stars": 5355,
             "flags": [],
-            "last_commit": "04/02/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
@@ -4279,7 +4279,7 @@
                 "Android"
             ],
             "category": "time-management",
-            "stars": 13885,
+            "stars": 13890,
             "flags": [],
             "last_commit": "02/11/2025",
             "language": "Python",
@@ -4294,9 +4294,9 @@
                 "SelfHost"
             ],
             "category": "ad-blocker",
-            "stars": 5213,
+            "stars": 5223,
             "flags": [],
-            "last_commit": "04/03/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "Apache-2.0"
         },
@@ -4312,11 +4312,11 @@
                 "Firefox"
             ],
             "category": "ad-blocker",
-            "stars": 0,
+            "stars": 27826,
             "flags": [],
-            "last_commit": "",
-            "language": "",
-            "license": ""
+            "last_commit": "04/07/2025",
+            "language": "Go",
+            "license": "GPL-3.0"
         },
         {
             "name": "Pi-hole",
@@ -4327,9 +4327,9 @@
                 "SelfHost"
             ],
             "category": "ad-blocker",
-            "stars": 51386,
+            "stars": 51399,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Shell",
             "license": "NOASSERTION"
         },
@@ -4343,7 +4343,7 @@
                 "SelfHost"
             ],
             "category": "antivirus",
-            "stars": 4915,
+            "stars": 4917,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "C",
@@ -4358,7 +4358,7 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": 2664,
+            "stars": 2667,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "PHP",
@@ -4373,9 +4373,9 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": 23337,
+            "stars": 23346,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "Apache-2.0"
         },
@@ -4388,9 +4388,9 @@
                 "SelfHost"
             ],
             "category": "authentication",
-            "stars": 21899,
+            "stars": 21913,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Go",
             "license": "BSD-3-Clause"
         },
@@ -4403,7 +4403,7 @@
                 "Android"
             ],
             "category": "authentication",
-            "stars": 10054,
+            "stars": 10059,
             "flags": [],
             "last_commit": "02/25/2025",
             "language": "Java",
@@ -4418,9 +4418,9 @@
                 "SelfHost"
             ],
             "category": "firewall",
-            "stars": 7783,
+            "stars": 7790,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
@@ -4433,9 +4433,9 @@
                 "SelfHost"
             ],
             "category": "firewall",
-            "stars": 16005,
+            "stars": 16010,
             "flags": [],
-            "last_commit": "04/03/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "GPL-3.0"
         },
@@ -4452,7 +4452,7 @@
                 "Firefox"
             ],
             "category": "password-manager",
-            "stars": 16353,
+            "stars": 16358,
             "flags": [
                 "custom-description"
             ],
@@ -4469,7 +4469,7 @@
                 "Cross"
             ],
             "category": "password-manager",
-            "stars": 22823,
+            "stars": 22833,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "C++",
@@ -4477,14 +4477,14 @@
         },
         {
             "name": "Vaultwarden",
-            "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs ",
+            "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
             "link": "https://github.com/dani-garcia/vaultwarden",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "password-manager",
-            "stars": 43252,
+            "stars": 43286,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Rust",
@@ -4492,7 +4492,7 @@
         },
         {
             "name": "LessPass",
-            "description": "\ud83d\udd11 stateless open source password manager",
+            "description": ":key: stateless open source password manager",
             "link": "https://github.com/lesspass/lesspass",
             "tags": [],
             "platforms": [
@@ -4505,7 +4505,7 @@
             "category": "password-manager",
             "stars": 5834,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "GPL-3.0"
         },
@@ -4523,9 +4523,9 @@
                 "Firefox"
             ],
             "category": "password-manager",
-            "stars": 4943,
+            "stars": 4948,
             "flags": [],
-            "last_commit": "04/02/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "AGPL-3.0"
         },
@@ -4539,7 +4539,7 @@
                 "CLI+"
             ],
             "category": "vpn",
-            "stars": 6872,
+            "stars": 6876,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "C++",
@@ -4554,15 +4554,15 @@
                 "Cross"
             ],
             "category": "vpn",
-            "stars": 12887,
+            "stars": 12900,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "BSD-3-Clause"
         },
         {
             "name": "ProtonVPN",
-            "description": "Experience true freedom online. Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN.",
+            "description": "Official ProtonVPN Android app",
             "link": "https://github.com/ProtonVPN/android-app",
             "tags": [],
             "platforms": [
@@ -4570,7 +4570,7 @@
                 "CLI+"
             ],
             "category": "vpn",
-            "stars": 2612,
+            "stars": 2615,
             "flags": [],
             "last_commit": "03/26/2025",
             "language": "C",
@@ -4586,7 +4586,7 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": 29456,
+            "stars": 29464,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Rust",
@@ -4594,7 +4594,7 @@
         },
         {
             "name": "xonsh",
-            "description": "\ud83d\udc1a Python-powered shell. Full-featured and cross-platform.",
+            "description": ":shell: Python-powered shell. Full-featured and cross-platform.",
             "link": "https://github.com/xonsh/xonsh",
             "tags": [],
             "platforms": [
@@ -4602,9 +4602,9 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": 8706,
+            "stars": 8709,
             "flags": [],
-            "last_commit": "03/28/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "NOASSERTION"
         },
@@ -4618,9 +4618,9 @@
                 "CLI"
             ],
             "category": "shell",
-            "stars": 34647,
+            "stars": 34661,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "MIT"
         },
@@ -4633,22 +4633,22 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 26942,
+            "stars": 26959,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "GPL-3.0"
         },
         {
             "name": "WezTerm",
-            "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust ",
+            "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
             "link": "https://github.com/wez/wezterm",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 19851,
+            "stars": 19866,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "Rust",
@@ -4663,7 +4663,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 9862,
+            "stars": 9875,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Go",
@@ -4678,9 +4678,9 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 58251,
+            "stars": 58263,
             "flags": [],
-            "last_commit": "03/23/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -4693,7 +4693,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 62878,
+            "stars": 62904,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "TypeScript",
@@ -4708,7 +4708,7 @@
                 "Cross"
             ],
             "category": "terminal-emulator",
-            "stars": 4919,
+            "stars": 4946,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Rust",
@@ -4716,7 +4716,7 @@
         },
         {
             "name": "Zellij",
-            "description": "A terminal workspace with batteries included ",
+            "description": "A terminal workspace with batteries included",
             "link": "https://github.com/zellij-org/zellij",
             "tags": [],
             "platforms": [
@@ -4724,7 +4724,7 @@
                 "CLI"
             ],
             "category": "terminal-multiplexer",
-            "stars": 23779,
+            "stars": 23795,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "Rust",
@@ -4740,7 +4740,7 @@
                 "CLI"
             ],
             "category": "terminal-multiplexer",
-            "stars": 37039,
+            "stars": 37041,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "C",
@@ -4756,15 +4756,15 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": 23160,
+            "stars": 23164,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "MIT"
         },
         {
             "name": "Oh My Zsh",
-            "description": "\ud83d\ude43 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+            "description": "\ud83d\ude43   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
             "link": "https://github.com/ohmyzsh/ohmyzsh",
             "tags": [],
             "platforms": [
@@ -4772,7 +4772,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": 177430,
+            "stars": 177462,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "Shell",
@@ -4804,7 +4804,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": 25794,
+            "stars": 25814,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Rust",
@@ -4820,7 +4820,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": 32625,
+            "stars": 32632,
             "flags": [],
             "last_commit": "11/26/2024",
             "language": "Shell",
@@ -4836,7 +4836,7 @@
                 "CLI"
             ],
             "category": "terminal-utilities",
-            "stars": 10652,
+            "stars": 10650,
             "flags": [],
             "last_commit": "02/17/2025",
             "language": "Python",
@@ -4852,9 +4852,9 @@
                 "Web"
             ],
             "category": "document-editor",
-            "stars": 17300,
+            "stars": 17305,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -4867,9 +4867,9 @@
                 "Cross"
             ],
             "category": "markdown-editor",
-            "stars": 10866,
+            "stars": 10867,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "GPL-3.0"
         },
@@ -4882,7 +4882,7 @@
                 "SelfHost"
             ],
             "category": "markdown-editor",
-            "stars": 5796,
+            "stars": 5799,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "TypeScript",
@@ -4897,9 +4897,9 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 48601,
+            "stars": 48621,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -4912,15 +4912,15 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 11549,
+            "stars": 11552,
             "flags": [],
-            "last_commit": "03/29/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "GPL-3.0"
         },
         {
             "name": "Standard Notes",
-            "description": "Think fearlessly with end-to-end encrypted notes and files.",
+            "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
             "link": "https://github.com/standardnotes/app",
             "tags": [],
             "platforms": [
@@ -4961,7 +4961,7 @@
                 "`Plugin`"
             ],
             "category": "note-taking",
-            "stars": 6154,
+            "stars": 6157,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "TypeScript",
@@ -4976,7 +4976,7 @@
                 "SelfHost"
             ],
             "category": "note-taking",
-            "stars": 38731,
+            "stars": 38749,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Go",
@@ -4991,7 +4991,7 @@
                 "SelfHost"
             ],
             "category": "note-taking",
-            "stars": 3092,
+            "stars": 3101,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "TypeScript",
@@ -5006,7 +5006,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 9227,
+            "stars": 9222,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Rust",
@@ -5014,14 +5014,14 @@
         },
         {
             "name": "SilverBullet",
-            "description": "The knowledge tinkerer's notebook",
+            "description": "An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua",
             "link": "https://github.com/silverbulletmd/silverbullet",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 3193,
+            "stars": 3194,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "TypeScript",
@@ -5036,7 +5036,7 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 7785,
+            "stars": 7787,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "JavaScript",
@@ -5051,9 +5051,9 @@
                 "Cross"
             ],
             "category": "note-taking",
-            "stars": 12218,
+            "stars": 12216,
             "flags": [],
-            "last_commit": "04/02/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "LGPL-3.0"
         },
@@ -5091,14 +5091,14 @@
         },
         {
             "name": "OnlyOffice",
-            "description": "An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents",
+            "description": "Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS",
             "link": "https://github.com/ONLYOFFICE/DesktopEditors",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "office-suite",
-            "stars": 3426,
+            "stars": 3428,
             "flags": [],
             "last_commit": "03/25/2025",
             "language": null,
@@ -5106,18 +5106,18 @@
         },
         {
             "name": "LibreOffice",
-            "description": "No description provided.",
+            "description": "Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead",
             "link": "https://github.com/LibreOffice/core",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "office-suite",
-            "stars": 0,
+            "stars": 3032,
             "flags": [],
-            "last_commit": "",
-            "language": "",
-            "license": ""
+            "last_commit": "04/07/2025",
+            "language": "C++",
+            "license": "GPL-3.0"
         },
         {
             "name": "CryptPad",
@@ -5128,9 +5128,9 @@
                 "SelfHost"
             ],
             "category": "office-suite",
-            "stars": 6163,
+            "stars": 6167,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "AGPL-3.0"
         },
@@ -5143,9 +5143,9 @@
                 "VSCode"
             ],
             "category": "proofreading",
-            "stars": 3822,
+            "stars": 3826,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "Apache-2.0"
         },
@@ -5159,9 +5159,9 @@
                 "Web"
             ],
             "category": "proofreading",
-            "stars": 12960,
+            "stars": 12964,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Java",
             "license": "LGPL-2.1"
         },
@@ -5174,7 +5174,7 @@
                 "Cross"
             ],
             "category": "proofreading",
-            "stars": 1368,
+            "stars": 1370,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Swift",
@@ -5190,9 +5190,9 @@
                 "Web"
             ],
             "category": "spreadsheet",
-            "stars": 8237,
+            "stars": 8240,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "Apache-2.0"
         },
@@ -5205,7 +5205,7 @@
                 "Web"
             ],
             "category": "text-editor",
-            "stars": 45053,
+            "stars": 45068,
             "flags": [],
             "last_commit": "11/30/2024",
             "language": "TypeScript",
@@ -5220,9 +5220,9 @@
                 "MacOS"
             ],
             "category": "text-editor",
-            "stars": 6785,
+            "stars": 6789,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Swift",
             "license": "NOASSERTION"
         },
@@ -5236,9 +5236,9 @@
                 "CLI"
             ],
             "category": "text-editor",
-            "stars": 25895,
+            "stars": 25900,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -5251,7 +5251,7 @@
                 "Windows"
             ],
             "category": "text-editor",
-            "stars": 9181,
+            "stars": 9182,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "C#",
@@ -5267,7 +5267,7 @@
                 "CLI"
             ],
             "category": "text-editor",
-            "stars": 10209,
+            "stars": 10210,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "C++",
@@ -5282,24 +5282,24 @@
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": 5198,
+            "stars": 5196,
             "flags": [],
-            "last_commit": "03/31/2025",
+            "last_commit": "04/07/2025",
             "language": "Lua",
             "license": "MIT"
         },
         {
             "name": "Emacs",
-            "description": "An extensible, customizable, free/libre text editor \u2014 and more.",
+            "description": "Mirror of GNU Emacs",
             "link": "https://github.com/emacs-mirror/emacs",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": 4604,
+            "stars": 4605,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Emacs Lisp",
             "license": "GPL-3.0"
         },
@@ -5312,7 +5312,7 @@
                 "Cross"
             ],
             "category": "text-editor",
-            "stars": 9841,
+            "stars": 9847,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C++",
@@ -5320,31 +5320,31 @@
         },
         {
             "name": "MediaWiki",
-            "description": "\ud83c\udf3b The collaborative editing software that runs Wikipedia.",
+            "description": "\ud83c\udf3b The collaborative editing software that runs Wikipedia. Mirror\u00a0from\u00a0https://gerrit.wikimedia.org/g/mediawiki/core. See\u00a0https://mediawiki.org/wiki/Developer_access for\u00a0contributing.",
             "link": "https://github.com/wikimedia/mediawiki",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": 4507,
+            "stars": 4509,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "PHP",
             "license": "NOASSERTION"
         },
         {
             "name": "Wiki.js",
-            "description": "Wiki.js - A modern and powerful wiki app built on Node.js",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
             "link": "https://github.com/requarks/wiki",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": 25984,
+            "stars": 25993,
             "flags": [],
-            "last_commit": "03/31/2025",
+            "last_commit": "04/07/2025",
             "language": "Vue",
             "license": "AGPL-3.0"
         },
@@ -5357,15 +5357,15 @@
                 "SelfHost"
             ],
             "category": "wiki",
-            "stars": 16371,
+            "stars": 16375,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "PHP",
             "license": "MIT"
         },
         {
             "name": "Ansible",
-            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
             "link": "https://github.com/ansible/ansible",
             "tags": [],
             "platforms": [
@@ -5373,7 +5373,7 @@
                 "CLI+"
             ],
             "category": "automation",
-            "stars": 64633,
+            "stars": 64645,
             "flags": [],
             "last_commit": "04/03/2025",
             "language": "Python",
@@ -5388,7 +5388,7 @@
                 "MacOS"
             ],
             "category": "automation",
-            "stars": 12742,
+            "stars": 12749,
             "flags": [],
             "last_commit": "02/27/2025",
             "language": "Objective-C",
@@ -5403,7 +5403,7 @@
                 "Cross"
             ],
             "category": "automation",
-            "stars": 3999,
+            "stars": 4000,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "TypeScript",
@@ -5418,9 +5418,9 @@
                 "Cross"
             ],
             "category": "automation",
-            "stars": 11619,
+            "stars": 11620,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -5435,7 +5435,7 @@
                 "SelfHost"
             ],
             "category": "automation",
-            "stars": 4320,
+            "stars": 4324,
             "flags": [],
             "last_commit": "03/21/2025",
             "language": "JavaScript",
@@ -5450,7 +5450,7 @@
                 "MacOS"
             ],
             "category": "cleaner",
-            "stars": 5971,
+            "stars": 5992,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Swift",
@@ -5466,7 +5466,7 @@
                 "Linux"
             ],
             "category": "cleaner",
-            "stars": 3372,
+            "stars": 3373,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -5481,7 +5481,7 @@
                 "MacOS"
             ],
             "category": "clipboard-manager",
-            "stars": 14653,
+            "stars": 14668,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "Swift",
@@ -5496,7 +5496,7 @@
                 "Cross"
             ],
             "category": "clipboard-manager",
-            "stars": 5111,
+            "stars": 5114,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C++",
@@ -5511,22 +5511,22 @@
                 "Cross"
             ],
             "category": "clipboard-manager",
-            "stars": 9444,
+            "stars": 9456,
             "flags": [],
-            "last_commit": "04/04/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": "GPL-3.0"
         },
         {
             "name": "Dockge",
-            "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager ",
+            "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
             "link": "https://github.com/louislam/dockge",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "containers",
-            "stars": 16576,
+            "stars": 16619,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "TypeScript",
@@ -5542,7 +5542,7 @@
                 "CLI"
             ],
             "category": "containers",
-            "stars": 22108,
+            "stars": 22137,
             "flags": [],
             "last_commit": "03/24/2025",
             "language": "Go",
@@ -5558,7 +5558,7 @@
                 "CLI"
             ],
             "category": "dotfiles-manager",
-            "stars": 5596,
+            "stars": 5597,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Python",
@@ -5573,15 +5573,15 @@
                 "Cross"
             ],
             "category": "dotfiles-manager",
-            "stars": 14564,
+            "stars": 14580,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
         {
             "name": "Spacedrive",
-            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. ",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
             "link": "https://github.com/spacedriveapp/spacedrive",
             "tags": [
                 "paused"
@@ -5590,7 +5590,7 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": 34230,
+            "stars": 34233,
             "flags": [],
             "last_commit": "03/24/2025",
             "language": "TypeScript",
@@ -5605,9 +5605,9 @@
                 "Windows"
             ],
             "category": "file-manager",
-            "stars": 36706,
+            "stars": 36707,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C#",
             "license": "MIT"
         },
@@ -5621,7 +5621,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": 19934,
+            "stars": 19936,
             "flags": [],
             "last_commit": "03/23/2025",
             "language": "C",
@@ -5637,9 +5637,9 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": 23823,
+            "stars": 23854,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "MIT"
         },
@@ -5653,7 +5653,7 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": 16064,
+            "stars": 16068,
             "flags": [],
             "last_commit": "03/12/2025",
             "language": "Python",
@@ -5668,9 +5668,9 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": 12211,
+            "stars": 12218,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "JavaScript",
             "license": "MIT"
         },
@@ -5684,9 +5684,9 @@
                 "CLI"
             ],
             "category": "file-manager",
-            "stars": 8077,
+            "stars": 8081,
             "flags": [],
-            "last_commit": "03/30/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
@@ -5699,22 +5699,22 @@
                 "Cross"
             ],
             "category": "file-manager",
-            "stars": 13387,
+            "stars": 13388,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "MIT"
         },
         {
             "name": "Filestash",
-            "description": "\ud83e\udd84 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
+            "description": ":file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
             "link": "https://github.com/mickael-kerjean/filestash",
             "tags": [],
             "platforms": [
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": 11140,
+            "stars": 11156,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "JavaScript",
@@ -5729,7 +5729,7 @@
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": 2365,
+            "stars": 2364,
             "flags": [],
             "last_commit": "03/30/2025",
             "language": "PHP",
@@ -5744,7 +5744,7 @@
                 "SelfHost"
             ],
             "category": "file-manager",
-            "stars": 28499,
+            "stars": 28512,
             "flags": [],
             "last_commit": "04/04/2025",
             "language": "Go",
@@ -5776,9 +5776,9 @@
                 "CLI+"
             ],
             "category": "file-sharing",
-            "stars": 59747,
+            "stars": 59797,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "Dart",
             "license": "Apache-2.0"
         },
@@ -5791,7 +5791,7 @@
                 "Cross"
             ],
             "category": "file-sharing",
-            "stars": 6485,
+            "stars": 6487,
             "flags": [],
             "last_commit": "04/01/2025",
             "language": "Python",
@@ -5806,7 +5806,7 @@
                 "Web"
             ],
             "category": "file-sharing",
-            "stars": 6370,
+            "stars": 6377,
             "flags": [],
             "last_commit": "02/25/2025",
             "language": "JavaScript",
@@ -5821,7 +5821,7 @@
                 "MacOS"
             ],
             "category": "keyboard-manager",
-            "stars": 19765,
+            "stars": 19772,
             "flags": [],
             "last_commit": "02/19/2025",
             "language": "C++",
@@ -5836,7 +5836,7 @@
                 "Cross"
             ],
             "category": "keyboard-manager",
-            "stars": 4690,
+            "stars": 4700,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Rust",
@@ -5851,7 +5851,7 @@
                 "Cross"
             ],
             "category": "keyboard-manager",
-            "stars": 4382,
+            "stars": 4387,
             "flags": [],
             "last_commit": "03/25/2025",
             "language": "Haskell",
@@ -5866,9 +5866,9 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": 3907,
+            "stars": 3908,
             "flags": [],
-            "last_commit": "04/05/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "MIT"
         },
@@ -5896,9 +5896,9 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": 4050,
+            "stars": 4052,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "TypeScript",
             "license": "NOASSERTION"
         },
@@ -5911,7 +5911,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": 7469,
+            "stars": 7470,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C++",
@@ -5926,7 +5926,7 @@
                 "Linux"
             ],
             "category": "launcher",
-            "stars": 3897,
+            "stars": 3900,
             "flags": [],
             "last_commit": "03/29/2025",
             "language": "Python",
@@ -5941,7 +5941,7 @@
                 "Cross"
             ],
             "category": "launcher",
-            "stars": 25359,
+            "stars": 25369,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Go",
@@ -5949,7 +5949,7 @@
         },
         {
             "name": "Homebrew",
-            "description": "macOS system monitor in your menu bar",
+            "description": "\ud83c\udf7a The missing package manager for macOS (or Linux)",
             "link": "https://github.com/Homebrew/brew",
             "tags": [],
             "platforms": [
@@ -5958,9 +5958,9 @@
                 "CLI"
             ],
             "category": "package-manager",
-            "stars": 43148,
+            "stars": 43159,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Ruby",
             "license": "BSD-2-Clause"
         },
@@ -5973,7 +5973,7 @@
                 "Windows"
             ],
             "category": "package-manager",
-            "stars": 10684,
+            "stars": 10685,
             "flags": [],
             "last_commit": "03/21/2025",
             "language": "C#",
@@ -5988,7 +5988,7 @@
                 "Cross"
             ],
             "category": "package-manager",
-            "stars": 13989,
+            "stars": 14001,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "C++",
@@ -6003,7 +6003,7 @@
                 "Cross"
             ],
             "category": "package-manager",
-            "stars": 4607,
+            "stars": 4609,
             "flags": [],
             "last_commit": "04/07/2025",
             "language": "Python",
@@ -6018,9 +6018,9 @@
                 "Cross"
             ],
             "category": "remote-desktop",
-            "stars": 86301,
+            "stars": 86405,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "AGPL-3.0"
         },
@@ -6033,7 +6033,7 @@
                 "MacOS"
             ],
             "category": "system-monitoring",
-            "stars": 30407,
+            "stars": 30431,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "Swift",
@@ -6048,7 +6048,7 @@
                 "Linux"
             ],
             "category": "system-monitoring",
-            "stars": 1599,
+            "stars": 1600,
             "flags": [],
             "last_commit": "02/20/2025",
             "language": "JavaScript",
@@ -6064,7 +6064,7 @@
                 "CLI"
             ],
             "category": "system-monitoring",
-            "stars": 11112,
+            "stars": 11118,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Rust",
@@ -6079,7 +6079,7 @@
                 "MacOS"
             ],
             "category": "system",
-            "stars": 17111,
+            "stars": 17118,
             "flags": [],
             "last_commit": "12/22/2024",
             "language": "C++",
@@ -6095,9 +6095,9 @@
                 "Linux"
             ],
             "category": "tools",
-            "stars": 22912,
+            "stars": 22922,
             "flags": [],
-            "last_commit": "03/18/2025",
+            "last_commit": "04/07/2025",
             "language": "Rust",
             "license": "NOASSERTION"
         },
@@ -6110,7 +6110,7 @@
                 "Cross"
             ],
             "category": "tools",
-            "stars": 31037,
+            "stars": 31043,
             "flags": [],
             "last_commit": "02/27/2025",
             "language": "TypeScript",
@@ -6125,7 +6125,7 @@
                 "MacOS"
             ],
             "category": "tools",
-            "stars": 29536,
+            "stars": 29545,
             "flags": [],
             "last_commit": "02/06/2025",
             "language": "Swift",
@@ -6133,14 +6133,14 @@
         },
         {
             "name": "OpenRGB",
-            "description": "Open source RGB lighting control that doesn't depend on manufacturer software.",
+            "description": "Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.",
             "link": "https://github.com/CalcProgrammer1/OpenRGB",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "tools",
-            "stars": 3119,
+            "stars": 3121,
             "flags": [],
             "last_commit": "04/06/2025",
             "language": "C++",
@@ -6156,7 +6156,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": 9246,
+            "stars": 9247,
             "flags": [],
             "last_commit": "01/06/2025",
             "language": "TypeScript",
@@ -6172,7 +6172,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": 8658,
+            "stars": 8659,
             "flags": [],
             "last_commit": "03/02/2025",
             "language": "Rust",
@@ -6188,7 +6188,7 @@
                 "CLI"
             ],
             "category": "tools",
-            "stars": 37385,
+            "stars": 37396,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Rust",
@@ -6196,14 +6196,14 @@
         },
         {
             "name": "XcodesApp",
-            "description": "The easiest way to install and switch between multiple versions of Xcode - with a mouse click.",
+            "description": "The easiest way to install and switch between multiple versions of Xcode - with a mouse click. ",
             "link": "https://github.com/XcodesOrg/XcodesApp",
             "tags": [],
             "platforms": [
                 "MacOS"
             ],
             "category": "version-manager",
-            "stars": 7394,
+            "stars": 7409,
             "flags": [],
             "last_commit": "02/14/2025",
             "language": "Swift",
@@ -6211,7 +6211,7 @@
         },
         {
             "name": "rbenv",
-            "description": "Manage your app's Ruby environment ",
+            "description": "Manage your app's Ruby environment",
             "link": "https://github.com/rbenv/rbenv",
             "tags": [],
             "platforms": [
@@ -6235,7 +6235,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": 41535,
+            "stars": 41552,
             "flags": [],
             "last_commit": "03/27/2025",
             "language": "Roff",
@@ -6251,7 +6251,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": 83760,
+            "stars": 83791,
             "flags": [],
             "last_commit": "03/11/2025",
             "language": "Shell",
@@ -6259,7 +6259,7 @@
         },
         {
             "name": "mise",
-            "description": "dev tools, env vars, task runner ",
+            "description": "dev tools, env vars, task runner",
             "link": "https://github.com/jdx/mise",
             "tags": [],
             "platforms": [
@@ -6267,15 +6267,15 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": 14530,
+            "stars": 14546,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Rust",
             "license": "MIT"
         },
         {
             "name": "asdf",
-            "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more ",
+            "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
             "link": "https://github.com/asdf-vm/asdf",
             "tags": [],
             "platforms": [
@@ -6283,7 +6283,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": 23293,
+            "stars": 23299,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Go",
@@ -6291,7 +6291,7 @@
         },
         {
             "name": "vfox",
-            "description": "A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more ",
+            "description": "A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",
             "link": "https://github.com/version-fox/vfox",
             "tags": [],
             "platforms": [
@@ -6299,7 +6299,7 @@
                 "CLI"
             ],
             "category": "version-manager",
-            "stars": 3167,
+            "stars": 3169,
             "flags": [],
             "last_commit": "03/31/2025",
             "language": "Go",
@@ -6314,22 +6314,22 @@
                 "MacOS"
             ],
             "category": "virtual-machine",
-            "stars": 28761,
+            "stars": 28781,
             "flags": [],
-            "last_commit": "02/24/2025",
+            "last_commit": "04/07/2025",
             "language": "Swift",
             "license": "Apache-2.0"
         },
         {
             "name": "VirtualBuddy",
-            "description": "Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3",
+            "description": "Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4",
             "link": "https://github.com/insidegui/VirtualBuddy",
             "tags": [],
             "platforms": [
                 "MacOS"
             ],
             "category": "virtual-machine",
-            "stars": 5766,
+            "stars": 5769,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Swift",
@@ -6345,9 +6345,9 @@
                 "Linux"
             ],
             "category": "virtual-machine",
-            "stars": 16567,
+            "stars": 16574,
             "flags": [],
-            "last_commit": "04/03/2025",
+            "last_commit": "04/07/2025",
             "language": "Go",
             "license": "Apache-2.0"
         },
@@ -6361,7 +6361,7 @@
                 "Linux"
             ],
             "category": "virtual-machine",
-            "stars": 11685,
+            "stars": 11692,
             "flags": [],
             "last_commit": "03/28/2025",
             "language": "Shell",
@@ -6376,7 +6376,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": 26726,
+            "stars": 26738,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Swift",
@@ -6391,7 +6391,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": 8041,
+            "stars": 8045,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Swift",
@@ -6406,9 +6406,9 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": 11376,
+            "stars": 11406,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Swift",
             "license": "MIT"
         },
@@ -6421,7 +6421,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": 15217,
+            "stars": 15219,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Swift",
@@ -6429,16 +6429,16 @@
         },
         {
             "name": "openpilot",
-            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
             "link": "https://github.com/commaai/openpilot",
             "tags": [],
             "platforms": [
                 "Linux"
             ],
             "category": "other",
-            "stars": 53039,
+            "stars": 53059,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Python",
             "license": "MIT"
         },
@@ -6451,9 +6451,9 @@
                 "SelfHost"
             ],
             "category": "other",
-            "stars": 8810,
+            "stars": 8821,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Python",
             "license": "AGPL-3.0"
         },
@@ -6467,7 +6467,7 @@
                 "SelfHost"
             ],
             "category": "other",
-            "stars": 7370,
+            "stars": 7373,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Blade",
@@ -6482,7 +6482,7 @@
                 "MacOS"
             ],
             "category": "uncategorized",
-            "stars": 14276,
+            "stars": 14289,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "Swift",
@@ -6490,16 +6490,16 @@
         },
         {
             "name": "XPipe",
-            "description": "Your entire server infrastructure at your fingertips",
+            "description": "Access your entire server infrastructure from your local desktop",
             "link": "https://github.com/xpipe-io/xpipe",
             "tags": [],
             "platforms": [
                 "Cross"
             ],
             "category": "uncategorized",
-            "stars": 10406,
+            "stars": 10432,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "Java",
             "license": "Apache-2.0"
         },
@@ -6512,7 +6512,7 @@
                 "MacOS"
             ],
             "category": "window-management",
-            "stars": 25420,
+            "stars": 25423,
             "flags": [],
             "last_commit": "04/05/2025",
             "language": "C",
@@ -6527,9 +6527,9 @@
                 "Cross"
             ],
             "category": "ide",
-            "stars": 2744,
+            "stars": 2745,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/07/2025",
             "language": "C++",
             "license": ""
         },
@@ -6542,7 +6542,7 @@
                 "SelfHost"
             ],
             "category": "git-hosting",
-            "stars": 46155,
+            "stars": 46163,
             "flags": [],
             "last_commit": "04/02/2025",
             "language": "Go",
@@ -6557,15 +6557,15 @@
                 "SelfHost"
             ],
             "category": "git-hosting",
-            "stars": 47930,
+            "stars": 47946,
             "flags": [],
-            "last_commit": "04/06/2025",
+            "last_commit": "04/08/2025",
             "language": "Go",
             "license": "MIT"
         },
         {
             "name": "GitLab",
-            "description": "GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com",
+            "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
             "link": "https://github.com/gitlabhq/gitlabhq",
             "tags": [],
             "platforms": [
@@ -6573,9 +6573,9 @@
                 "Web"
             ],
             "category": "git-hosting",
-            "stars": 23946,
+            "stars": 23950,
             "flags": [],
-            "last_commit": "04/07/2025",
+            "last_commit": "04/08/2025",
             "language": "Ruby",
             "license": "NOASSERTION"
         },
@@ -6588,7 +6588,7 @@
                 "MacOS"
             ],
             "category": "macos",
-            "stars": 3517,
+            "stars": 3518,
             "flags": [],
             "last_commit": "03/17/2025",
             "language": "Objective-C",
