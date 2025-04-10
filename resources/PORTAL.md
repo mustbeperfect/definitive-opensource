@@ -24,8 +24,8 @@ The place that connects everything related to definitive-opensource.
 - [tags](source/data/tags.json) - Declares tags, their id, and corresponding emoji
 
 ## GitHub Actions
-- [generate-readme.yml](.github/workflows/generate-readme.yml) - Calls the [```readme_generator.py```](source/scripts/generation/readme_generator.py) to generate READMEs
-- [update-stats.yml](.github/workflows/update-stats.yml) - Calls the [```stats_updator.py```](source/scripts/maintenance/stats_updator.py.py) to update stats in applications.json
+- [generate-readme.yml](.github/workflows/generate-readme.yml) - Calls the [`readme_generator.py`](source/scripts/generation/readme_generator.py) to generate READMEs
+- [update-stats.yml](.github/workflows/update-stats.yml) - Calls the [`stats_updator.py`](source/scripts/maintenance/stats_updator.py.py) to update stats in applications.json
 
 ## Other Resources
 - [DOCS.md](resources/DOCS.md) - Elaborates tags

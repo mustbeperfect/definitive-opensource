@@ -2,10 +2,13 @@
 
 
 ### Highlights
-`💥` - Disruptive
+`💥` - Disruptive: For apps that are introducing something revolutionary that could "disrupt" the market.
 
-`🌍` - Influential
+`🌍` - Influential: An established product that has shaped or continues to hold influence in the world
 
-`🌟` - Pioneering
+`🌟` - Pioneering: Something that is leading the way in a new field
 
-`💡` - Innovative
+`💡` - Innovative: Projects that "invent" something new
+
+### Flags
+`custom-description` - For apps whose description is not from GitHub so that the `stats_updator.py` script skips updating it
