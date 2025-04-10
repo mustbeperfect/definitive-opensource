@@ -9,7 +9,7 @@ The generation scripts are inside of the [```source/scripts/generation```](sourc
 
 [```tableofcontents_generator.py```](source/scripts/generation/tableofcontents_generator.py) generates the table of contents. It creates one, expandable but hidden by default, with all subsections listed alphabetically. The default TOC shows parent categories alphabetically with subcategories underneath, also alphabetically.
 
-```contents_generator.py```](source/scripts/generation/contents_generator.py) generates the actual list.
+[```contents_generator.py```](source/scripts/generation/contents_generator.py) generates the actual list.
 
 Lastly [```readme_generator.py```](source/scripts/generation/readme_generator.py) brings everything together, calling the other scripts to generate one main list, and more for several platforms. 
 
