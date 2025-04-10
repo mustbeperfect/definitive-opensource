@@ -2,7 +2,6 @@
 ## Pending
 Projects that require a further vetting process. 
 - [grimoire](https://github.com/goniszewski/grimoire)
-- [Second-Me](https://github.com/Mindverse/Second-Me)
 - [YaCy](https://github.com/yacy/yacy_search_server)
 - [Cerebro](https://github.com/cerebroapp/cerebro)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - Might be abandoned

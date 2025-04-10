@@ -7012,6 +7012,24 @@
             "homepage_url": "https://about.gitlab.com/getting-help/"
         },
         {
+            "name": "Second Me",
+            "description": "Train your AI self, amplify you, bridge the world",
+            "repo_url": "https://github.com/mindverse/Second-Me",
+            "tags": [],
+            "platforms": [
+                "Cross",
+                "SelfHost",
+                "Web"
+            ],
+            "category": "model-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
             "name": "Itsycal",
             "description": "Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal",
             "repo_url": "https://github.com/sfsam/Itsycal",
