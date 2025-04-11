@@ -20,6 +20,24 @@ def format_stars(n):
         return formatted.replace('.0k', 'k')
     else:
         return str(n)
+    
+'''
+def format_stars(n):
+    if n >= 1_000_000:
+        value = n / 1_000_000
+        suffix = "M"
+    elif n >= 1_000:
+        value = n / 1_000
+        suffix = "k"
+    else:
+        return str(n)
+    
+    # If it's a whole number, don't show decimal point
+    if value == int(value):
+        return f"{int(value)}{suffix}"
+    else:
+        return f"{value:.1f}{suffix}"
+'''
 
 def generate_contents(platform="all"):
 
