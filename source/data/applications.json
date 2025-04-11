@@ -2139,7 +2139,7 @@
             "repo_url": "https://github.com/mfussenegger/nvim-dap",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "neovim-extensions",
             "stars": 6161,
@@ -2155,7 +2155,7 @@
             "repo_url": "https://github.com/ms-jpq/coq_nvim",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "neovim-extensions",
             "stars": 3669,
@@ -2171,7 +2171,7 @@
             "repo_url": "https://github.com/nvim-neorg/neorg",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "neovim-extensions",
             "stars": 6805,
@@ -2187,7 +2187,7 @@
             "repo_url": "https://github.com/vimwiki/vimwiki",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "neovim-extensions",
             "stars": 9015,
@@ -2203,9 +2203,9 @@
             "repo_url": "https://github.com/neovide/neovide",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "Cross"
             ],
-            "category": "neovim-extensions",
+            "category": "ide",
             "stars": 13862,
             "flags": [],
             "last_commit": "04/06/2025",
@@ -2219,7 +2219,7 @@
             "repo_url": "https://github.com/folke/lazy.nvim",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "neovim-extensions",
             "stars": 16968,
@@ -3902,7 +3902,7 @@
             "repo_url": "https://github.com/HeyPuter/puter",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "operating-system",
             "stars": 30098,
@@ -3918,7 +3918,7 @@
             "repo_url": "https://github.com/getumbrel/umbrel",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "operating-system",
             "stars": 8646,
@@ -3934,7 +3934,7 @@
             "repo_url": "https://github.com/openmediavault/openmediavault",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "operating-system",
             "stars": 5595,
@@ -3950,7 +3950,7 @@
             "repo_url": "https://github.com/YunoHost/yunohost",
             "tags": [],
             "platforms": [
-                "`N/A`"
+                "N/A"
             ],
             "category": "operating-system",
             "stars": 2407,
