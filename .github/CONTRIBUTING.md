@@ -44,7 +44,7 @@ Open applications.json and copy the following at the end:
 }
 ```
 
-Add the name, repo_url, tags, platform(s), and category, Everything else will be filled in once the daily stats_updator script runs. 
+Add the `name`, `repo_url`, `tags`, `platform(s)`, and `category`. Everything else will be filled in once the daily stats_updator script runs. 
 
 ## Guidelines
 - Check the archive, the backlog, and duplicates
