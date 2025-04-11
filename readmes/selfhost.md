@@ -350,6 +350,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Second Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | `Cross` `SelfHost` `Web` | **0** |
 
 ### RAG
 
