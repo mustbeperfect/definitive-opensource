@@ -13,18 +13,13 @@ def extract_repo_path(link):
 
 def format_stars(n):
     if n >= 1_000_000:
-        value = n / 1_000_000
-        suffix = 'M'
+        formatted = f"{n/1_000_000:.1f}M"
+        return formatted.replace('.0M', 'M')
     elif n >= 1_000:
-        value = n / 1_000
-        suffix = 'k'
+        formatted = f"{n/1_000:.1f}k"
+        return formatted.replace('.0k', 'k')
     else:
         return str(n)
-
-    if value.is_integer():
-        return f"{int(value)}{suffix}"
-    else:
-        return f"{value:.1f}{suffix}"
 
 def generate_contents(platform="all"):
 
