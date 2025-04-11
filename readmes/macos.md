@@ -291,7 +291,7 @@
 | --- | --- | --- | --- |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | `Cross` | **33.7k** |
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | `Cross` `CLI` | **3.7k** |
-| [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | `Cross` | **59.0k** |
+| [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | `Cross` | **59.1k** |
 | [screenpipe](https://github.com/mediar-ai/screenpipe) 💥 💰 | AI app store powered by 24/7 desktop history.  open source - 100% local - dev friendly - 24/7 screen, mic recording | `MacOS` `Windows` | **13.2k** |
 | [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` | **15.5k** |
 
@@ -324,8 +324,8 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | `Cross` `CLI` | **5.3k** |
-| [Docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI | `Cross` `CLI` | **26.7k** |
-| [Repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | `Cross` `CLI` | **14.4k** |
+| [Docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI | `Cross` `CLI` | **26.8k** |
+| [Repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | `Cross` `CLI` | **14.5k** |
 | [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | `MacOS` `Linux` `SelfHost` | **5.0k** |
 
 ### LLM GUI
@@ -333,8 +333,8 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | `Cross` | **34.0k** |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. | `Cross` | **22.7k** |
-| [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | `Cross` | **73.0k** |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. | `Cross` | **22.9k** |
+| [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | `Cross` | **73.1k** |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer | `Cross` | **28.4k** |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android -  Linux - Windows | `Cross` `CLI+` `Web` | **82.6k** |
 
@@ -342,24 +342,24 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ollama](https://github.com/ollama/ollama) 🌍 | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. | `Cross` `CLI` `SelfHost` | **136.7k** |
+| [Ollama](https://github.com/ollama/ollama) 🌍 | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. | `Cross` `CLI` `SelfHost` | **136.8k** |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | `Cross` | **5.8k** |
 
 ### Model Tools
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Agno](https://github.com/agno-agi/agno) | Build Reasoning Agents with memory, knowledge, tools and native multi-modal support. | `Cross` `CLI` | **24.4k** |
-| [Kiln](https://github.com/Kiln-AI/Kiln) | The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets. | `Cross` | **3.3k** |
+| [Agno](https://github.com/agno-agi/agno) | Lightweight framework for building Agents with memory, knowledge, tools and reasoning. | `Cross` `CLI` | **24.6k** |
+| [Kiln](https://github.com/Kiln-AI/Kiln) | The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets. | `Cross` | **3.4k** |
 | [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | `Cross` `CLI+` | **46.5k** |
 | [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. | `Cross` `CLI` | **29.3k** |
-| [Second Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | `Cross` `SelfHost` `Web` | **0** |
+| [Second Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | `Cross` `SelfHost` `Web` | **9.6k** |
 
 ### RAG
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. | `Cross` | **42.5k** |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. | `Cross` | **42.6k** |
 | [DocsGPT](https://github.com/arc53/DocsGPT) | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. | `Cross` `SelfHost` | **15.5k** |
 | [PaperQA2](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations | `Cross` `CLI` | **7.2k** |
 | [R2R](https://github.com/SciPhi-AI/R2R) | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | `Cross` `CLI` | **6.3k** |
@@ -368,7 +368,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [DeepSearcher](https://github.com/zilliztech/deep-searcher) | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. | `Cross` `CLI` | **5.3k** |
+| [DeepSearcher](https://github.com/zilliztech/deep-searcher) | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. | `Cross` `CLI` | **5.4k** |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | `Cross` `CLI+` `SelfHost` | **20.8k** |
 
 # Communication - [Go to top](#contents)
@@ -409,7 +409,7 @@
 | [Duplicacy](https://github.com/gilbertchen/duplicacy) | A new generation cloud backup tool  | `Cross` `CLI` | **5.4k** |
 | [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | `Cross` | **12.1k** |
 | [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | `Cross` `CLI` | **9.2k** |
-| [Rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | `Cross` `CLI` | **49.7k** |
+| [Rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | `Cross` `CLI` | **49.8k** |
 | [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | `Cross` `CLI` | **28.2k** |
 
 ### Storage
@@ -417,7 +417,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | `Cross` `SelfHost` | **29.2k** |
-| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | **12.9k** |
+| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | **13.0k** |
 
 ### Sync
 
@@ -433,11 +433,11 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | `Cross` `CLI` | **30.9k** |
+| [Aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | `Cross` `CLI` | **31.0k** |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Cross` `CLI+` | **11.5k** |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer | `Cross` `CLI` | **32.6k** |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **52.6k** |
-| [Plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | `Cross` `CLI` | **11.4k** |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **52.7k** |
+| [Plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | `Cross` `CLI` | **11.5k** |
 
 ### Code Editor
 
@@ -451,10 +451,10 @@
 | [NvChad](https://github.com/NvChad/NvChad) | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | `Cross` `CLI` | **25.9k** |
 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | A modular configuration of Vim and Neovim | `Cross` `CLI` | **20.4k** |
 | [Vim](https://github.com/vim/vim) 🌍 | The official Vim repository | `Cross` `CLI` | **37.9k** |
-| [Void](https://github.com/voideditor/void) | Void is the open-source Cursor alternative. | `Windows` `MacOS` | **11.5k** |
+| [Void](https://github.com/voideditor/void) | Void is the open-source Cursor alternative. | `Windows` `MacOS` | **11.6k** |
 | [VS Code](https://github.com/microsoft/vscode) | Visual Studio Code | `Cross` | **169.8k** |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | `Cross` | **26.9k** |
-| [Zed](https://github.com/zed-industries/zed) 🏦 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | `MacOS` `Linux` | **56.8k** |
+| [Zed](https://github.com/zed-industries/zed) 🏦 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | `MacOS` `Linux` | **56.9k** |
 
 ### Dev Tools
 
@@ -496,7 +496,7 @@
 | --- | --- | --- | --- |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | `Cross` `CLI` | **77.4k** |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | `Cross` `CLI` | **31.3k** |
-| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | `Cross` `CLI` | **48.7k** |
+| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | `Cross` `CLI` | **48.9k** |
 | [Yarn](https://github.com/yarnpkg/berry) | 📦🐈 Active development trunk for Yarn ⚒ | `Cross` `CLI` | **7.7k** |
 
 # Entertainment - [Go to top](#contents)
@@ -575,7 +575,7 @@
 | --- | --- | --- | --- |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **3.6k** |
 | [Navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service | `Cross` `SelfHost` | **13.9k** |
-| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | `Cross` | **39.5k** |
+| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | `Cross` | **39.6k** |
 | [Supersonic](https://github.com/dweymouth/supersonic) | A lightweight and full-featured cross-platform desktop client for self-hosted music servers | `Cross` | **1.3k** |
 
 ### Graphics
@@ -596,14 +596,14 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. | `Cross` | **5.0k** |
-| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | `Cross` | **36.2k** |
+| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | `Cross` | **36.3k** |
 
 ### Media Downloader
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | `Cross` | **11.0k** |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | `Cross` `CLI` | **107.1k** |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | `Cross` `CLI` | **107.3k** |
 
 ### Screen Recording
 
@@ -629,7 +629,7 @@
 | --- | --- | --- | --- |
 | [IINA](https://github.com/iina/iina) | The modern video player for macOS. | `MacOS` | **40.0k** |
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | `Cross` | **30.3k** |
-| [VLC](https://github.com/videolan/vlc) | VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc | `Cross` | **15.2k** |
+| [VLC](https://github.com/videolan/vlc) | VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc | `Cross` | **15.3k** |
 
 ### Video Transcoder
 
@@ -697,8 +697,8 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | `Cross` `CLI` | **26.8k** |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | `MacOS` `Windows` `SelfHost` | **55.6k** |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | `Cross` `CLI` | **26.9k** |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | `MacOS` `Windows` `SelfHost` | **55.7k** |
 
 ### Finance
 
@@ -710,12 +710,12 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  | `Cross` | **49.5k** |
-| [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | `Cross` | **5.2k** |
+| [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  | `Cross` | **49.6k** |
+| [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | `Cross` | **5.3k** |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) 💰 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | `Cross` | **62.0k** |
-| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | `Cross` | **23.4k** |
+| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | `Cross` | **23.5k** |
 | [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap | `Cross` | **35.9k** |
-| [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | `Cross` | **31.5k** |
+| [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | `Cross` | **31.6k** |
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | `Cross` | **33.8k** |
 
 ### Project Management
@@ -728,7 +728,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | `Cross` | **13.3k** |
+| [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | `Cross` | **13.4k** |
 
 ### Time Management
 
@@ -764,7 +764,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden/server) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` `CLI+` `Mobile` `Chromium` `Firefox` | **16.4k** |
-| [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | `Cross` | **22.8k** |
+| [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | `Cross` | **22.9k** |
 | [LessPass](https://github.com/lesspass/lesspass) | :key: stateless open source password manager | `Cross` `CLI` `CLI+` `Chromium` `Firefox` | **5.8k** |
 | [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | **4.9k** |
 
@@ -773,7 +773,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Amnezia](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | `Cross` `CLI+` | **6.9k** |
-| [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | **13.1k** |
+| [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | **13.2k** |
 | [ProtonVPN](https://github.com/ProtonVPN/android-app) | Official ProtonVPN Android app | `Cross` `CLI+` | **2.6k** |
 
 # Server - [Go to top](#contents)
@@ -854,7 +854,7 @@
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | `Cross` `CLI` | **177.5k** |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. | `Cross` `CLI` | **10.7k** |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | `Cross` `CLI` | **25.9k** |
-| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | `Cross` `CLI` | **32.6k** |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | `Cross` `CLI` | **32.7k** |
 
 # Text - [Go to top](#contents)
 
@@ -934,7 +934,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | `MacOS` | **6.0k** |
+| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | `MacOS` | **6.1k** |
 
 ### Clipboard Manager
 
@@ -965,10 +965,10 @@
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | `Cross` | **12.2k** |
 | [If](https://github.com/gokcehan/lf) | Terminal file manager | `Cross` `CLI` | **8.1k** |
 | [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | `Cross` `CLI` | **16.1k** |
-| [Spacedrive](https://github.com/spacedriveapp/spacedrive) 🛑 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | `Cross` | **34.2k** |
+| [Spacedrive](https://github.com/spacedriveapp/spacedrive) 🛑 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | `Cross` | **34.3k** |
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | `Cross` | **13.4k** |
 | [xplr](https://github.com/sayanarijit/xplr) | A hackable, minimal, fast TUI file explorer | `Cross` `CLI` | **4.4k** |
-| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | `Cross` `CLI` | **23.9k** |
+| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | `Cross` `CLI` | **24.0k** |
 
 ### File Sharing
 
@@ -1007,7 +1007,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [RustDesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | `Cross` | **86.5k** |
+| [RustDesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | `Cross` | **86.6k** |
 
 ### System
 
@@ -1028,7 +1028,7 @@
 | --- | --- | --- | --- |
 | [balenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | `Cross` | **31.1k** |
 | [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to 'find' | `Cross` `CLI` | **37.4k** |
-| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | `Cross` `CLI` | **9.2k** |
+| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | `Cross` `CLI` | **9.3k** |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | `MacOS` | **29.6k** |
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab. | `Cross` | **3.1k** |
 | [rga](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | `Cross` `CLI` | **8.7k** |
@@ -1039,7 +1039,7 @@
 | --- | --- | --- | --- |
 | [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more | `Cross` `CLI` | **23.3k** |
 | [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | `Cross` `CLI` | **14.6k** |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | `Cross` `CLI` | **83.8k** |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | `Cross` `CLI` | **83.9k** |
 | [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management | `Cross` `CLI` | **41.6k** |
 | [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment | `Cross` `CLI` | **16.3k** |
 | [vfox](https://github.com/version-fox/vfox) | A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more | `Cross` `CLI` | **3.2k** |
@@ -1061,8 +1061,8 @@
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS | `MacOS` | **11.5k** |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS à la xmonad. | `MacOS` | **15.2k** |
 | [Loop](https://github.com/MrKai77/Loop) | Window management made elegant. | `MacOS` | **8.1k** |
-| [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | `MacOS` | **26.7k** |
-| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | `MacOS` | **25.4k** |
+| [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | `MacOS` | **26.8k** |
+| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | `MacOS` | **25.5k** |
 
 # Other - [Go to top](#contents)
 
