@@ -946,6 +946,7 @@
 | --- | --- | --- | --- |
 | [Colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | `Cross` `CLI` | **22.2k** |
 | [Dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager | `Cross` | **16.7k** |
+| [lazydocker](https://github.com/jesseduffield/lazydocker) |  | `Cross` `CLI` | **0** |
 
 ### Dotfiles Manager
 
