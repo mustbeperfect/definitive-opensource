@@ -1,6 +1,6 @@
 
 # Contributing Guidelines
-Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Table of Contents
 - [A Quick Note](a-quick-note)
@@ -9,7 +9,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - [How To Contribute](how-to-contribute)
 
 ## A Quick Note
-The scale of what this project is attempting to accomplish is one that can only be done collectively. All contributions are highly valued. For submission guidelines on projects, please consult the [submission guidelines](guidelines.md)
+The scale of what this project is attempting to accomplish is one that can only be done collectively. All contributions are highly valued. For submission guidelines on projects, please consult the [submission guidelines](GUIDELINES.md)
 
 >[!IMPORTANT]
 >When possible, please edit the file directly and start a pull request instead of raising an issue. DO NOT EDIT THE README. Edit applications.json.
