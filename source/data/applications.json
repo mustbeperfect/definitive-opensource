@@ -28,7 +28,7 @@
                 "MacOS",
                 "Windows"
             ],
-            "category": "agent",
+            "category": "context",
             "stars": 13265,
             "flags": [],
             "last_commit": "04/12/2025",
@@ -7089,6 +7089,22 @@
                 "CLI"
             ],
             "category": "git-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "omi",
+            "description": "",
+            "repo_url": "https://github.com/BasedHardware/omi",
+            "tags": [],
+            "platforms": [
+                "Mobile"
+            ],
+            "category": "context",
             "stars": 0,
             "flags": [],
             "last_commit": "",
