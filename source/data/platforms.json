@@ -1,0 +1,81 @@
+{
+	"platforms":
+	[
+		{
+			"name": "Cross",
+			"id": "cross"
+		},
+        {
+			"name": "Mobile",
+			"id": "mobile"
+		},
+        {
+			"name": "CLI+",
+			"id": "cli+"
+		},
+        {
+			"name": "CLI",
+			"id": "cli"
+		},
+        {
+			"name": "TUI",
+			"id": "tui"
+		},
+        {
+			"name": "Windows",
+			"id": "windows"
+		},
+        {
+			"name": "MacOS",
+			"id": "macos"
+		},
+        {
+			"name": "Linux",
+			"id": "linux"
+		},
+        {
+			"name": "Android",
+			"id": "android"
+		},
+        {
+			"name": "IOS",
+			"id": "ios"
+		},
+        {
+			"name": "SelfHost",
+			"id": "selfhost"
+		},
+        {
+			"name": "Web",
+			"id": "web"
+		},
+        {
+			"name": "VSCode",
+			"id": "vscode"
+		},
+        {
+			"name": "JetBrains",
+			"id": "jetbrains"
+		},
+        {
+			"name": "Chromium",
+			"id": "chromium"
+		},
+        {
+			"name": "Firefox",
+			"id": "firefox"
+		},
+        {
+			"name": "Plugin",
+			"id": "plugin"
+		},
+        {
+			"name": "Extension",
+			"id": "extension"
+		},
+        {
+			"name": "N/A",
+			"id": "n/a"
+		}
+	]
+}
