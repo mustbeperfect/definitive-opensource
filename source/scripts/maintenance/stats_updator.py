@@ -29,19 +29,21 @@ def update_application_data(app):
     if response.status_code == 200:
         repo_data = response.json()
 
-
         app['stars'] = repo_data.get('stargazers_count', app['stars'])
         app['language'] = repo_data.get('language', app['language'])
-        app['homepage_url'] = repo_data.get('homepage', app['homepage_url'])
+
+        if 'custom-homepage' not in app.get('flags', []):
+            app['homepage_url'] = repo_data.get('homepage', app['homepage_url'])
 
         if 'custom-description' not in app.get('flags', []):
             app['description'] = repo_data.get('description', app.get('description'))
         
-        license_data = repo_data.get('license')
-        if license_data is not None:
-            app['license'] = license_data.get('spdx_id', app['license'])
-        else:
-            app['license'] = app['license']
+        if 'custom-license' not in app.get('flags', []):
+            license_data = repo_data.get('license')
+            if license_data is not None:
+                app['license'] = license_data.get('spdx_id', app['license'])
+            else:
+                app['license'] = app['license']
         
         app['last_commit'] = datetime.strptime(repo_data['pushed_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%m/%d/%Y')
 

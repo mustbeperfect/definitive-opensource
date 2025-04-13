@@ -11,4 +11,8 @@
 `💡` - Innovative: Projects that "invent" something new
 
 ### Flags
-`custom-description` - For apps whose description is not from GitHub so that the `stats_updator.py` script skips updating it
+`custom-description` - stats updator script skips updating the description
+
+`custom-license` - stats updator script skips updating the license
+
+`custom-homepage` - stats updator script skips updating the homepage
