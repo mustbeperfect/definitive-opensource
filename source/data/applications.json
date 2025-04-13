@@ -6,7 +6,7 @@
             "repo_url": "https://github.com/OpenInterpreter/open-interpreter",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "agent",
             "stars": 59078,
@@ -25,8 +25,8 @@
                 "commercial"
             ],
             "platforms": [
-                "MacOS",
-                "Windows"
+                "macos",
+                "windows"
             ],
             "category": "context",
             "stars": 13265,
@@ -42,8 +42,8 @@
             "repo_url": "https://github.com/gptme/gptme",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "agent",
             "stars": 3716,
@@ -59,7 +59,7 @@
             "repo_url": "https://github.com/Canner/WrenAI",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 7447,
@@ -75,7 +75,7 @@
             "repo_url": "https://github.com/TEN-framework/TEN-Agent",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 5591,
@@ -91,7 +91,7 @@
             "repo_url": "https://github.com/huginn/huginn",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 45822,
@@ -107,7 +107,7 @@
             "repo_url": "https://github.com/reworkd/AgentGPT",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "agent",
             "stars": 33745,
@@ -123,7 +123,7 @@
             "repo_url": "https://github.com/Significant-Gravitas/AutoGPT",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 174379,
@@ -139,8 +139,8 @@
             "repo_url": "https://github.com/influxdata/telegraf",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "agent",
             "stars": 15501,
@@ -156,7 +156,7 @@
             "repo_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 151036,
@@ -172,7 +172,7 @@
             "repo_url": "https://github.com/comfyanonymous/ComfyUI",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 74041,
@@ -188,7 +188,7 @@
             "repo_url": "https://github.com/invoke-ai/InvokeAI",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "ai-image-gui",
             "stars": 24832,
@@ -204,7 +204,7 @@
             "repo_url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 10452,
@@ -222,7 +222,7 @@
             "repo_url": "https://github.com/lllyasviel/Fooocus",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 44275,
@@ -238,7 +238,7 @@
             "repo_url": "https://github.com/vladmandic/sdnext",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 6184,
@@ -254,7 +254,7 @@
             "repo_url": "https://github.com/lutzroeder/netron",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "ai-utilities",
             "stars": 29901,
@@ -270,8 +270,8 @@
             "repo_url": "https://github.com/sigoden/aichat",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "all-in-one",
             "stars": 6381,
@@ -287,7 +287,7 @@
             "repo_url": "https://github.com/lobehub/lobe-chat",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "all-in-one",
             "stars": 58782,
@@ -303,7 +303,7 @@
             "repo_url": "https://github.com/khoj-ai/khoj",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "all-in-one",
             "stars": 28619,
@@ -319,7 +319,7 @@
             "repo_url": "https://github.com/leon-ai/leon",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "assistant",
             "stars": 16151,
@@ -335,9 +335,9 @@
             "repo_url": "https://github.com/Zipstack/unstract",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "Linux",
-                "SelfHost"
+                "macos",
+                "linux",
+                "selfhost"
             ],
             "category": "information-processing",
             "stars": 5035,
@@ -353,7 +353,7 @@
             "repo_url": "https://github.com/mendableai/firecrawl",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "information-processing",
             "stars": 35368,
@@ -369,7 +369,7 @@
             "repo_url": "https://github.com/BuilderIO/gpt-crawler",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "information-processing",
             "stars": 21345,
@@ -385,8 +385,8 @@
             "repo_url": "https://github.com/mufeedvh/code2prompt",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "information-processing",
             "stars": 5360,
@@ -402,8 +402,8 @@
             "repo_url": "https://github.com/yamadashy/repomix",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "information-processing",
             "stars": 14527,
@@ -419,8 +419,8 @@
             "repo_url": "https://github.com/DS4SD/docling",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "information-processing",
             "stars": 26998,
@@ -436,7 +436,7 @@
             "repo_url": "https://github.com/open-webui/open-webui",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "llm-gui",
             "stars": 89110,
@@ -452,7 +452,7 @@
             "repo_url": "https://github.com/nomic-ai/gpt4all",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "llm-gui",
             "stars": 73082,
@@ -468,7 +468,7 @@
             "repo_url": "https://github.com/janhq/jan",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "llm-gui",
             "stars": 28431,
@@ -484,7 +484,7 @@
             "repo_url": "https://github.com/Bin-Huang/chatbox",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "llm-gui",
             "stars": 34084,
@@ -500,7 +500,7 @@
             "repo_url": "https://github.com/oobabooga/text-generation-webui",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "llm-gui",
             "stars": 43164,
@@ -516,7 +516,7 @@
             "repo_url": "https://github.com/CherryHQ/cherry-studio",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "llm-gui",
             "stars": 23104,
@@ -532,7 +532,7 @@
             "repo_url": "https://github.com/SillyTavern/SillyTavern",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "llm-gui",
             "stars": 13401,
@@ -548,9 +548,9 @@
             "repo_url": "https://github.com/ChatGPTNextWeb/NextChat",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "Web"
+                "cross",
+                "cli+",
+                "web"
             ],
             "category": "llm-gui",
             "stars": 82688,
@@ -566,7 +566,7 @@
             "repo_url": "https://github.com/danny-avila/LibreChat",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "llm-gui",
             "stars": 24416,
@@ -582,7 +582,7 @@
             "repo_url": "https://github.com/h2oai/h2ogpt",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "llm-gui",
             "stars": 11761,
@@ -600,9 +600,9 @@
                 "influential"
             ],
             "platforms": [
-                "Cross",
-                "CLI",
-                "SelfHost"
+                "cross",
+                "cli",
+                "selfhost"
             ],
             "category": "manager",
             "stars": 137071,
@@ -618,7 +618,7 @@
             "repo_url": "https://github.com/LykosAI/StabilityMatrix",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "manager",
             "stars": 5797,
@@ -634,8 +634,8 @@
             "repo_url": "https://github.com/hiyouga/LLaMA-Factory",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "model-tools",
             "stars": 46653,
@@ -651,8 +651,8 @@
             "repo_url": "https://github.com/Lightning-AI/pytorch-lightning",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "model-tools",
             "stars": 29286,
@@ -668,8 +668,8 @@
             "repo_url": "https://github.com/agno-agi/agno",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "model-tools",
             "stars": 24802,
@@ -685,7 +685,7 @@
             "repo_url": "https://github.com/Kiln-AI/Kiln",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "model-tools",
             "stars": 3362,
@@ -701,7 +701,7 @@
             "repo_url": "https://github.com/Mintplex-Labs/anything-llm",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "rag",
             "stars": 42709,
@@ -717,7 +717,7 @@
             "repo_url": "https://github.com/Cinnamon/kotaemon",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "rag",
             "stars": 21965,
@@ -733,7 +733,7 @@
             "repo_url": "https://github.com/weaviate/Verba",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "rag",
             "stars": 7025,
@@ -749,7 +749,7 @@
             "repo_url": "https://github.com/infiniflow/ragflow",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "rag",
             "stars": 48684,
@@ -765,8 +765,8 @@
             "repo_url": "https://github.com/Future-House/paper-qa",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "rag",
             "stars": 7159,
@@ -782,8 +782,8 @@
             "repo_url": "https://github.com/SciPhi-AI/R2R",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "rag",
             "stars": 6354,
@@ -799,7 +799,7 @@
             "repo_url": "https://github.com/pingcap/autoflow",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "rag",
             "stars": 2508,
@@ -815,8 +815,8 @@
             "repo_url": "https://github.com/arc53/DocsGPT",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "rag",
             "stars": 15536,
@@ -832,8 +832,8 @@
             "repo_url": "https://github.com/zilliztech/deep-searcher",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "research",
             "stars": 5400,
@@ -849,9 +849,9 @@
             "repo_url": "https://github.com/assafelovic/gpt-researcher",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "SelfHost"
+                "cross",
+                "cli+",
+                "selfhost"
             ],
             "category": "research",
             "stars": 20875,
@@ -867,7 +867,7 @@
             "repo_url": "https://github.com/signalapp/Signal-Android",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "chat",
             "stars": 26804,
@@ -883,7 +883,7 @@
             "repo_url": "https://github.com/telegramdesktop/tdesktop",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "chat",
             "stars": 27349,
@@ -899,8 +899,8 @@
             "repo_url": "https://github.com/simplex-chat/simplex-chat",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "chat",
             "stars": 8296,
@@ -916,7 +916,7 @@
             "repo_url": "https://github.com/mattermost/mattermost",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "collaboration",
             "stars": 32287,
@@ -932,8 +932,8 @@
             "repo_url": "https://github.com/zulip/zulip",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "collaboration",
             "stars": 22630,
@@ -949,8 +949,8 @@
             "repo_url": "https://github.com/RocketChat/Rocket.Chat",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "collaboration",
             "stars": 42450,
@@ -966,7 +966,7 @@
             "repo_url": "https://github.com/Foundry376/Mailspring",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "mail",
             "stars": 16215,
@@ -982,7 +982,7 @@
             "repo_url": "https://github.com/thunderbird/thunderbird-android",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "mail",
             "stars": 11727,
@@ -1000,8 +1000,8 @@
             "repo_url": "https://github.com/jitsi/jitsi-meet",
             "tags": [],
             "platforms": [
-                "CLI+",
-                "Web"
+                "cli+",
+                "web"
             ],
             "category": "video-conference",
             "stars": 25206,
@@ -1017,8 +1017,8 @@
             "repo_url": "https://github.com/element-hq/element-web",
             "tags": [],
             "platforms": [
-                "CLI+",
-                "Web"
+                "cli+",
+                "web"
             ],
             "category": "video-conference",
             "stars": 11653,
@@ -1034,8 +1034,8 @@
             "repo_url": "https://github.com/kopia/kopia",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "backup",
             "stars": 9237,
@@ -1051,8 +1051,8 @@
             "repo_url": "https://github.com/restic/restic",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "backup",
             "stars": 28219,
@@ -1068,7 +1068,7 @@
             "repo_url": "https://github.com/duplicati/duplicati",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "backup",
             "stars": 12106,
@@ -1084,8 +1084,8 @@
             "repo_url": "https://github.com/borgbackup/borg",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "backup",
             "stars": 11702,
@@ -1101,8 +1101,8 @@
             "repo_url": "https://github.com/rclone/rclone",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "backup",
             "stars": 49794,
@@ -1118,7 +1118,7 @@
             "repo_url": "https://github.com/linuxmint/timeshift",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "backup",
             "stars": 2994,
@@ -1134,8 +1134,8 @@
             "repo_url": "https://github.com/garethgeorge/backrest",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "backup",
             "stars": 2632,
@@ -1151,8 +1151,8 @@
             "repo_url": "https://github.com/gilbertchen/duplicacy",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "backup",
             "stars": 5390,
@@ -1168,8 +1168,8 @@
             "repo_url": "https://github.com/nextcloud/server",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "storage",
             "stars": 29215,
@@ -1185,9 +1185,9 @@
             "repo_url": "https://github.com/haiwen/seafile",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "SelfHost"
+                "cross",
+                "cli+",
+                "selfhost"
             ],
             "category": "storage",
             "stars": 12965,
@@ -1203,7 +1203,7 @@
             "repo_url": "https://github.com/owncloud/core",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "storage",
             "stars": 8499,
@@ -1219,7 +1219,7 @@
             "repo_url": "https://github.com/ceph/ceph",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "storage",
             "stars": 14871,
@@ -1235,7 +1235,7 @@
             "repo_url": "https://github.com/subnub/myDrive",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "storage",
             "stars": 3700,
@@ -1251,8 +1251,8 @@
             "repo_url": "https://github.com/syncthing/syncthing",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "sync",
             "stars": 69360,
@@ -1268,8 +1268,8 @@
             "repo_url": "https://github.com/syncthing/syncthing-macos",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "CLI+"
+                "macos",
+                "cli+"
             ],
             "category": "sync",
             "stars": 2955,
@@ -1285,8 +1285,8 @@
             "repo_url": "https://github.com/RsyncProject/rsync",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "sync",
             "stars": 3398,
@@ -1302,9 +1302,9 @@
             "repo_url": "https://github.com/TabbyML/tabby",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "VSCode",
-                "JetBrains"
+                "selfhost",
+                "vscode",
+                "jetbrains"
             ],
             "category": "code-assistant",
             "stars": 30781,
@@ -1320,8 +1320,8 @@
             "repo_url": "https://github.com/continuedev/continue",
             "tags": [],
             "platforms": [
-                "VSCode",
-                "JetBrains"
+                "vscode",
+                "jetbrains"
             ],
             "category": "code-assistant",
             "stars": 25482,
@@ -1337,7 +1337,7 @@
             "repo_url": "https://github.com/cline/cline",
             "tags": [],
             "platforms": [
-                "VSCode"
+                "vscode"
             ],
             "category": "code-assistant",
             "stars": 39734,
@@ -1353,8 +1353,8 @@
             "repo_url": "https://github.com/block/goose",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "code-assistant",
             "stars": 11611,
@@ -1370,8 +1370,8 @@
             "repo_url": "https://github.com/geekan/MetaGPT",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "code-assistant",
             "stars": 54482,
@@ -1387,7 +1387,7 @@
             "repo_url": "https://github.com/RooVetGit/Roo-Code",
             "tags": [],
             "platforms": [
-                "VSCode"
+                "vscode"
             ],
             "category": "code-assistant",
             "stars": 11142,
@@ -1403,8 +1403,8 @@
             "repo_url": "https://github.com/sourcegraph/cody",
             "tags": [],
             "platforms": [
-                "VSCode",
-                "JetBrains"
+                "vscode",
+                "jetbrains"
             ],
             "category": "code-assistant",
             "stars": 3525,
@@ -1420,8 +1420,8 @@
             "repo_url": "https://github.com/plandex-ai/plandex",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-assistant",
             "stars": 11464,
@@ -1437,8 +1437,8 @@
             "repo_url": "https://github.com/Pythagora-io/gpt-pilot",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-assistant",
             "stars": 32582,
@@ -1454,8 +1454,8 @@
             "repo_url": "https://github.com/Aider-AI/aider",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-assistant",
             "stars": 31089,
@@ -1471,8 +1471,8 @@
             "repo_url": "https://github.com/All-Hands-AI/OpenHands",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "code-assistant",
             "stars": 52767,
@@ -1490,8 +1490,8 @@
                 "corporate-influence"
             ],
             "platforms": [
-                "MacOS",
-                "Linux"
+                "macos",
+                "linux"
             ],
             "category": "code-editor",
             "stars": 56942,
@@ -1507,8 +1507,8 @@
             "repo_url": "https://github.com/helix-editor/helix",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 36885,
@@ -1524,7 +1524,7 @@
             "repo_url": "https://github.com/lapce/lapce",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "code-editor",
             "stars": 35112,
@@ -1542,8 +1542,8 @@
                 "influential"
             ],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 37949,
@@ -1559,8 +1559,8 @@
             "repo_url": "https://github.com/neovim/neovim",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 88580,
@@ -1576,8 +1576,8 @@
             "repo_url": "https://github.com/SpaceVim/SpaceVim",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 20373,
@@ -1593,8 +1593,8 @@
             "repo_url": "https://github.com/NvChad/NvChad",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 25922,
@@ -1610,8 +1610,8 @@
             "repo_url": "https://github.com/LazyVim/LazyVim",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "code-editor",
             "stars": 20070,
@@ -1627,7 +1627,7 @@
             "repo_url": "https://github.com/microsoft/vscode",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "code-editor",
             "stars": 169974,
@@ -1643,7 +1643,7 @@
             "repo_url": "https://github.com/VSCodium/vscodium",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "code-editor",
             "stars": 26967,
@@ -1659,7 +1659,7 @@
             "repo_url": "https://github.com/CodeEditApp/CodeEdit",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "code-editor",
             "stars": 21592,
@@ -1675,7 +1675,7 @@
             "repo_url": "https://github.com/coder/code-server",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "code-editor",
             "stars": 70826,
@@ -1691,8 +1691,8 @@
             "repo_url": "https://github.com/voideditor/void",
             "tags": [],
             "platforms": [
-                "Windows",
-                "MacOS"
+                "windows",
+                "macos"
             ],
             "category": "code-editor",
             "stars": 11630,
@@ -1710,7 +1710,7 @@
             "repo_url": "https://github.com/DevToys-app/DevToys",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "dev-tools",
             "stars": 28555,
@@ -1726,7 +1726,7 @@
             "repo_url": "https://github.com/massCodeIO/massCode",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "dev-tools",
             "stars": 6050,
@@ -1742,8 +1742,8 @@
             "repo_url": "https://github.com/watchexec/watchexec",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "dev-tools",
             "stars": 5887,
@@ -1759,8 +1759,8 @@
             "repo_url": "https://github.com/sharkdp/bat",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "dev-tools",
             "stars": 52155,
@@ -1776,7 +1776,7 @@
             "repo_url": "https://github.com/godotengine/godot",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "game-engine",
             "stars": 96102,
@@ -1792,7 +1792,7 @@
             "repo_url": "https://github.com/4ian/GDevelop",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "game-engine",
             "stars": 13642,
@@ -1808,7 +1808,7 @@
             "repo_url": "https://github.com/desktop/desktop",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "git-gui",
             "stars": 20396,
@@ -1824,7 +1824,7 @@
             "repo_url": "https://github.com/JetBrains/intellij-community",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "ide",
             "stars": 17830,
@@ -1840,8 +1840,8 @@
             "repo_url": "https://github.com/yarnpkg/berry",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "language-package-manager",
             "stars": 7675,
@@ -1857,8 +1857,8 @@
             "repo_url": "https://github.com/pnpm/pnpm",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "language-package-manager",
             "stars": 31318,
@@ -1874,8 +1874,8 @@
             "repo_url": "https://github.com/oven-sh/bun",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "language-package-manager",
             "stars": 77446,
@@ -1891,8 +1891,8 @@
             "repo_url": "https://github.com/astral-sh/uv",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "language-package-manager",
             "stars": 49234,
@@ -1908,7 +1908,7 @@
             "repo_url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "game-launcher",
             "stars": 9000,
@@ -1924,7 +1924,7 @@
             "repo_url": "https://github.com/JosefNemec/Playnite",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "game-launcher",
             "stars": 10435,
@@ -1940,7 +1940,7 @@
             "repo_url": "https://github.com/rommapp/romm",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "game-launcher",
             "stars": 3532,
@@ -1956,7 +1956,7 @@
             "repo_url": "https://github.com/pelican-dev/panel",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "game-launcher",
             "stars": 1230,
@@ -1974,7 +1974,7 @@
             "repo_url": "https://github.com/endless-sky/endless-sky",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "games",
             "stars": 6449,
@@ -1990,7 +1990,7 @@
             "repo_url": "https://github.com/CleverRaven/Cataclysm-DDA",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "games",
             "stars": 11178,
@@ -2006,8 +2006,8 @@
             "repo_url": "https://github.com/yairm210/Unciv",
             "tags": [],
             "platforms": [
-                "Cross",
-                "Android"
+                "cross",
+                "android"
             ],
             "category": "games",
             "stars": 9082,
@@ -2023,7 +2023,7 @@
             "repo_url": "https://github.com/wesnoth/wesnoth",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "games",
             "stars": 5879,
@@ -2039,7 +2039,7 @@
             "repo_url": "https://github.com/veloren/veloren",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "games",
             "stars": 6243,
@@ -2055,7 +2055,7 @@
             "repo_url": "https://github.com/lichess-org/lila",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "games",
             "stars": 16472,
@@ -2071,7 +2071,7 @@
             "repo_url": "https://github.com/OpenRA/OpenRA",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "games",
             "stars": 15452,
@@ -2087,8 +2087,8 @@
             "repo_url": "https://github.com/gorhill/uBlock",
             "tags": [],
             "platforms": [
-                "Chromium",
-                "Firefox"
+                "chromium",
+                "firefox"
             ],
             "category": "browser-extensions",
             "stars": 52682,
@@ -2104,8 +2104,8 @@
             "repo_url": "https://github.com/darkreader/darkreader",
             "tags": [],
             "platforms": [
-                "Chromium",
-                "Firefox"
+                "chromium",
+                "firefox"
             ],
             "category": "browser-extensions",
             "stars": 20522,
@@ -2121,8 +2121,8 @@
             "repo_url": "https://github.com/n4ze3m/page-assist",
             "tags": [],
             "platforms": [
-                "Chromium",
-                "Firefox"
+                "chromium",
+                "firefox"
             ],
             "category": "browser-extensions",
             "stars": 6202,
@@ -2138,7 +2138,7 @@
             "repo_url": "https://github.com/mfussenegger/nvim-dap",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "neovim-extensions",
             "stars": 6173,
@@ -2154,7 +2154,7 @@
             "repo_url": "https://github.com/ms-jpq/coq_nvim",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "neovim-extensions",
             "stars": 3667,
@@ -2170,7 +2170,7 @@
             "repo_url": "https://github.com/nvim-neorg/neorg",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "neovim-extensions",
             "stars": 6812,
@@ -2186,7 +2186,7 @@
             "repo_url": "https://github.com/vimwiki/vimwiki",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "neovim-extensions",
             "stars": 9020,
@@ -2202,7 +2202,7 @@
             "repo_url": "https://github.com/neovide/neovide",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "ide",
             "stars": 13868,
@@ -2218,7 +2218,7 @@
             "repo_url": "https://github.com/folke/lazy.nvim",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "neovim-extensions",
             "stars": 16995,
@@ -2234,7 +2234,7 @@
             "repo_url": "https://github.com/zen-browser/desktop",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "browser",
             "stars": 28625,
@@ -2250,7 +2250,7 @@
             "repo_url": "https://github.com/brave/brave-browser",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "browser",
             "stars": 19062,
@@ -2266,7 +2266,7 @@
             "repo_url": "https://github.com/Floorp-Projects/Floorp",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "browser",
             "stars": 7203,
@@ -2282,7 +2282,7 @@
             "repo_url": "https://github.com/minbrowser/min",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "browser",
             "stars": 8310,
@@ -2298,7 +2298,7 @@
             "repo_url": "https://github.com/lencx/Noi",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "browser",
             "stars": 7371,
@@ -2314,7 +2314,7 @@
             "repo_url": "https://github.com/m1k1o/neko",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "browser",
             "stars": 10026,
@@ -2330,7 +2330,7 @@
             "repo_url": "https://github.com/GopeedLab/gopeed",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "download-manager",
             "stars": 18765,
@@ -2346,7 +2346,7 @@
             "repo_url": "https://github.com/amir1376/ab-download-manager",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "download-manager",
             "stars": 6993,
@@ -2362,7 +2362,7 @@
             "repo_url": "https://github.com/persepolisdm/persepolis",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "download-manager",
             "stars": 6474,
@@ -2378,7 +2378,7 @@
             "repo_url": "https://github.com/filecxx/FileCentipede",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "download-manager",
             "stars": 10316,
@@ -2394,7 +2394,7 @@
             "repo_url": "https://github.com/ItzCrazyKns/Perplexica",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "search-engine",
             "stars": 21278,
@@ -2410,8 +2410,8 @@
             "repo_url": "https://github.com/zaidmukaddam/scira",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "search-engine",
             "stars": 7616,
@@ -2427,7 +2427,7 @@
             "repo_url": "https://github.com/audacity/audacity",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "audio-editor",
             "stars": 13393,
@@ -2443,7 +2443,7 @@
             "repo_url": "https://github.com/stakira/OpenUtau",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "audio-editor",
             "stars": 2542,
@@ -2459,7 +2459,7 @@
             "repo_url": "https://github.com/KRTirtho/spotube",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "audio-player",
             "stars": 39627,
@@ -2475,8 +2475,8 @@
             "repo_url": "https://github.com/jeffvli/feishin",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "audio-player",
             "stars": 3639,
@@ -2492,7 +2492,7 @@
             "repo_url": "https://github.com/dweymouth/supersonic",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "audio-player",
             "stars": 1275,
@@ -2508,8 +2508,8 @@
             "repo_url": "https://github.com/navidrome/navidrome",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "audio-player",
             "stars": 13957,
@@ -2525,7 +2525,7 @@
             "repo_url": "https://github.com/GraphiteEditor/Graphite",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "graphics",
             "stars": 11478,
@@ -2541,7 +2541,7 @@
             "repo_url": "https://github.com/FreeCAD/FreeCAD",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 23890,
@@ -2557,7 +2557,7 @@
             "repo_url": "https://github.com/blender/blender",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 14819,
@@ -2573,7 +2573,7 @@
             "repo_url": "https://github.com/gaphor/gaphor",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 2006,
@@ -2589,7 +2589,7 @@
             "repo_url": "https://github.com/darktable-org/darktable",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 10639,
@@ -2605,7 +2605,7 @@
             "repo_url": "https://github.com/RawTherapee/RawTherapee",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 3210,
@@ -2621,7 +2621,7 @@
             "repo_url": "https://github.com/penpot/penpot",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "graphics",
             "stars": 37392,
@@ -2637,7 +2637,7 @@
             "repo_url": "https://github.com/openscad/openscad",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 7701,
@@ -2653,7 +2653,7 @@
             "repo_url": "https://github.com/CadQuery/cadquery",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 3605,
@@ -2669,7 +2669,7 @@
             "repo_url": "https://github.com/KDE/krita",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "graphics",
             "stars": 8036,
@@ -2685,7 +2685,7 @@
             "repo_url": "https://github.com/upscayl/upscayl",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "image-processing",
             "stars": 36294,
@@ -2701,7 +2701,7 @@
             "repo_url": "https://github.com/chaiNNer-org/chaiNNer",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "image-processing",
             "stars": 5010,
@@ -2717,8 +2717,8 @@
             "repo_url": "https://github.com/yt-dlp/yt-dlp",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "media-downloader",
             "stars": 107451,
@@ -2734,7 +2734,7 @@
             "repo_url": "https://github.com/Tyrrrz/YoutubeDownloader",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "media-downloader",
             "stars": 11063,
@@ -2750,7 +2750,7 @@
             "repo_url": "https://github.com/imputnet/cobalt",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "media-downloader",
             "stars": 30569,
@@ -2766,7 +2766,7 @@
             "repo_url": "https://github.com/obsproject/obs-studio",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "screen-recording",
             "stars": 63471,
@@ -2782,7 +2782,7 @@
             "repo_url": "https://github.com/ShareX/ShareX",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "screen-recording",
             "stars": 31929,
@@ -2798,7 +2798,7 @@
             "repo_url": "https://github.com/CapSoftware/Cap",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "screen-recording",
             "stars": 7417,
@@ -2814,7 +2814,7 @@
             "repo_url": "https://github.com/flameshot-org/flameshot",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "screen-recording",
             "stars": 25949,
@@ -2830,7 +2830,7 @@
             "repo_url": "https://github.com/KDE/kdenlive",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-editing",
             "stars": 3652,
@@ -2846,7 +2846,7 @@
             "repo_url": "https://github.com/mltframework/shotcut",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-editing",
             "stars": 11758,
@@ -2862,7 +2862,7 @@
             "repo_url": "https://github.com/olive-editor/olive",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-editing",
             "stars": 8484,
@@ -2878,7 +2878,7 @@
             "repo_url": "https://github.com/mifi/lossless-cut",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-editing",
             "stars": 30616,
@@ -2894,7 +2894,7 @@
             "repo_url": "https://github.com/NatronGitHub/Natron",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-editing",
             "stars": 4884,
@@ -2910,7 +2910,7 @@
             "repo_url": "https://github.com/mpv-player/mpv",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-player",
             "stars": 30296,
@@ -2926,7 +2926,7 @@
             "repo_url": "https://github.com/iina/iina",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "video-player",
             "stars": 39983,
@@ -2942,7 +2942,7 @@
             "repo_url": "https://github.com/videolan/vlc",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-player",
             "stars": 15279,
@@ -2958,7 +2958,7 @@
             "repo_url": "https://github.com/HandBrake/HandBrake",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "video-transcoder",
             "stars": 19222,
@@ -2974,7 +2974,7 @@
             "repo_url": "https://github.com/Fallenbagel/jellyseerr",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "arr",
             "stars": 5036,
@@ -2990,8 +2990,8 @@
             "repo_url": "https://github.com/autobrr/autobrr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 1755,
@@ -3007,9 +3007,9 @@
             "repo_url": "https://github.com/sct/overseerr",
             "tags": [],
             "platforms": [
-                "Windows",
-                "Linux",
-                "SelfHost"
+                "windows",
+                "linux",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 4384,
@@ -3025,8 +3025,8 @@
             "repo_url": "https://github.com/Sonarr/Sonarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 11626,
@@ -3042,8 +3042,8 @@
             "repo_url": "https://github.com/Prowlarr/Prowlarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 4656,
@@ -3059,8 +3059,8 @@
             "repo_url": "https://github.com/Radarr/Radarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 11318,
@@ -3076,8 +3076,8 @@
             "repo_url": "https://github.com/Readarr/Readarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 3140,
@@ -3093,8 +3093,8 @@
             "repo_url": "https://github.com/Lidarr/Lidarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 4014,
@@ -3110,8 +3110,8 @@
             "repo_url": "https://github.com/morpheus65535/bazarr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "arr",
             "stars": 3139,
@@ -3127,7 +3127,7 @@
             "repo_url": "https://github.com/cockpit-project/cockpit",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "dashboard",
             "stars": 11906,
@@ -3143,7 +3143,7 @@
             "repo_url": "https://github.com/glanceapp/glance",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 22341,
@@ -3159,7 +3159,7 @@
             "repo_url": "https://github.com/Lissy93/dashy",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 20366,
@@ -3175,7 +3175,7 @@
             "repo_url": "https://github.com/gethomepage/homepage",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 22837,
@@ -3191,7 +3191,7 @@
             "repo_url": "https://github.com/MauriceNino/dashdot",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 2883,
@@ -3207,7 +3207,7 @@
             "repo_url": "https://github.com/linuxserver/Heimdall",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 8302,
@@ -3223,7 +3223,7 @@
             "repo_url": "https://github.com/bastienwirtz/homer",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "dashboard",
             "stars": 10006,
@@ -3239,8 +3239,8 @@
             "repo_url": "https://github.com/home-assistant/core",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "home-automation",
             "stars": 78044,
@@ -3256,7 +3256,7 @@
             "repo_url": "https://github.com/domoticz/domoticz",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-automation",
             "stars": 3580,
@@ -3272,7 +3272,7 @@
             "repo_url": "https://github.com/GladysAssistant/Gladys",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-automation",
             "stars": 2792,
@@ -3288,7 +3288,7 @@
             "repo_url": "https://github.com/esphome/esphome",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-automation",
             "stars": 9170,
@@ -3304,7 +3304,7 @@
             "repo_url": "https://github.com/runtipi/runtipi",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-server",
             "stars": 8374,
@@ -3320,7 +3320,7 @@
             "repo_url": "https://github.com/caprover/caprover",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "home-server",
             "stars": 13879,
@@ -3336,7 +3336,7 @@
             "repo_url": "https://github.com/IceWhaleTech/CasaOS",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "home-server",
             "stars": 29341,
@@ -3352,7 +3352,7 @@
             "repo_url": "https://github.com/azukaar/Cosmos-Server",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-server",
             "stars": 4400,
@@ -3368,7 +3368,7 @@
             "repo_url": "https://github.com/sandstorm-io/sandstorm",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "home-server",
             "stars": 6835,
@@ -3384,7 +3384,7 @@
             "repo_url": "https://github.com/immich-app/immich",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 63442,
@@ -3400,7 +3400,7 @@
             "repo_url": "https://github.com/photoprism/photoprism",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 36955,
@@ -3416,7 +3416,7 @@
             "repo_url": "https://github.com/jellyfin/jellyfin",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 38694,
@@ -3432,7 +3432,7 @@
             "repo_url": "https://github.com/ente-io/ente",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "media-management",
             "stars": 18775,
@@ -3448,8 +3448,8 @@
             "repo_url": "https://github.com/xbmc/xbmc",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 19178,
@@ -3465,9 +3465,9 @@
             "repo_url": "https://github.com/advplyr/audiobookshelf",
             "tags": [],
             "platforms": [
-                "IOS",
-                "Android",
-                "SelfHost"
+                "ios",
+                "android",
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 8320,
@@ -3483,7 +3483,7 @@
             "repo_url": "https://github.com/pulsejet/memories",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 3452,
@@ -3499,7 +3499,7 @@
             "repo_url": "https://github.com/Librum-Reader/Librum",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 4440,
@@ -3515,7 +3515,7 @@
             "repo_url": "https://github.com/LibrePhotos/librephotos",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 7250,
@@ -3531,7 +3531,7 @@
             "repo_url": "https://github.com/Kareadita/Kavita",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 7461,
@@ -3547,7 +3547,7 @@
             "repo_url": "https://github.com/Piwigo/Piwigo",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 3422,
@@ -3563,7 +3563,7 @@
             "repo_url": "https://github.com/janeczku/calibre-web",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 14351,
@@ -3579,7 +3579,7 @@
             "repo_url": "https://github.com/LycheeOrg/Lychee",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "media-management",
             "stars": 3627,
@@ -3595,7 +3595,7 @@
             "repo_url": "https://github.com/koush/scrypted",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "surveillance",
             "stars": 4708,
@@ -3611,7 +3611,7 @@
             "repo_url": "https://github.com/blakeblackshear/frigate",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "surveillance",
             "stars": 21978,
@@ -3627,7 +3627,7 @@
             "repo_url": "https://github.com/ZoneMinder/zoneminder",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "surveillance",
             "stars": 5417,
@@ -3643,7 +3643,7 @@
             "repo_url": "https://github.com/marticliment/UniGetUI",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "windows",
             "stars": 15474,
@@ -3659,7 +3659,7 @@
             "repo_url": "https://github.com/TheBoredTeam/boring.notch",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 3024,
@@ -3677,7 +3677,7 @@
                 "slowed"
             ],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 18095,
@@ -3693,7 +3693,7 @@
             "repo_url": "https://github.com/buresdv/Cork",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 3002,
@@ -3709,7 +3709,7 @@
             "repo_url": "https://github.com/milanvarady/Applite",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "macos",
             "stars": 4840,
@@ -3725,7 +3725,7 @@
             "repo_url": "https://github.com/newmarcel/KeepingYouAwake",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 5808,
@@ -3741,7 +3741,7 @@
             "repo_url": "https://github.com/lwouis/alt-tab-macos",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 12131,
@@ -3757,7 +3757,7 @@
             "repo_url": "https://github.com/FelixKratz/SketchyBar",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 8394,
@@ -3773,7 +3773,7 @@
             "repo_url": "https://github.com/swiftbar/SwiftBar",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 3192,
@@ -3789,7 +3789,7 @@
             "repo_url": "https://github.com/alin23/Lunar",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 4981,
@@ -3805,7 +3805,7 @@
             "repo_url": "https://github.com/linearmouse/linearmouse",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 4416,
@@ -3821,7 +3821,7 @@
             "repo_url": "https://github.com/jacklandrin/OnlySwitch",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 4563,
@@ -3837,7 +3837,7 @@
             "repo_url": "https://github.com/leits/MeetingBar",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 4738,
@@ -3853,7 +3853,7 @@
             "repo_url": "https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 3039,
@@ -3869,7 +3869,7 @@
             "repo_url": "https://github.com/tchx84/Flatseal",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "linux",
             "stars": 1299,
@@ -3885,7 +3885,7 @@
             "repo_url": "https://github.com/mjakeman/extension-manager",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "linux",
             "stars": 1112,
@@ -3901,7 +3901,7 @@
             "repo_url": "https://github.com/HeyPuter/puter",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "operating-system",
             "stars": 30143,
@@ -3917,7 +3917,7 @@
             "repo_url": "https://github.com/getumbrel/umbrel",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "operating-system",
             "stars": 8652,
@@ -3933,7 +3933,7 @@
             "repo_url": "https://github.com/openmediavault/openmediavault",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "operating-system",
             "stars": 5603,
@@ -3949,7 +3949,7 @@
             "repo_url": "https://github.com/YunoHost/yunohost",
             "tags": [],
             "platforms": [
-                "N/A"
+                "n/a"
             ],
             "category": "operating-system",
             "stars": 2412,
@@ -3965,8 +3965,8 @@
             "repo_url": "https://github.com/jarun/buku",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "bookmark-manager",
             "stars": 6682,
@@ -3982,7 +3982,7 @@
             "repo_url": "https://github.com/linkwarden/linkwarden",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "bookmark-manager",
             "stars": 11137,
@@ -3998,7 +3998,7 @@
             "repo_url": "https://github.com/sissbruecker/linkding",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "bookmark-manager",
             "stars": 7981,
@@ -4014,7 +4014,7 @@
             "repo_url": "https://github.com/hoarder-app/hoarder",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "bookmark-manager",
             "stars": 14979,
@@ -4030,7 +4030,7 @@
             "repo_url": "https://github.com/go-shiori/shiori",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "bookmark-manager",
             "stars": 10238,
@@ -4046,7 +4046,7 @@
             "repo_url": "https://github.com/wallabag/wallabag",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "bookmark-manager",
             "stars": 11133,
@@ -4062,9 +4062,9 @@
             "repo_url": "https://github.com/eikek/docspell",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "CLI+",
-                "Android"
+                "selfhost",
+                "cli+",
+                "android"
             ],
             "category": "document-management",
             "stars": 1781,
@@ -4080,7 +4080,7 @@
             "repo_url": "https://github.com/paperless-ngx/paperless-ngx",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "document-management",
             "stars": 26314,
@@ -4096,7 +4096,7 @@
             "repo_url": "https://github.com/tagspaces/tagspaces",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "document-management",
             "stars": 4137,
@@ -4112,7 +4112,7 @@
             "repo_url": "https://github.com/calcom/cal.com",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "calendar",
             "stars": 35628,
@@ -4128,9 +4128,9 @@
             "repo_url": "https://github.com/Stirling-Tools/Stirling-PDF",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "Windows",
-                "SelfHost"
+                "macos",
+                "windows",
+                "selfhost"
             ],
             "category": "document-modifier",
             "stars": 55763,
@@ -4146,7 +4146,7 @@
             "repo_url": "https://github.com/docusealco/docuseal",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "document-modifier",
             "stars": 8980,
@@ -4162,8 +4162,8 @@
             "repo_url": "https://github.com/ocrmypdf/OCRmyPDF",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "document-modifier",
             "stars": 27090,
@@ -4179,8 +4179,8 @@
             "repo_url": "https://github.com/documenso/documenso",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "document-modifier",
             "stars": 10733,
@@ -4196,8 +4196,8 @@
             "repo_url": "https://github.com/OpenSignLabs/OpenSign",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "document-modifier",
             "stars": 4504,
@@ -4213,7 +4213,7 @@
             "repo_url": "https://github.com/maybe-finance/maybe",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "finance",
             "stars": 42714,
@@ -4229,8 +4229,8 @@
             "repo_url": "https://github.com/actualbudget/actual",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Cross"
+                "selfhost",
+                "cross"
             ],
             "category": "finance",
             "stars": 18321,
@@ -4246,7 +4246,7 @@
             "repo_url": "https://github.com/ghostfolio/ghostfolio",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "finance",
             "stars": 5606,
@@ -4262,7 +4262,7 @@
             "repo_url": "https://github.com/ellite/Wallos",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "finance",
             "stars": 4299,
@@ -4278,7 +4278,7 @@
             "repo_url": "https://github.com/firefly-iii/firefly-iii",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "finance",
             "stars": 18675,
@@ -4294,7 +4294,7 @@
             "repo_url": "https://github.com/logseq/logseq",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 35958,
@@ -4310,7 +4310,7 @@
             "repo_url": "https://github.com/anyproto/anytype-ts",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 5275,
@@ -4328,7 +4328,7 @@
                 "commercial"
             ],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 62056,
@@ -4344,7 +4344,7 @@
             "repo_url": "https://github.com/toeverything/AFFiNE",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 49627,
@@ -4360,7 +4360,7 @@
             "repo_url": "https://github.com/outline/outline",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 31575,
@@ -4376,7 +4376,7 @@
             "repo_url": "https://github.com/siyuan-note/siyuan",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 33824,
@@ -4392,7 +4392,7 @@
             "repo_url": "https://github.com/labring/FastGPT",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "knowledge-base",
             "stars": 23504,
@@ -4408,7 +4408,7 @@
             "repo_url": "https://github.com/foambubble/foam",
             "tags": [],
             "platforms": [
-                "VSCode"
+                "vscode"
             ],
             "category": "knowledge-base",
             "stars": 15873,
@@ -4424,8 +4424,8 @@
             "repo_url": "https://github.com/makeplane/plane",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "project-management",
             "stars": 35251,
@@ -4441,8 +4441,8 @@
             "repo_url": "https://github.com/mattermost-community/focalboard",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "project-management",
             "stars": 23173,
@@ -4458,8 +4458,8 @@
             "repo_url": "https://github.com/hcengineering/platform",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "project-management",
             "stars": 20164,
@@ -4475,7 +4475,7 @@
             "repo_url": "https://github.com/opf/openproject",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "project-management",
             "stars": 10362,
@@ -4491,7 +4491,7 @@
             "repo_url": "https://github.com/Leantime/leantime",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "project-management",
             "stars": 5237,
@@ -4507,7 +4507,7 @@
             "repo_url": "https://github.com/johannesjo/super-productivity",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "task-management",
             "stars": 13376,
@@ -4523,8 +4523,8 @@
             "repo_url": "https://github.com/plankanban/planka",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "CLI+"
+                "selfhost",
+                "cli+"
             ],
             "category": "task-management",
             "stars": 8962,
@@ -4540,8 +4540,8 @@
             "repo_url": "https://github.com/solidtime-io/solidtime",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "time-management",
             "stars": 5380,
@@ -4557,8 +4557,8 @@
             "repo_url": "https://github.com/ActivityWatch/activitywatch",
             "tags": [],
             "platforms": [
-                "Cross",
-                "Android"
+                "cross",
+                "android"
             ],
             "category": "time-management",
             "stars": 13932,
@@ -4574,7 +4574,7 @@
             "repo_url": "https://github.com/0xERR0R/blocky",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ad-blocker",
             "stars": 5237,
@@ -4590,10 +4590,10 @@
             "repo_url": "https://github.com/AdguardTeam/AdGuardHome",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "CLI+",
-                "Chromium",
-                "Firefox"
+                "selfhost",
+                "cli+",
+                "chromium",
+                "firefox"
             ],
             "category": "ad-blocker",
             "stars": 27887,
@@ -4609,7 +4609,7 @@
             "repo_url": "https://github.com/pi-hole/pi-hole",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "ad-blocker",
             "stars": 51456,
@@ -4625,8 +4625,8 @@
             "repo_url": "https://github.com/Cisco-Talos/clamav",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost"
+                "cross",
+                "selfhost"
             ],
             "category": "antivirus",
             "stars": 4930,
@@ -4642,7 +4642,7 @@
             "repo_url": "https://github.com/Bubka/2FAuth",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "authentication",
             "stars": 2677,
@@ -4658,7 +4658,7 @@
             "repo_url": "https://github.com/authelia/authelia",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "authentication",
             "stars": 23413,
@@ -4674,7 +4674,7 @@
             "repo_url": "https://github.com/tailscale/tailscale",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "authentication",
             "stars": 22043,
@@ -4690,7 +4690,7 @@
             "repo_url": "https://github.com/beemdevelopment/Aegis",
             "tags": [],
             "platforms": [
-                "Android"
+                "android"
             ],
             "category": "authentication",
             "stars": 10075,
@@ -4706,7 +4706,7 @@
             "repo_url": "https://github.com/bunkerity/bunkerweb",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "firewall",
             "stars": 7808,
@@ -4722,7 +4722,7 @@
             "repo_url": "https://github.com/chaitin/SafeLine",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "firewall",
             "stars": 16041,
@@ -4738,11 +4738,11 @@
             "repo_url": "https://github.com/bitwarden/server",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "Mobile",
-                "Chromium",
-                "Firefox"
+                "cross",
+                "cli+",
+                "mobile",
+                "chromium",
+                "firefox"
             ],
             "category": "password-manager",
             "stars": 16382,
@@ -4760,7 +4760,7 @@
             "repo_url": "https://github.com/keepassxreboot/keepassxc",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "password-manager",
             "stars": 22872,
@@ -4776,7 +4776,7 @@
             "repo_url": "https://github.com/dani-garcia/vaultwarden",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "password-manager",
             "stars": 43445,
@@ -4792,11 +4792,11 @@
             "repo_url": "https://github.com/lesspass/lesspass",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI",
-                "CLI+",
-                "Chromium",
-                "Firefox"
+                "cross",
+                "cli",
+                "cli+",
+                "chromium",
+                "firefox"
             ],
             "category": "password-manager",
             "stars": 5835,
@@ -4812,12 +4812,12 @@
             "repo_url": "https://github.com/passbolt/passbolt_api",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "SelfHost",
-                "CLI+",
-                "Chromium",
-                "Firefox"
+                "cross",
+                "cli+",
+                "selfhost",
+                "cli+",
+                "chromium",
+                "firefox"
             ],
             "category": "password-manager",
             "stars": 4949,
@@ -4833,8 +4833,8 @@
             "repo_url": "https://github.com/amnezia-vpn/amnezia-client",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "vpn",
             "stars": 6907,
@@ -4850,7 +4850,7 @@
             "repo_url": "https://github.com/netbirdio/netbird",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "vpn",
             "stars": 13205,
@@ -4866,8 +4866,8 @@
             "repo_url": "https://github.com/ProtonVPN/android-app",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "vpn",
             "stars": 2627,
@@ -4883,8 +4883,8 @@
             "repo_url": "https://github.com/fish-shell/fish-shell",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "shell",
             "stars": 29503,
@@ -4900,8 +4900,8 @@
             "repo_url": "https://github.com/xonsh/xonsh",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "shell",
             "stars": 8716,
@@ -4917,8 +4917,8 @@
             "repo_url": "https://github.com/nushell/nushell",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "shell",
             "stars": 34723,
@@ -4934,7 +4934,7 @@
             "repo_url": "https://github.com/kovidgoyal/kitty",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 27029,
@@ -4950,7 +4950,7 @@
             "repo_url": "https://github.com/wez/wezterm",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 19906,
@@ -4966,7 +4966,7 @@
             "repo_url": "https://github.com/wavetermdev/waveterm",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 9908,
@@ -4982,7 +4982,7 @@
             "repo_url": "https://github.com/alacritty/alacritty",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 58303,
@@ -4998,7 +4998,7 @@
             "repo_url": "https://github.com/Eugeny/tabby",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 62997,
@@ -5014,7 +5014,7 @@
             "repo_url": "https://github.com/raphamorim/rio",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "terminal-emulator",
             "stars": 4975,
@@ -5030,8 +5030,8 @@
             "repo_url": "https://github.com/zellij-org/zellij",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-multiplexer",
             "stars": 23863,
@@ -5047,8 +5047,8 @@
             "repo_url": "https://github.com/tmux/tmux",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-multiplexer",
             "stars": 37075,
@@ -5064,8 +5064,8 @@
             "repo_url": "https://github.com/atuinsh/atuin",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 23215,
@@ -5081,8 +5081,8 @@
             "repo_url": "https://github.com/ohmyzsh/ohmyzsh",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 177588,
@@ -5098,8 +5098,8 @@
             "repo_url": "https://github.com/cantino/mcfly",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 7193,
@@ -5115,8 +5115,8 @@
             "repo_url": "https://github.com/ajeetdsouza/zoxide",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 25882,
@@ -5132,8 +5132,8 @@
             "repo_url": "https://github.com/zsh-users/zsh-autosuggestions",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 32675,
@@ -5149,8 +5149,8 @@
             "repo_url": "https://github.com/TheR1D/shell_gpt",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "terminal-utilities",
             "stars": 10673,
@@ -5166,8 +5166,8 @@
             "repo_url": "https://github.com/ether/etherpad-lite",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "document-editor",
             "stars": 17324,
@@ -5183,7 +5183,7 @@
             "repo_url": "https://github.com/Zettlr/Zettlr",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "markdown-editor",
             "stars": 10890,
@@ -5199,7 +5199,7 @@
             "repo_url": "https://github.com/hedgedoc/hedgedoc",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "markdown-editor",
             "stars": 5847,
@@ -5215,7 +5215,7 @@
             "repo_url": "https://github.com/laurent22/joplin",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 48707,
@@ -5231,7 +5231,7 @@
             "repo_url": "https://github.com/streetwriters/notesnook",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 11586,
@@ -5247,9 +5247,9 @@
             "repo_url": "https://github.com/standardnotes/app",
             "tags": [],
             "platforms": [
-                "Cross",
-                "IOS",
-                "Android"
+                "cross",
+                "ios",
+                "android"
             ],
             "category": "note-taking",
             "stars": 5669,
@@ -5265,9 +5265,9 @@
             "repo_url": "https://github.com/Automattic/simplenote-electron",
             "tags": [],
             "platforms": [
-                "Cross",
-                "IOS",
-                "Android"
+                "cross",
+                "ios",
+                "android"
             ],
             "category": "note-taking",
             "stars": 4976,
@@ -5283,7 +5283,7 @@
             "repo_url": "https://github.com/windingwind/zotero-better-notes",
             "tags": [],
             "platforms": [
-                "`Plugin`"
+                "`plugin`"
             ],
             "category": "note-taking",
             "stars": 6174,
@@ -5299,7 +5299,7 @@
             "repo_url": "https://github.com/usememos/memos",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "note-taking",
             "stars": 38852,
@@ -5315,7 +5315,7 @@
             "repo_url": "https://github.com/blinko-space/blinko",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "note-taking",
             "stars": 3146,
@@ -5331,7 +5331,7 @@
             "repo_url": "https://github.com/flxzt/rnote",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 9252,
@@ -5347,7 +5347,7 @@
             "repo_url": "https://github.com/silverbulletmd/silverbullet",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 3211,
@@ -5363,7 +5363,7 @@
             "repo_url": "https://github.com/reorproject/reor",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 7823,
@@ -5379,7 +5379,7 @@
             "repo_url": "https://github.com/vnotex/vnote",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "note-taking",
             "stars": 12231,
@@ -5395,8 +5395,8 @@
             "repo_url": "https://github.com/xwmx/nb",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "note-taking",
             "stars": 6995,
@@ -5412,8 +5412,8 @@
             "repo_url": "https://github.com/jrnl-org/jrnl",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "note-taking",
             "stars": 6670,
@@ -5429,7 +5429,7 @@
             "repo_url": "https://github.com/ONLYOFFICE/DesktopEditors",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "office-suite",
             "stars": 3444,
@@ -5445,7 +5445,7 @@
             "repo_url": "https://github.com/LibreOffice/core",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "office-suite",
             "stars": 3047,
@@ -5461,7 +5461,7 @@
             "repo_url": "https://github.com/cryptpad/cryptpad",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "office-suite",
             "stars": 6190,
@@ -5477,7 +5477,7 @@
             "repo_url": "https://github.com/automattic/harper",
             "tags": [],
             "platforms": [
-                "VSCode"
+                "vscode"
             ],
             "category": "proofreading",
             "stars": 3852,
@@ -5493,8 +5493,8 @@
             "repo_url": "https://github.com/languagetool-org/languagetool",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "proofreading",
             "stars": 12980,
@@ -5510,7 +5510,7 @@
             "repo_url": "https://github.com/theJayTea/WritingTools",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "proofreading",
             "stars": 1387,
@@ -5526,8 +5526,8 @@
             "repo_url": "https://github.com/gristlabs/grist-core",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "spreadsheet",
             "stars": 8264,
@@ -5543,7 +5543,7 @@
             "repo_url": "https://github.com/slab/quill",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "text-editor",
             "stars": 45115,
@@ -5559,7 +5559,7 @@
             "repo_url": "https://github.com/coteditor/CotEditor",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "text-editor",
             "stars": 6798,
@@ -5575,8 +5575,8 @@
             "repo_url": "https://github.com/zyedidia/micro",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "text-editor",
             "stars": 25937,
@@ -5592,7 +5592,7 @@
             "repo_url": "https://github.com/0x7c13/Notepads",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "text-editor",
             "stars": 9195,
@@ -5608,8 +5608,8 @@
             "repo_url": "https://github.com/mawww/kakoune",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "text-editor",
             "stars": 10217,
@@ -5625,7 +5625,7 @@
             "repo_url": "https://github.com/lite-xl/lite-xl",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "text-editor",
             "stars": 5215,
@@ -5641,7 +5641,7 @@
             "repo_url": "https://github.com/emacs-mirror/emacs",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "text-editor",
             "stars": 4611,
@@ -5657,7 +5657,7 @@
             "repo_url": "https://github.com/dail8859/NotepadNext",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "text-editor",
             "stars": 9894,
@@ -5673,7 +5673,7 @@
             "repo_url": "https://github.com/wikimedia/mediawiki",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "wiki",
             "stars": 4519,
@@ -5689,7 +5689,7 @@
             "repo_url": "https://github.com/requarks/wiki",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "wiki",
             "stars": 26051,
@@ -5705,7 +5705,7 @@
             "repo_url": "https://github.com/BookStackApp/BookStack",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "wiki",
             "stars": 16411,
@@ -5721,8 +5721,8 @@
             "repo_url": "https://github.com/ansible/ansible",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "automation",
             "stars": 64707,
@@ -5738,7 +5738,7 @@
             "repo_url": "https://github.com/Hammerspoon/hammerspoon",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "automation",
             "stars": 12771,
@@ -5754,7 +5754,7 @@
             "repo_url": "https://github.com/johnlindquist/kit",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "automation",
             "stars": 4006,
@@ -5770,7 +5770,7 @@
             "repo_url": "https://github.com/semaphoreui/semaphore",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "automation",
             "stars": 11647,
@@ -5786,9 +5786,9 @@
             "repo_url": "https://github.com/jhuckaby/Cronicle",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+",
-                "SelfHost"
+                "cross",
+                "cli+",
+                "selfhost"
             ],
             "category": "automation",
             "stars": 4333,
@@ -5804,7 +5804,7 @@
             "repo_url": "https://github.com/alienator88/Pearcleaner",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "cleaner",
             "stars": 6097,
@@ -5820,8 +5820,8 @@
             "repo_url": "https://github.com/bleachbit/bleachbit",
             "tags": [],
             "platforms": [
-                "Windows",
-                "Linux"
+                "windows",
+                "linux"
             ],
             "category": "cleaner",
             "stars": 3383,
@@ -5837,7 +5837,7 @@
             "repo_url": "https://github.com/p0deje/Maccy",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "clipboard-manager",
             "stars": 14738,
@@ -5853,7 +5853,7 @@
             "repo_url": "https://github.com/Slackadays/Clipboard",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "clipboard-manager",
             "stars": 5131,
@@ -5869,7 +5869,7 @@
             "repo_url": "https://github.com/hluk/CopyQ",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "clipboard-manager",
             "stars": 9495,
@@ -5885,7 +5885,7 @@
             "repo_url": "https://github.com/louislam/dockge",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "containers",
             "stars": 16746,
@@ -5901,8 +5901,8 @@
             "repo_url": "https://github.com/abiosoft/colima",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "containers",
             "stars": 22222,
@@ -5918,8 +5918,8 @@
             "repo_url": "https://github.com/yadm-dev/yadm",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "dotfiles-manager",
             "stars": 5611,
@@ -5935,7 +5935,7 @@
             "repo_url": "https://github.com/twpayne/chezmoi",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "dotfiles-manager",
             "stars": 14621,
@@ -5953,7 +5953,7 @@
                 "paused"
             ],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "file-manager",
             "stars": 34271,
@@ -5969,7 +5969,7 @@
             "repo_url": "https://github.com/files-community/Files",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "file-manager",
             "stars": 36758,
@@ -5985,8 +5985,8 @@
             "repo_url": "https://github.com/jarun/nnn",
             "tags": [],
             "platforms": [
-                "Linux",
-                "CLI"
+                "linux",
+                "cli"
             ],
             "category": "file-manager",
             "stars": 19950,
@@ -6002,8 +6002,8 @@
             "repo_url": "https://github.com/sxyazi/yazi",
             "tags": [],
             "platforms": [
-                "Cross",
-                "TUI"
+                "cross",
+                "tui"
             ],
             "category": "file-manager",
             "stars": 24042,
@@ -6019,8 +6019,8 @@
             "repo_url": "https://github.com/ranger/ranger",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "file-manager",
             "stars": 16071,
@@ -6036,7 +6036,7 @@
             "repo_url": "https://github.com/electerm/electerm",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "file-manager",
             "stars": 12251,
@@ -6052,8 +6052,8 @@
             "repo_url": "https://github.com/gokcehan/lf",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "file-manager",
             "stars": 8094,
@@ -6069,7 +6069,7 @@
             "repo_url": "https://github.com/yorukot/superfile",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "file-manager",
             "stars": 13485,
@@ -6085,7 +6085,7 @@
             "repo_url": "https://github.com/mickael-kerjean/filestash",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "file-manager",
             "stars": 11191,
@@ -6101,7 +6101,7 @@
             "repo_url": "https://github.com/filegator/filegator",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "file-manager",
             "stars": 2369,
@@ -6117,7 +6117,7 @@
             "repo_url": "https://github.com/filebrowser/filebrowser",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "file-manager",
             "stars": 28580,
@@ -6133,8 +6133,8 @@
             "repo_url": "https://github.com/sayanarijit/xplr",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "file-manager",
             "stars": 4355,
@@ -6150,8 +6150,8 @@
             "repo_url": "https://github.com/localsend/localsend",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI+"
+                "cross",
+                "cli+"
             ],
             "category": "file-sharing",
             "stars": 59964,
@@ -6167,7 +6167,7 @@
             "repo_url": "https://github.com/onionshare/onionshare",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "file-sharing",
             "stars": 6490,
@@ -6183,7 +6183,7 @@
             "repo_url": "https://github.com/schlagmichdoch/PairDrop",
             "tags": [],
             "platforms": [
-                "Web"
+                "web"
             ],
             "category": "file-sharing",
             "stars": 6419,
@@ -6199,7 +6199,7 @@
             "repo_url": "https://github.com/pqrs-org/Karabiner-Elements",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "keyboard-manager",
             "stars": 19799,
@@ -6215,7 +6215,7 @@
             "repo_url": "https://github.com/jtroo/kanata",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "keyboard-manager",
             "stars": 4747,
@@ -6231,7 +6231,7 @@
             "repo_url": "https://github.com/kmonad/kmonad",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "keyboard-manager",
             "stars": 4394,
@@ -6247,7 +6247,7 @@
             "repo_url": "https://github.com/oliverschwendener/ueli",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "launcher",
             "stars": 3919,
@@ -6263,7 +6263,7 @@
             "repo_url": "https://github.com/ospfranco/sol",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "launcher",
             "stars": 2154,
@@ -6279,7 +6279,7 @@
             "repo_url": "https://github.com/kando-menu/kando",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "launcher",
             "stars": 4063,
@@ -6295,7 +6295,7 @@
             "repo_url": "https://github.com/albertlauncher/albert",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "launcher",
             "stars": 7475,
@@ -6311,7 +6311,7 @@
             "repo_url": "https://github.com/Ulauncher/Ulauncher",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "launcher",
             "stars": 3907,
@@ -6327,7 +6327,7 @@
             "repo_url": "https://github.com/Wox-launcher/Wox",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "launcher",
             "stars": 25400,
@@ -6343,9 +6343,9 @@
             "repo_url": "https://github.com/Homebrew/brew",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "Linux",
-                "CLI"
+                "macos",
+                "linux",
+                "cli"
             ],
             "category": "package-manager",
             "stars": 43220,
@@ -6361,7 +6361,7 @@
             "repo_url": "https://github.com/chocolatey/choco",
             "tags": [],
             "platforms": [
-                "Windows"
+                "windows"
             ],
             "category": "package-manager",
             "stars": 10696,
@@ -6377,7 +6377,7 @@
             "repo_url": "https://github.com/NixOS/nix",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "package-manager",
             "stars": 14035,
@@ -6393,7 +6393,7 @@
             "repo_url": "https://github.com/spack/spack",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "package-manager",
             "stars": 4616,
@@ -6409,7 +6409,7 @@
             "repo_url": "https://github.com/rustdesk/rustdesk",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "remote-desktop",
             "stars": 86685,
@@ -6425,7 +6425,7 @@
             "repo_url": "https://github.com/exelban/stats",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "system-monitoring",
             "stars": 30681,
@@ -6441,7 +6441,7 @@
             "repo_url": "https://github.com/corecoding/Vitals",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "system-monitoring",
             "stars": 1604,
@@ -6457,8 +6457,8 @@
             "repo_url": "https://github.com/ClementTsang/bottom",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "system-monitoring",
             "stars": 11133,
@@ -6474,7 +6474,7 @@
             "repo_url": "https://github.com/kyleneideck/BackgroundMusic",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "system",
             "stars": 17145,
@@ -6490,8 +6490,8 @@
             "repo_url": "https://github.com/qarmin/czkawka",
             "tags": [],
             "platforms": [
-                "Windows",
-                "Linux"
+                "windows",
+                "linux"
             ],
             "category": "tools",
             "stars": 23017,
@@ -6507,7 +6507,7 @@
             "repo_url": "https://github.com/balena-io/etcher",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "tools",
             "stars": 31072,
@@ -6523,7 +6523,7 @@
             "repo_url": "https://github.com/MonitorControl/MonitorControl",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "tools",
             "stars": 29588,
@@ -6539,7 +6539,7 @@
             "repo_url": "https://github.com/CalcProgrammer1/OpenRGB",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "tools",
             "stars": 3132,
@@ -6555,8 +6555,8 @@
             "repo_url": "https://github.com/microsoft/inshellisense",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "tools",
             "stars": 9253,
@@ -6572,8 +6572,8 @@
             "repo_url": "https://github.com/phiresky/ripgrep-all",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "tools",
             "stars": 8672,
@@ -6589,8 +6589,8 @@
             "repo_url": "https://github.com/sharkdp/fd",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "tools",
             "stars": 37471,
@@ -6606,7 +6606,7 @@
             "repo_url": "https://github.com/XcodesOrg/XcodesApp",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "version-manager",
             "stars": 7441,
@@ -6622,8 +6622,8 @@
             "repo_url": "https://github.com/rbenv/rbenv",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 16326,
@@ -6639,8 +6639,8 @@
             "repo_url": "https://github.com/pyenv/pyenv",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 41607,
@@ -6656,8 +6656,8 @@
             "repo_url": "https://github.com/nvm-sh/nvm",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 83910,
@@ -6673,8 +6673,8 @@
             "repo_url": "https://github.com/jdx/mise",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 14652,
@@ -6690,8 +6690,8 @@
             "repo_url": "https://github.com/asdf-vm/asdf",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 23336,
@@ -6707,8 +6707,8 @@
             "repo_url": "https://github.com/version-fox/vfox",
             "tags": [],
             "platforms": [
-                "Cross",
-                "CLI"
+                "cross",
+                "cli"
             ],
             "category": "version-manager",
             "stars": 3176,
@@ -6724,7 +6724,7 @@
             "repo_url": "https://github.com/utmapp/UTM",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "virtual-machine",
             "stars": 28855,
@@ -6740,7 +6740,7 @@
             "repo_url": "https://github.com/insidegui/VirtualBuddy",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "virtual-machine",
             "stars": 5781,
@@ -6756,8 +6756,8 @@
             "repo_url": "https://github.com/lima-vm/lima",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "Linux"
+                "macos",
+                "linux"
             ],
             "category": "virtual-machine",
             "stars": 16605,
@@ -6773,8 +6773,8 @@
             "repo_url": "https://github.com/quickemu-project/quickemu",
             "tags": [],
             "platforms": [
-                "MacOS",
-                "Linux"
+                "macos",
+                "linux"
             ],
             "category": "virtual-machine",
             "stars": 11744,
@@ -6790,7 +6790,7 @@
             "repo_url": "https://github.com/rxhanson/Rectangle",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "window-management",
             "stars": 26766,
@@ -6806,7 +6806,7 @@
             "repo_url": "https://github.com/MrKai77/Loop",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "window-management",
             "stars": 8066,
@@ -6822,7 +6822,7 @@
             "repo_url": "https://github.com/nikitabobko/AeroSpace",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "window-management",
             "stars": 11532,
@@ -6838,7 +6838,7 @@
             "repo_url": "https://github.com/ianyh/Amethyst",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "window-management",
             "stars": 15242,
@@ -6854,7 +6854,7 @@
             "repo_url": "https://github.com/commaai/openpilot",
             "tags": [],
             "platforms": [
-                "Linux"
+                "linux"
             ],
             "category": "other",
             "stars": 53102,
@@ -6870,7 +6870,7 @@
             "repo_url": "https://github.com/mealie-recipes/mealie",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "other",
             "stars": 8854,
@@ -6886,8 +6886,8 @@
             "repo_url": "https://github.com/grocy/grocy",
             "tags": [],
             "platforms": [
-                "Windows",
-                "SelfHost"
+                "windows",
+                "selfhost"
             ],
             "category": "other",
             "stars": 7385,
@@ -6903,7 +6903,7 @@
             "repo_url": "https://github.com/Whisky-App/Whisky",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "uncategorized",
             "stars": 14331,
@@ -6919,7 +6919,7 @@
             "repo_url": "https://github.com/xpipe-io/xpipe",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "uncategorized",
             "stars": 10516,
@@ -6935,7 +6935,7 @@
             "repo_url": "https://github.com/koekeishiya/yabai",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "window-management",
             "stars": 25467,
@@ -6951,7 +6951,7 @@
             "repo_url": "https://github.com/qt-creator/qt-creator",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "ide",
             "stars": 2746,
@@ -6967,7 +6967,7 @@
             "repo_url": "https://github.com/gogs/gogs",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "git-hosting",
             "stars": 46195,
@@ -6983,7 +6983,7 @@
             "repo_url": "https://github.com/go-gitea/gitea",
             "tags": [],
             "platforms": [
-                "SelfHost"
+                "selfhost"
             ],
             "category": "git-hosting",
             "stars": 48056,
@@ -6999,8 +6999,8 @@
             "repo_url": "https://github.com/gitlabhq/gitlabhq",
             "tags": [],
             "platforms": [
-                "SelfHost",
-                "Web"
+                "selfhost",
+                "web"
             ],
             "category": "git-hosting",
             "stars": 23954,
@@ -7016,9 +7016,9 @@
             "repo_url": "https://github.com/mindverse/Second-Me",
             "tags": [],
             "platforms": [
-                "Cross",
-                "SelfHost",
-                "Web"
+                "cross",
+                "selfhost",
+                "web"
             ],
             "category": "model-tools",
             "stars": 10387,
@@ -7034,7 +7034,7 @@
             "repo_url": "https://github.com/sfsam/Itsycal",
             "tags": [],
             "platforms": [
-                "MacOS"
+                "macos"
             ],
             "category": "macos",
             "stars": 3525,
@@ -7050,7 +7050,7 @@
             "repo_url": "https://github.com/th-ch/youtube-music",
             "tags": [],
             "platforms": [
-                "Cross"
+                "cross"
             ],
             "category": "audio-player",
             "stars": 0,
@@ -7062,12 +7062,12 @@
         },
         {
             "name": "Firefox",
-            "description": "Fast, reliable and private — for peace of mind online.",
+            "description": "Fast, reliable and private \u2014 for peace of mind online.",
             "repo_url": "https://github.com/mozilla/gecko-dev",
             "tags": [],
             "platforms": [
-                "Cross",
-                "Mobile"
+                "cross",
+                "mobile"
             ],
             "category": "browser",
             "stars": 0,
@@ -7085,8 +7085,8 @@
             "repo_url": "https://github.com/jesseduffield/lazygit",
             "tags": [],
             "platforms": [
-                "Cross",
-                "TUI"
+                "cross",
+                "tui"
             ],
             "category": "git-gui",
             "stars": 0,
@@ -7102,7 +7102,7 @@
             "repo_url": "https://github.com/BasedHardware/omi",
             "tags": [],
             "platforms": [
-                "Mobile"
+                "mobile"
             ],
             "category": "context",
             "stars": 0,
@@ -7118,8 +7118,8 @@
             "repo_url": "https://github.com/jesseduffield/lazydocker",
             "tags": [],
             "platforms": [
-                "Cross",
-                "TUI"
+                "cross",
+                "tui"
             ],
             "category": "containers",
             "stars": 0,

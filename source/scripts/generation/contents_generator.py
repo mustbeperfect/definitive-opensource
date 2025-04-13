@@ -46,18 +46,17 @@ def generate_contents(platform="all"):
     with open("source/data/applications.json", "r", encoding="utf-8") as f:
         app_data = json.load(f)
     with open("source/data/tags.json", "r", encoding="utf-8") as f:
-        tags_data = json.load(f)    
+        tags_data = json.load(f)
+    with open("source/data/platforms.json", "r", encoding="utf-8") as f:
+        platforms_data = json.load(f)  
     
     categories = cat_data.get("categories", [])
     subcategories = cat_data.get("subcategories", [])
     applications = app_data.get("applications", [])
     
-
     parent_map = {cat["id"]: cat["name"] for cat in categories}
-
-
     tag_map = {tag["id"]: tag["emoji"] for tag in tags_data["tags"]}
-    
+    platform_map = {p["id"]: p["name"] for p in platforms_data["platforms"]}
 
     subcat_by_parent = {}
     for sub in subcategories:
@@ -126,7 +125,8 @@ def generate_contents(platform="all"):
                 if app.get("tags"):
                     tags = " " + " ".join(tag_map.get(tag, tag) for tag in app.get("tags", []))
 
-                app_platforms = " ".join(f"`{p}`" for p in app.get("platforms", []))
+                # app_platforms = " ".join(f"`{p}`" for p in app.get("platforms", []))
+                app_platforms = " ".join(f"`{platform_map.get(p, p)}`" for p in app.get("platforms", []))
                 stars = app.get("stars")
                 stars_formatted = f"**{format_stars(stars)}**" if stars is not None else ""
                 # repo_path = extract_repo_path(link)
