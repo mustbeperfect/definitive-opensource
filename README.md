@@ -118,6 +118,8 @@ Abandoned - Development Halted
 
 `CLI+` - CLI in addition to GUI
 
+`TUI` - Terminal user interface
+
 `Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `N/A`
 
 ## Table of Contents
