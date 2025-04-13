@@ -7111,6 +7111,23 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "lazydocker",
+            "description": "",
+            "repo_url": "https://github.com/jesseduffield/lazydocker",
+            "tags": [],
+            "platforms": [
+                "Cross",
+                "CLI"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

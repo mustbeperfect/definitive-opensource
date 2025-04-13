@@ -35,7 +35,7 @@ Open applications.json and copy the following at the end:
         ""
     ],
     "category": "",
-    "stars": ,
+    "stars": 0,
     "flags": [],
     "last_commit": "",
     "language": "",
