@@ -900,7 +900,6 @@
             "tags": [],
             "platforms": [
                 "Cross",
-                "CLI",
                 "CLI+"
             ],
             "category": "chat",
