@@ -473,6 +473,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [GitHub Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | `Cross` | **20.4k** |
+| [Lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands  | `Cross` `CLI` | **0** |
 
 ### Git Hosting
 
