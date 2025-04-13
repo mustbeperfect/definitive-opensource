@@ -7044,6 +7044,22 @@
             "language": "Objective-C",
             "license": "MIT",
             "homepage_url": null
+        },
+        {
+            "name": "Youtube Music",
+            "description": "",
+            "repo_url": "https://github.com/th-ch/youtube-music",
+            "tags": [],
+            "platforms": [
+                "Cross"
+            ],
+            "category": "audio-player",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
