@@ -81,6 +81,7 @@
 - [Code Editor](#code-editor)
 - [Collaboration](#collaboration)
 - [Containers](#containers)
+- [Context](#context)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
@@ -168,6 +169,7 @@
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
+    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -321,6 +323,11 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | `SelfHost` | **16.2k** |
+
+### Context
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 ### Information Processing
 
