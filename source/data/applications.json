@@ -6003,7 +6003,7 @@
             "tags": [],
             "platforms": [
                 "Cross",
-                "CLI"
+                "TUI"
             ],
             "category": "file-manager",
             "stars": 24042,
@@ -7086,7 +7086,7 @@
             "tags": [],
             "platforms": [
                 "Cross",
-                "CLI"
+                "TUI"
             ],
             "category": "git-gui",
             "stars": 0,
@@ -7119,7 +7119,7 @@
             "tags": [],
             "platforms": [
                 "Cross",
-                "CLI"
+                "TUI"
             ],
             "category": "containers",
             "stars": 0,
