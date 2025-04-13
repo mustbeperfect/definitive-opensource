@@ -7060,6 +7060,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Firefox",
+            "description": "Fast, reliable and private — for peace of mind online.",
+            "repo_url": "https://github.com/mozilla/gecko-dev",
+            "tags": [],
+            "platforms": [
+                "Cross",
+                "Mobile"
+            ],
+            "category": "browser",
+            "stars": 0,
+            "flags": [
+                "custom-description"
+            ],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
