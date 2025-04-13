@@ -7079,6 +7079,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "lazygit",
+            "description": "simple terminal UI for git commands ",
+            "repo_url": "https://github.com/jesseduffield/lazygit",
+            "tags": [],
+            "platforms": [
+                "Cross",
+            ],
+            "category": "git-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
