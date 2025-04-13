@@ -81,6 +81,7 @@
 - [Code Editor](#code-editor)
 - [Collaboration](#collaboration)
 - [Containers](#containers)
+- [Context](#context)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
@@ -168,6 +169,7 @@
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
+    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -292,7 +294,6 @@
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | `Cross` | **33.7k** |
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | `Cross` `CLI` | **3.7k** |
 | [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | `Cross` | **59.1k** |
-| [screenpipe](https://github.com/mediar-ai/screenpipe) 💥 💰 | AI app store powered by 24/7 desktop history.  open source - 100% local - dev friendly - 24/7 screen, mic recording | `MacOS` `Windows` | **13.3k** |
 | [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` | **15.5k** |
 
 ### AI Image GUI
@@ -318,6 +319,12 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+
+### Context
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [screenpipe](https://github.com/mediar-ai/screenpipe) 💥 💰 | AI app store powered by 24/7 desktop history.  open source - 100% local - dev friendly - 24/7 screen, mic recording | `MacOS` `Windows` | **13.3k** |
 
 ### Information Processing
 

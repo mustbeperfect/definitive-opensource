@@ -81,6 +81,7 @@
 - [Code Editor](#code-editor)
 - [Collaboration](#collaboration)
 - [Containers](#containers)
+- [Context](#context)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
@@ -168,6 +169,7 @@
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
+    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -314,6 +316,11 @@
 | [Lobe Chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. | `Cross` | **58.8k** |
 
 ### Assistant
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### Context
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |

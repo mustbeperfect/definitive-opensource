@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center">The definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 431</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 432</code></p>
 
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](.github/GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -149,6 +149,7 @@ Abandoned - Development Halted
 - [Code Editor](#code-editor)
 - [Collaboration](#collaboration)
 - [Containers](#containers)
+- [Context](#context)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Document Editor](#document-editor)
@@ -236,6 +237,7 @@ Abandoned - Development Halted
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
+    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -362,7 +364,6 @@ Abandoned - Development Halted
 | [gptme](https://github.com/gptme/gptme) | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | `Cross` `CLI` | **3.7k** |
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | `SelfHost` | **45.8k** |
 | [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | `Cross` | **59.1k** |
-| [screenpipe](https://github.com/mediar-ai/screenpipe) 💥 💰 | AI app store powered by 24/7 desktop history.  open source - 100% local - dev friendly - 24/7 screen, mic recording | `MacOS` `Windows` | **13.3k** |
 | [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` | **15.5k** |
 | [TEN Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like  seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze. | `SelfHost` | **5.6k** |
 | [WrenAI](https://github.com/Canner/WrenAI) | 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. 📈📊📋🧑‍💻 | `SelfHost` | **7.4k** |
@@ -397,6 +398,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | `SelfHost` | **16.2k** |
+
+### Context
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [omi](https://github.com/BasedHardware/omi) |  | `Mobile` | **0** |
+| [screenpipe](https://github.com/mediar-ai/screenpipe) 💥 💰 | AI app store powered by 24/7 desktop history.  open source - 100% local - dev friendly - 24/7 screen, mic recording | `MacOS` `Windows` | **13.3k** |
 
 ### Information Processing
 
