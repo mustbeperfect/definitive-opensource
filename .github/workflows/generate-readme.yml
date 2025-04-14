@@ -7,6 +7,8 @@ on:
       - 'source/data/**'
       - 'source/components/**'
   workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'  # Every day at midnight UTC
 
 jobs:
   generate:
