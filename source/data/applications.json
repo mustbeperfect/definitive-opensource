@@ -7128,6 +7128,23 @@
             "language": "Go",
             "license": "MIT",
             "homepage_url": ""
+        },
+        {
+            "name": "Meetily",
+            "description": "",
+            "repo_url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "macos"
+            ],
+            "category": "assistant",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
