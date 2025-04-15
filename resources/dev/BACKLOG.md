@@ -55,5 +55,6 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [manyfold](https://github.com/manyfold3d/manyfold)
 - [flatnotes](https://github.com/dullage/flatnotes)
 - [PaperMerge](https://github.com/ciur/papermerge)
+- [SurfSense](https://github.com/MODSetter/SurfSense)
 - [Ollama Deep Researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Unmaintained for years, development started again
