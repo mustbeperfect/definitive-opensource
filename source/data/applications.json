@@ -7145,6 +7145,22 @@
             "language": "C++",
             "license": "MIT",
             "homepage_url": "https://meetily.zackriya.com"
+        },
+        {
+            "name": "KOReader",
+            "description": "",
+            "repo_url": "https://github.com/koreader/koreader",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
