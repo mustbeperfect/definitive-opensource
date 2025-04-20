@@ -42,7 +42,7 @@
             "repo_url": "https://github.com/gptme/gptme",
             "tags": [],
             "platforms": [
-                "cross",
+                "pip",
                 "cli"
             ],
             "category": "agent",
@@ -107,7 +107,7 @@
             "repo_url": "https://github.com/reworkd/AgentGPT",
             "tags": [],
             "platforms": [
-                "cross"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 33821,
