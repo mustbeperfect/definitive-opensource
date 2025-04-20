@@ -134,6 +134,7 @@
 - [Research](#research)
 - [Screen Recording](#screen-recording)
 - [Search Engine](#search-engine)
+- [Server Management](#server-management)
 - [Shell](#shell)
 - [Spreadsheet](#spreadsheet)
 - [Storage](#storage)
@@ -246,6 +247,7 @@
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
     - [Media Management](#media-management)
+    - [Server Management](#server-management)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -444,6 +446,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | `Cross` `CLI` | **31.6k** |
+| [Codex](https://github.com/openai/codex) |  | `Cross` `CLI` `npm` | **0** |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Cross` `CLI+` | **11.9k** |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer | `Cross` `CLI` | **32.6k** |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **53.2k** |
@@ -826,6 +829,11 @@
 | --- | --- | --- | --- |
 | [Kodi](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. | `Cross` `SelfHost` | **19.2k** |
 
+### Server Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
 ### Surveillance
 
 | Name | Description | Platform | Stars |
@@ -864,6 +872,9 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history | `Cross` `CLI` | **23.3k** |
+| [delta](https://github.com/dandavison/delta) |  | `Cross` `CLI` | **0** |
+| [eza](https://github.com/eza-community/eza) |  | `Cross` `CLI` | **0** |
+| [fzf](https://github.com/junegunn/fzf) |  | `Cross` `CLI` | **0** |
 | [McFly](https://github.com/cantino/mcfly) | Fly through your shell history. Great Scott! | `Cross` `CLI` | **7.2k** |
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | `Cross` `CLI` | **177.8k** |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. | `Cross` `CLI` | **10.7k** |

@@ -134,6 +134,7 @@
 - [Research](#research)
 - [Screen Recording](#screen-recording)
 - [Search Engine](#search-engine)
+- [Server Management](#server-management)
 - [Shell](#shell)
 - [Spreadsheet](#spreadsheet)
 - [Storage](#storage)
@@ -246,6 +247,7 @@
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
     - [Media Management](#media-management)
+    - [Server Management](#server-management)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -775,6 +777,12 @@
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | `SelfHost` | **37k** |
 | [Piwigo](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | `SelfHost` | **3.4k** |
 
+### Server Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [1Panel](https://github.com/1Panel-dev/1Panel) |  | `SelfHost` | **0** |
+
 ### Surveillance
 
 | Name | Description | Platform | Stars |
@@ -854,6 +862,7 @@
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | `SelfHost` | **16.5k** |
+| [Docmost](https://github.com/docmost/docmost) 💰 |  | `SelfHost` `Web` | **0** |
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. | `SelfHost` | **4.5k** |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | `SelfHost` | **26.1k** |
 
@@ -879,6 +888,7 @@
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Portainer](https://github.com/portainer/portainer) |  | `SelfHost` | **0** |
 
 ### Dotfiles Manager
 

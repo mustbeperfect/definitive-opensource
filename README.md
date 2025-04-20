@@ -8,7 +8,7 @@
 <h1 align="center">[ definitive-opensource ] </h1>
 <p align="center">The definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 435</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 443</code></p>
 
 > [!TIP]
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](.github/GUIDELINES.md) for open-source software submissions, consult their respective pages.
@@ -202,6 +202,7 @@ Abandoned - Development Halted
 - [Research](#research)
 - [Screen Recording](#screen-recording)
 - [Search Engine](#search-engine)
+- [Server Management](#server-management)
 - [Shell](#shell)
 - [Spreadsheet](#spreadsheet)
 - [Storage](#storage)
@@ -314,6 +315,7 @@ Abandoned - Development Halted
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
     - [Media Management](#media-management)
+    - [Server Management](#server-management)
     - [Surveillance](#surveillance)
 - Terminal
     - [Shell](#shell)
@@ -545,6 +547,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | `Cross` `CLI` | **31.6k** |
 | [Cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | `VSCode` | **41k** |
+| [Codex](https://github.com/openai/codex) |  | `Cross` `CLI` `npm` | **0** |
 | [Cody](https://github.com/sourcegraph/cody) | Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. | `VSCode` `JetBrains` | **3.5k** |
 | [Continue](https://github.com/continuedev/continue) | ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks | `VSCode` `JetBrains` | **25.7k** |
 | [Goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Cross` `CLI+` | **11.9k** |
@@ -1025,6 +1028,12 @@ Abandoned - Development Halted
 | [PhotoPrism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | `SelfHost` | **37k** |
 | [Piwigo](https://github.com/Piwigo/Piwigo) | Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! | `SelfHost` | **3.4k** |
 
+### Server Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [1Panel](https://github.com/1Panel-dev/1Panel) |  | `SelfHost` | **0** |
+
 ### Surveillance
 
 | Name | Description | Platform | Stars |
@@ -1066,6 +1075,9 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history | `Cross` `CLI` | **23.3k** |
+| [delta](https://github.com/dandavison/delta) |  | `Cross` `CLI` | **0** |
+| [eza](https://github.com/eza-community/eza) |  | `Cross` `CLI` | **0** |
+| [fzf](https://github.com/junegunn/fzf) |  | `Cross` `CLI` | **0** |
 | [McFly](https://github.com/cantino/mcfly) | Fly through your shell history. Great Scott! | `Cross` `CLI` | **7.2k** |
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | `Cross` `CLI` | **177.8k** |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. | `Cross` `CLI` | **10.7k** |
@@ -1145,6 +1157,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | `SelfHost` | **16.5k** |
+| [Docmost](https://github.com/docmost/docmost) 💰 |  | `SelfHost` `Web` | **0** |
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. | `SelfHost` | **4.5k** |
 | [Wiki.js](https://github.com/requarks/wiki) | Wiki.js - A modern and powerful wiki app built on Node.js | `SelfHost` | **26.1k** |
 
@@ -1182,6 +1195,7 @@ Abandoned - Development Halted
 | [Colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | `Cross` `CLI` | **22.3k** |
 | [Dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager | `Cross` | **16.9k** |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | `Cross` `TUI` | **43.6k** |
+| [Portainer](https://github.com/portainer/portainer) |  | `SelfHost` | **0** |
 
 ### Dotfiles Manager
 
@@ -1321,6 +1335,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [KOReader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | `Android` | **20.5k** |
+| [vim-plug](https://github.com/junegunn/vim-plug) |  | `N/A` | **0** |
 | [Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI | `MacOS` | **14.4k** |
 | [XPipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | `Cross` | **10.6k** |
 
