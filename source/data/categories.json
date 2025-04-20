@@ -379,6 +379,12 @@
 			"description": ""
 		},
 		{
+			"name": "Server Management",
+			"id": "server-management",
+			"parent": "server",
+			"description": ""
+		},
+		{
 			"name": "Windows",
 			"id": "windows",
 			"parent": "os",

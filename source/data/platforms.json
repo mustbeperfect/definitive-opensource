@@ -73,6 +73,14 @@
 			"name": "Extension",
 			"id": "extension"
 		},
+		{
+			"name": "pip",
+			"id": "pip"
+		},
+		{
+			"name": "npm",
+			"id": "npm"
+		},
         {
 			"name": "N/A",
 			"id": "n/a"

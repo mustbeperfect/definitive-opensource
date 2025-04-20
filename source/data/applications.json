@@ -127,10 +127,12 @@
             ],
             "category": "agent",
             "stars": 174611,
-            "flags": [],
+            "flags": [
+                "custom-license"
+            ],
             "last_commit": "04/19/2025",
             "language": "Python",
-            "license": "NOASSERTION",
+            "license": "MIT",
             "homepage_url": "https://agpt.co"
         },
         {
@@ -7161,6 +7163,142 @@
             "language": "Lua",
             "license": "AGPL-3.0",
             "homepage_url": "http://koreader.rocks/"
+        },
+        {
+            "name": "Codex",
+            "description": "",
+            "repo_url": "https://github.com/openai/codex",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "cli",
+                "npm"
+            ],
+            "category": "code-assistant",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "fzf",
+            "description": "",
+            "repo_url": "https://github.com/junegunn/fzf",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "cli"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "delta",
+            "description": "",
+            "repo_url": "https://github.com/dandavison/delta",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "cli"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "eza",
+            "description": "",
+            "repo_url": "https://github.com/eza-community/eza",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "cli"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "vim-plug",
+            "description": "",
+            "repo_url": "https://github.com/junegunn/vim-plug",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Portainer",
+            "description": "",
+            "repo_url": "https://github.com/portainer/portainer",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "1Panel",
+            "description": "",
+            "repo_url": "https://github.com/1Panel-dev/1Panel",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "server-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Docmost",
+            "description": "",
+            "repo_url": "https://github.com/docmost/docmost",
+            "tags": [
+                "commercial"
+            ],
+            "platforms": [
+                "selfhost",
+                "web"
+            ],
+            "category": "wiki",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
