@@ -48,4 +48,7 @@
 
 `TUI` - Terminal user interface
 
-`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `pip`, `npm`, `N/A`
+`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web (Cloud)`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `pip`, `npm`, `N/A`
+
+> [!NOTE]
+> `Cross`, `MacOS`, `Linux`, and `Windows` platform tags refers to apps with an executable or binary, EX: exe and dmg (with the exception of CLI apps). `Selfhosted` apps are often inherently cross platform via docker desktop but they aren't labeled as such. The same goes for apps installed via `pip` and `npm`. A few apps blur the lines with convoluted options to install such as brew for `MacOS` and `Linux`, selfhosted docker option, and an `npm` option. This is prevalent in AI apps. These apps can have misleading platform tags - we are working on a solution.

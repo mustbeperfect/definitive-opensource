@@ -11,7 +11,7 @@
 		},
         {
 			"name": "CLI+",
-			"id": "cli+"
+			"id": "cli-plus"
 		},
         {
 			"name": "CLI",
@@ -46,8 +46,8 @@
 			"id": "selfhost"
 		},
         {
-			"name": "Web",
-			"id": "web"
+			"name": "Web (Cloud)",
+			"id": "web-cloud"
 		},
         {
 			"name": "VSCode",
@@ -80,6 +80,10 @@
 		{
 			"name": "npm",
 			"id": "npm"
+		},
+		{
+			"name": "Docker",
+			"id": "docker"
 		},
         {
 			"name": "N/A",

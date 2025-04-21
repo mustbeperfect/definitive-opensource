@@ -6,7 +6,7 @@
             "repo_url": "https://github.com/OpenInterpreter/open-interpreter",
             "tags": [],
             "platforms": [
-                "cross"
+                "pip"
             ],
             "category": "agent",
             "stars": 59153,
@@ -59,6 +59,7 @@
             "repo_url": "https://github.com/Canner/WrenAI",
             "tags": [],
             "platforms": [
+                "web-cloud",
                 "selfhost"
             ],
             "category": "agent",
@@ -142,7 +143,8 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "selfhost"
+                "selfhost",
+                "cli-plus"
             ],
             "category": "agent",
             "stars": 15521,
@@ -289,7 +291,8 @@
             "repo_url": "https://github.com/lobehub/lobe-chat",
             "tags": [],
             "platforms": [
-                "cross"
+                "web-cloud",
+                "selfhost"
             ],
             "category": "all-in-one",
             "stars": 59044,
@@ -305,6 +308,7 @@
             "repo_url": "https://github.com/khoj-ai/khoj",
             "tags": [],
             "platforms": [
+                "web-cloud",
                 "selfhost"
             ],
             "category": "all-in-one",
@@ -355,6 +359,7 @@
             "repo_url": "https://github.com/mendableai/firecrawl",
             "tags": [],
             "platforms": [
+                "web-cloud",
                 "selfhost"
             ],
             "category": "information-processing",
@@ -404,7 +409,8 @@
             "repo_url": "https://github.com/yamadashy/repomix",
             "tags": [],
             "platforms": [
-                "cross",
+                "web-cloud",
+                "npm",
                 "cli"
             ],
             "category": "information-processing",
@@ -421,7 +427,7 @@
             "repo_url": "https://github.com/DS4SD/docling",
             "tags": [],
             "platforms": [
-                "cross",
+                "pip",
                 "cli"
             ],
             "category": "information-processing",
@@ -551,8 +557,8 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
-                "web"
+                "cli-plus",
+                "web-cloud"
             ],
             "category": "llm-gui",
             "stars": 82871,
@@ -636,8 +642,9 @@
             "repo_url": "https://github.com/hiyouga/LLaMA-Factory",
             "tags": [],
             "platforms": [
-                "cross",
-                "cli+"
+                "pip",
+                "selfhost",
+                "cli-plus"
             ],
             "category": "model-tools",
             "stars": 47222,
@@ -653,7 +660,7 @@
             "repo_url": "https://github.com/Lightning-AI/pytorch-lightning",
             "tags": [],
             "platforms": [
-                "cross",
+                "pip",
                 "cli"
             ],
             "category": "model-tools",
@@ -670,7 +677,7 @@
             "repo_url": "https://github.com/agno-agi/agno",
             "tags": [],
             "platforms": [
-                "cross",
+                "pip",
                 "cli"
             ],
             "category": "model-tools",
@@ -719,6 +726,7 @@
             "repo_url": "https://github.com/Cinnamon/kotaemon",
             "tags": [],
             "platforms": [
+                "pip",
                 "selfhost"
             ],
             "category": "rag",
@@ -767,7 +775,7 @@
             "repo_url": "https://github.com/Future-House/paper-qa",
             "tags": [],
             "platforms": [
-                "cross",
+                "pip",
                 "cli"
             ],
             "category": "rag",
@@ -784,7 +792,8 @@
             "repo_url": "https://github.com/SciPhi-AI/R2R",
             "tags": [],
             "platforms": [
-                "cross",
+                "web-cloud",
+                "selfhost",
                 "cli"
             ],
             "category": "rag",
@@ -852,7 +861,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
+                "cli-plus",
                 "selfhost"
             ],
             "category": "research",
@@ -902,7 +911,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "chat",
             "stars": 8352,
@@ -935,7 +944,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "collaboration",
             "stars": 22667,
@@ -952,7 +961,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "collaboration",
             "stars": 42500,
@@ -1002,8 +1011,8 @@
             "repo_url": "https://github.com/jitsi/jitsi-meet",
             "tags": [],
             "platforms": [
-                "cli+",
-                "web"
+                "cli-plus",
+                "web-cloud"
             ],
             "category": "video-conference",
             "stars": 25266,
@@ -1019,8 +1028,8 @@
             "repo_url": "https://github.com/element-hq/element-web",
             "tags": [],
             "platforms": [
-                "cli+",
-                "web"
+                "cli-plus",
+                "web-cloud"
             ],
             "category": "video-conference",
             "stars": 11665,
@@ -1188,7 +1197,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
+                "cli-plus",
                 "selfhost"
             ],
             "category": "storage",
@@ -1254,7 +1263,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "sync",
             "stars": 69537,
@@ -1271,7 +1280,7 @@
             "tags": [],
             "platforms": [
                 "macos",
-                "cli+"
+                "cli-plus"
             ],
             "category": "sync",
             "stars": 2967,
@@ -1356,7 +1365,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "code-assistant",
             "stars": 11915,
@@ -1373,7 +1382,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "code-assistant",
             "stars": 54796,
@@ -2057,7 +2066,7 @@
             "repo_url": "https://github.com/lichess-org/lila",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "games",
             "stars": 16517,
@@ -2413,7 +2422,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "search-engine",
             "stars": 7704,
@@ -2527,7 +2536,7 @@
             "repo_url": "https://github.com/GraphiteEditor/Graphite",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "graphics",
             "stars": 11551,
@@ -2623,7 +2632,7 @@
             "repo_url": "https://github.com/penpot/penpot",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "graphics",
             "stars": 37652,
@@ -2752,7 +2761,7 @@
             "repo_url": "https://github.com/imputnet/cobalt",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "media-downloader",
             "stars": 31019,
@@ -3434,7 +3443,7 @@
             "repo_url": "https://github.com/ente-io/ente",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "media-management",
             "stars": 18880,
@@ -3968,7 +3977,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "bookmark-manager",
             "stars": 6685,
@@ -4065,7 +4074,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "cli+",
+                "cli-plus",
                 "android"
             ],
             "category": "document-management",
@@ -4182,7 +4191,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "document-modifier",
             "stars": 10785,
@@ -4199,7 +4208,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "document-modifier",
             "stars": 4525,
@@ -4427,7 +4436,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "project-management",
             "stars": 35422,
@@ -4461,7 +4470,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "project-management",
             "stars": 20261,
@@ -4526,7 +4535,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "cli+"
+                "cli-plus"
             ],
             "category": "task-management",
             "stars": 9038,
@@ -4543,7 +4552,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "time-management",
             "stars": 5428,
@@ -4593,7 +4602,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "cli+",
+                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4741,7 +4750,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
+                "cli-plus",
                 "mobile",
                 "chromium",
                 "firefox"
@@ -4796,7 +4805,7 @@
             "platforms": [
                 "cross",
                 "cli",
-                "cli+",
+                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4815,9 +4824,9 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
+                "cli-plus",
                 "selfhost",
-                "cli+",
+                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4836,7 +4845,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "vpn",
             "stars": 6937,
@@ -4869,7 +4878,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "vpn",
             "stars": 2647,
@@ -5169,7 +5178,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "document-editor",
             "stars": 17352,
@@ -5496,7 +5505,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "proofreading",
             "stars": 13017,
@@ -5529,7 +5538,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "spreadsheet",
             "stars": 8287,
@@ -5545,7 +5554,7 @@
             "repo_url": "https://github.com/slab/quill",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "text-editor",
             "stars": 45161,
@@ -5724,7 +5733,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "automation",
             "stars": 64775,
@@ -5789,7 +5798,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+",
+                "cli-plus",
                 "selfhost"
             ],
             "category": "automation",
@@ -6153,7 +6162,7 @@
             "tags": [],
             "platforms": [
                 "cross",
-                "cli+"
+                "cli-plus"
             ],
             "category": "file-sharing",
             "stars": 60267,
@@ -6185,7 +6194,7 @@
             "repo_url": "https://github.com/schlagmichdoch/PairDrop",
             "tags": [],
             "platforms": [
-                "web"
+                "web-cloud"
             ],
             "category": "file-sharing",
             "stars": 6466,
@@ -7002,7 +7011,7 @@
             "tags": [],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "git-hosting",
             "stars": 23962,
@@ -7018,9 +7027,9 @@
             "repo_url": "https://github.com/mindverse/Second-Me",
             "tags": [],
             "platforms": [
-                "cross",
+
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "model-tools",
             "stars": 11120,
@@ -7290,7 +7299,7 @@
             ],
             "platforms": [
                 "selfhost",
-                "web"
+                "web-cloud"
             ],
             "category": "wiki",
             "stars": 14461,
@@ -7306,7 +7315,7 @@
             "repo_url": "https://github.com/cyclotruc/gitingest",
             "tags": [],
             "platforms": [
-                "web",
+                "web-cloud",
                 "pip",
                 "chromium",
                 "firefox"
