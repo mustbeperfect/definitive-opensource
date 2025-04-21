@@ -7299,6 +7299,25 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://docmost.com"
+        },
+        {
+            "name": "Gitingest",
+            "description": "",
+            "repo_url": "https://github.com/cyclotruc/gitingest",
+            "tags": [],
+            "platforms": [
+                "web",
+                "pip",
+                "chromium",
+                "firefox"
+            ],
+            "category": "information-processing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
