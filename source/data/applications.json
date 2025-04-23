@@ -197,7 +197,8 @@
             "repo_url": "https://github.com/invoke-ai/InvokeAI",
             "tags": [],
             "platforms": [
-                "cross"
+                "cross",
+                "selfhost"
             ],
             "category": "ai-image-gui",
             "stars": 24912,
@@ -674,7 +675,9 @@
                 "cli",
                 "manual"
             ],
-            "platforms": [],
+            "platforms": [
+                "cross"
+            ],
             "category": "model-tools",
             "stars": 29348,
             "flags": [],
@@ -691,7 +694,9 @@
                 "cli",
                 "manual"
             ],
-            "platforms": [],
+            "platforms": [
+                "cross"
+            ],
             "category": "model-tools",
             "stars": 25528,
             "flags": [],
@@ -790,7 +795,9 @@
                 "cli",
                 "manual"
             ],
-            "platforms": [],
+            "platforms": [
+                "cross"
+            ],
             "category": "rag",
             "stars": 7191,
             "flags": [],
