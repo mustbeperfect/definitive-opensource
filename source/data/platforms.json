@@ -5,23 +5,7 @@
 			"name": "Cross",
 			"id": "cross"
 		},
-        {
-			"name": "Mobile",
-			"id": "mobile"
-		},
-        {
-			"name": "CLI+",
-			"id": "cli-plus"
-		},
-        {
-			"name": "CLI",
-			"id": "cli"
-		},
-        {
-			"name": "TUI",
-			"id": "tui"
-		},
-        {
+		{
 			"name": "Windows",
 			"id": "windows"
 		},
@@ -34,14 +18,6 @@
 			"id": "linux"
 		},
         {
-			"name": "Android",
-			"id": "android"
-		},
-        {
-			"name": "IOS",
-			"id": "ios"
-		},
-        {
 			"name": "SelfHost",
 			"id": "selfhost"
 		},
@@ -50,12 +26,24 @@
 			"id": "web-cloud"
 		},
         {
-			"name": "VSCode",
-			"id": "vscode"
+			"name": "Mobile",
+			"id": "mobile"
+		},
+		{
+			"name": "Android",
+			"id": "android"
 		},
         {
+			"name": "IOS",
+			"id": "ios"
+		},
+		{
 			"name": "JetBrains",
 			"id": "jetbrains"
+		},
+        {
+			"name": "VSCode",
+			"id": "vscode"
 		},
         {
 			"name": "Chromium",
@@ -64,26 +52,6 @@
         {
 			"name": "Firefox",
 			"id": "firefox"
-		},
-        {
-			"name": "Plugin",
-			"id": "plugin"
-		},
-        {
-			"name": "Extension",
-			"id": "extension"
-		},
-		{
-			"name": "pip",
-			"id": "pip"
-		},
-		{
-			"name": "npm",
-			"id": "npm"
-		},
-		{
-			"name": "Docker",
-			"id": "docker"
 		},
         {
 			"name": "N/A",

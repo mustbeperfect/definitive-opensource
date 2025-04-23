@@ -44,11 +44,16 @@
 
 `Mobile` - Android and IOS
 
+`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `SelfHost`, `Web (Cloud)`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`,  `N/A`
+
+### Properties
 `CLI+` - CLI in addition to GUI
 
 `TUI` - Terminal user interface
 
-`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web (Cloud)`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `pip`, `npm`, `N/A`
+`Manual` - Installation with pip, npm, cargo, building from source
+
+`CLI`, `Plugin`, `Extension`, `Web UI`
 
 > [!NOTE]
-> `Cross`, `MacOS`, `Linux`, and `Windows` platform tags refers to apps with an executable or binary, EX: exe and dmg (with the exception of CLI apps). `Selfhosted` apps are often inherently cross platform via docker desktop but they aren't labeled as such. The same goes for apps installed via `pip` and `npm`. A few apps blur the lines with convoluted options to install/ This is prevalent in AI apps. These can have misleading platform tags - we are working on a solution.
+> Cross, MacOS, Linux, and Windows tags, by default, imply that the app ships as a binary (EX: exe, dmg) unless they are accompanied by the `manual` tag that indicates another runtime or installation method. 

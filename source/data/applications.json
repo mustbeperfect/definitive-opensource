@@ -4,9 +4,11 @@
             "name": "Open Intepreter",
             "description": "A natural language interface for computers",
             "repo_url": "https://github.com/OpenInterpreter/open-interpreter",
-            "tags": [],
+            "tags": [
+                "manual"
+            ],
             "platforms": [
-                "pip"
+                "cross"
             ],
             "category": "agent",
             "stars": 59178,
@@ -21,8 +23,8 @@
             "description": "AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording",
             "repo_url": "https://github.com/mediar-ai/screenpipe",
             "tags": [
-                "disruptive",
-                "commercial"
+                "commercial",
+                "disruptive"
             ],
             "platforms": [
                 "macos",
@@ -40,10 +42,12 @@
             "name": "gptme",
             "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
             "repo_url": "https://github.com/gptme/gptme",
-            "tags": [],
+            "tags": [
+                "cli",
+                "manual"
+            ],
             "platforms": [
-                "pip",
-                "cli"
+                "cross"
             ],
             "category": "agent",
             "stars": 3742,
@@ -140,11 +144,12 @@
             "name": "Telegraf",
             "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
             "repo_url": "https://github.com/influxdata/telegraf",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "selfhost",
-                "cli-plus"
+                "selfhost"
             ],
             "category": "agent",
             "stars": 15529,
@@ -272,10 +277,11 @@
             "name": "AIChat",
             "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
             "repo_url": "https://github.com/sigoden/aichat",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "all-in-one",
             "stars": 6513,
@@ -390,10 +396,11 @@
             "name": "Code2prompt",
             "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
             "repo_url": "https://github.com/mufeedvh/code2prompt",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "information-processing",
             "stars": 5471,
@@ -407,11 +414,12 @@
             "name": "Repomix",
             "description": "\ud83d\udce6 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
             "repo_url": "https://github.com/yamadashy/repomix",
-            "tags": [],
+            "tags": [
+                "cli"
+            ],
             "platforms": [
                 "web-cloud",
-                "npm",
-                "cli"
+                "npm"
             ],
             "category": "information-processing",
             "stars": 14965,
@@ -425,10 +433,12 @@
             "name": "Docling",
             "description": "Get your documents ready for gen AI",
             "repo_url": "https://github.com/DS4SD/docling",
-            "tags": [],
+            "tags": [
+                "cli",
+                "manual"
+            ],
             "platforms": [
-                "pip",
-                "cli"
+                "cross"
             ],
             "category": "information-processing",
             "stars": 28107,
@@ -554,10 +564,11 @@
             "name": "NextChat",
             "description": "\u2728 Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
             "repo_url": "https://github.com/ChatGPTNextWeb/NextChat",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "web-cloud"
             ],
             "category": "llm-gui",
@@ -605,11 +616,11 @@
             "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
             "repo_url": "https://github.com/ollama/ollama",
             "tags": [
+                "cli",
                 "influential"
             ],
             "platforms": [
                 "cross",
-                "cli",
                 "selfhost"
             ],
             "category": "manager",
@@ -640,11 +651,12 @@
             "name": "LLaMa-Factory",
             "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
             "repo_url": "https://github.com/hiyouga/LLaMA-Factory",
-            "tags": [],
+            "tags": [
+                "cli-plus",
+                "manual"
+            ],
             "platforms": [
-                "pip",
-                "selfhost",
-                "cli-plus"
+                "selfhost"
             ],
             "category": "model-tools",
             "stars": 47387,
@@ -658,11 +670,11 @@
             "name": "PyTorch Lightning",
             "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
             "repo_url": "https://github.com/Lightning-AI/pytorch-lightning",
-            "tags": [],
-            "platforms": [
-                "pip",
-                "cli"
+            "tags": [
+                "cli",
+                "manual"
             ],
+            "platforms": [],
             "category": "model-tools",
             "stars": 29348,
             "flags": [],
@@ -675,11 +687,11 @@
             "name": "Agno",
             "description": "Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.",
             "repo_url": "https://github.com/agno-agi/agno",
-            "tags": [],
-            "platforms": [
-                "pip",
-                "cli"
+            "tags": [
+                "cli",
+                "manual"
             ],
+            "platforms": [],
             "category": "model-tools",
             "stars": 25528,
             "flags": [],
@@ -724,9 +736,10 @@
             "name": "kotaemon",
             "description": "An open-source RAG-based tool for chatting with your documents.",
             "repo_url": "https://github.com/Cinnamon/kotaemon",
-            "tags": [],
+            "tags": [
+                "manual"
+            ],
             "platforms": [
-                "pip",
                 "selfhost"
             ],
             "category": "rag",
@@ -773,11 +786,11 @@
             "name": "PaperQA2",
             "description": "High accuracy RAG for answering questions from scientific documents with citations",
             "repo_url": "https://github.com/Future-House/paper-qa",
-            "tags": [],
-            "platforms": [
-                "pip",
-                "cli"
+            "tags": [
+                "cli",
+                "manual"
             ],
+            "platforms": [],
             "category": "rag",
             "stars": 7191,
             "flags": [],
@@ -790,11 +803,12 @@
             "name": "R2R",
             "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
             "repo_url": "https://github.com/SciPhi-AI/R2R",
-            "tags": [],
+            "tags": [
+                "cli"
+            ],
             "platforms": [
                 "web-cloud",
-                "selfhost",
-                "cli"
+                "selfhost"
             ],
             "category": "rag",
             "stars": 6518,
@@ -841,10 +855,11 @@
             "name": "DeepSearcher",
             "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
             "repo_url": "https://github.com/zilliztech/deep-searcher",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "research",
             "stars": 5600,
@@ -858,10 +873,11 @@
             "name": "GPT Researcher",
             "description": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.",
             "repo_url": "https://github.com/assafelovic/gpt-researcher",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "selfhost"
             ],
             "category": "research",
@@ -908,10 +924,11 @@
             "name": "SimpleX",
             "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
             "repo_url": "https://github.com/simplex-chat/simplex-chat",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "chat",
             "stars": 8357,
@@ -1009,9 +1026,10 @@
             "name": "Jitsi Meet",
             "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
             "repo_url": "https://github.com/jitsi/jitsi-meet",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
-                "cli-plus",
                 "web-cloud"
             ],
             "category": "video-conference",
@@ -1026,9 +1044,10 @@
             "name": "Element",
             "description": "A glossy Matrix collaboration client for the web.",
             "repo_url": "https://github.com/element-hq/element-web",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
-                "cli-plus",
                 "web-cloud"
             ],
             "category": "video-conference",
@@ -1043,10 +1062,11 @@
             "name": "Kopia",
             "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
             "repo_url": "https://github.com/kopia/kopia",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "backup",
             "stars": 9301,
@@ -1060,10 +1080,11 @@
             "name": "Restic",
             "description": "Fast, secure, efficient backup program",
             "repo_url": "https://github.com/restic/restic",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "backup",
             "stars": 28343,
@@ -1093,10 +1114,11 @@
             "name": "Borg",
             "description": "Deduplicating archiver with compression and authenticated encryption.",
             "repo_url": "https://github.com/borgbackup/borg",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "backup",
             "stars": 11745,
@@ -1110,10 +1132,11 @@
             "name": "Rclone",
             "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
             "repo_url": "https://github.com/rclone/rclone",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "backup",
             "stars": 49964,
@@ -1160,10 +1183,11 @@
             "name": "Duplicacy",
             "description": "A new generation cloud backup tool ",
             "repo_url": "https://github.com/gilbertchen/duplicacy",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "backup",
             "stars": 5399,
@@ -1194,10 +1218,11 @@
             "name": "Seafile",
             "description": "High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.",
             "repo_url": "https://github.com/haiwen/seafile",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "selfhost"
             ],
             "category": "storage",
@@ -1260,10 +1285,11 @@
             "name": "Syncthing",
             "description": "Open Source Continuous File Synchronization",
             "repo_url": "https://github.com/syncthing/syncthing",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "sync",
             "stars": 69583,
@@ -1277,10 +1303,11 @@
             "name": "syncthing-macos",
             "description": "Official frugal and native macOS Syncthing application bundle",
             "repo_url": "https://github.com/syncthing/syncthing-macos",
-            "tags": [],
-            "platforms": [
-                "macos",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "macos"
             ],
             "category": "sync",
             "stars": 2969,
@@ -1294,10 +1321,11 @@
             "name": "Rsync",
             "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
             "repo_url": "https://github.com/RsyncProject/rsync",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "sync",
             "stars": 3425,
@@ -1362,10 +1390,11 @@
             "name": "Goose",
             "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
             "repo_url": "https://github.com/block/goose",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-assistant",
             "stars": 11982,
@@ -1429,10 +1458,11 @@
             "name": "Plandex",
             "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
             "repo_url": "https://github.com/plandex-ai/plandex",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-assistant",
             "stars": 12436,
@@ -1446,10 +1476,11 @@
             "name": "GPT Pilot",
             "description": "The first real AI developer",
             "repo_url": "https://github.com/Pythagora-io/gpt-pilot",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-assistant",
             "stars": 32609,
@@ -1463,10 +1494,11 @@
             "name": "Aider",
             "description": "aider is AI pair programming in your terminal",
             "repo_url": "https://github.com/Aider-AI/aider",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-assistant",
             "stars": 31807,
@@ -1516,10 +1548,11 @@
             "name": "Helix",
             "description": "A post-modern modal text editor.",
             "repo_url": "https://github.com/helix-editor/helix",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-editor",
             "stars": 37037,
@@ -1550,11 +1583,11 @@
             "description": "The official Vim repository",
             "repo_url": "https://github.com/vim/vim",
             "tags": [
+                "cli",
                 "influential"
             ],
             "platforms": [
-                "cross",
-                "cli"
+                "cross"
             ],
             "category": "code-editor",
             "stars": 37992,
@@ -1568,10 +1601,11 @@
             "name": "neovim",
             "description": "Vim-fork focused on extensibility and usability",
             "repo_url": "https://github.com/neovim/neovim",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-editor",
             "stars": 88871,
@@ -1585,10 +1619,11 @@
             "name": "SpaceVim",
             "description": "A modular configuration of Vim and Neovim",
             "repo_url": "https://github.com/SpaceVim/SpaceVim",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-editor",
             "stars": 20378,
@@ -1602,10 +1637,11 @@
             "name": "NvChad",
             "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
             "repo_url": "https://github.com/NvChad/NvChad",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-editor",
             "stars": 25996,
@@ -1619,10 +1655,11 @@
             "name": "LazyVim",
             "description": "Neovim config for the lazy",
             "repo_url": "https://github.com/LazyVim/LazyVim",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "code-editor",
             "stars": 20215,
@@ -1751,10 +1788,11 @@
             "name": "Watchexec",
             "description": "Executes commands in response to file modifications",
             "repo_url": "https://github.com/watchexec/watchexec",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "dev-tools",
             "stars": 5915,
@@ -1768,10 +1806,11 @@
             "name": "bat",
             "description": "A cat(1) clone with wings.",
             "repo_url": "https://github.com/sharkdp/bat",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "dev-tools",
             "stars": 52284,
@@ -1849,10 +1888,11 @@
             "name": "Yarn",
             "description": "\ud83d\udce6\ud83d\udc08 Active development trunk for Yarn \u2692",
             "repo_url": "https://github.com/yarnpkg/berry",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "language-package-manager",
             "stars": 7684,
@@ -1866,10 +1906,11 @@
             "name": "PNPM",
             "description": "Fast, disk space efficient package manager",
             "repo_url": "https://github.com/pnpm/pnpm",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "language-package-manager",
             "stars": 31425,
@@ -1883,10 +1924,11 @@
             "name": "Bun",
             "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
             "repo_url": "https://github.com/oven-sh/bun",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "language-package-manager",
             "stars": 77614,
@@ -1900,10 +1942,11 @@
             "name": "uv",
             "description": "An extremely fast Python package and project manager, written in Rust.",
             "repo_url": "https://github.com/astral-sh/uv",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "language-package-manager",
             "stars": 50869,
@@ -2726,10 +2769,11 @@
             "name": "yt-dlp",
             "description": "A feature-rich command-line audio/video downloader",
             "repo_url": "https://github.com/yt-dlp/yt-dlp",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "media-downloader",
             "stars": 108943,
@@ -3974,10 +4018,11 @@
             "name": "buku",
             "description": ":bookmark: Personal mini-web in text",
             "repo_url": "https://github.com/jarun/buku",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "bookmark-manager",
             "stars": 6685,
@@ -4071,10 +4116,11 @@
             "name": "Docspell",
             "description": "Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.",
             "repo_url": "https://github.com/eikek/docspell",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "selfhost",
-                "cli-plus",
                 "android"
             ],
             "category": "document-management",
@@ -4171,10 +4217,11 @@
             "name": "OCRmyPDF",
             "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
             "repo_url": "https://github.com/ocrmypdf/OCRmyPDF",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "document-modifier",
             "stars": 27898,
@@ -4532,10 +4579,11 @@
             "name": "Planka",
             "description": "The realtime kanban board for workgroups built with React and Redux.",
             "repo_url": "https://github.com/plankanban/planka",
-            "tags": [],
-            "platforms": [
-                "selfhost",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "selfhost"
             ],
             "category": "task-management",
             "stars": 9050,
@@ -4599,10 +4647,11 @@
             "name": "AdGuard",
             "description": "Network-wide ads & trackers blocking DNS server",
             "repo_url": "https://github.com/AdguardTeam/AdGuardHome",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "selfhost",
-                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4747,10 +4796,11 @@
             "name": "Bitwarden",
             "description": "Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations.",
             "repo_url": "https://github.com/bitwarden/server",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "mobile",
                 "chromium",
                 "firefox"
@@ -4801,11 +4851,12 @@
             "name": "LessPass",
             "description": ":key: stateless open source password manager",
             "repo_url": "https://github.com/lesspass/lesspass",
-            "tags": [],
+            "tags": [
+                "cli",
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli",
-                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4821,12 +4872,12 @@
             "name": "Passbolt",
             "description": "Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!",
             "repo_url": "https://github.com/passbolt/passbolt_api",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "selfhost",
-                "cli-plus",
                 "chromium",
                 "firefox"
             ],
@@ -4842,10 +4893,11 @@
             "name": "Amnezia",
             "description": "Amnezia VPN Client (Desktop+Mobile)",
             "repo_url": "https://github.com/amnezia-vpn/amnezia-client",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "vpn",
             "stars": 6949,
@@ -4875,10 +4927,11 @@
             "name": "ProtonVPN",
             "description": "Official ProtonVPN Android app",
             "repo_url": "https://github.com/ProtonVPN/android-app",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "vpn",
             "stars": 2653,
@@ -4892,10 +4945,11 @@
             "name": "fish",
             "description": "The user-friendly command line shell.",
             "repo_url": "https://github.com/fish-shell/fish-shell",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "shell",
             "stars": 29600,
@@ -4909,10 +4963,11 @@
             "name": "xonsh",
             "description": ":shell: Python-powered shell. Full-featured and cross-platform.",
             "repo_url": "https://github.com/xonsh/xonsh",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "shell",
             "stars": 8736,
@@ -4926,10 +4981,11 @@
             "name": "Nushell",
             "description": "A new type of shell",
             "repo_url": "https://github.com/nushell/nushell",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "shell",
             "stars": 34854,
@@ -5039,10 +5095,11 @@
             "name": "Zellij",
             "description": "A terminal workspace with batteries included",
             "repo_url": "https://github.com/zellij-org/zellij",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-multiplexer",
             "stars": 23952,
@@ -5056,10 +5113,11 @@
             "name": "tmux",
             "description": "tmux source code",
             "repo_url": "https://github.com/tmux/tmux",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-multiplexer",
             "stars": 37193,
@@ -5073,10 +5131,11 @@
             "name": "Atuin",
             "description": "\u2728 Magical shell history",
             "repo_url": "https://github.com/atuinsh/atuin",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 23375,
@@ -5090,10 +5149,11 @@
             "name": "Oh My Zsh",
             "description": "\ud83d\ude43   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
             "repo_url": "https://github.com/ohmyzsh/ohmyzsh",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 177856,
@@ -5107,10 +5167,11 @@
             "name": "McFly",
             "description": "Fly through your shell history. Great Scott!",
             "repo_url": "https://github.com/cantino/mcfly",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 7205,
@@ -5124,10 +5185,11 @@
             "name": "zoxide",
             "description": "A smarter cd command. Supports all major shells.",
             "repo_url": "https://github.com/ajeetdsouza/zoxide",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 26050,
@@ -5141,10 +5203,11 @@
             "name": "zsh-autosuggestions",
             "description": "Fish-like autosuggestions for zsh",
             "repo_url": "https://github.com/zsh-users/zsh-autosuggestions",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 32761,
@@ -5158,10 +5221,11 @@
             "name": "ShellGPT",
             "description": "A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
             "repo_url": "https://github.com/TheR1D/shell_gpt",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 10738,
@@ -5404,10 +5468,11 @@
             "name": "nb",
             "description": "CLI and local web plain text note\u2011taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
             "repo_url": "https://github.com/xwmx/nb",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "note-taking",
             "stars": 7010,
@@ -5421,10 +5486,11 @@
             "name": "jrnl",
             "description": "Collect your thoughts and notes without leaving the command line.",
             "repo_url": "https://github.com/jrnl-org/jrnl",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "note-taking",
             "stars": 6676,
@@ -5584,10 +5650,11 @@
             "name": "Micro",
             "description": "A modern and intuitive terminal-based text editor",
             "repo_url": "https://github.com/zyedidia/micro",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "text-editor",
             "stars": 25990,
@@ -5617,10 +5684,11 @@
             "name": "Kakoune",
             "description": "mawww's experiment for a better code editor",
             "repo_url": "https://github.com/mawww/kakoune",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "text-editor",
             "stars": 10224,
@@ -5730,10 +5798,11 @@
             "name": "Ansible",
             "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
             "repo_url": "https://github.com/ansible/ansible",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "automation",
             "stars": 64804,
@@ -5795,10 +5864,11 @@
             "name": "Cronicle",
             "description": "A simple, distributed task scheduler and runner with a web based UI.",
             "repo_url": "https://github.com/jhuckaby/Cronicle",
-            "tags": [],
+            "tags": [
+                "cli-plus"
+            ],
             "platforms": [
                 "cross",
-                "cli-plus",
                 "selfhost"
             ],
             "category": "automation",
@@ -5910,10 +5980,11 @@
             "name": "Colima",
             "description": "Container runtimes on macOS (and Linux) with minimal setup",
             "repo_url": "https://github.com/abiosoft/colima",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "containers",
             "stars": 22357,
@@ -5927,10 +5998,11 @@
             "name": "yadm",
             "description": "Yet Another Dotfiles Manager",
             "repo_url": "https://github.com/yadm-dev/yadm",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "dotfiles-manager",
             "stars": 5628,
@@ -5994,10 +6066,11 @@
             "name": "nnn",
             "description": "n\u00b3 The unorthodox terminal file manager",
             "repo_url": "https://github.com/jarun/nnn",
-            "tags": [],
-            "platforms": [
-                "linux",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "linux"
             ],
             "category": "file-manager",
             "stars": 19985,
@@ -6011,10 +6084,11 @@
             "name": "Yazi",
             "description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.",
             "repo_url": "https://github.com/sxyazi/yazi",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "tui"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "file-manager",
             "stars": 24355,
@@ -6028,10 +6102,11 @@
             "name": "Ranger",
             "description": "A VIM-inspired filemanager for the console",
             "repo_url": "https://github.com/ranger/ranger",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "file-manager",
             "stars": 16099,
@@ -6061,10 +6136,11 @@
             "name": "If",
             "description": "Terminal file manager",
             "repo_url": "https://github.com/gokcehan/lf",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "file-manager",
             "stars": 8134,
@@ -6142,10 +6218,11 @@
             "name": "xplr",
             "description": "A hackable, minimal, fast TUI file explorer",
             "repo_url": "https://github.com/sayanarijit/xplr",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "file-manager",
             "stars": 4368,
@@ -6159,10 +6236,11 @@
             "name": "LocalSend",
             "description": "An open-source cross-platform alternative to AirDrop",
             "repo_url": "https://github.com/localsend/localsend",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli-plus"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "file-sharing",
             "stars": 60338,
@@ -6352,11 +6430,12 @@
             "name": "Homebrew",
             "description": "\ud83c\udf7a The missing package manager for macOS (or Linux)",
             "repo_url": "https://github.com/Homebrew/brew",
-            "tags": [],
+            "tags": [
+                "cli"
+            ],
             "platforms": [
                 "macos",
-                "linux",
-                "cli"
+                "linux"
             ],
             "category": "package-manager",
             "stars": 43328,
@@ -6466,10 +6545,11 @@
             "name": "bottom",
             "description": "Yet another cross-platform graphical process/system monitor.",
             "repo_url": "https://github.com/ClementTsang/bottom",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "system-monitoring",
             "stars": 11174,
@@ -6564,10 +6644,11 @@
             "name": "inshellisense",
             "description": "IDE style command line auto complete",
             "repo_url": "https://github.com/microsoft/inshellisense",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "tools",
             "stars": 9259,
@@ -6581,10 +6662,11 @@
             "name": "rga",
             "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "repo_url": "https://github.com/phiresky/ripgrep-all",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "tools",
             "stars": 8689,
@@ -6598,10 +6680,11 @@
             "name": "fd",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "repo_url": "https://github.com/sharkdp/fd",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "tools",
             "stars": 37614,
@@ -6631,10 +6714,11 @@
             "name": "rbenv",
             "description": "Manage your app's Ruby environment",
             "repo_url": "https://github.com/rbenv/rbenv",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 16340,
@@ -6648,10 +6732,11 @@
             "name": "pyenv",
             "description": "Simple Python version management",
             "repo_url": "https://github.com/pyenv/pyenv",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 41771,
@@ -6665,10 +6750,11 @@
             "name": "nvm",
             "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
             "repo_url": "https://github.com/nvm-sh/nvm",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 84104,
@@ -6682,10 +6768,11 @@
             "name": "mise",
             "description": "dev tools, env vars, task runner",
             "repo_url": "https://github.com/jdx/mise",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 14873,
@@ -6699,10 +6786,11 @@
             "name": "asdf",
             "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
             "repo_url": "https://github.com/asdf-vm/asdf",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 23410,
@@ -6716,10 +6804,11 @@
             "name": "vfox",
             "description": "A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",
             "repo_url": "https://github.com/version-fox/vfox",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "version-manager",
             "stars": 3202,
@@ -7093,10 +7182,11 @@
             "name": "Lazygit",
             "description": "simple terminal UI for git commands",
             "repo_url": "https://github.com/jesseduffield/lazygit",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "tui"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "git-gui",
             "stars": 59082,
@@ -7126,10 +7216,11 @@
             "name": "lazydocker",
             "description": "The lazier way to manage everything docker",
             "repo_url": "https://github.com/jesseduffield/lazydocker",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "tui"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "containers",
             "stars": 43604,
@@ -7176,10 +7267,11 @@
             "name": "Codex",
             "description": "Lightweight coding agent that runs in your terminal",
             "repo_url": "https://github.com/openai/codex",
-            "tags": [],
+            "tags": [
+                "cli"
+            ],
             "platforms": [
                 "cross",
-                "cli",
                 "npm"
             ],
             "category": "code-assistant",
@@ -7194,10 +7286,11 @@
             "name": "fzf",
             "description": ":cherry_blossom: A command-line fuzzy finder",
             "repo_url": "https://github.com/junegunn/fzf",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 69598,
@@ -7211,10 +7304,11 @@
             "name": "delta",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "repo_url": "https://github.com/dandavison/delta",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 25934,
@@ -7228,10 +7322,11 @@
             "name": "eza",
             "description": "A modern alternative to ls",
             "repo_url": "https://github.com/eza-community/eza",
-            "tags": [],
-            "platforms": [
-                "cross",
+            "tags": [
                 "cli"
+            ],
+            "platforms": [
+                "cross"
             ],
             "category": "terminal-utilities",
             "stars": 15055,
@@ -7312,10 +7407,11 @@
             "name": "Gitingest",
             "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase ",
             "repo_url": "https://github.com/cyclotruc/gitingest",
-            "tags": [],
+            "tags": [
+                "manual"
+            ],
             "platforms": [
                 "web-cloud",
-                "pip",
                 "chromium",
                 "firefox"
             ],

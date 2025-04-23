@@ -48,14 +48,19 @@
 
 `Mobile` - Android and IOS
 
+`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `SelfHost`, `Web (Cloud)`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`,  `N/A`
+
+### Properties
 `CLI+` - CLI in addition to GUI
 
 `TUI` - Terminal user interface
 
-`Windows`, `MacOS`, `Linux`, `Android`, `IOS`, `CLI`, `SelfHost`, `Web (Cloud)`, `VSCode`, `JetBrains`, `Chromium`, `Firefox`, `Plugin`, `Extension`, `pip`, `npm`, `N/A`
+`Manual` - Installation with pip, npm, cargo, building from source
+
+`CLI`, `Plugin`, `Extension`, `Web UI`
 
 > [!NOTE]
-> `Cross`, `MacOS`, `Linux`, and `Windows` platform tags refers to apps with an executable or binary, EX: exe and dmg (with the exception of CLI apps). `Selfhosted` apps are often inherently cross platform via docker desktop but they aren't labeled as such. The same goes for apps installed via `pip` and `npm`. A few apps blur the lines with convoluted options to install/ This is prevalent in AI apps. These can have misleading platform tags - we are working on a solution.
+> Cross, MacOS, Linux, and Windows tags, by default, imply that the app ships as a binary (EX: exe, dmg) unless they are accompanied by the `manual` tag that indicates another runtime or installation method. 
 ## Table of Contents
 
 <details>
@@ -295,18 +300,18 @@
 
 ### Agent
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | `SelfHost` | **33.9k** |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | `SelfHost` | **174.7k** |
 | [Huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | `SelfHost` | **46k** |
-| [Telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` `CLI+` | **15.5k** |
+| [Telegraf](https://github.com/influxdata/telegraf) `CLI+` | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` | **15.5k** |
 | [TEN Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like  seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze. | `SelfHost` | **5.7k** |
 | [WrenAI](https://github.com/Canner/WrenAI) | 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. 📈📊📋🧑‍💻 | `Web (Cloud)` `SelfHost` | **7.6k** |
 
 ### AI Image GUI
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | `SelfHost` | **151.6k** |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | `SelfHost` | **75k** |
@@ -316,30 +321,30 @@
 
 ### AI Utilities
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### All In One
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Khoj AI](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | `Web (Cloud)` `SelfHost` | **28.8k** |
 | [Lobe Chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. | `Web (Cloud)` `SelfHost` | **59.1k** |
 
 ### Assistant
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | `SelfHost` | **16.2k** |
 
 ### Context
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Information Processing
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. | `Web (Cloud)` `SelfHost` | **36.6k** |
 | [GPT crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | `SelfHost` | **21.4k** |
@@ -347,7 +352,7 @@
 
 ### LLM GUI
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [h2oGPT](https://github.com/h2oai/h2ogpt) | Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/ | `SelfHost` | **11.8k** |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | `SelfHost` | **24.8k** |
@@ -357,44 +362,44 @@
 
 ### Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Ollama](https://github.com/ollama/ollama) 🌍 | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | `Cross` `CLI` `SelfHost` | **138.2k** |
+| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | `Cross` `SelfHost` | **138.2k** |
 
 ### Model Tools
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | `pip` `SelfHost` `CLI+` | **47.4k** |
+| [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory) `CLI+` `Manual` | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | `SelfHost` | **47.4k** |
 | [Second Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | `SelfHost` `Web (Cloud)` | **11.3k** |
 
 ### RAG
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [AutoFlow](https://github.com/pingcap/autoflow) | pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai | `SelfHost` | **2.5k** |
 | [DocsGPT](https://github.com/arc53/DocsGPT) | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. | `Cross` `SelfHost` | **15.6k** |
-| [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | `pip` `SelfHost` | **22.1k** |
-| [R2R](https://github.com/SciPhi-AI/R2R) | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | `Web (Cloud)` `SelfHost` `CLI` | **6.5k** |
+| [kotaemon](https://github.com/Cinnamon/kotaemon) `Manual` | An open-source RAG-based tool for chatting with your documents. | `SelfHost` | **22.1k** |
+| [R2R](https://github.com/SciPhi-AI/R2R) `CLI` | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API. | `Web (Cloud)` `SelfHost` | **6.5k** |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | `SelfHost` | **49.9k** |
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | `SelfHost` | **7k** |
 
 ### Research
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | `Cross` `CLI+` `SelfHost` | **21.1k** |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) `CLI+` | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | `Cross` `SelfHost` | **21.1k** |
 
 # Communication - [Go to top](#contents)
 
 ### Chat
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Collaboration
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. | `SelfHost` | **32.4k** |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. | `SelfHost` `Web (Cloud)` | **42.5k** |
@@ -402,42 +407,42 @@
 
 ### Mail
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Video Conference
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Data - [Go to top](#contents)
 
 ### Backup
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Backrest](https://github.com/garethgeorge/backrest) | Backrest is a web UI and orchestrator for restic backup. | `Cross` `SelfHost` | **2.7k** |
 
 ### Storage
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Ceph](https://github.com/ceph/ceph) | Ceph is a distributed object, block, and file storage platform  | `SelfHost` | **14.9k** |
 | [myDrive](https://github.com/subnub/myDrive) | Node.js and mongoDB Google Drive Clone | `SelfHost` | **3.7k** |
 | [Nextcloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | `Cross` `SelfHost` | **29.3k** |
 | [ownCloud](https://github.com/owncloud/core) | :cloud: ownCloud web server core (Files, DAV, etc.) | `SelfHost` | **8.5k** |
-| [Seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `CLI+` `SelfHost` | **13k** |
+| [Seafile](https://github.com/haiwen/seafile) `CLI+` | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | `Cross` `SelfHost` | **13k** |
 
 ### Sync
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Development - [Go to top](#contents)
 
 ### Code Assistant
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | `SelfHost` `Web (Cloud)` | **54.9k** |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **53.3k** |
@@ -445,28 +450,28 @@
 
 ### Code Editor
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [code-server](https://github.com/coder/code-server) | VS Code in the browser | `SelfHost` | **71.2k** |
 
 ### Dev Tools
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Game Engine
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Git GUI
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Git Hosting
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | **48.2k** |
 | [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web (Cloud)` | **24k** |
@@ -474,62 +479,62 @@
 
 ### IDE
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Language Package Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Entertainment - [Go to top](#contents)
 
 ### Game Launcher
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Pelican Panel](https://github.com/pelican-dev/panel) | Pelican Panel is an open-source, web-based application designed for easy management of game servers. | `SelfHost` | **1.2k** |
 | [RomM](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. | `SelfHost` | **3.6k** |
 
 ### Games
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Extensions - [Go to top](#contents)
 
 ### Browser Extensions
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### EMACS Packages
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Neovim Extensions
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Internet - [Go to top](#contents)
 
 ### Browser
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Neko](https://github.com/m1k1o/neko) | A self hosted virtual browser that runs in docker and uses WebRTC. | `SelfHost` | **10.1k** |
 
 ### Download Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [File Centipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client. | `SelfHost` | **10.3k** |
 
 ### Search Engine
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | `SelfHost` | **21.4k** |
 | [Scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. | `SelfHost` `Web (Cloud)` | **7.8k** |
@@ -538,78 +543,78 @@
 
 ### Audio Editor
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Audio Player
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **3.7k** |
 | [Navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service | `Cross` `SelfHost` | **14.2k** |
 
 ### Graphics
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Image Processing
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Media Downloader
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Screen Recording
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Video Editing
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Video Player
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Video Transcoder
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Operating System - [Go to top](#contents)
 
 ### Linux
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### MacOS
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Operating System
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Windows
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Organization - [Go to top](#contents)
 
 ### Bookmark Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [hoarder](https://github.com/hoarder-app/hoarder) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | `SelfHost` | **15.4k** |
 | [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. | `SelfHost` | **8k** |
@@ -619,9 +624,9 @@
 
 ### Document Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Docspell](https://github.com/eikek/docspell) | Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. | `SelfHost` `CLI+` `Android` | **1.8k** |
+| [Docspell](https://github.com/eikek/docspell) `CLI+` | Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. | `SelfHost` `Android` | **1.8k** |
 | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents | `SelfHost` | **26.6k** |
 | [TagSpaces](https://github.com/tagspaces/tagspaces) | TagSpaces is an offline, open source, document manager with tagging support | `SelfHost` | **4.2k** |
 
@@ -629,13 +634,13 @@
 
 ### Calendar
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | `SelfHost` | **35.9k** |
 
 ### Document Modifier
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. | `SelfHost` `Web (Cloud)` | **10.8k** |
 | [DocuSeal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ | `SelfHost` | **9k** |
@@ -644,7 +649,7 @@
 
 ### Finance
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | `SelfHost` `Cross` | **18.5k** |
 | [Firefly III](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | `SelfHost` | **18.8k** |
@@ -654,12 +659,12 @@
 
 ### Knowledge Base
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Project Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | `Cross` `SelfHost` | **23.2k** |
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | `SelfHost` `Web (Cloud)` | **20.3k** |
@@ -669,13 +674,13 @@
 
 ### Task Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` `CLI+` | **9.1k** |
+| [Planka](https://github.com/plankanban/planka) `CLI+` | The realtime kanban board for workgroups built with React and Redux. | `SelfHost` | **9.1k** |
 
 ### Time Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | `SelfHost` `Web (Cloud)` | **5.4k** |
 
@@ -683,21 +688,21 @@
 
 ### AD Blocker
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [AdGuard](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | `SelfHost` `CLI+` `Chromium` `Firefox` | **28k** |
+| [AdGuard](https://github.com/AdguardTeam/AdGuardHome) `CLI+` | Network-wide ads & trackers blocking DNS server | `SelfHost` `Chromium` `Firefox` | **28k** |
 | [Blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy as ad-blocker for local network with many features | `SelfHost` | **5.3k** |
 | [Pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | `SelfHost` | **51.6k** |
 
 ### Antivirus
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [ClamAV](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | `Cross` `SelfHost` | **5k** |
 
 ### Authentication
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [2FAuth](https://github.com/Bubka/2FAuth) | A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes | `SelfHost` | **2.7k** |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps | `SelfHost` | **23.5k** |
@@ -705,28 +710,28 @@
 
 ### Firewall
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [BunkerWeb](https://github.com/bunkerity/bunkerweb) | 🛡️ Open-source and next-generation Web Application Firewall (WAF) | `SelfHost` | **7.8k** |
 | [SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | `SelfHost` | **16.1k** |
 
 ### Password Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Passbolt](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `CLI+` `SelfHost` `CLI+` `Chromium` `Firefox` | **5k** |
+| [Passbolt](https://github.com/passbolt/passbolt_api) `CLI+` | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `SelfHost` `Chromium` `Firefox` | **5k** |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | `SelfHost` | **43.7k** |
 
 ### VPN
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Server - [Go to top](#contents)
 
 ### Arr
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet. | `Cross` `SelfHost` | **1.8k** |
 | [Bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | `Cross` `SelfHost` | **3.2k** |
@@ -740,7 +745,7 @@
 
 ### Dashboard
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [dashdot](https://github.com/MauriceNino/dashdot) | A simple, modern server dashboard, primarily used by smaller private servers | `SelfHost` | **2.9k** |
 | [Dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | `SelfHost` | **20.5k** |
@@ -751,7 +756,7 @@
 
 ### Home Automation
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Domoticz](https://github.com/domoticz/domoticz) | Open source Home Automation System | `SelfHost` | **3.6k** |
 | [ESPHome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | `SelfHost` | **9.2k** |
@@ -760,7 +765,7 @@
 
 ### Home Server
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Cosmos](https://github.com/azukaar/Cosmos-Server) | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) | `SelfHost` | **4.4k** |
 | [Runtipi](https://github.com/runtipi/runtipi) | Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ | `SelfHost` | **8.4k** |
@@ -768,7 +773,7 @@
 
 ### Media Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted audiobook and podcast server | `IOS` `Android` `SelfHost` | **8.4k** |
 | [Calibre-Web](https://github.com/janeczku/calibre-web) | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | `SelfHost` | **14.4k** |
@@ -785,13 +790,13 @@
 
 ### Server Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server. | `SelfHost` | **27.9k** |
 
 ### Surveillance
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | `SelfHost` | **22.1k** |
 | [Scrypted](https://github.com/koush/scrypted) | Scrypted is a high performance video integration and automation platform | `SelfHost` | **4.7k** |
@@ -801,71 +806,71 @@
 
 ### Shell
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Terminal Emulator
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Terminal Multiplexer
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Terminal Utilities
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Text - [Go to top](#contents)
 
 ### Document Editor
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | `SelfHost` `Web (Cloud)` | **17.4k** |
 
 ### Markdown Editor
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | `SelfHost` | **5.9k** |
 
 ### Note Taking
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Blinko](https://github.com/blinko-space/blinko) | An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . | `SelfHost` | **3.6k** |
 | [Memos](https://github.com/usememos/memos) | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way. | `SelfHost` | **39.1k** |
 
 ### Office Suite
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [CryptPad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source. | `SelfHost` | **6.2k** |
 
 ### Proofreading
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [LanguageTool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | `SelfHost` `Web (Cloud)` | **13k** |
 
 ### Spreadsheet
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Grist](https://github.com/gristlabs/grist-core) | Grist is the evolution of spreadsheets. | `SelfHost` `Web (Cloud)` | **8.3k** |
 
 ### Text Editor
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Wiki
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | `SelfHost` | **16.5k** |
 | [Docmost](https://github.com/docmost/docmost) 💰 | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | `SelfHost` `Web (Cloud)` | **14.6k** |
@@ -876,34 +881,34 @@
 
 ### Automation
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Cronicle](https://github.com/jhuckaby/Cronicle) | A simple, distributed task scheduler and runner with a web based UI. | `Cross` `CLI+` `SelfHost` | **4.4k** |
+| [Cronicle](https://github.com/jhuckaby/Cronicle) `CLI+` | A simple, distributed task scheduler and runner with a web based UI. | `Cross` `SelfHost` | **4.4k** |
 
 ### Cleaner
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Clipboard Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Containers
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy. | `SelfHost` | **32.7k** |
 
 ### Dotfiles Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### File Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [File Browser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | `SelfHost` | **28.7k** |
 | [FileGator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | `SelfHost` | **2.4k** |
@@ -911,71 +916,71 @@
 
 ### File Sharing
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Keyboard Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Launcher
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Package Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Remote Desktop
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### System
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### System Monitoring
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Tools
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Version Manager
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Virtual Machine
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 ### Window Management
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 # Other - [Go to top](#contents)
 
 ### Other
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Grocy](https://github.com/grocy/grocy) | ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home | `Windows` `SelfHost` | **7.4k** |
 | [Mealie](https://github.com/mealie-recipes/mealie) | Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor | `SelfHost` | **8.9k** |
 
 ### Uncategorized
 
-| Name | Description | Platform | Stars |
+| Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 
 

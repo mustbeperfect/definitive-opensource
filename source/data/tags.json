@@ -1,5 +1,5 @@
 {
-	"tags":
+	"attributes":
 	[
 		{
 			"emoji": "🟡",
@@ -90,6 +90,37 @@
 			"emoji": "💡",
 			"id": "innovative",
 			"description": "Innovative"
+		}
+	],
+	"properties":
+	[
+		{
+			"name": "CLI+",
+			"id": "cli-plus"
+		},
+        {
+			"name": "CLI",
+			"id": "cli"
+		},
+        {
+			"name": "TUI",
+			"id": "tui"
+		},
+		{
+			"name": "Web UI",
+			"id": "web-ui"
+		},
+		{
+			"name": "Manual",
+			"id": "manual"
+		},
+        {
+			"name": "Plugin",
+			"id": "plugin"
+		},
+        {
+			"name": "Extension",
+			"id": "extension"
 		}
 	]
 }

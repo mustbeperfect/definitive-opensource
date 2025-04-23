@@ -55,7 +55,8 @@ def generate_contents(platform="all"):
     applications = app_data.get("applications", [])
     
     parent_map = {cat["id"]: cat["name"] for cat in categories}
-    tag_map = {tag["id"]: tag["emoji"] for tag in tags_data["tags"]}
+    attribute_map = {attribute["id"]: attribute["emoji"] for attribute in tags_data["attributes"]}
+    property_map = {property["id"]: property["name"] for property in tags_data["properties"]}
     platform_map = {p["id"]: p["name"] for p in platforms_data["platforms"]}
 
     subcat_by_parent = {}
@@ -82,7 +83,6 @@ def generate_contents(platform="all"):
             if target in app_platforms:
                 include = True
 
-
             if target in ["macos", "linux", "windows"] and "cross" in app_platforms:
                 include = True
         if not include:
@@ -90,11 +90,9 @@ def generate_contents(platform="all"):
         
         cat_id = app.get("category", "uncategorized")
         apps_by_subcat.setdefault(cat_id, []).append(app)
-    
 
     for key in apps_by_subcat:
         apps_by_subcat[key].sort(key=lambda x: x["name"].lower())
-    
 
     md_output = ""
 
@@ -109,7 +107,7 @@ def generate_contents(platform="all"):
         for sub in subcat_by_parent.get(pid, []):
             subname = sub["Name"]
             md_output += f"### {subname}\n\n"
-            md_output += "| Name | Description | Platform | Stars |\n"
+            md_output += "| Name | Description | Platform(s) | Stars |\n"
             md_output += "| --- | --- | --- | --- |\n"
 
             apps = apps_by_subcat.get(sub["id"], [])
@@ -117,13 +115,16 @@ def generate_contents(platform="all"):
                 name = app.get("name", "")
                 description = app.get("description", "").replace("|", "-")
                 link = app.get("repo_url", "#")
-                tags = ""
+                attribute_tags = ""
+                property_tags = ""
                 """
                 if app.get("tags"):
                     tags += " " + " ".join(app["tags"])
                 """        
                 if app.get("tags"):
-                    tags = " " + " ".join(tag_map.get(tag, tag) for tag in app.get("tags", []))
+                    # attribute_tags = " " + " ".join(attribute_map.get(tag, tag) for tag in app.get("tags", []))
+                    attribute_tags = " " + " ".join(attribute_map[tag] for tag in app["tags"] if tag in attribute_map)
+                    property_tags = " ".join(f"`{property_map[tag]}`" for tag in app["tags"] if tag in property_map)
 
                 # app_platforms = " ".join(f"`{p}`" for p in app.get("platforms", []))
                 app_platforms = " ".join(f"`{platform_map.get(p, p)}`" for p in app.get("platforms", []))
@@ -131,7 +132,7 @@ def generate_contents(platform="all"):
                 stars_formatted = f"**{format_stars(stars)}**" if stars is not None else ""
                 # repo_path = extract_repo_path(link)
                 # stars_badge = f"![GitHub Repo stars](https://img.shields.io/github/stars/{repo_path}?style=for-the-badge&label=%20&color=white)" if repo_path else ""
-                md_output += f"| [{name}]({link}){tags} | {description} | {app_platforms} | {stars_formatted} |\n"
+                md_output += f"| [{name}]({link}){attribute_tags}{property_tags} | {description} | {app_platforms} | {stars_formatted} |\n"
             md_output += "\n"
     return md_output
 
