@@ -7429,6 +7429,158 @@
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://gitingest.com"
+        },
+        {
+            "name": "KoboldCpp",
+            "description": "",
+            "repo_url": "https://github.com/LostRuins/koboldcpp",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "GPT-SoVITS-WebUI",
+            "description": "",
+            "repo_url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "model-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ImHex",
+            "description": "",
+            "repo_url": "https://github.com/WerWolv/ImHex",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ProtonUp-Qt",
+            "description": "",
+            "repo_url": "https://github.com/DavidoTek/ProtonUp-Qt",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Lutris",
+            "description": "",
+            "repo_url": "https://github.com/lutris/lutris",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "game-launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Podman Desktop",
+            "description": "",
+            "repo_url": "https://github.com/podman-desktop/podman-desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "GitHub Desktop - The Linux Fork",
+            "description": "",
+            "repo_url": "https://github.com/shiftkey/desktop",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "git-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Hydra",
+            "description": "",
+            "repo_url": "https://github.com/hydralauncher/hydra",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "game-launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "drawDB",
+            "description": "",
+            "repo_url": "https://github.com/drawdb-io/drawdb",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross",
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
