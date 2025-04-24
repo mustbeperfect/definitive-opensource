@@ -741,9 +741,7 @@
             "name": "kotaemon",
             "description": "An open-source RAG-based tool for chatting with your documents.",
             "repo_url": "https://github.com/Cinnamon/kotaemon",
-            "tags": [
-                "manual"
-            ],
+            "tags": [],
             "platforms": [
                 "selfhost"
             ],
