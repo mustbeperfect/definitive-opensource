@@ -18,6 +18,7 @@ Projects that require a further vetting process.
 - [pure](https://github.com/sindresorhus/pure) - Might be abandoned
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - Need to look into it's purpose in more depth
 - [Inbox Zero](https://github.com/elie222/inbox-zero) - Needs to be vetted further
+- [Suna](https://github.com/kortix-ai/suna) - Still very new
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
