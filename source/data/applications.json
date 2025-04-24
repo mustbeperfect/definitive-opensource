@@ -7579,6 +7579,197 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://drawdb.app"
+        },
+        {
+            "name": "Zotero",
+            "description": "",
+            "repo_url": "https://github.com/zotero/zotero",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "ios",
+                "chromium",
+                "firefox"
+            ],
+            "category": "note-taking",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ImageMagick",
+            "description": "",
+            "repo_url": "https://github.com/ImageMagick/ImageMagick",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "graphics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Pandoc",
+            "description": "",
+            "repo_url": "https://github.com/jgm/pandoc",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "NeoHtop",
+            "description": "",
+            "repo_url": "https://github.com/Abdenasser/neohtop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Healthchecks",
+            "description": "",
+            "repo_url": "https://github.com/healthchecks/healthchecks",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "automation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Glances",
+            "description": "",
+            "repo_url": "https://github.com/nicolargo/glances",
+            "tags": [
+                "tui",
+                "manual"
+            ],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "KDash",
+            "description": "",
+            "repo_url": "https://github.com/kdash-rs/kdash",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "nvitop",
+            "description": "",
+            "repo_url": "https://github.com/XuehaiPan/nvitop",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Tautulli",
+            "description": "",
+            "repo_url": "https://github.com/Tautulli/Tautulli",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "auto-cpufreq",
+            "description": "",
+            "repo_url": "https://github.com/AdnanHodzic/auto-cpufreq",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "system",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "NVTOP",
+            "description": "",
+            "repo_url": "https://github.com/Syllo/nvtop",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

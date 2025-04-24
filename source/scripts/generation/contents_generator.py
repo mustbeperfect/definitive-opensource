@@ -102,7 +102,7 @@ def generate_contents(platform="all"):
         parent_items.append(("other", "Other"))
     
     for pid, pname in parent_items:
-        md_output += f"# {pname} - [Go to top](#contents)\n\n"
+        md_output += f"# {pname} - [Go to top](#table-of-contents)\n\n"
 
         for sub in subcat_by_parent.get(pid, []):
             subname = sub["Name"]
