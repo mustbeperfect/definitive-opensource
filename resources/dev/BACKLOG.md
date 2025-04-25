@@ -7,6 +7,7 @@ Projects that require a further vetting process.
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - Might be abandoned
 - [Lorien](https://github.com/mbrlabs/Lorien)
 - [Freeplane](https://github.com/freeplane/freeplane)
+- [Papermark](https://github.com/mfts/papermark)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
@@ -30,9 +31,12 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [pad.ws](https://github.com/pad-ws/pad.ws)
 - [Polaris](https://github.com/agersant/polaris)
 - [AM](https://github.com/ivan-hc/AM)
+- [Cartridges](https://github.com/kra-mo/cartridges) - Waiting on stars
 - [kunkun](https://github.com/kunkunsh/kunkun) - Only waiting on stars
 - [gauntlet](https://github.com/project-gauntlet/gauntlet) - Only waiting on stars
 - [Raindrop.io](https://github.com/raindropio)
+- [Astra Monitor](https://github.com/AstraExt/astra-monitor) - Waiting on stars
+- [Klee](https://github.com/signerlabs/Klee) - Very new and not sure about longevity
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
 - [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)
 - [RustPad](https://github.com/ekzhang/rustpad)

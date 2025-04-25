@@ -7572,7 +7572,7 @@
                 "selfhost",
                 "web-cloud"
             ],
-            "category": "",
+            "category": "diagrams",
             "stars": 27854,
             "flags": [],
             "last_commit": "04/24/2025",
@@ -7764,6 +7764,59 @@
                 "cross"
             ],
             "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Liam ERD",
+            "description": "",
+            "repo_url": "https://github.com/liam-hq/liam",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "diagrams",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "c/ua",
+            "description": "",
+            "repo_url": "https://github.com/trycua/cua",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Argo CD",
+            "description": "",
+            "repo_url": "https://github.com/argoproj/argo-cd",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "containers",
             "stars": 0,
             "flags": [],
             "last_commit": "",

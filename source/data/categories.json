@@ -679,6 +679,18 @@
 			"description": ""
 		},
 		{
+			"name": "Image Editing",
+			"id": "image-editing",
+			"parent": "media",
+			"description": ""
+		},
+		{
+			"name": "Diagrams",
+			"id": "diagrams",
+			"parent": "media",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",
