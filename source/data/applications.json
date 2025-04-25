@@ -7897,6 +7897,41 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "n8n",
+            "description": "",
+            "repo_url": "https://github.com/n8n-io/n8n",
+            "tags": [],
+            "platforms": [
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "automation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Ludwig",
+            "description": "",
+            "repo_url": "https://github.com/ludwig-ai/ludwig",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "model-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
