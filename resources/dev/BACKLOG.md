@@ -9,6 +9,7 @@ Projects that require a further vetting process.
 - [Freeplane](https://github.com/freeplane/freeplane)
 - [Papermark](https://github.com/mfts/papermark)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
+- [Web Clipper](https://github.com/webclipper/web-clipper) - Potentially abandoned
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
 - [Dify](https://github.com/langgenius/dify) - Tool to build other tools, might not be suited for this list
