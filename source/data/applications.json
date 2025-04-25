@@ -2650,7 +2650,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "image-editing",
             "stars": 10675,
             "flags": [],
             "last_commit": "04/24/2025",
@@ -2666,7 +2666,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "image-editing",
             "stars": 3231,
             "flags": [],
             "last_commit": "04/24/2025",
@@ -7607,7 +7607,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "image-editing",
             "stars": 13397,
             "flags": [],
             "last_commit": "04/21/2025",
