@@ -27,6 +27,7 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 
 - [Sidekick](https://github.com/johnbean393/Sidekick) - Investigating suspicious star count. Huge discrepancies in stars and activity.
 - [DevDocs](https://github.com/cyberagiinc/DevDocs)
+- [Hyprnote](https://github.com/fastrepl/hyprnote) - Waiting on stars
 - [Taiga](https://github.com/taigaio)
 - [pad.ws](https://github.com/pad-ws/pad.ws)
 - [Polaris](https://github.com/agersant/polaris)

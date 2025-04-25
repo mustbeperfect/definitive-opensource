@@ -7824,6 +7824,41 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Mindustry",
+            "description": "",
+            "repo_url": "https://github.com/Anuken/Mindustry",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "games",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Browser Use",
+            "description": "",
+            "repo_url": "https://github.com/browser-use/browser-use",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
