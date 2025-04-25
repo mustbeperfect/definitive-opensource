@@ -7859,6 +7859,44 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Infiscal",
+            "description": "",
+            "repo_url": "https://github.com/Infisical/infisical",
+            "tags": [
+                "manual",
+                "web-ui"
+            ],
+            "platforms": [
+                "cross",
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "password-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ZeroTier",
+            "description": "",
+            "repo_url": "https://github.com/zerotier/ZeroTierOne",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
