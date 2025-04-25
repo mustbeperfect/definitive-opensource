@@ -7758,6 +7758,7 @@
             "description": "",
             "repo_url": "https://github.com/Syllo/nvtop",
             "tags": [
+                "tui",
                 "manual"
             ],
             "platforms": [
