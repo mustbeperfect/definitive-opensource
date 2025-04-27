@@ -9,12 +9,16 @@ Projects that require a further vetting process.
 - [Freeplane](https://github.com/freeplane/freeplane)
 - [Papermark](https://github.com/mfts/papermark)
 - [HomeBox](https://github.com/sysadminsmedia/homebox)
+- [pixi](https://github.com/prefix-dev/pixi) - Might not apply to list
 - [Web Clipper](https://github.com/webclipper/web-clipper) - Potentially abandoned
 - [Pinry](https://github.com/pinry/pinry)
 - [olmocr](https://github.com/allenai/olmocr)
+- [rowboat](https://github.com/rowboatlabs/rowboat) - Still very new 
+- [Weylus](https://github.com/H-M-H/Weylus) - Potentially abandoned 
 - [Dify](https://github.com/langgenius/dify) - Tool to build other tools, might not be suited for this list
 - [onyx](https://github.com/onyx-dot-app/onyx) - Concerned about corporate influence
 - [Browser Use](https://github.com/browser-use/browser-use) - Might be tool to build tools, also concerned with corporate influence
+- [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Only 2 contributors; further vetting required
 - [thefuck](https://github.com/nvbn/thefuck) - Might be abandoned
 - [zx](https://github.com/google/zx) - Need to look into it's purpose in more depth
 - [pure](https://github.com/sindresorhus/pure) - Might be abandoned
@@ -22,6 +26,11 @@ Projects that require a further vetting process.
 - [Inbox Zero](https://github.com/elie222/inbox-zero) - Needs to be vetted further
 - [Suna](https://github.com/kortix-ai/suna) - Still very new
 - [Anx Reader](https://github.com/Anxcye/anx-reader) - Low contributors
+- [sshx](https://github.com/ekzhang/sshx)
+- [rerun](https://github.com/rerun-io/rerun) - Need further checks on what it is
+- [burn](https://github.com/tracel-ai/burn)
+- [trivy](https://github.com/aquasecurity/trivy)
+- [skypilot](https://github.com/skypilot-org/skypilot)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
@@ -30,6 +39,7 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [DevDocs](https://github.com/cyberagiinc/DevDocs)
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - Waiting on stars
 - [Taiga](https://github.com/taigaio)
+- [amp](https://github.com/jmacdonald/amp) - Checking longevity
 - [pad.ws](https://github.com/pad-ws/pad.ws)
 - [Polaris](https://github.com/agersant/polaris)
 - [AM](https://github.com/ivan-hc/AM)

@@ -691,6 +691,12 @@
 			"description": ""
 		},
 		{
+			"name": "Prompt",
+			"id": "prompt",
+			"parent": "terminal",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",

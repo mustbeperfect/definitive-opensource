@@ -7932,6 +7932,438 @@
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "http://ludwig.ai"
+        },
+        {
+            "name": "GitUI",
+            "description": "",
+            "repo_url": "https://github.com/gitui-org/gitui",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "git-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Broot",
+            "description": "",
+            "repo_url": "https://github.com/Canop/broot",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "file-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "komorebi",
+            "description": "",
+            "repo_url": "https://github.com/LGUG2Z/komorebi",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Onefetch",
+            "description": "",
+            "repo_url": "https://github.com/o2sh/onefetch",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "git-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "GlazeWM",
+            "description": "",
+            "repo_url": "https://github.com/glzr-io/glazewm",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Gyroflow",
+            "description": "",
+            "repo_url": "https://github.com/gyroflow/gyroflow",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "video-editing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "television",
+            "description": "",
+            "repo_url": "https://github.com/alexpasmantier/television",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Spyglass",
+            "description": "",
+            "repo_url": "https://github.com/spyglass-search/spyglass",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "search-engine",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "joshuto",
+            "description": "",
+            "repo_url": "https://github.com/kamiyaa/joshuto",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "file-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "xplr",
+            "description": "",
+            "repo_url": "https://github.com/sayanarijit/xplr",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "file-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "spotify_player",
+            "description": "",
+            "repo_url": "https://github.com/aome510/spotify-player",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "audio-player",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Himalaya",
+            "description": "",
+            "repo_url": "https://github.com/pimalaya/himalaya",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "mail",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "skim",
+            "description": "",
+            "repo_url": "https://github.com/skim-rs/skim",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "niri",
+            "description": "",
+            "repo_url": "https://github.com/YaLTeR/niri",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "i3",
+            "description": "",
+            "repo_url": "https://github.com/i3/i3",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PaperWM",
+            "description": "",
+            "repo_url": "https://github.com/paperwm/PaperWM",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "LeftWM",
+            "description": "",
+            "repo_url": "https://github.com/leftwm/leftwm",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "typos",
+            "description": "",
+            "repo_url": "https://github.com/crate-ci/typos",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "EasyTier",
+            "description": "",
+            "repo_url": "https://github.com/EasyTier/EasyTier",
+            "tags": [
+                "cli-plus"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Liquid Prompt",
+            "description": "",
+            "repo_url": "https://github.com/liquidprompt/liquidprompt",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "prompt",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Pure",
+            "description": "",
+            "repo_url": "https://github.com/sindresorhus/pure",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "prompt",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Oh My Posh",
+            "description": "",
+            "repo_url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "prompt",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Spaceship Prompt",
+            "description": "",
+            "repo_url": "https://github.com/spaceship-prompt/spaceship-prompt",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "prompt",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "starship",
+            "description": "",
+            "repo_url": "https://github.com/starship/starship",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "prompt",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "windsurf.vim",
+            "description": "",
+            "repo_url": "https://github.com/Exafunction/windsurf.vim",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "code-assistant",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
