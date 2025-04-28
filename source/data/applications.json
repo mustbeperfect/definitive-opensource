@@ -8364,6 +8364,56 @@
             "language": "Vim Script",
             "license": "MIT",
             "homepage_url": "https://codeium.com"
+        },
+        {
+            "name": "Flow Launcher",
+            "description": "",
+            "repo_url": "https://github.com/Flow-Launcher/Flow.Launcher",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Rofi",
+            "description": "",
+            "repo_url": "https://github.com/davatorium/rofi",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Seelen UI",
+            "description": "",
+            "repo_url": "https://github.com/eythaann/Seelen-UI",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
