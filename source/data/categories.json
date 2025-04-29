@@ -691,6 +691,12 @@
 			"description": ""
 		},
 		{
+			"name": "Canvas",
+			"id": "canvas",
+			"parent": "media",
+			"description": ""
+		},
+		{
 			"name": "Prompt",
 			"id": "prompt",
 			"parent": "terminal",

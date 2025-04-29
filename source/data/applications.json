@@ -8414,6 +8414,89 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "homepage_url": ""
+        },
+        {
+            "name": "Yaak",
+            "description": "",
+            "repo_url": "https://github.com/mountain-loop/yaak",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Bruno",
+            "description": "",
+            "repo_url": "https://github.com/usebruno/bruno",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ide",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Legcord",
+            "description": "",
+            "repo_url": "https://github.com/Legcord/Legcord",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "chat",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Excalidraw",
+            "description": "",
+            "repo_url": "https://github.com/excalidraw/excalidraw",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "vscode"
+            ],
+            "category": "canvas",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Agora Flat",
+            "description": "",
+            "repo_url": "https://github.com/netless-io/flat",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "macos",
+                "selfhost"
+            ],
+            "category": "canvas",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

@@ -31,6 +31,8 @@ Projects that require a further vetting process.
 - [burn](https://github.com/tracel-ai/burn)
 - [trivy](https://github.com/aquasecurity/trivy)
 - [skypilot](https://github.com/skypilot-org/skypilot)
+- [paint-board](https://github.com/LHRUN/paint-board)
+- [Lorien](https://github.com/mbrlabs/Lorien) - Might be abandoned
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
