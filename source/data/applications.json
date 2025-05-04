@@ -8497,6 +8497,23 @@
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://flat.whiteboard.agora.io"
+        },
+        {
+            "name": "Morphic",
+            "description": "",
+            "repo_url": "https://github.com/miurla/morphic",
+            "tags": [],
+            "platforms": [
+              "selfhost",
+              "web-cloud"
+            ],
+            "category": "search-engine",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
