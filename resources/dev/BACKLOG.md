@@ -33,6 +33,7 @@ Projects that require a further vetting process.
 - [skypilot](https://github.com/skypilot-org/skypilot)
 - [paint-board](https://github.com/LHRUN/paint-board)
 - [Lorien](https://github.com/mbrlabs/Lorien) - Might be abandoned
+- [5ire](https://github.com/nanbingxyz/5ire)
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
