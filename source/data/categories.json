@@ -217,8 +217,8 @@
 			"description": ""
 		},
 		{
-			"name": "Git GUI",
-			"id": "git-gui",
+			"name": "Git Client",
+			"id": "git-client",
 			"parent": "development",
 			"description": ""
 		},

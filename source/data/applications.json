@@ -1865,7 +1865,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "git-gui",
+            "category": "git-client",
             "stars": 20464,
             "flags": [],
             "last_commit": "05/06/2025",
@@ -7193,7 +7193,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "git-gui",
+            "category": "git-client",
             "stars": 59807,
             "flags": [],
             "last_commit": "05/06/2025",
@@ -7536,7 +7536,7 @@
             "platforms": [
                 "linux"
             ],
-            "category": "git-gui",
+            "category": "git-client",
             "stars": 7247,
             "flags": [],
             "last_commit": "03/31/2025",
@@ -7943,7 +7943,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "git-gui",
+            "category": "git-client",
             "stars": 19529,
             "flags": [],
             "last_commit": "05/06/2025",
@@ -7995,13 +7995,29 @@
             "platforms": [
                 "cross"
             ],
-            "category": "git-gui",
+            "category": "dev-tools",
             "stars": 10902,
             "flags": [],
             "last_commit": "05/05/2025",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://onefetch.dev"
+        },
+        {
+            "name": "GitButler",
+            "description": "",
+            "repo_url": "https://github.com/gitbutlerapp/gitbutler",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "git-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         },
         {
             "name": "GlazeWM",
