@@ -416,11 +416,11 @@
             "description": "\ud83d\udce6 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
             "repo_url": "https://github.com/yamadashy/repomix",
             "tags": [
-                "cli"
+                "cli",
+                "manual"
             ],
             "platforms": [
-                "web-cloud",
-                "npm"
+                "web-cloud"
             ],
             "category": "information-processing",
             "stars": 15540,
@@ -7273,11 +7273,11 @@
             "description": "Lightweight coding agent that runs in your terminal",
             "repo_url": "https://github.com/openai/codex",
             "tags": [
-                "cli"
+                "cli",
+                "manual"
             ],
             "platforms": [
-                "cross",
-                "npm"
+                "cross"
             ],
             "category": "code-assistant",
             "stars": 21641,
