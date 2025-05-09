@@ -703,6 +703,12 @@
 			"description": ""
 		},
 		{
+			"name": "Social Network",
+			"id": "social-network",
+			"parent": "internet",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",

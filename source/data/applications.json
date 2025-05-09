@@ -8546,6 +8546,90 @@
             "language": "PowerShell",
             "license": "MIT",
             "homepage_url": ""
+        },
+        {
+            "name": "mason.nvim",
+            "description": "",
+            "repo_url": "https://github.com/mason-org/mason.nvim",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "neovim-extensions",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Pixelfed",
+            "description": "",
+            "repo_url": "https://github.com/pixelfed/pixelfed",
+            "tags": [],
+            "platforms": [
+                "mobile"
+            ],
+            "category": "social-network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "CodiMD",
+            "description": "",
+            "repo_url": "https://github.com/hackmdio/codimd",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "markdown-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ProtonMail",
+            "description": "",
+            "repo_url": "https://github.com/ProtonMail/WebClients",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "mail",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Mastodon",
+            "description": "",
+            "repo_url": "https://github.com/mastodon/mastodon",
+            "tags": [],
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "category": "social-network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
