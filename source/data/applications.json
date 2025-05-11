@@ -8630,6 +8630,24 @@
             "language": "Ruby",
             "license": "AGPL-3.0",
             "homepage_url": "https://joinmastodon.org"
+        },
+        {
+            "name": "GitBucket",
+            "description": "",
+            "repo_url": "https://github.com/gitbucket/gitbucket",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "git-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
