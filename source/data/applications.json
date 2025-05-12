@@ -8648,6 +8648,74 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "homepage_url": "https://gitbucket.github.io/"
+        },
+        {
+            "name": "UI-TARS",
+            "description": "",
+            "repo_url": "https://github.com/bytedance/UI-TARS-desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "IPFS Desktop",
+            "description": "",
+            "repo_url": "https://github.com/ipfs/ipfs-desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "file-sharing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Opik",
+            "description": "",
+            "repo_url": "https://github.com/comet-ml/opik",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "model-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "EOS",
+            "description": "",
+            "repo_url": "https://github.com/Akkudoktor-EOS/EOS",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
