@@ -42,6 +42,7 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [DevDocs](https://github.com/cyberagiinc/DevDocs)
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - Waiting on stars
 - [Taiga](https://github.com/taigaio)
+- [Clop](https://github.com/FuzzyIdeas/Clop) - Needs to mature
 - [amp](https://github.com/jmacdonald/amp) - Checking longevity
 - [pad.ws](https://github.com/pad-ws/pad.ws)
 - [Polaris](https://github.com/agersant/polaris)

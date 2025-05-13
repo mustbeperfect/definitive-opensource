@@ -8716,6 +8716,56 @@
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://akkudoktor.net"
+        },
+        {
+            "name": "SerenityOS",
+            "description": "",
+            "repo_url": "https://github.com/SerenityOS/serenity",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "operating-system",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Klipper",
+            "description": "",
+            "repo_url": "https://github.com/Klipper3d/klipper",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Jujutsu",
+            "description": "",
+            "repo_url": "https://github.com/jj-vcs/jj",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
