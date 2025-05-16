@@ -8766,6 +8766,75 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://jj-vcs.github.io/jj/"
+        },
+        {
+            "name": "SwiftBar",
+            "description": "",
+            "repo_url": "https://github.com/swiftbar/SwiftBar",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Overleaf",
+            "description": "",
+            "repo_url": "https://github.com/overleaf/overleaf",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "text-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Airweave",
+            "description": "",
+            "repo_url": "https://github.com/airweave-ai/airweave",
+            "tags": [
+                "manual",
+                "web-ui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ai-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "mem0",
+            "description": "",
+            "repo_url": "https://github.com/mem0ai/mem0",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "ai-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
