@@ -8768,22 +8768,6 @@
             "homepage_url": "https://jj-vcs.github.io/jj/"
         },
         {
-            "name": "SwiftBar",
-            "description": "",
-            "repo_url": "https://github.com/swiftbar/SwiftBar",
-            "tags": [],
-            "platforms": [
-                "macos"
-            ],
-            "category": "macos",
-            "stars": 0,
-            "flags": [],
-            "last_commit": "",
-            "language": "",
-            "license": "",
-            "homepage_url": ""
-        },
-        {
             "name": "Overleaf",
             "description": "",
             "repo_url": "https://github.com/overleaf/overleaf",
