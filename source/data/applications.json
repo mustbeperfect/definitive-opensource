@@ -8819,6 +8819,103 @@
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "https://mem0.ai"
+        },
+        {
+            "name": "LinearMouse",
+            "description": "",
+            "repo_url": "https://github.com/linearmouse/linearmouse",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Moonlight",
+            "description": "",
+            "repo_url": "https://github.com/moonlight-stream/moonlight-qt",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "game-launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Wealthfolio",
+            "description": "",
+            "repo_url": "https://github.com/afadil/wealthfolio",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "finance",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "htop",
+            "description": "",
+            "repo_url": "https://github.com/htop-dev/htop",
+            "tags": [],
+            "platforms": [
+                "macos",
+                "linux"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "LeaderKey",
+            "description": "",
+            "repo_url": "https://github.com/mikker/LeaderKey.app",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Olauncher",
+            "description": "",
+            "repo_url": "https://github.com/tanujnotes/Olauncher",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
