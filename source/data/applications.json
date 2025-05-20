@@ -8985,6 +8985,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Bulk Crap Uninstaller",
+            "description": "",
+            "repo_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "cleaner",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
