@@ -7167,7 +7167,7 @@
         {
             "name": "Firefox",
             "description": "Fast, reliable and private \u2014 for peace of mind online.",
-            "repo_url": "https://github.com/mozilla/gecko-dev",
+            "repo_url": "https://github.com/mozilla-firefox/firefox",
             "tags": [],
             "platforms": [
                 "cross",
