@@ -9049,6 +9049,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "ArchiveBox",
+            "description": "",
+            "repo_url": "https://github.com/ArchiveBox/ArchiveBox",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
