@@ -8953,6 +8953,38 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Ghostty",
+            "description": "",
+            "repo_url": "https://github.com/ghostty-org/ghostty",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "terminal-emulator",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "SearXNG",
+            "description": "",
+            "repo_url": "https://github.com/searxng/searxng",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "search-engine",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
