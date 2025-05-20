@@ -9001,6 +9001,54 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "SD Maid SE",
+            "description": "",
+            "repo_url": "https://github.com/d4rken-org/sdmaid-se",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "cleaner",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PowerToys",
+            "description": "",
+            "repo_url": "https://github.com/microsoft/PowerToys",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "windows",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Terminal",
+            "description": "",
+            "repo_url": "https://github.com/microsoft/terminal",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "terminal-emulator",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
