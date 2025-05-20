@@ -8916,6 +8916,24 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "homepage_url": "https://play.google.com/store/apps/details?id=app.olauncher"
+        },
+        {
+            "name": "WinGet",
+            "description": "",
+            "repo_url": "https://github.com/microsoft/winget-cli",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "windows"
+            ],
+            "category": "package-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
