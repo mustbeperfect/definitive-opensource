@@ -8934,6 +8934,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Scoop",
+            "description": "",
+            "repo_url": "https://github.com/ScoopInstaller/Scoop",
+            "tags": [
+                "cli",
+                "manual"
+            ],
+            "platforms": [
+                "windows"
+            ],
+            "category": "package-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
