@@ -35,6 +35,7 @@ Projects that require a further vetting process.
 - [Lorien](https://github.com/mbrlabs/Lorien) - Might be abandoned
 - [5ire](https://github.com/nanbingxyz/5ire)
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Might be abandoned
+- [Phoenix](https://github.com/kasper/phoenix) - Might be abandoned
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
