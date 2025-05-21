@@ -9065,6 +9065,38 @@
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://archivebox.io"
+        },
+        {
+            "name": "LibreHardwareMonitor",
+            "description": "",
+            "repo_url": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "act",
+            "description": "",
+            "repo_url": "https://github.com/nektos/act",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
