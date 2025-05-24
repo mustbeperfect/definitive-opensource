@@ -1,6 +1,7 @@
 
 ## Honorable Mentions of Closed-Source Software
 Some proprietary software just deserve recognition.
+- [Reaper](https://www.reaper.fm/) - An affordable digital audio workstation that offers a complete set of tools for audio recording, mixing, and mastering.
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional Editing, Color, Effects and Audio Post!
 - [Obsidian](https://obsidian.md/) - The free and flexible app for your private thoughts. 
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
