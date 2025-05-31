@@ -10,7 +10,7 @@ def generate_mainheader():
     header_content = f"""
 <table align="center">
     <tr>
-    <td>🇺🇦 v0.5.2-beta</td>
+    <td>🇺🇦 v0.6.3-beta</td>
     </tr>
 </table>
 
