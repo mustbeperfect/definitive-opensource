@@ -1,4 +1,6 @@
 
+Last Vetted: Overdue
+
 ## Pending
 Projects that require a further vetting process. 
 - [grimoire](https://github.com/goniszewski/grimoire)
@@ -36,6 +38,7 @@ Projects that require a further vetting process.
 - [5ire](https://github.com/nanbingxyz/5ire)
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Might be abandoned
 - [Phoenix](https://github.com/kasper/phoenix) - Might be abandoned
+- [RD-Agent](https://github.com/microsoft/RD-Agent) - Might not be relevant to list
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 

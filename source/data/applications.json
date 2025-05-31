@@ -9097,6 +9097,73 @@
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://nektosact.com"
+        },
+        {
+            "name": "ClaraVerse",
+            "description": "",
+            "repo_url": "https://github.com/badboysm890/ClaraVerse",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "all-in-one",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "LuLu",
+            "description": "",
+            "repo_url": "https://github.com/objective-see/LuLu",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "firewall",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "fullmoon",
+            "description": "",
+            "repo_url": "https://github.com/mainframecomputer/fullmoon-ios",
+            "tags": [],
+            "platforms": [
+                "ios"
+            ],
+            "category": "llm-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "AgenticSeek",
+            "description": "",
+            "repo_url": "https://github.com/Fosowl/agenticSeek",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
