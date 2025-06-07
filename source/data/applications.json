@@ -9164,6 +9164,22 @@
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://fosowl.github.io/agenticSeek.html"
+        },
+        {
+            "name": "DB Browser for SQLite",
+            "description": "",
+            "repo_url": "https://github.com/sqlitebrowser/sqlitebrowser",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
