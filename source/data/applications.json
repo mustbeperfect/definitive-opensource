@@ -9180,6 +9180,22 @@
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://sqlitebrowser.org"
+        },
+        {
+            "name": "Onlook",
+            "description": "",
+            "repo_url": "https://github.com/onlook-dev/onlook",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "code-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
