@@ -9196,6 +9196,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "ArduPilot",
+            "description": "",
+            "repo_url": "https://github.com/ArduPilot/ardupilot",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
