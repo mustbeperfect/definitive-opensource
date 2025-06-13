@@ -9231,6 +9231,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "MeTube",
+            "description": "",
+            "repo_url": "https://github.com/alexta69/metube",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "media-downloader",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
