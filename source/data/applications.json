@@ -9214,6 +9214,23 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Parabolic",
+            "description": "",
+            "repo_url": "https://github.com/NickvisionApps/Parabolic",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "linux"
+            ],
+            "category": "media-downloader",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
