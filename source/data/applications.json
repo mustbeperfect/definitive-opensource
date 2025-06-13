@@ -9247,6 +9247,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Seal",
+            "description": "",
+            "repo_url": "https://github.com/JunkFood02/Seal",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "media-downloader",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
