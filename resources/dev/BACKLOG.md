@@ -44,6 +44,7 @@ Projects that require a further vetting process.
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
 
 - [Sidekick](https://github.com/johnbean393/Sidekick) - Investigating suspicious star count. Huge discrepancies in stars and activity.
+- [Chili3d](https://github.com/xiangechen/chili3d) - Waiting on maturity
 - [DevDocs](https://github.com/cyberagiinc/DevDocs)
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - Waiting on stars
 - [Taiga](https://github.com/taigaio)
