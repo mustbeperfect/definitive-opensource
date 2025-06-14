@@ -312,8 +312,8 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [AgenticSeek](https://github.com/Fosowl/agenticSeek) `Manual` | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. | `Cross` | **18k** |
-| [Browser Use](https://github.com/browser-use/browser-use) `Manual` | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | `Cross` | **63k** |
+| [AgenticSeek](https://github.com/Fosowl/agenticSeek) `Manual` | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. | `Cross` | **18.1k** |
+| [Browser Use](https://github.com/browser-use/browser-use) `Manual` | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | `Cross` | **63.1k** |
 | [c/ua](https://github.com/trycua/cua) `Manual` | c/ua is the Docker Container for Computer-Use AI Agents. | `Cross` | **8.6k** |
 | [gptme](https://github.com/gptme/gptme) `CLI` `Manual` | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. | `Cross` | **3.9k** |
 | [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) `Manual` | A natural language interface for computers | `Cross` | **59.7k** |
@@ -344,7 +344,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes) | A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ | `Windows` `MacOS` | **6.3k** |
+| [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes) | A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ | `Windows` `MacOS` | **6.4k** |
 
 ### Context
 
@@ -356,7 +356,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Code2prompt](https://github.com/mufeedvh/code2prompt) `CLI` | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | `Cross` | **5.8k** |
+| [Code2prompt](https://github.com/mufeedvh/code2prompt) `CLI` | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | `Cross` | **5.9k** |
 | [Docling](https://github.com/DS4SD/docling) `CLI` `Manual` | Get your documents ready for gen AI | `Cross` | **31.8k** |
 
 ### LLM GUI
@@ -364,7 +364,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | `Cross` | **35.2k** |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. | `Cross` | **28.3k** |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. | `Cross` | **28.4k** |
 | [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | `Cross` | **73.6k** |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer | `Cross` | **29.5k** |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) `CLI+` | ✨ Light and Fast AI Assistant. Support: Web - iOS - MacOS - Android -  Linux - Windows | `Cross` `Web (Cloud)` | **83.8k** |
@@ -374,15 +374,15 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | Run GGUF models easily with a KoboldAI UI. One File. Zero Install. | `Cross` `SelfHost` | **7.5k** |
-| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | `Cross` `SelfHost` | **143.5k** |
-| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | `Cross` | **6.1k** |
+| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | `Cross` `SelfHost` | **143.6k** |
+| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | `Cross` | **6.2k** |
 
 ### Model Tools
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Agno](https://github.com/agno-agi/agno) `CLI` `Manual` | Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. | `Cross` | **28.2k** |
-| [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS) `Manual` | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | `Cross` `SelfHost` | **47.5k** |
+| [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS) `Manual` | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | `Cross` `SelfHost` | **47.6k** |
 | [Kiln](https://github.com/Kiln-AI/Kiln) | The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets. | `Cross` | **3.7k** |
 | [Ludwig](https://github.com/ludwig-ai/ludwig) `Manual` | Low-code framework for building custom LLMs, neural networks, and other AI models | `Cross` | **11.5k** |
 | [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) `CLI` `Manual` | Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. | `Cross` | **29.6k** |
@@ -400,7 +400,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [DeepSearcher](https://github.com/zilliztech/deep-searcher) `CLI` | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. | `Cross` | **6.2k** |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) `CLI+` | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | `Cross` `SelfHost` | **21.8k** |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) `CLI+` | LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. | `Cross` `SelfHost` | **21.9k** |
 
 # Communication - [Go to top](#table-of-contents)
 
@@ -409,7 +409,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Legcord](https://github.com/Legcord/Legcord) | Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | `Cross` | **2.5k** |
-| [Signal](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | `Cross` | **27.1k** |
+| [Signal](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | `Cross` | **27.2k** |
 | [SimpleX](https://github.com/simplex-chat/simplex-chat) `CLI+` | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` | **8.8k** |
 | [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | `Cross` | **27.8k** |
 
@@ -466,11 +466,11 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Aider](https://github.com/Aider-AI/aider) `CLI` | aider is AI pair programming in your terminal | `Cross` | **34.2k** |
-| [Codex](https://github.com/openai/codex) `CLI` `Manual` | Lightweight coding agent that runs in your terminal | `Cross` | **28.8k** |
-| [Goose](https://github.com/block/goose) `CLI+` | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Cross` | **14.5k** |
+| [Aider](https://github.com/Aider-AI/aider) `CLI` | aider is AI pair programming in your terminal | `Cross` | **34.3k** |
+| [Codex](https://github.com/openai/codex) `CLI` `Manual` | Lightweight coding agent that runs in your terminal | `Cross` | **28.9k** |
+| [Goose](https://github.com/block/goose) `CLI+` | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Cross` | **14.6k** |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) `CLI` | The first real AI developer | `Cross` | **32.8k** |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **57.9k** |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More | `Cross` `SelfHost` | **58k** |
 | [Plandex](https://github.com/plandex-ai/plandex) `CLI` | Open source AI coding agent. Designed for large projects and real world tasks. | `Cross` | **13.8k** |
 
 ### Code Editor
@@ -482,10 +482,11 @@
 | [LazyVim](https://github.com/LazyVim/LazyVim) `CLI` | Neovim config for the lazy | `Cross` | **21.2k** |
 | [neovim](https://github.com/neovim/neovim) `CLI` | Vim-fork focused on extensibility and usability | `Cross` | **90.3k** |
 | [NvChad](https://github.com/NvChad/NvChad) `CLI` | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | `Cross` | **26.4k** |
+| [Onlook](https://github.com/onlook-dev/onlook) | The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI | `Cross` | **18.6k** |
 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) `CLI` | A modular configuration of Vim and Neovim | `Cross` | **20.4k** |
 | [Vim](https://github.com/vim/vim) 🌍`CLI` | The official Vim repository | `Cross` | **38.4k** |
-| [Void](https://github.com/voideditor/void) | Void is the open-source Cursor alternative. | `Windows` `MacOS` | **23.5k** |
-| [VS Code](https://github.com/microsoft/vscode) | Visual Studio Code | `Cross` | **173.4k** |
+| [Void](https://github.com/voideditor/void) | Void is the open-source Cursor alternative. | `Windows` `MacOS` | **23.6k** |
+| [VS Code](https://github.com/microsoft/vscode) | Visual Studio Code | `Cross` | **173.5k** |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | `Cross` | **27.6k** |
 
 ### Dev Tools
@@ -495,7 +496,7 @@
 | [bat](https://github.com/sharkdp/bat) `CLI` | A cat(1) clone with wings. | `Cross` | **53k** |
 | [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  | `Cross` | **22.5k** |
 | [DevToys](https://github.com/DevToys-app/DevToys) | A Swiss Army knife for developers. | `Cross` | **29k** |
-| [Jujutsu](https://github.com/jj-vcs/jj) `CLI` | A Git-compatible VCS that is both simple and powerful | `Cross` | **16k** |
+| [Jujutsu](https://github.com/jj-vcs/jj) `CLI` | A Git-compatible VCS that is both simple and powerful | `Cross` | **16.1k** |
 | [massCode](https://github.com/massCodeIO/massCode) | A free and open source code snippets manager for developers | `Cross` | **6.2k** |
 | [Onefetch](https://github.com/o2sh/onefetch) `TUI` | Command-line Git information tool | `Cross` | **11k** |
 | [typos](https://github.com/crate-ci/typos) `CLI` | Source code spell checker | `Cross` | **3.2k** |
@@ -539,7 +540,7 @@
 | --- | --- | --- | --- |
 | [Bun](https://github.com/oven-sh/bun) `CLI` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | `Cross` | **78.6k** |
 | [PNPM](https://github.com/pnpm/pnpm) `CLI` | Fast, disk space efficient package manager | `Cross` | **31.9k** |
-| [uv](https://github.com/astral-sh/uv) `CLI` | An extremely fast Python package and project manager, written in Rust. | `Cross` | **57.7k** |
+| [uv](https://github.com/astral-sh/uv) `CLI` | An extremely fast Python package and project manager, written in Rust. | `Cross` | **57.8k** |
 | [Yarn](https://github.com/yarnpkg/berry) `CLI` | 📦🐈 Active development trunk for Yarn ⚒ | `Cross` | **7.8k** |
 
 # Entertainment - [Go to top](#table-of-contents)
@@ -548,7 +549,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | `Cross` | **9.3k** |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | `Cross` | **9.4k** |
 | [Hydra](https://github.com/hydralauncher/hydra) | Hydra Launcher is an open-source gaming platform created to be the single tool that you need | `Cross` | **13.6k** |
 | [Moonlight](https://github.com/moonlight-stream/moonlight-qt) | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) | `Cross` | **13.4k** |
 | [Playnite](https://github.com/JosefNemec/Playnite) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | `Windows` | **10.8k** |
@@ -644,7 +645,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [drawDB](https://github.com/drawdb-io/drawdb) `Manual` | Free, simple, and intuitive online database diagram editor and SQL generator. | `Cross` `SelfHost` `Web (Cloud)` | **30.5k** |
+| [drawDB](https://github.com/drawdb-io/drawdb) `Manual` | Free, simple, and intuitive online database diagram editor and SQL generator. | `Cross` `SelfHost` `Web (Cloud)` | **30.6k** |
 
 ### Graphics
 
@@ -676,6 +677,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
+| [Parabolic](https://github.com/NickvisionApps/Parabolic) | Download web video and audio | `Windows` `Linux` | **2.6k** |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | `Cross` | **11.8k** |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) `CLI` | A feature-rich command-line audio/video downloader | `Cross` | **115.1k** |
 
@@ -684,7 +686,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | `Cross` | **10k** |
-| [Flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | `Cross` | **26.6k** |
+| [Flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | `Cross` | **26.8k** |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | `Cross` | **64.9k** |
 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. | `Windows` | **32.7k** |
 
@@ -763,7 +765,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) `CLI` | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | `Cross` | **29.3k** |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | `MacOS` `Windows` `SelfHost` | **61.4k** |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files | `MacOS` `Windows` `SelfHost` | **61.6k** |
 
 ### Finance
 
@@ -841,7 +843,7 @@
 | --- | --- | --- | --- |
 | [Amnezia](https://github.com/amnezia-vpn/amnezia-client) `CLI+` | Amnezia VPN Client (Desktop+Mobile) | `Cross` | **7.2k** |
 | [EasyTier](https://github.com/EasyTier/EasyTier) `CLI+` | A simple, decentralized mesh VPN with WireGuard support. | `Cross` | **5k** |
-| [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | **15.5k** |
+| [NetBird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | **15.6k** |
 | [ProtonVPN](https://github.com/ProtonVPN/android-app) `CLI+` | Official ProtonVPN Android app | `Cross` | **2.8k** |
 | [ZeroTier](https://github.com/zerotier/ZeroTierOne) | A Smart Ethernet Switch for Earth | `Cross` `Mobile` | **15.5k** |
 
@@ -917,8 +919,8 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | `Cross` | **59.1k** |
-| [Ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | `Cross` | **31.4k** |
+| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | `Cross` | **59.2k** |
+| [Ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | `Cross` | **31.5k** |
 | [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | `Cross` | **27.7k** |
 | [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | `Cross` | **5.2k** |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | `Cross` | **64.2k** |
@@ -931,13 +933,13 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [tmux](https://github.com/tmux/tmux) `CLI` | tmux source code | `Cross` | **37.7k** |
-| [Zellij](https://github.com/zellij-org/zellij) `CLI` | A terminal workspace with batteries included | `Cross` | **24.5k** |
+| [Zellij](https://github.com/zellij-org/zellij) `CLI` | A terminal workspace with batteries included | `Cross` | **24.6k** |
 
 ### Terminal Utilities
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Atuin](https://github.com/atuinsh/atuin) `CLI` | ✨ Magical shell history | `Cross` | **24.2k** |
+| [Atuin](https://github.com/atuinsh/atuin) `CLI` | ✨ Magical shell history | `Cross` | **24.3k** |
 | [delta](https://github.com/dandavison/delta) `CLI` | A syntax-highlighting pager for git, diff, grep, and blame output | `Cross` | **26.4k** |
 | [eza](https://github.com/eza-community/eza) `CLI` | A modern alternative to ls | `Cross` | **15.8k** |
 | [fzf](https://github.com/junegunn/fzf) `CLI` | :cherry_blossom: A command-line fuzzy finder | `Cross` | **70.9k** |
@@ -946,7 +948,7 @@
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) `CLI` | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently. | `Cross` | **11k** |
 | [television](https://github.com/alexpasmantier/television) `TUI` | A cross-platform, fast and extensible general purpose fuzzy finder 📺 | `Cross` | **2.9k** |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) `CLI` | A smarter cd command. Supports all major shells. | `Cross` | **27.1k** |
-| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) `CLI` | Fish-like autosuggestions for zsh | `Cross` | **33.1k** |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) `CLI` | Fish-like autosuggestions for zsh | `Cross` | **33.2k** |
 
 # Text - [Go to top](#table-of-contents)
 
@@ -959,7 +961,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | `Cross` | **11.3k** |
+| [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | `Cross` | **11.4k** |
 
 ### Note Taking
 
@@ -1017,7 +1019,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Ansible](https://github.com/ansible/ansible) `CLI+` | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | `Cross` | **65.3k** |
+| [Ansible](https://github.com/ansible/ansible) `CLI+` | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | `Cross` | **65.4k** |
 | [Cronicle](https://github.com/jhuckaby/Cronicle) `CLI+` | A simple, distributed task scheduler and runner with a web based UI. | `Cross` `SelfHost` | **4.5k** |
 | [Script Kit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | `Cross` | **4k** |
 | [Semaphore](https://github.com/semaphoreui/semaphore) | Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. | `Cross` | **12k** |
@@ -1040,10 +1042,10 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Colima](https://github.com/abiosoft/colima) `CLI` | Container runtimes on macOS (and Linux) with minimal setup | `Cross` | **23.1k** |
+| [Colima](https://github.com/abiosoft/colima) `CLI` | Container runtimes on macOS (and Linux) with minimal setup | `Cross` | **23.2k** |
 | [Dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager | `Cross` | **17.9k** |
 | [KDash](https://github.com/kdash-rs/kdash) `TUI` | A simple and fast dashboard for Kubernetes | `Cross` | **2.3k** |
-| [lazydocker](https://github.com/jesseduffield/lazydocker) `TUI` | The lazier way to manage everything docker | `Cross` | **44.6k** |
+| [lazydocker](https://github.com/jesseduffield/lazydocker) `TUI` | The lazier way to manage everything docker | `Cross` | **44.7k** |
 | [Podman Desktop](https://github.com/podman-desktop/podman-desktop) | Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. | `Cross` | **5.9k** |
 
 ### Dotfiles Manager
@@ -1051,7 +1053,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | `Cross` | **15.2k** |
-| [yadm](https://github.com/yadm-dev/yadm) `CLI` | Yet Another Dotfiles Manager | `Cross` | **5.7k** |
+| [yadm](https://github.com/yadm-dev/yadm) `CLI` | Yet Another Dotfiles Manager | `Cross` | **5.8k** |
 
 ### File Manager
 
@@ -1067,14 +1069,14 @@
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | `Cross` | **14k** |
 | [xplr](https://github.com/sayanarijit/xplr) `CLI` | A hackable, minimal, fast TUI file explorer | `Cross` | **4.4k** |
 | [xplr](https://github.com/sayanarijit/xplr) `TUI` | A hackable, minimal, fast TUI file explorer | `Cross` | **4.4k** |
-| [Yazi](https://github.com/sxyazi/yazi) `TUI` | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | `Cross` | **25.7k** |
+| [Yazi](https://github.com/sxyazi/yazi) `TUI` | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | `Cross` | **25.8k** |
 
 ### File Sharing
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) | An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.  | `Cross` | **6.3k** |
-| [LocalSend](https://github.com/localsend/localsend) `CLI+` | An open-source cross-platform alternative to AirDrop | `Cross` | **62.3k** |
+| [LocalSend](https://github.com/localsend/localsend) `CLI+` | An open-source cross-platform alternative to AirDrop | `Cross` | **62.4k** |
 | [OnionShare](https://github.com/onionshare/onionshare) | Securely and anonymously share files, host websites, and chat with friends using the Tor network | `Cross` | **6.5k** |
 
 ### Keyboard Manager
@@ -1088,7 +1090,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Albert](https://github.com/albertlauncher/albert) | A fast and flexible keyboard launcher | `Cross` | **7.5k** |
+| [Albert](https://github.com/albertlauncher/albert) | A fast and flexible keyboard launcher | `Cross` | **7.6k** |
 | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | :mag: Quick file search & app launcher for Windows with community-made plugins | `Windows` | **10.1k** |
 | [Kando](https://github.com/kando-menu/kando) | 🌸 Do things with utmost efficiency. | `Cross` | **4.4k** |
 | [Rofi](https://github.com/davatorium/rofi) `Manual` | Rofi: A window switcher, application launcher and dmenu replacement | `Cross` | **14.4k** |
@@ -1109,7 +1111,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [RustDesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | `Cross` | **90.5k** |
+| [RustDesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | `Cross` | **90.6k** |
 
 ### System
 
@@ -1138,7 +1140,7 @@
 | [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) | Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab. | `Cross` | **3.3k** |
 | [Pandoc](https://github.com/jgm/pandoc) | Universal markup converter | `Cross` | **37.9k** |
 | [rga](https://github.com/phiresky/ripgrep-all) `CLI` | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | `Cross` | **8.9k** |
-| [skim](https://github.com/skim-rs/skim) `TUI` | Fuzzy Finder in rust! | `Cross` | **5.7k** |
+| [skim](https://github.com/skim-rs/skim) `TUI` | Fuzzy Finder in rust! | `Cross` | **5.8k** |
 
 ### Version Manager
 
@@ -1160,7 +1162,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [GlazeWM](https://github.com/glzr-io/glazewm) | GlazeWM is a tiling window manager for Windows inspired by i3wm. | `Windows` | **8.8k** |
+| [GlazeWM](https://github.com/glzr-io/glazewm) | GlazeWM is a tiling window manager for Windows inspired by i3wm. | `Windows` | **8.9k** |
 | [komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | `Windows` | **11.7k** |
 
 # Other - [Go to top](#table-of-contents)
@@ -1177,8 +1179,9 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Seelen UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | `Windows` | **8.6k** |
-| [XPipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | `Cross` | **11.1k** |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | `Cross` | **123.6k** |
+| [Seelen UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | `Windows` | **8.7k** |
+| [XPipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | `Cross` | **11.2k** |
 
 
 
