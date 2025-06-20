@@ -9311,6 +9311,38 @@
             "language": "Elixir",
             "license": "AGPL-3.0",
             "homepage_url": ""
+        },
+        {
+            "name": "Tube Archivist",
+            "description": "",
+            "repo_url": "https://github.com/tubearchivist/tubearchivist?tab=readme-ov-file#installing",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Meshtastic",
+            "description": "",
+            "repo_url": "https://github.com/meshtastic/firmware",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
