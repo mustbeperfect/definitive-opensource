@@ -9359,6 +9359,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Gemini CLI",
+            "description": "",
+            "repo_url": "https://github.com/google-gemini/gemini-cli",
+            "tags": [
+                "tui",
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
