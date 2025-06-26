@@ -9426,6 +9426,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "JSON Crack",
+            "description": "",
+            "repo_url": "https://github.com/AykutSarac/jsoncrack.com",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross",
+                "web-cloud"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
