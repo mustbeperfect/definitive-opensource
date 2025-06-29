@@ -7003,22 +7003,6 @@
             "homepage_url": "https://grocy.info"
         },
         {
-            "name": "Whisky",
-            "description": "A modern Wine wrapper for macOS built with SwiftUI",
-            "repo_url": "https://github.com/Whisky-App/Whisky",
-            "tags": [],
-            "platforms": [
-                "macos"
-            ],
-            "category": "uncategorized",
-            "stars": 14616,
-            "flags": [],
-            "last_commit": "05/11/2025",
-            "language": "Swift",
-            "license": "GPL-3.0",
-            "homepage_url": "https://getwhisky.app"
-        },
-        {
             "name": "XPipe",
             "description": "Access your entire server infrastructure from your local desktop",
             "repo_url": "https://github.com/xpipe-io/xpipe",
