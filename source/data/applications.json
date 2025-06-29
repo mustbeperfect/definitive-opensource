@@ -9445,6 +9445,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "RomM",
+            "description": "",
+            "repo_url": "https://github.com/rommapp/romm",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "game-launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
