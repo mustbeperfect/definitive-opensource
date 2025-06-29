@@ -709,6 +709,12 @@
 			"description": ""
 		},
 		{
+			"name": "Network",
+			"id": "network",
+			"parent": "internet",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",

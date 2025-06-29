@@ -9429,6 +9429,22 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://jsoncrack.com/"
+        },
+        {
+            "name": "Sniffnet",
+            "description": "",
+            "repo_url": "https://github.com/GyulyVGC/sniffnet",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
