@@ -8423,7 +8423,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "dev-tools",
+            "category": "api-client",
             "stars": 6854,
             "flags": [],
             "last_commit": "06/29/2025",
@@ -9461,6 +9461,25 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "homepage_url": "https://romm.app"
+        },
+        {
+            "name": "Hoppscotch",
+            "description": "",
+            "repo_url": "https://github.com/hoppscotch/hoppscotch",
+            "tags": [
+                "cli-plus"
+            ],
+            "platforms": [
+                "cross",
+                "web-cloud"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
