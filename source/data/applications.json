@@ -1621,24 +1621,6 @@
             "homepage_url": "https://neovim.io"
         },
         {
-            "name": "SpaceVim",
-            "description": "A modular configuration of Vim and Neovim",
-            "repo_url": "https://github.com/SpaceVim/SpaceVim",
-            "tags": [
-                "cli"
-            ],
-            "platforms": [
-                "cross"
-            ],
-            "category": "code-editor",
-            "stars": 20351,
-            "flags": [],
-            "last_commit": "02/17/2025",
-            "language": "Vim Script",
-            "license": "GPL-3.0",
-            "homepage_url": "https://spacevim.org/"
-        },
-        {
             "name": "NvChad",
             "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
             "repo_url": "https://github.com/NvChad/NvChad",

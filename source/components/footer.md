@@ -21,6 +21,7 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - `Abandoned`
   - [Trilium](https://github.com/zadam/trilium) - `Abandoned`
   - [Whisky](https://github.com/Whisky-App/Whisky) - `Abandoned`
+  - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - `Abandoned`
 </details>
 
 ## FAQ
