@@ -6202,24 +6202,6 @@
             "homepage_url": "https://filebrowser.org"
         },
         {
-            "name": "xplr",
-            "description": "A hackable, minimal, fast TUI file explorer",
-            "repo_url": "https://github.com/sayanarijit/xplr",
-            "tags": [
-                "cli"
-            ],
-            "platforms": [
-                "cross"
-            ],
-            "category": "file-manager",
-            "stars": 4446,
-            "flags": [],
-            "last_commit": "04/23/2025",
-            "language": "Rust",
-            "license": "MIT",
-            "homepage_url": "https://xplr.dev"
-        },
-        {
             "name": "LocalSend",
             "description": "An open-source cross-platform alternative to AirDrop",
             "repo_url": "https://github.com/localsend/localsend",
@@ -9411,22 +9393,6 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://sniffnet.net"
-        },
-        {
-            "name": "RomM",
-            "description": "A beautiful, powerful, self-hosted rom manager and player.",
-            "repo_url": "https://github.com/rommapp/romm",
-            "tags": [],
-            "platforms": [
-                "selfhost"
-            ],
-            "category": "game-launcher",
-            "stars": 5206,
-            "flags": [],
-            "last_commit": "06/30/2025",
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "homepage_url": "https://romm.app"
         },
         {
             "name": "Hoppscotch",
