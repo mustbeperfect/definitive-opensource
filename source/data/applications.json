@@ -9480,6 +9480,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Lenovo Legion Toolkit",
+            "description": "",
+            "repo_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "system",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
