@@ -8787,22 +8787,6 @@
             "homepage_url": "https://mem0.ai"
         },
         {
-            "name": "LinearMouse",
-            "description": "The mouse and trackpad utility for Mac.",
-            "repo_url": "https://github.com/linearmouse/linearmouse",
-            "tags": [],
-            "platforms": [
-                "macos"
-            ],
-            "category": "macos",
-            "stars": 4654,
-            "flags": [],
-            "last_commit": "06/30/2025",
-            "language": "Swift",
-            "license": "MIT",
-            "homepage_url": "https://linearmouse.app"
-        },
-        {
             "name": "Moonlight",
             "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
             "repo_url": "https://github.com/moonlight-stream/moonlight-qt",
