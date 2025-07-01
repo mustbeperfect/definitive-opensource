@@ -25,6 +25,7 @@ Projects that were once on this list but removed - usually due to abandonement o
 </details>
 
 ## FAQ
+<details>
   <summary><b>Stars aren't a good metric to guage popularity/quality.</b></summary> <br />
 The minimum star count of 1k has been a major point of contention. Admittedly, star counts don't always reflect project popularity and quality. Stars are biased towards developers because they are the ones with a GitHub account, thus leaving out the input of the end users. But no solution is going to be a one size fits all solution. It's critically important that as the list scales it doesn't devolve into a clutter trap, even if the price is some projects getting left out.
 <p>&nbsp;</p>
