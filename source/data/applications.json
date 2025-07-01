@@ -9496,6 +9496,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Claudia",
+            "description": "",
+            "repo_url": "https://github.com/getAsterisk/claudia",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
