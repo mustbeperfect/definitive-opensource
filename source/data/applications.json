@@ -9462,6 +9462,24 @@
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://hoppscotch.io"
+        },
+        {
+            "name": "STORM",
+            "description": "",
+            "repo_url": "https://github.com/stanford-oval/storm",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "research",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
