@@ -9462,6 +9462,23 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://claudiacode.com"
+        },
+        {
+            "name": "Glass",
+            "description": "",
+            "repo_url": "https://github.com/pickle-com/glass",
+            "tags": [],
+            "platforms": [
+                "macos",
+                "windows"
+            ],
+            "category": "assistant",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
