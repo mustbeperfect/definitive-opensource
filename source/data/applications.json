@@ -4723,7 +4723,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "authentication",
+            "category": "vpn",
             "stars": 23595,
             "flags": [],
             "last_commit": "07/10/2025",
