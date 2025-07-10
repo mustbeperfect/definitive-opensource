@@ -9531,6 +9531,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "System Informer",
+            "description": "",
+            "repo_url": "https://github.com/winsiderss/systeminformer",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
