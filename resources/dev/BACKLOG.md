@@ -42,6 +42,7 @@ Projects that require a further vetting process.
 - [Midday](https://github.com/midday-ai/midday) - Might fall under the enterprise category
 - [Packer](https://github.com/hashicorp/packer) - Might be a development tool?
 - [bitchat](https://github.com/permissionlesstech/bitchat) - Not sure if relevant
+- [Presentator](https://github.com/presentator/presentator) - Needs further vetting
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
