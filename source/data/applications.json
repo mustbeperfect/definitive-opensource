@@ -7175,7 +7175,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "containers",
+            "category": "container-management",
             "stars": 45151,
             "flags": [],
             "last_commit": "12/22/2024",
@@ -7313,7 +7313,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "containers",
+            "category": "container-management",
             "stars": 33555,
             "flags": [],
             "last_commit": "07/09/2025",
@@ -7468,7 +7468,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "containers",
+            "category": "container-management",
             "stars": 6066,
             "flags": [],
             "last_commit": "07/09/2025",
@@ -7642,7 +7642,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "containers",
+            "category": "container-management",
             "stars": 2304,
             "flags": [],
             "last_commit": "05/26/2025",
@@ -9351,7 +9351,7 @@
             "platforms": [
                 "windows"
             ],
-            "category": "containers",
+            "category": "container-management",
             "stars": 2398,
             "flags": [],
             "last_commit": "04/14/2025",
