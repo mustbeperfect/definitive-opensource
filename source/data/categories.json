@@ -721,6 +721,12 @@
 			"description": ""
 		},
 		{
+			"name": "Container Management",
+			"id": "container-management",
+			"parent": "utilities",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",
