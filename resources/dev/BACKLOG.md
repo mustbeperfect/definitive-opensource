@@ -41,6 +41,7 @@ Projects that require a further vetting process.
 - [RD-Agent](https://github.com/microsoft/RD-Agent) - Might not be relevant to list
 - [Midday](https://github.com/midday-ai/midday) - Might fall under the enterprise category
 - [Packer](https://github.com/hashicorp/packer) - Might be a development tool?
+- [bitchat](https://github.com/permissionlesstech/bitchat) - Not sure if relevant
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
