@@ -9495,6 +9495,42 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Finch",
+            "description": "",
+            "repo_url": "https://github.com/runfinch/finch",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Colima",
+            "description": "",
+            "repo_url": "https://github.com/abiosoft/colima",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "containers",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
