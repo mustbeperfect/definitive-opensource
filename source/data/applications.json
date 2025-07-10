@@ -9547,6 +9547,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Refact",
+            "description": "",
+            "repo_url": "https://github.com/smallcloudai/refact",
+            "tags": [],
+            "platforms": [
+                "vscode"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
