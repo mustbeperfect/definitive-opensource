@@ -9579,6 +9579,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "beets",
+            "description": "",
+            "repo_url": "https://github.com/beetbox/beets",
+            "tags": [
+                "cli",
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
