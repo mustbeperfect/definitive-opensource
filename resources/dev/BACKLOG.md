@@ -94,3 +94,7 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Unmaintained for years, development started again
 - [BookLore](https://github.com/adityachandelgit/BookLore) - Waiting on stars
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) - Waiting on maturity
+
+## Under Investigation
+
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) - Over 17,000 stars in a short period of time with no mentions found of the software on major socials. Oddly there is not a single screenshot anywhere. Their main website seems to be opencut.app but another website was found, opencut.io, that has downloads links, no screenshots, and a GitHub icon that points to the same repo. 
