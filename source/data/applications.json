@@ -9563,6 +9563,22 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "homepage_url": "https://refact.ai"
+        },
+        {
+            "name": "MuseScore",
+            "description": "",
+            "repo_url": "https://github.com/musescore/MuseScore",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "audio-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
