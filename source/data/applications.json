@@ -9598,6 +9598,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "battery",
+            "description": "",
+            "repo_url": "https://github.com/actuallymentor/battery",
+            "tags": [
+                "cli-plus"
+            ],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
