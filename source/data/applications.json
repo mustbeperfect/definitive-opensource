@@ -3113,23 +3113,6 @@
             "homepage_url": "https://radarr.video"
         },
         {
-            "name": "Readarr",
-            "description": "Book Manager and Automation (Sonarr for Ebooks)",
-            "repo_url": "https://github.com/Readarr/Readarr",
-            "tags": [],
-            "platforms": [
-                "cross",
-                "selfhost"
-            ],
-            "category": "arr",
-            "stars": 3316,
-            "flags": [],
-            "last_commit": "06/27/2025",
-            "language": "C#",
-            "license": "GPL-3.0",
-            "homepage_url": "http://readarr.com"
-        },
-        {
             "name": "Lidarr",
             "description": "Looks and smells like Sonarr but made for music.",
             "repo_url": "https://github.com/Lidarr/Lidarr",

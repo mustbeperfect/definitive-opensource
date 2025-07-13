@@ -22,6 +22,7 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [Trilium](https://github.com/zadam/trilium) - `Abandoned`
   - [Whisky](https://github.com/Whisky-App/Whisky) - `Abandoned`
   - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - `Abandoned`
+  - [Readarr](https://github.com/Readarr/Readarr) - `Abandoned`
 </details>
 
 ## FAQ
