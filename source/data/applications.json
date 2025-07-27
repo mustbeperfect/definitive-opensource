@@ -9631,6 +9631,250 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://digpangolin.com"
+        },
+        {
+            "name": "WWDC",
+            "description": "",
+            "repo_url": "https://github.com/insidegui/WWDC",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "DockDoor",
+            "description": "",
+            "repo_url": "https://github.com/ejbills/DockDoor",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ConvertX",
+            "description": "",
+            "repo_url": "https://github.com/C4illin/ConvertX",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Label Studio",
+            "description": "",
+            "repo_url": "https://github.com/HumanSignal/label-studio",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Anki",
+            "description": "",
+            "repo_url": "https://github.com/ankitects/anki",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "macos"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "HTTPie CLI",
+            "description": "",
+            "repo_url": "https://github.com/httpie/cli",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "HTTPie Desktop",
+            "description": "",
+            "repo_url": "https://github.com/httpie/desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Dawarich",
+            "description": "",
+            "repo_url": "https://github.com/Freika/dawarich",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "jj",
+            "description": "",
+            "repo_url": "https://github.com/jj-vcs/jj",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Restfox",
+            "description": "",
+            "repo_url": "https://github.com/flawiddsouza/Restfox",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Requestly",
+            "description": "",
+            "repo_url": "https://github.com/requestly/requestly",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Plash",
+            "description": "",
+            "repo_url": "https://github.com/sindresorhus/Plash",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Jellyfin Media Player",
+            "description": "",
+            "repo_url": "https://github.com/jellyfin/jellyfin-media-player",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "video-player",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Insomnia",
+            "description": "",
+            "repo_url": "https://github.com/Kong/insomnia",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "api-client",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "KitchenOwl",
+            "description": "",
+            "repo_url": "https://github.com/TomBursch/kitchenowl",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

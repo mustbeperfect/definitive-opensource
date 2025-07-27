@@ -43,6 +43,7 @@ Projects that require a further vetting process.
 - [Packer](https://github.com/hashicorp/packer) - Might be a development tool?
 - [bitchat](https://github.com/permissionlesstech/bitchat) - Not sure if relevant
 - [Presentator](https://github.com/presentator/presentator) - Needs further vetting
+- [firecamp](https://github.com/firecamp-dev/firecamp) - Might be abandoned
 
 ## Prospects
 Prospective candidates that don't quite make it onto this list, as of now, but are on route to. 
@@ -94,6 +95,10 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Unmaintained for years, development started again
 - [BookLore](https://github.com/adityachandelgit/BookLore) - Waiting on stars
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) - Waiting on maturity
+- [TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Waiting on maturity
+- [Cartero](https://github.com/danirod/cartero)
+- [Yaade](https://github.com/EsperoTech/yaade) - Waiting on maturity
+- [raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Waiting on maturity
 
 ## Under Investigation
 
