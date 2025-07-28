@@ -1,6 +1,6 @@
 
 > [!TIP]
-> A great place to start contributing is to check the [backlog](resources/dev/BACKLOG.md) and determine their status to go on the list or find categories for uncategorized projects. For more information on [contributing](.github/CONTRIBUTING.md) and [guidelines](.github/GUIDELINES.md) for open-source software submissions, consult their respective pages.
+> This list is EXCLUSIVELY for apps that you use directly such as desktop apps, selfhosted apps, and command line utilities. Developer facing tools like languages, frameworks, and libraries are excluded. 
 
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
