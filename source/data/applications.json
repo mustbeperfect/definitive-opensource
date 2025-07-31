@@ -9875,6 +9875,42 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "homepage_url": "https://kitchenowl.org/"
+        },
+        {
+            "name": "Crush",
+            "description": "",
+            "repo_url": "https://github.com/charmbracelet/crush",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "opencode",
+            "description": "",
+            "repo_url": "https://github.com/sst/opencode",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
