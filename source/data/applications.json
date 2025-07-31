@@ -9415,22 +9415,6 @@
             "homepage_url": "http://storm.genie.stanford.edu"
         },
         {
-            "name": "Lenovo Legion Toolkit",
-            "description": "Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.",
-            "repo_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit",
-            "tags": [],
-            "platforms": [
-                "windows"
-            ],
-            "category": "system",
-            "stars": 6731,
-            "flags": [],
-            "last_commit": "07/24/2025",
-            "language": "C#",
-            "license": "GPL-3.0",
-            "homepage_url": ""
-        },
-        {
             "name": "Claudia",
             "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
             "repo_url": "https://github.com/getAsterisk/claudia",
