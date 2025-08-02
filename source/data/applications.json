@@ -9909,6 +9909,120 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://hyprnote.com"
+        },
+        {
+            "name": "File Converter",
+            "description": "",
+            "repo_url": "https://github.com/Tichau/FileConverter",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "tool",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Refined GitHub",
+            "description": "",
+            "repo_url": "https://github.com/refined-github/refined-github",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Vorta",
+            "description": "",
+            "repo_url": "https://github.com/borgbase/vorta",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "backup",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "IceCubesApp",
+            "description": "",
+            "repo_url": "https://github.com/Dimillian/IceCubesApp",
+            "tags": [],
+            "platforms": [
+                "macos",
+                "ios"
+            ],
+            "category": "social-network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Keyboard Cowboy 3",
+            "description": "",
+            "repo_url": "https://github.com/zenangst/KeyboardCowboy",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "automation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "KubeSphere",
+            "description": "",
+            "repo_url": "https://github.com/kubesphere/kubesphere",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "container-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Pika",
+            "description": "",
+            "repo_url": "https://github.com/superhighfives/pika",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

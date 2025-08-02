@@ -99,6 +99,7 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Cartero](https://github.com/danirod/cartero)
 - [Yaade](https://github.com/EsperoTech/yaade) - Waiting on maturity
 - [raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Waiting on maturity
+- [RsyncUI](https://github.com/rsyncOSX/RsyncUI) - Waiting on stars
 
 ## Under Investigation
 
