@@ -3,7 +3,7 @@
 > This list is EXCLUSIVELY for apps that you use directly such as desktop apps, selfhosted apps, and command line utilities. Developer facing tools like languages, frameworks, and libraries are excluded. 
 
 > [!NOTE]
-> My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
+> Check out my other open source project, [Aegis](https://github.com/mustbeperfect/aegis). My personal website: [mustbeperfect.com](mustbeperfect.com)
 
 ##
 
