@@ -3,7 +3,7 @@
 > This list is EXCLUSIVELY for apps that you use directly such as desktop apps, selfhosted apps, and command line utilities. Developer facing tools like languages, frameworks, and libraries are excluded. 
 
 > [!NOTE]
-> Check out my other open source project, [Palisade](https://github.com/mustbeperfect/palisade). My personal website: mustbeperfect.com
+> Check out my other open source project, [Palisade](https://github.com/mustbeperfect/palisade). My personal website: [mustbeperfect.com](https://mustbeperfect.com)
 
 ##
 
