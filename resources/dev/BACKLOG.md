@@ -100,6 +100,8 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [Yaade](https://github.com/EsperoTech/yaade) - Waiting on maturity
 - [raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Waiting on maturity
 - [RsyncUI](https://github.com/rsyncOSX/RsyncUI) - Waiting on stars
+- [Kanri](https://github.com/kanriapp/kanri) - Waiting on maturity
+- [hashcat](https://github.com/hashcat/hashcat)
 
 ## Under Investigation
 
