@@ -262,6 +262,7 @@ Abandoned - Development Halted
     - [Model Tools](#model-tools)
     - [RAG](#rag)
     - [Research](#research)
+    - [Synaplan](#ai-utilities)
 - Communication
     - [Chat](#chat)
     - [Collaboration](#collaboration)
@@ -422,6 +423,7 @@ Abandoned - Development Halted
 | [Airweave](https://github.com/airweave-ai/airweave) `Manual` `Web UI` | Airweave lets agents search any app | `Cross` | **4.1k** |
 | [mem0](https://github.com/mem0ai/mem0) `Manual` | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. | `SelfHost` | **40.9k** |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | `Cross` | **31.5k** |
+| [Synaplan](https://github.com/metadist/synaplan) | AI Communications platform to document and save results | `Cross` | **8** |
 
 ### All In One
 
