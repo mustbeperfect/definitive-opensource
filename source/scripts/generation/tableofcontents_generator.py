@@ -6,7 +6,7 @@ def slugify(name):
 
 def generate_table_of_contents():
     # Load the categories JSON data
-    with open("source/data/categories.json", "r", encoding="utf-8") as f:
+    with open("source/data/static/categories.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     categories = data.get("categories", [])
     subcategories = data.get("subcategories", [])

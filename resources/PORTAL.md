@@ -19,9 +19,9 @@ The place that connects everything related to definitive-opensource.
 - [source/scripts/maintenance](source/scripts/maintenance) - Contains scripts related to maintenance
 
 ## Data
-- [applications.json](source/data/applications.json) - Stores all information related to applications
-- [categories.json](source/data/categories.json) - Declares categories and subcategories
-- [tags](source/data/tags.json) - Declares tags, their id, and corresponding emoji
+- [applications.json](source/data/dynamic/applications.json) - Stores all information related to applications
+- [categories.json](source/data/static/categories.json) - Declares categories and subcategories
+- [tags](source/data/static/tags.json) - Declares tags, their id, and corresponding emoji
 
 ## GitHub Actions
 - [generate-readme.yml](.github/workflows/generate-readme.yml) - Calls the [`readme_generator.py`](source/scripts/generation/readme_generator.py) to generate READMEs
