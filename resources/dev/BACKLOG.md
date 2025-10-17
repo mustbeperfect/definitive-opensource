@@ -102,6 +102,9 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [RsyncUI](https://github.com/rsyncOSX/RsyncUI) - Waiting on stars
 - [Kanri](https://github.com/kanriapp/kanri) - Waiting on maturity
 - [hashcat](https://github.com/hashcat/hashcat)
+- [KeyCluClask](https://github.com/Anze/KeyCluCask) - Potentially abandoned
+- [LaunchNext](https://github.com/RoversX/LaunchNext) - Waiting on maturity
+- [OM1](https://github.com/OpenMind/OM1) - Waiting on maturity
 
 ## Under Investigation
 

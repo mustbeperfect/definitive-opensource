@@ -10207,6 +10207,107 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "OpenRocket",
+            "description": "",
+            "repo_url": "https://github.com/openrocket/openrocket",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "rocketry",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "EdgeTX",
+            "description": "",
+            "repo_url": "https://github.com/EdgeTX/edgetx",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "firmware",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Omarchy",
+            "description": "",
+            "repo_url": "https://github.com/basecamp/omarchy",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "operating-system",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Cryptomator",
+            "description": "",
+            "repo_url": "https://github.com/cryptomator/cryptomator",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "backup",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Win11Debloat",
+            "description": "",
+            "repo_url": "https://github.com/Raphire/Win11Debloat",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "windows"
+            ],
+            "category": "windows",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Term.Everything",
+            "description": "",
+            "repo_url": "https://github.com/mmulet/term.everything",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "linux"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

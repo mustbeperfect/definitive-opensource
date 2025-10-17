@@ -762,6 +762,12 @@
 			"description": ""
 		},
 		{
+			"name": "Robotics",
+			"id": "robotics",
+			"parent": "stem",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",
