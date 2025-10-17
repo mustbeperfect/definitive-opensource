@@ -9104,7 +9104,7 @@
             "platforms": [
                 "n/a"
             ],
-            "category": "other",
+            "category": "autonomy",
             "stars": 13889,
             "flags": [],
             "last_commit": "10/16/2025",
@@ -10302,6 +10302,498 @@
                 "linux"
             ],
             "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "XLeRobot",
+            "description": "",
+            "repo_url": "https://github.com/Vector-Wangel/XLeRobot",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "robotics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "CARLA",
+            "description": "",
+            "repo_url": "https://github.com/carla-simulator/carla",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "linux"
+            ],
+            "category": "autonomy",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "WhisperLiveKit",
+            "description": "",
+            "repo_url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "transcription",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "headscale",
+            "description": "",
+            "repo_url": "https://github.com/juanfont/headscale",
+            "tags": [
+                "cli-plus"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Btop",
+            "description": "",
+            "repo_url": "https://github.com/aristocratos/btop",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Toot",
+            "description": "",
+            "repo_url": "https://github.com/ihabunek/toot",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "social-network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Soft Serve",
+            "description": "",
+            "repo_url": "https://github.com/charmbracelet/soft-serve",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "git-hosting",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Folo",
+            "description": "",
+            "repo_url": "https://github.com/RSSNext/Folo",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile",
+                "web-cloud"
+            ],
+            "category": "social-network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Gluetun",
+            "description": "",
+            "repo_url": "https://github.com/qdm12/gluetun",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Algo",
+            "description": "",
+            "repo_url": "https://github.com/trailofbits/algo",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PiVPN",
+            "description": "",
+            "repo_url": "https://github.com/pivpn/pivpn",
+            "tags": [
+                "manual",
+                "cli"
+            ],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Netmaker",
+            "description": "",
+            "repo_url": "https://github.com/gravitl/netmaker",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "KiCad",
+            "description": "A Cross Platform and Open Source PCB Design Suite",
+            "repo_url": "https://github.com/KiCad/kicad-source-mirror",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "engineering",
+            "stars": 0,
+            "flags": [
+                "custom-description"
+            ],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PixiEditor",
+            "description": "",
+            "repo_url": "https://github.com/PixiEditor/PixiEditor",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "graphics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Autoware",
+            "description": "",
+            "repo_url": "https://github.com/autowarefoundation/autoware",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "autonomy",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Apollo",
+            "description": "",
+            "repo_url": "https://github.com/ApolloAuto/apollo",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "autonomy",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "TeslaMate",
+            "description": "",
+            "repo_url": "https://github.com/teslamate-org/teslamate",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "SUMO",
+            "description": "",
+            "repo_url": "https://github.com/eclipse-sumo/sumo",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "simulation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "MissionPlanner",
+            "description": "",
+            "repo_url": "https://github.com/ArduPilot/MissionPlanner",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "control",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "WebODM",
+            "description": "",
+            "repo_url": "https://github.com/OpenDroneMap/WebODM",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "control",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "QGroundControl",
+            "description": "",
+            "repo_url": "https://github.com/mavlink/qgroundcontrol",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "control",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PX4 Drone Autopilot",
+            "description": "",
+            "repo_url": "https://github.com/PX4/PX4-Autopilot",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "autonomy",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "INAV",
+            "description": "",
+            "repo_url": "https://github.com/iNavFlight/inav",
+            "tags": [],
+            "platforms": [
+                "n/a"
+            ],
+            "category": "firmware",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Nanobrowser",
+            "description": "",
+            "repo_url": "https://github.com/nanobrowser/nanobrowser",
+            "tags": [],
+            "platforms": [
+                "chromium"
+            ],
+            "category": "agent",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "OpenArm",
+            "description": "",
+            "repo_url": "https://github.com/enactic/openarm",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "robotics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "LibreCAD",
+            "description": "",
+            "repo_url": "https://github.com/LibreCAD/LibreCAD",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "cad",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "AntennaPod",
+            "description": "",
+            "repo_url": "https://github.com/AntennaPod/AntennaPod",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Wireshark",
+            "description": "Wireshark lets you dive deep into your network traffic - free and open source.",
+            "repo_url": "https://github.com/wireshark/wireshark",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "network",
+            "stars": 0,
+            "flags": [
+                "custom-description"
+            ],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Tuta Mail",
+            "description": "",
+            "repo_url": "https://github.com/tutao/tutanota",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "mail",
             "stars": 0,
             "flags": [],
             "last_commit": "",

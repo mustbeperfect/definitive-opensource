@@ -768,6 +768,18 @@
 			"description": ""
 		},
 		{
+			"name": "Control",
+			"id": "control",
+			"parent": "stem",
+			"description": ""
+		},
+		{
+			"name": "Transcription",
+			"id": "transcription",
+			"parent": "utilities",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",

@@ -105,6 +105,9 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [KeyCluClask](https://github.com/Anze/KeyCluCask) - Potentially abandoned
 - [LaunchNext](https://github.com/RoversX/LaunchNext) - Waiting on maturity
 - [OM1](https://github.com/OpenMind/OM1) - Waiting on maturity
+- [rclone-ui](https://github.com/rclone-ui/rclone-ui) - Waiting on maturity
+- [AirSim](https://github.com/microsoft/AirSim) - Potentially abandoned
+
 
 ## Under Investigation
 
