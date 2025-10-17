@@ -10800,6 +10800,137 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "OpenVPN",
+            "description": "",
+            "repo_url": "https://github.com/OpenVPN/openvpn",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PhotoDemon",
+            "description": "",
+            "repo_url": "https://github.com/tannerhelland/PhotoDemon",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "image-editing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "RapidRAW",
+            "description": "",
+            "repo_url": "https://github.com/CyberTimon/RapidRAW",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "image-editing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "WinBoat",
+            "description": "",
+            "repo_url": "https://github.com/TibixDev/winboat",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "linux",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "evcc",
+            "description": "",
+            "repo_url": "https://github.com/evcc-io/evcc",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "home-automation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Vicinae",
+            "description": "",
+            "repo_url": "https://github.com/vicinaehq/vicinae",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Thrive",
+            "description": "",
+            "repo_url": "https://github.com/Revolutionary-Games/Thrive",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "games",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Webots",
+            "description": "",
+            "repo_url": "https://github.com/cyberbotics/webots",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "robotics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

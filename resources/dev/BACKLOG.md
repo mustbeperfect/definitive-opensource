@@ -107,6 +107,11 @@ Prospective candidates that don't quite make it onto this list, as of now, but a
 - [OM1](https://github.com/OpenMind/OM1) - Waiting on maturity
 - [rclone-ui](https://github.com/rclone-ui/rclone-ui) - Waiting on maturity
 - [AirSim](https://github.com/microsoft/AirSim) - Potentially abandoned
+- [Nook](https://github.com/nook-browser/Nook) - Waiting on maturity
+- [sshpilot](https://github.com/mfat/sshpilot) - Waiting on maturity
+- [PiStats](https://github.com/Bunn/PiStats) - Waiting on maturity
+- [Glide](https://github.com/glide-browser/glide) - Waiting on maturity
+- [keeptrack.space]()https://github.com/thkruz/keeptrack.space
 
 
 ## Under Investigation
