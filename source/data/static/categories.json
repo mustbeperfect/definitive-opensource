@@ -750,6 +750,18 @@
 			"description": ""
 		},
 		{
+			"name": "Simulation",
+			"id": "simulation",
+			"parent": "stem",
+			"description": ""
+		},
+		{
+			"name": "Autonomy",
+			"id": "autonomy",
+			"parent": "stem",
+			"description": ""
+		},
+		{
 			"name": "Other",
 			"id": "other",
 			"parent": "other",

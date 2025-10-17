@@ -6890,7 +6890,7 @@
             "platforms": [
                 "linux"
             ],
-            "category": "other",
+            "category": "autonomy",
             "stars": 58413,
             "flags": [],
             "last_commit": "10/17/2025",
@@ -9233,7 +9233,7 @@
             "platforms": [
                 "n/a"
             ],
-            "category": "other",
+            "category": "firmware",
             "stars": 5906,
             "flags": [],
             "last_commit": "10/17/2025",
@@ -10191,6 +10191,22 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://wg-easy.github.io/wg-easy/latest/"
+        },
+        {
+            "name": "A/B Street",
+            "description": "",
+            "repo_url": "https://github.com/a-b-street/abstreet",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "simulation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
