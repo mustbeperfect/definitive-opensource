@@ -80,6 +80,11 @@
 			"name": "Utilities",
 			"id": "utilities",
 			"description": ""
+		},
+		{
+			"name": "STEM",
+			"id": "stem",
+			"description": ""
 		}
 	],
 	"subcategories":
@@ -724,6 +729,24 @@
 			"name": "Container Management",
 			"id": "container-management",
 			"parent": "utilities",
+			"description": ""
+		},
+		{
+			"name": "Engineering",
+			"id": "engineering",
+			"parent": "stem",
+			"description": ""
+		},
+		{
+			"name": "Rocketry",
+			"id": "rocketry",
+			"parent": "stem",
+			"description": ""
+		},
+		{
+			"name": "Firmware",
+			"id": "firmware",
+			"parent": "stem",
 			"description": ""
 		},
 		{
