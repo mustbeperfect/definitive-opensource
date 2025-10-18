@@ -10931,6 +10931,24 @@
             "language": "C++",
             "license": "Apache-2.0",
             "homepage_url": "https://cyberbotics.com"
+        },
+        {
+            "name": "rustic",
+            "description": "",
+            "repo_url": "https://github.com/rustic-rs/rustic",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "backup",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
