@@ -4035,9 +4035,9 @@
             "homepage_url": "https://linkding.link/"
         },
         {
-            "name": "hoarder",
+            "name": "Karakeep",
             "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-            "repo_url": "https://github.com/hoarder-app/hoarder",
+            "repo_url": "https://github.com/karakeep-app/karakeep",
             "tags": [],
             "platforms": [
                 "selfhost"
