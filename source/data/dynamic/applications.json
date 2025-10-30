@@ -9902,7 +9902,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "note-taking",
+            "category": "transcription",
             "stars": 6436,
             "flags": [],
             "last_commit": "10/30/2025",
@@ -10949,6 +10949,697 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://rustic.cli.rs"
+        },
+        {
+            "name": "BookLore",
+            "description": "",
+            "repo_url": "https://github.com/booklore-app/booklore",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "qBittorrent",
+            "description": "",
+            "repo_url": "https://github.com/qbittorrent/qBittorrent",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "download-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Transmission",
+            "description": "",
+            "repo_url": "https://github.com/transmission/transmission",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "download-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Handy",
+            "description": "",
+            "repo_url": "https://github.com/cjpais/Handy",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "SurfSense",
+            "description": "",
+            "repo_url": "https://github.com/MODSetter/SurfSense",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "llm-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Papermerge DMS",
+            "description": "",
+            "repo_url": "https://github.com/ciur/papermerge",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "document-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "flatnotes",
+            "description": "",
+            "repo_url": "https://github.com/dullage/flatnotes",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "note-taking",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Manyfold",
+            "description": "",
+            "repo_url": "https://github.com/manyfold3d/manyfold",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "media-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Viseron",
+            "description": "",
+            "repo_url": "https://github.com/roflcoopter/viseron",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "surveillance",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "zipline",
+            "description": "",
+            "repo_url": "https://github.com/diced/zipline",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "file-sharing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Worklenz",
+            "description": "",
+            "repo_url": "https://github.com/Worklenz/worklenz",
+            "tags": [],
+            "platforms": [
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "project-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Trilium Notes",
+            "description": "",
+            "repo_url": "https://github.com/TriliumNext/Trilium",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "note-taking",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Ryot",
+            "description": "",
+            "repo_url": "https://github.com/IgnisDa/ryot",
+            "tags": [],
+            "platforms": [
+                "web-cloud",
+                "selfhost",
+                "chromium",
+                "firefox"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ByteStash",
+            "description": "",
+            "repo_url": "https://github.com/jordan-dalby/ByteStash",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Leader Key",
+            "description": "",
+            "repo_url": "https://github.com/mikker/LeaderKey.app",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "AliasVault",
+            "description": "",
+            "repo_url": "https://github.com/aliasvault/aliasvault",
+            "tags": [],
+            "platforms": [
+                "mobile",
+                "chromium",
+                "firefox"
+            ],
+            "category": "",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "LinkAce",
+            "description": "",
+            "repo_url": "https://github.com/Kovah/LinkAce",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "bookmark-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "CudaText",
+            "description": "",
+            "repo_url": "https://github.com/Alexey-T/CudaText",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "text-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Notes",
+            "description": "",
+            "repo_url": "https://github.com/nuttyartist/notes",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "note-taking",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "SwarmUI",
+            "description": "",
+            "repo_url": "https://github.com/mcmonkeyprojects/SwarmUI",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ai-image-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "kunkun",
+            "description": "",
+            "repo_url": "https://github.com/kunkunsh/kunkun",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "launcher",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Amp",
+            "description": "",
+            "repo_url": "https://github.com/jmacdonald/amp",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "macos",
+                "linux"
+            ],
+            "category": "text-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "DevDocs",
+            "description": "",
+            "repo_url": "https://github.com/freeCodeCamp/devdocs",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "wiki",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Chili3D",
+            "description": "",
+            "repo_url": "https://github.com/xiangechen/chili3d",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "OpenCut",
+            "description": "",
+            "repo_url": "https://github.com/OpenCut-app/OpenCut",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "video-editing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "bitchat",
+            "description": "",
+            "repo_url": "https://github.com/permissionlesstech/bitchat?tab=readme-ov-file",
+            "tags": [],
+            "platforms": [
+                "mobile"
+            ],
+            "category": "chat",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Midday",
+            "description": "",
+            "repo_url": "https://github.com/midday-ai/midday",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "finance",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Sloth",
+            "description": "",
+            "repo_url": "https://github.com/sveinbjornt/Sloth",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "5ire",
+            "description": "",
+            "repo_url": "https://github.com/nanbingxyz/5ire",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "llm-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "PAINT BOARD",
+            "description": "",
+            "repo_url": "https://github.com/LHRUN/paint-board",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "graphics",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Onyx",
+            "description": "",
+            "repo_url": "https://github.com/onyx-dot-app/onyx",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "llm-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "sshx",
+            "description": "",
+            "repo_url": "https://github.com/ekzhang/sshx",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "web-cloud"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Anx Reader",
+            "description": "",
+            "repo_url": "https://github.com/Anxcye/anx-reader",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "macos",
+                "mobile"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "repo_url": "https://github.com/elie222/inbox-zero",
+            "tags": [],
+            "platforms": [
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "mail",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Flying Carpet",
+            "description": "",
+            "repo_url": "https://github.com/spieglt/FlyingCarpet",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "file-sharing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "olmOCR",
+            "description": "",
+            "repo_url": "https://github.com/allenai/olmocr",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "information-processing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Web Clipper",
+            "description": "",
+            "repo_url": "https://github.com/webclipper/web-clipper",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "HomeBox",
+            "description": "",
+            "repo_url": "https://github.com/sysadminsmedia/homebox",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Freeplane",
+            "description": "",
+            "repo_url": "https://github.com/freeplane/freeplane",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "knowledge-base",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "YaCy",
+            "description": "",
+            "repo_url": "https://github.com/yacy/yacy_search_server",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "search-engine",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "DeepChat",
+            "description": "",
+            "repo_url": "https://github.com/ThinkInAIXYZ/deepchat",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "llm-gui",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Atuin Desktop",
+            "description": "",
+            "repo_url": "https://github.com/atuinsh/desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

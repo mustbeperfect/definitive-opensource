@@ -244,6 +244,90 @@
             "note": "Waiting on maturity",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "VoiceInk",
+            "repo_url": "https://github.com/Beingpax/VoiceInk",
+            "note": "Waiting on maturity, potentially vibe coded",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Kanri",
+            "repo_url": "https://github.com/kanriapp/kanri",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "RsyncUI",
+            "repo_url": "https://github.com/rsyncOSX/RsyncUI",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "LaunchNext",
+            "repo_url": "https://github.com/RoversX/LaunchNext",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Osaurus",
+            "repo_url": "https://github.com/dinoki-ai/osaurus",
+            "note": "Waiting on maturity, potentially vibe coded",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Bananas",
+            "repo_url": "https://github.com/mistweaverco/bananas",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Mochi Diffusion",
+            "repo_url": "https://github.com/MochiDiffusion/MochiDiffusion",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "polaris",
+            "repo_url": "https://github.com/agersant/polaris",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Clop",
+            "repo_url": "https://github.com/FuzzyIdeas/Clop",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Taiga Docker",
+            "repo_url": "https://github.com/taigaio/taiga-docker",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Presentator",
+            "repo_url": "https://github.com/presentator/presentator",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Ora Browser",
+            "repo_url": "https://github.com/the-ora/browser",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
