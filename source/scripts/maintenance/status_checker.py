@@ -3,8 +3,8 @@ import json
 from datetime import datetime, timedelta
 import os
 
-INPUT_FILE = "applications.json"
-OUTPUT_FILE = "activity_maintenance.md"
+INPUT_FILE = "source/data/dynamic/applications.json"
+OUTPUT_FILE = "readmes/status_maintenance.md"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 headers = {"Accept": "application/vnd.github+json"}
@@ -79,4 +79,4 @@ with open(OUTPUT_FILE, "w") as f:
     else:
         f.write("_None_\n")
 
-print(f"✅ Report written to {OUTPUT_FILE}")
+print(f"{OUTPUT_FILE} Complete")
