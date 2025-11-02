@@ -11640,6 +11640,22 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://atuin.sh"
+        },
+        {
+            "name": "ezBookkeeping",
+            "description": "",
+            "repo_url": "https://github.com/mayswind/ezbookkeeping",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "finance",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
