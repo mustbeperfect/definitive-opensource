@@ -3,7 +3,7 @@
 > This list is EXCLUSIVELY for apps that you use directly such as desktop apps, selfhosted apps, and command line utilities. Developer facing tools like languages, frameworks, and libraries are excluded. 
 
 > [!NOTE]
-> Please visit the [portal](resources/PORTAL.md) for quick access to the foundations of this project.
+> Please visit the [portal](resources/PORTAL.md) for quick access to the foundations of this project. Please read contributing documents before submitting a PR as this list is edited from a JSON file, not the README!
 
 ##
 
