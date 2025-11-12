@@ -1,0 +1,39 @@
+
+name: Format Maintenance
+
+on:
+  push:
+    paths:
+      - 'source/data/**'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Run script to check for format errors
+        run: python ./source/scripts/maintenance/json_formatter.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add readmes/format_maintenence.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Format Maintenance"
+          git push

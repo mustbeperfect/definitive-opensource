@@ -1,0 +1,39 @@
+
+name: Status Maintenance
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1'  # every Monday at 2:00 AM UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Run script to check for project status
+        run: python ./source/scripts/maintenance/status_checker.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add readmes/status_maintenence.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Status Check"
+          git push
