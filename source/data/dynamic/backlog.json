@@ -335,6 +335,20 @@
             "note": "Potentially abandoned",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "ytdlp-interface",
+            "repo_url": "https://github.com/ErrorFlynn/ytdlp-interface",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
+        },
+        {
+            "name": "Blender Launcher V2",
+            "repo_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 

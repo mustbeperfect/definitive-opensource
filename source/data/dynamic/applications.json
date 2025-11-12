@@ -2584,7 +2584,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "cad",
             "stars": 26944,
             "flags": [],
             "last_commit": "11/12/2025",
@@ -2680,7 +2680,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "cad",
             "stars": 8398,
             "flags": [],
             "last_commit": "11/10/2025",
@@ -2692,11 +2692,13 @@
             "name": "CadQuery",
             "description": "A python parametric CAD scripting framework based on OCCT",
             "repo_url": "https://github.com/CadQuery/cadquery",
-            "tags": [],
+            "tags": [
+                "manual"
+            ],
             "platforms": [
                 "cross"
             ],
-            "category": "graphics",
+            "category": "cad",
             "stars": 4156,
             "flags": [],
             "last_commit": "11/09/2025",
@@ -10106,7 +10108,7 @@
             "platforms": [
                 "n/a"
             ],
-            "category": "graphics",
+            "category": "cad",
             "stars": 3098,
             "flags": [],
             "last_commit": "09/02/2025",
@@ -11642,6 +11644,118 @@
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://helium.computer"
+        },
+        {
+            "name": "Arduino IDE",
+            "description": "",
+            "repo_url": "https://github.com/arduino/arduino-ide",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ide",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "drawio-desktop",
+            "description": "",
+            "repo_url": "https://github.com/jgraph/drawio-desktop",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "diagrams",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "CQ-editor",
+            "description": "",
+            "repo_url": "https://github.com/CadQuery/CQ-editor",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "cad",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "ytDownloader",
+            "description": "",
+            "repo_url": "https://github.com/aandrew-me/ytDownloader",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "media-downloader",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Everywhere",
+            "description": "",
+            "repo_url": "https://github.com/DearVa/Everywhere",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "context",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Virtual Display Driver",
+            "description": "",
+            "repo_url": "https://github.com/VirtualDrivers/Virtual-Display-Driver",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "windows",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Deluge",
+            "description": "",
+            "repo_url": "https://github.com/deluge-torrent/deluge",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "download-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
