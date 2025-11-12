@@ -5326,9 +5326,11 @@
             "name": "Better Notes",
             "description": "Everything about note management. All in Zotero.",
             "repo_url": "https://github.com/windingwind/zotero-better-notes",
-            "tags": [],
-            "platforms": [
+            "tags": [
                 "plugin"
+            ],
+            "platforms": [
+                "n/a"
             ],
             "category": "note-taking",
             "stars": 6985,
@@ -8533,7 +8535,7 @@
             "repo_url": "https://github.com/mastodon/mastodon",
             "tags": [],
             "platforms": [
-                "web",
+                "web-cloud",
                 "mobile"
             ],
             "category": "social-network",
@@ -8781,22 +8783,6 @@
             "language": "C",
             "license": "GPL-2.0",
             "homepage_url": "https://htop.dev/"
-        },
-        {
-            "name": "LeaderKey",
-            "description": "The *faster than your launcher* launcher",
-            "repo_url": "https://github.com/mikker/LeaderKey.app",
-            "tags": [],
-            "platforms": [
-                "macos"
-            ],
-            "category": "launcher",
-            "stars": 1832,
-            "flags": [],
-            "last_commit": "09/23/2025",
-            "language": "Swift",
-            "license": "MIT",
-            "homepage_url": "https://mikkelmalmberg.com/apps"
         },
         {
             "name": "Olauncher",
@@ -9728,22 +9714,6 @@
             "language": "Ruby",
             "license": "AGPL-3.0",
             "homepage_url": "https://dawarich.app"
-        },
-        {
-            "name": "jj",
-            "description": "A Git-compatible VCS that is both simple and powerful",
-            "repo_url": "https://github.com/jj-vcs/jj",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "dev-tools",
-            "stars": 22158,
-            "flags": [],
-            "last_commit": "11/11/2025",
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "homepage_url": "https://jj-vcs.github.io/jj/"
         },
         {
             "name": "Restfox",
@@ -10743,7 +10713,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "cad",
+            "category": "graphics",
             "stars": 5357,
             "flags": [],
             "last_commit": "11/11/2025",
@@ -11204,7 +11174,7 @@
                 "chromium",
                 "firefox"
             ],
-            "category": "",
+            "category": "password-manager",
             "stars": 1591,
             "flags": [],
             "last_commit": "11/11/2025",
@@ -11337,7 +11307,7 @@
             "platforms": [
                 "web-cloud"
             ],
-            "category": "",
+            "category": "graphics",
             "stars": 3949,
             "flags": [],
             "last_commit": "11/11/2025",
