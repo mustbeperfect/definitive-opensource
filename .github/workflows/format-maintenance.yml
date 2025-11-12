@@ -2,9 +2,9 @@
 name: Format Maintenance
 
 on:
-  push:
-    paths:
-      - 'source/data/**'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * 1'  # Every monday at 1 am UTC
 
 jobs:
   generate:
