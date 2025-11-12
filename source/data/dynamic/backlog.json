@@ -328,6 +328,13 @@
             "note": "Waiting on maturity",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "Vividl",
+            "repo_url": "https://github.com/Bluegrams/Vividl",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
