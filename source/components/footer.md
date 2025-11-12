@@ -24,6 +24,9 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - `Abandoned`
   - [Readarr](https://github.com/Readarr/Readarr) - `Abandoned`
   - [Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - `Abandoned`
+  - [Cody](https://github.com/sourcegraph/cody-public-snapshot) - `Closed Source`
+  - [Maybe](https://github.com/maybe-finance/maybe) - `Closed Source`
+  - [Spyglass](https://github.com/spyglass-search/spyglass) - `Abandoned`
 </details>
 
 ## FAQ

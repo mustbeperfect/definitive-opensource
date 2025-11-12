@@ -1443,23 +1443,6 @@
             "homepage_url": "https://roocode.com"
         },
         {
-            "name": "Cody",
-            "description": "Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.",
-            "repo_url": "https://github.com/sourcegraph/cody",
-            "tags": [],
-            "platforms": [
-                "vscode",
-                "jetbrains"
-            ],
-            "category": "code-assistant",
-            "stars": 3797,
-            "flags": [],
-            "last_commit": "08/01/2025",
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "homepage_url": "https://cody.dev"
-        },
-        {
             "name": "Plandex",
             "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
             "repo_url": "https://github.com/plandex-ai/plandex",
@@ -4236,22 +4219,6 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "homepage_url": "https://www.opensignlabs.com"
-        },
-        {
-            "name": "Maybe",
-            "description": "The personal finance app for everyone",
-            "repo_url": "https://github.com/maybe-finance/maybe",
-            "tags": [],
-            "platforms": [
-                "selfhost"
-            ],
-            "category": "finance",
-            "stars": 53366,
-            "flags": [],
-            "last_commit": "07/24/2025",
-            "language": "Ruby",
-            "license": "AGPL-3.0",
-            "homepage_url": ""
         },
         {
             "name": "Actual",
@@ -7985,22 +7952,6 @@
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://alexpasmantier.github.io/television/"
-        },
-        {
-            "name": "Spyglass",
-            "description": "A personal search engine:  Create a searchable library from your personal documents, interests, and more!",
-            "repo_url": "https://github.com/spyglass-search/spyglass",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "search-engine",
-            "stars": 2717,
-            "flags": [],
-            "last_commit": "06/27/2025",
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "homepage_url": "https://docs.spyglass.fyi"
         },
         {
             "name": "joshuto",
