@@ -4,36 +4,42 @@ name: Status Maintenance
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * 1'  # every Monday at 2:00 AM UTC
+    - cron: '0 2 * * 1'  # Every monday at 2 am UTC
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
+  update:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-      
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt || true
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
 
-      - name: Run script to check for project status
-        run: python ./source/scripts/maintenance/status_checker.py
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add readmes/status_maintenence.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Status Check"
-          git push
+    - name: Run status maintenance script
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python source/scripts/maintenance/status_maintenance.py
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add readmes/status_maintenance.md
+        git commit -m "Run status_maintance" || echo "No changes to commit"
+        git push
