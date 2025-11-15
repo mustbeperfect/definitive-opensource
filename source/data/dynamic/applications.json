@@ -11707,6 +11707,22 @@
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://www.deluge-torrent.org"
+        },
+        {
+            "name": "Pdf.js",
+            "description": "",
+            "repo_url": "https://github.com/mozilla/pdf.js",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

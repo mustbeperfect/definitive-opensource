@@ -53,6 +53,40 @@ This list aims to serve as a single centralized location for the best of open so
   This list aims to stand in the middle ground between human input and automation. Mostly automated websites exist for finding open source projects, but statistics alone fails to encompass the complete picture. This list has scripts to automate markdown formatting, updating stats, and finding potentially abandoned projects. However, the actual processes of choosing which projects make it onto the list, which ones should be removed, and what tags to assign are controlled entirely by humans. 
 </details>
 
+## Adding New Apps Quickly
+
+Use the `scripts/utils/contributing_autofill.py` helper whenever you want to add a new repository to `applications.json`.
+
+- Run `python3 scripts/utils/contributing_autofill.py <repo-url>`; the script fetches GitHub metadata, asks you for any missing info (platforms, tags, category), and then appends the finished JSON object to `source/data/dynamic/applications.json`.
+- If you export a `GITHUB_TOKEN` in your shell, the script will automatically use it to avoid GitHub rate limits.
+- Pass `--full-details` if you’d like the helper to also populate description, stars, languages, license, homepage, and last commit—otherwise those fields stay blank for the nightly stats updater.
+- Duplicate repositories are detected automatically—the script will skip the entry and tell you if that repo already exists so you can update it manually instead.
+- After it runs, double-check that the entry has `name`, `repo_url`, `tags`, `platforms`, and `category` filled in—per `CONTRIBUTING.md`, every PR must include those fields before relying on the nightly stats updater.
+
+Example (script output for `https://github.com/mozilla/pdf.js`, required fields only):
+```bash
+python3 scripts/utils/contributing_autofill.py https://github.com/mozilla/pdf.js
+```
+```json
+{
+    "name": "Pdf.js",
+    "description": "",
+    "repo_url": "https://github.com/mozilla/pdf.js",
+    "tags": [],
+    "platforms": [
+        "cross"
+    ],
+    "category": "window-management",
+    "stars": 0,
+    "flags": [],
+    "last_commit": "",
+    "language": "",
+    "license": "",
+    "homepage_url": ""
+}
+```
+The command also prints notes (not shown) reminding you to fill in the missing platforms/tags/category before the PR.
+
 ## Project Status
 ```css
 Active - Active Development
@@ -1783,4 +1817,3 @@ This project is released under the `MIT license`, hereby granting anyone to use,
 </tbody>
 </table>
 </p> 
-
