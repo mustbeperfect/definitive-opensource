@@ -3,7 +3,7 @@
 The place that connects everything related to definitive-opensource.
 
 ### Lists
-- [ALL](README.md)
+- [ALL](/README.md)
 - [Windows](/readmes/windows.md)
 - [MacOS](/readmes/macos.md)
 - [Linux](/readmes/linux.md)
