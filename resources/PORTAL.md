@@ -4,17 +4,17 @@ The place that connects everything related to definitive-opensource.
 
 ### Lists
 - [ALL](README.md)
-- [Windows](readmes/windows.md)
-- [MacOS](readmes/macos.md)
-- [Linux](readmes/linux.md)
-- [Selfhost](readmes/selfhost.md)
+- [Windows](/readmes/windows.md)
+- [MacOS](/readmes/macos.md)
+- [Linux](/readmes/linux.md)
+- [Selfhost](/readmes/selfhost.md)
 
 ### Contributing
 - [CONTRIBUTING](/.github/CONTRIBUTING.md) - Goes over how to contribute, conventions, etc
 - [GUIDELINES](/.github/GUIDELINES.md) - Guidelines for what qualifies a project to be added
 
 ### Development
-- [ARCHITECTURE.md](resources/dev/ARCHITECTURE.md) - Explains the "backend" of the list
+- [ARCHITECTURE.md](/resources/dev/ARCHITECTURE.md) - Explains the "backend" of the list
 - [source/scripts/generation](/source/scripts/generation) - Contains scripts related to README generation
 - [source/scripts/maintenance](/source/scripts/maintenance) - Contains scripts related to maintenance
 
