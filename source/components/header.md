@@ -50,7 +50,7 @@ Active - Active Development
 Incremental - Minor Updates
 ```
 ```
-Maintenence - Critical Fixes
+Maintenance - Critical Fixes
 ```
 ```
 Idle - Temporarily Paused
