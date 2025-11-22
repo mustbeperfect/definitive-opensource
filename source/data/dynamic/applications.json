@@ -11790,6 +11790,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Node-RED",
+            "description": "",
+            "repo_url": "https://github.com/node-red/node-red",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "automation",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
