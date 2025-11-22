@@ -11756,6 +11756,40 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "SpotMenu",
+            "description": "",
+            "repo_url": "https://github.com/kmikiy/SpotMenu",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "Spicetify",
+            "description": "",
+            "repo_url": "https://github.com/spicetify/cli",
+            "tags": [
+                "cli"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "uncategorized",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
