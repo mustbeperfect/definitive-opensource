@@ -11740,6 +11740,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "SimpMusic",
+            "description": "",
+            "repo_url": "https://github.com/maxrave-dev/SimpMusic",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "audio-player",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
