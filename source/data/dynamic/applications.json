@@ -11707,6 +11707,22 @@
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://www.deluge-torrent.org"
+        },
+        {
+            "name": "Zitadel",
+            "description": "",
+            "repo_url": "https://github.com/zitadel/zitadel",
+            "tags": ["web-ui"],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "authentication",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "homepage_url": "https://zitadel.com/"
         }
     ]
 }
