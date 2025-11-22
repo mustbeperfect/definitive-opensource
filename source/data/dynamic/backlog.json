@@ -349,6 +349,13 @@
             "note": "Waiting on maturity",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "Lenovo Legion Toolkit",
+            "repo_url": "https://github.com/XKaguya/LenovoLegionToolkit",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
