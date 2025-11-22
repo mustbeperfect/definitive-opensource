@@ -7033,9 +7033,9 @@
             "homepage_url": null
         },
         {
-            "name": "Youtube Music",
+            "name": "Pear Desktop",
             "description": "Pear \ud83c\udf50 is extension for music player",
-            "repo_url": "https://github.com/th-ch/youtube-music",
+            "repo_url": "https://github.com/pear-devs/pear-desktop",
             "tags": [],
             "platforms": [
                 "cross"
