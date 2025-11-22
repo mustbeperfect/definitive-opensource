@@ -5,7 +5,7 @@
 
 `🚫` - Potentially abandoned
 
-`🔒` - Potentially closed source
+`🔒` - Closed development model
 
 `🛑` - Development paused
 
@@ -32,12 +32,16 @@
 
 `💡` - Innovative
 
+<!--
+
 ### Awards (At 10k Stars)
 `🏆` - Crown of open source
 
 `🥈` - Second
 
 `🥉` - Third
+
+-->
 
 ### Platforms
 `Cross` - Cross-platform (MacOS, Windows, Linux)
