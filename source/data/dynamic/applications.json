@@ -11707,6 +11707,22 @@
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://www.deluge-torrent.org"
+        },
+        {
+            "name": "Lenovo Legion Linux",
+            "description": "",
+            "repo_url": "https://github.com/johnfanv2/LenovoLegionLinux",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
