@@ -356,6 +356,13 @@
             "note": "Waiting on maturity",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "Lepton",
+            "repo_url": "https://github.com/hackjutsu/Lepton",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
