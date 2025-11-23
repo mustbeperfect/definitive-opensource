@@ -11831,10 +11831,10 @@
             "repo_url": "https://github.com/PixelGuys/Cubyz",
             "tags": [],
             "platforms": [
-                "Linux",
-                "Windows"
+                "linux",
+                "windows"
             ],
-            "category": "Games",
+            "category": "games",
             "stars": 0,
             "flags": [],
             "last_commit": "",
