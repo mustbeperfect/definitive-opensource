@@ -6825,7 +6825,9 @@
             "name": "AeroSpace",
             "description": "AeroSpace is an i3-like tiling window manager for macOS",
             "repo_url": "https://github.com/nikitabobko/AeroSpace",
-            "tags": [],
+            "tags": [
+                "cli"
+            ],
             "platforms": [
                 "macos"
             ],
@@ -11846,7 +11848,9 @@
             "name": "FlashSpace",
             "description": "",
             "repo_url": "https://github.com/wojciech-kulik/FlashSpace",
-            "tags": [],
+            "tags": [
+                "cli+"
+            ],
             "platforms": [
                 "macos"
             ],
