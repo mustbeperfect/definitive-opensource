@@ -11824,6 +11824,23 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "homepage_url": ""
+        },
+        {
+            "name": "Cubyz",
+            "description": "",
+            "repo_url": "https://github.com/PixelGuys/Cubyz",
+            "tags": [],
+            "platforms": [
+                "Linux",
+                "Windows"
+            ],
+            "category": "Games",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
