@@ -1068,7 +1068,7 @@
             "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
             "repo_url": "https://github.com/kopia/kopia",
             "tags": [
-                "cli"
+                "cli+"
             ],
             "platforms": [
                 "cross"
@@ -11835,6 +11835,22 @@
                 "windows"
             ],
             "category": "games",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "FlashSpace",
+            "description": "",
+            "repo_url": "https://github.com/wojciech-kulik/FlashSpace",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "window-management",
             "stars": 0,
             "flags": [],
             "last_commit": "",
