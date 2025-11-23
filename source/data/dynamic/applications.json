@@ -11711,6 +11711,22 @@
             "homepage_url": "https://www.deluge-torrent.org"
         },
         {
+            "name": "Zitadel",
+            "description": "",
+            "repo_url": "https://github.com/zitadel/zitadel",
+            "tags": ["web-cloud"],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "authentication",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "homepage_url": "https://zitadel.com/"
+        },
+        {
             "name": "Lenovo Legion Linux",
             "description": "Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.",
             "repo_url": "https://github.com/johnfanv2/LenovoLegionLinux",
