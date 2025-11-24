@@ -9,7 +9,7 @@
 
 `🚫` - Potentially abandoned
 
-`🔒` - Potentially closed source
+`🔒` - Closed development model
 
 `🛑` - Development paused
 
@@ -36,12 +36,16 @@
 
 `💡` - Innovative
 
+<!--
+
 ### Awards (At 10k Stars)
 `🏆` - Crown of open source
 
 `🥈` - Second
 
 `🥉` - Third
+
+-->
 
 ### Platforms
 `Cross` - Cross-platform (MacOS, Windows, Linux)
@@ -57,10 +61,13 @@
 
 `Manual` - Installation with pip, npm, cargo, building from source
 
-`CLI`, `Plugin`, `Extension`, `Web UI`
+`Web UI` - For desktop apps with a web ui (selfhosted implies a web-ui)
+
+`CLI`, `Plugin`, `Extension`
 
 > [!NOTE]
 > Cross, MacOS, Linux, and Windows tags, by default, imply that the app ships as a binary (EX: exe, dmg) unless they are accompanied by the `manual` tag that indicates another runtime or installation method. The same goes for `SelfHost`, which by default, implies the app can be installed via Docker.
+
 ## Table of Contents
 
 <details>
@@ -699,10 +706,10 @@
 | --- | --- | --- | --- |
 | [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **5.5k** |
 | [Navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service | `Cross` `SelfHost` | **17.6k** |
+| [Pear Desktop](https://github.com/pear-devs/pear-desktop) | Pear 🍐 is extension for music player | `Cross` | **29.6k** |
 | [spotify_player](https://github.com/aome510/spotify-player) `TUI` | A Spotify player in the terminal with full feature parity | `Cross` | **5.7k** |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music client! Available for both desktop & mobile! | `Cross` | **42.6k** |
 | [Supersonic](https://github.com/dweymouth/supersonic) | A lightweight and full-featured cross-platform desktop client for self-hosted music servers | `Cross` | **1.8k** |
-| [Youtube Music](https://github.com/th-ch/youtube-music) | Pear 🍐 is extension for music player | `Cross` | **29.6k** |
 
 ### CAD
 
@@ -1319,6 +1326,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
+| [Dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. | `Cross` `Android` | **14.3k** |
 
 ### Window Management
 
@@ -1326,7 +1334,6 @@
 | --- | --- | --- | --- |
 | [GlazeWM](https://github.com/glzr-io/glazewm) | GlazeWM is a tiling window manager for Windows inspired by i3wm. | `Windows` | **10.6k** |
 | [komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | `Windows` | **13.3k** |
-| [Pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | `Cross` | **52.3k** |
 
 # Other - [Go to top](#table-of-contents)
 
@@ -1347,6 +1354,7 @@
 | [KitchenOwl](https://github.com/TomBursch/kitchenowl) | KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook. | `Cross` `Mobile` | **2.8k** |
 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | `Cross` | **131.4k** |
 | [Seelen UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | `Windows` | **14.7k** |
+| [Spicetify](https://github.com/spicetify/cli) `CLI` | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. | `Cross` | **21.5k** |
 | [Vibe](https://github.com/thewh1teagle/vibe) | Transcribe on your own! | `Cross` | **4.7k** |
 | [XPipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | `Cross` | **11.9k** |
 

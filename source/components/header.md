@@ -42,7 +42,9 @@ This list aims to serve as a single centralized location for the best of open so
   This list aims to stand in the middle ground between human input and automation. Mostly automated websites exist for finding open source projects, but statistics alone fails to encompass the complete picture. This list has scripts to automate markdown formatting, updating stats, and finding potentially abandoned projects. However, the actual processes of choosing which projects make it onto the list, which ones should be removed, and what tags to assign are controlled entirely by humans. 
 </details>
 
-## Project Status
+<details>
+  <summary><b>Project Status</b></summary><br />
+
 ```css
 Active - Active Development
 ```
@@ -50,7 +52,7 @@ Active - Active Development
 Incremental - Minor Updates
 ```
 ```
-Maintenence - Critical Fixes
+Maintenance - Critical Fixes
 ```
 ```
 Idle - Temporarily Paused
@@ -58,3 +60,4 @@ Idle - Temporarily Paused
 ```
 Abandoned - Development Halted
 ```
+</details>

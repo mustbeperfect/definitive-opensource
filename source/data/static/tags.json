@@ -38,8 +38,8 @@
 		},
         {
 			"emoji": "🔒",
-			"id": "closed-source",
-			"description": "Potentially Closed Source"
+			"id": "closed-dev",
+			"description": "Closed development model"
 		},
         {
 			"emoji": "⚠️",
