@@ -779,10 +779,16 @@
 			"parent": "utilities",
 			"description": ""
 		},
-				{
+		{
 			"name": "CAD",
 			"id": "cad",
 			"parent": "media",
+			"description": ""
+		},
+		{
+			"name": "Reading",
+			"id": "reading",
+			"parent": "text",
 			"description": ""
 		},
 		{
