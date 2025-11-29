@@ -11950,6 +11950,40 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Papra",
+            "description": "",
+            "repo_url": "https://github.com/papra-hq/papra",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "document-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "OpenCloud",
+            "description": "",
+            "repo_url": "https://github.com/opencloud-eu/opencloud",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile",
+                "selfhost"
+            ],
+            "category": "storage",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
