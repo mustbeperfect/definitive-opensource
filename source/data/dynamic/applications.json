@@ -1209,6 +1209,7 @@
             "tags": [],
             "platforms": [
                 "cross",
+                "mobile",
                 "selfhost"
             ],
             "category": "storage",
@@ -1228,6 +1229,7 @@
             ],
             "platforms": [
                 "cross",
+                "mobile",
                 "selfhost"
             ],
             "category": "storage",
@@ -1244,6 +1246,8 @@
             "repo_url": "https://github.com/owncloud/core",
             "tags": [],
             "platforms": [
+                "cross",
+                "mobile",
                 "selfhost"
             ],
             "category": "storage",
