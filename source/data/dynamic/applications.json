@@ -11988,6 +11988,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "s&box",
+            "description": "",
+            "repo_url": "https://github.com/Facepunch/sbox-public",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "game-engine",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
