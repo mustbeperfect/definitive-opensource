@@ -11916,6 +11916,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Readest",
+            "description": "",
+            "repo_url": "https://github.com/readest/readest",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile",
+                "web-cloud"
+            ],
+            "category": "reading",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
