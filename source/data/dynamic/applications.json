@@ -11934,6 +11934,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Foliate",
+            "description": "",
+            "repo_url": "https://github.com/johnfactotum/foliate",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "reading",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
