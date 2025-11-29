@@ -11897,6 +11897,25 @@
             "language": "Rust",
             "license": "Unlicense",
             "homepage_url": ""
+        },
+        {
+            "name": "Koodo Reader",
+            "description": "",
+            "repo_url": "https://github.com/koodo-reader/koodo-reader",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile",
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "reading",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
