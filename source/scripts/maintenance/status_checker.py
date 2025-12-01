@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import os
 
 INPUT_FILE = "source/data/dynamic/applications.json"
-OUTPUT_FILE = "readmes/status_maintenance.md"
+OUTPUT_FILE = "resources/maintenance/status_maintenance.md"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 headers = {"Accept": "application/vnd.github+json"}

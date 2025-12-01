@@ -45,7 +45,7 @@ for app in applications:
             "issues": app_issues
         })
 
-with open("readmes/format_maintenance.md", "w") as f:
+with open("resources/maintenance/format_maintenance.md", "w") as f:
     f.write("# Format Maintenance Report\n\n")
     if not issues_report:
         f.write("No issues found. All applications are properly formatted.\n")
