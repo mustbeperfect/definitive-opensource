@@ -12020,6 +12020,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Planify",
+            "description": "",
+            "repo_url": "https://github.com/alainm23/planify",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "task-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
