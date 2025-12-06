@@ -12269,6 +12269,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "LeoCAD",
+            "description": "",
+            "repo_url": "https://github.com/leozide/leocad",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "cad",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
