@@ -12405,6 +12405,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "PHP Monitor",
+            "description": "",
+            "repo_url": "https://github.com/nicoverbruggen/phpmon",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
