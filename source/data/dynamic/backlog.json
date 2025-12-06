@@ -363,6 +363,13 @@
             "note": "Potentially abandoned",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "Petrichor",
+            "repo_url": "https://github.com/kushalpandya/Petrichor",
+            "note": "Waiting on maturity",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
