@@ -12105,6 +12105,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "PaperWM.spoon",
+            "description": "",
+            "repo_url": "https://github.com/mogenson/PaperWM.spoon",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "macos"
+            ],
+            "category": "window-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
