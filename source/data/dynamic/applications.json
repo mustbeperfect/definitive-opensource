@@ -12070,6 +12070,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Vikunja",
+            "description": "",
+            "repo_url": "https://github.com/go-vikunja/vikunja",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile",
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "task-management",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
