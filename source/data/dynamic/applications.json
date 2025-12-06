@@ -12054,6 +12054,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Markor",
+            "description": "",
+            "repo_url": "https://github.com/gsantner/markor",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "text-editor",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
