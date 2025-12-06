@@ -370,6 +370,13 @@
             "note": "Waiting on maturity",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "BLEUnlock",
+            "repo_url": "https://github.com/ts1/BLEUnlock",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
