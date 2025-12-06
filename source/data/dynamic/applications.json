@@ -12285,6 +12285,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "VoiceInk",
+            "description": "",
+            "repo_url": "https://github.com/Beingpax/VoiceInk",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
