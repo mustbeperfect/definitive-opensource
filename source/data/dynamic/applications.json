@@ -12155,6 +12155,38 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "QCAD",
+            "description": "",
+            "repo_url": "https://github.com/qcad/qcad",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "cad",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
+        },
+        {
+            "name": "DevHub",
+            "description": "",
+            "repo_url": "https://github.com/jaywcjlove/DevHub",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
