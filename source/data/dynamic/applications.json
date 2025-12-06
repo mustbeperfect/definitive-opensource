@@ -12089,6 +12089,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "GnuCash",
+            "description": "",
+            "repo_url": "https://github.com/Gnucash/gnucash",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "finance",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
