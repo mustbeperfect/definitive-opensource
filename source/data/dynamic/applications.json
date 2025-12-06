@@ -12317,6 +12317,23 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "rquickshare",
+            "description": "",
+            "repo_url": "https://github.com/Martichou/rquickshare",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "android"
+            ],
+            "category": "file-sharing",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
