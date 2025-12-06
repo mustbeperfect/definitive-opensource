@@ -12203,6 +12203,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Postgres.app",
+            "description": "",
+            "repo_url": "https://github.com/PostgresApp/PostgresApp",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "dev-tools",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
