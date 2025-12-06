@@ -12334,6 +12334,25 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Zenith",
+            "description": "",
+            "repo_url": "https://github.com/bvaisvil/zenith",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "macos",
+                "linux"
+            ],
+            "category": "system-monitoring",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
