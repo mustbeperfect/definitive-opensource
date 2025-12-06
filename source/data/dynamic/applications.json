@@ -12004,6 +12004,22 @@
             "language": "C#",
             "license": "NOASSERTION",
             "homepage_url": "https://sbox.game"
+        },
+        {
+            "name": "Headplane",
+            "description": "",
+            "repo_url": "https://github.com/tale/headplane",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "vpn",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
