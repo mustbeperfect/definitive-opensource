@@ -12539,6 +12539,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Ditto",
+            "description": "",
+            "repo_url": "https://github.com/sabrogden/Ditto",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "clipboard-manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
