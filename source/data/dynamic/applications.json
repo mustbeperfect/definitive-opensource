@@ -12505,6 +12505,24 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "trippy",
+            "description": "",
+            "repo_url": "https://github.com/fujiapple852/trippy",
+            "tags": [
+                "tui"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
