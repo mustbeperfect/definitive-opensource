@@ -12590,6 +12590,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Mumble",
+            "description": "",
+            "repo_url": "https://github.com/mumble-voip/mumble",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "video-conference",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
