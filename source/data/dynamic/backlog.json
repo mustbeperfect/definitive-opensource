@@ -377,6 +377,13 @@
             "note": "Potentially abandoned",
             "last_commit": "",
             "stars": 0
+        },
+        {
+            "name": "Librum",
+            "repo_url": "https://github.com/Librum-Reader/Librum",
+            "note": "Potentially abandoned",
+            "last_commit": "",
+            "stars": 0
         }
     ]
 
