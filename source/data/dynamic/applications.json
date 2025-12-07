@@ -12573,6 +12573,23 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "FSNotes",
+            "description": "",
+            "repo_url": "https://github.com/glushchenko/fsnotes",
+            "tags": [],
+            "platforms": [
+                "macos",
+                "ios"
+            ],
+            "category": "note-taking",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
