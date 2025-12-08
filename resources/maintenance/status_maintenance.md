@@ -1,7 +1,8 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
-_None_
+- VimWiki
+- Olive
 
 ## Archived:
 _None_
