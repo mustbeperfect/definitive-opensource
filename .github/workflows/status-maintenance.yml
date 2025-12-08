@@ -40,6 +40,6 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add readmes/status_maintenance.md
+        git add readmes/maintenance/status_maintenance.md
         git commit -m "Run status_maintenance" || echo "No changes to commit"
         git push
