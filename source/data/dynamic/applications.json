@@ -12606,6 +12606,22 @@
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://www.mumble.info"
+        },
+        {
+            "name": "Stellarium",
+            "description": "",
+            "repo_url": "https://github.com/Stellarium/stellarium",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "other",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
