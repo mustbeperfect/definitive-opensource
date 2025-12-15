@@ -1,1 +1,1 @@
-The future CLI companion for definitive-opensource.
+CLI utility. Currently in development. 
