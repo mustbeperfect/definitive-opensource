@@ -12622,6 +12622,24 @@
             "language": "C++",
             "license": "GPL-2.0",
             "homepage_url": "https://stellarium.org"
+        },
+        {
+            "name": "Scanopy",
+            "description": "Clean network diagrams. One-time setup, zero upkeep.",
+            "repo_url": "https://github.com/scanopy/scanopy",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "web-cloud",
+                "cross"
+            ],
+            "category": "network",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
