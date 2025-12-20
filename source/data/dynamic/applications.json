@@ -12640,6 +12640,22 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "homepage_url": "https://scanopy.net"
+        },
+        {
+            "name": "Osaurus",
+            "description": "",
+            "repo_url": "https://github.com/dinoki-ai/osaurus",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "manager",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }

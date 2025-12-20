@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"definitive-opensource/cli"
+	"github.com/definitive-opensource/cli"
 )
 
 func main() {
