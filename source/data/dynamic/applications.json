@@ -12656,6 +12656,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Rclone UI",
+            "description": "",
+            "repo_url": "https://github.com/rclone-ui/rclone-ui",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "backup",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
