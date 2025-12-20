@@ -12755,6 +12755,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "wBlock",
+            "description": "",
+            "repo_url": "https://github.com/0xCUB3/wBlock",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "ad-blocker",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
