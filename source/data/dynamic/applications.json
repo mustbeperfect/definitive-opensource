@@ -12689,6 +12689,22 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "hiSHtory",
+            "description": "",
+            "repo_url": "https://github.com/ddworken/hishtory",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "terminal-utilities",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
