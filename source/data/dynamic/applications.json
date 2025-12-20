@@ -12672,6 +12672,23 @@
             "language": "",
             "license": "",
             "homepage_url": ""
+        },
+        {
+            "name": "Swing Music",
+            "description": "",
+            "repo_url": "https://github.com/swingmx/swingmusic",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "selfhost"
+            ],
+            "category": "audio-player",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
