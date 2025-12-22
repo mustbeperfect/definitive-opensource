@@ -3,6 +3,7 @@
 ## Potentially Abandoned:
 - VimWiki
 - Olive
+- HTTPie CLI
 
 ## Archived:
 _None_
