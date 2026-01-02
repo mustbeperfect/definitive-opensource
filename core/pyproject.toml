@@ -1,0 +1,7 @@
+[project]
+name = "core"
+version = "0.1.0"
+description = "definitive-opensource"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
