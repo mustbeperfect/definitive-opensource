@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import os
 
-with open('../../data/dynamic/applications.json', 'r') as f:
+with open('core/data/dynamic/applications.json', 'r') as f:
     data = json.load(f)
 
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
@@ -57,7 +57,7 @@ def update_application_data(app):
 for app in data['applications']:
     app = update_application_data(app)
 
-with open('../../data/dynamic/applications.json', 'w') as f:
+with open('core/data/dynamic/applications.json', 'w') as f:
     json.dump(data, f, indent=4)
 
 print("Updated application data successfully!")
