@@ -19,7 +19,7 @@ To establish uniformity accross the project, please adhere to these conventions.
 - Use the project's official name, not the repository name. Repository names often use lowercase and place dashes in place of spaces. Fallback to **Title Casing** if capitalization is not clear. 
 - For projects with multiple repositories (EX: one for IOS, Windows, etc) link the repository with the most stars.
 - Do not put in a description unless the repo description is inadequate or non-existent, in which case fall back to the organization, their website, or the repo's README. **Do not write your own description, only use text from official sources of the project, and do not modify (EX: shorten) their description.** If you use a custom description make sure to put in the `custom-description` flag so that the stat updator script doesn't overide it. 
-- For tags, do not use the emoji. Go to [tags.json](/source/data/static/tags.json) and find the id for the tag. Our script will generate it's corresponding emoji when it builds the README. 
+- For tags, do not use the emoji. Go to [tags.json](/core/data/static/tags.json) and find the id for the tag. Our script will generate it's corresponding emoji when it builds the README. 
 
 ## How To Contribute
 [How to create a pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)

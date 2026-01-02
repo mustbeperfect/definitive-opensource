@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 
-	"definitive-opensource/data"
+	"definitive-opencore/data"
 )
 
 func selectTags(scanner *bufio.Scanner) ([]string, error) {

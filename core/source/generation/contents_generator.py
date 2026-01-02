@@ -41,13 +41,13 @@ def format_stars(n):
 
 def generate_contents(platform="all"):
 
-    with open("source/data/static/categories.json", "r", encoding="utf-8") as f:
+    with open("core/data/static/categories.json", "r", encoding="utf-8") as f:
         cat_data = json.load(f)
-    with open("source/data/dynamic/applications.json", "r", encoding="utf-8") as f:
+    with open("core/data/dynamic/applications.json", "r", encoding="utf-8") as f:
         app_data = json.load(f)
-    with open("source/data/static/tags.json", "r", encoding="utf-8") as f:
+    with open("core/data/static/tags.json", "r", encoding="utf-8") as f:
         tags_data = json.load(f)
-    with open("source/data/static/platforms.json", "r", encoding="utf-8") as f:
+    with open("core/data/static/platforms.json", "r", encoding="utf-8") as f:
         platforms_data = json.load(f)  
     
     categories = cat_data.get("categories", [])

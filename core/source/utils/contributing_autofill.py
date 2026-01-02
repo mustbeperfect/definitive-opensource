@@ -391,7 +391,7 @@ def main() -> None:
     parser.add_argument(
         "--applications-file",
         default=str(APPLICATIONS_FILE),
-        help="Path to applications.json (default: source/data/dynamic/applications.json).",
+        help="Path to applications.json (default: core/data/dynamic/applications.json).",
     )
     parser.add_argument(
         "--full-details",

@@ -28,7 +28,7 @@ jobs:
         run: pip install -r requirements.txt || true
 
       - name: Run script to check for format errors
-        run: python ./source/scripts/maintenance/json_formatter.py
+        run: python ./core/source/maintenance/json_formatter.py
 
       - name: Commit and push changes
         run: |

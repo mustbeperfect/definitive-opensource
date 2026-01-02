@@ -4,7 +4,7 @@ import json
 from datetime import datetime, timedelta
 import os
 
-INPUT_FILE = "source/data/dynamic/applications.json"
+INPUT_FILE = "core/data/dynamic/applications.json"
 OUTPUT_FILE = "resources/maintenance/status_maintenance.md"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 

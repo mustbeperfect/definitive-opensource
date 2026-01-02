@@ -34,12 +34,12 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python source/scripts/maintenance/stats_updator.py
+        python core/source/maintenance/stats_updator.py
 
     - name: Commit changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add source/data/dynamic/applications.json
+        git add core/data/dynamic/applications.json
         git commit -m "Auto-update GitHub metadata" || echo "No changes to commit"
         git push

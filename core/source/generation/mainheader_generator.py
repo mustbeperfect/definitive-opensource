@@ -2,7 +2,7 @@ import json
 
 # Generates mainheader with dynamic project count
 def generate_mainheader():
-    with open("source/data/dynamic/applications.json", "r", encoding="utf-8") as f:
+    with open("core/data/dynamic/applications.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     
     project_count = len(data.get("applications", []))

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"definitive-opensource/data"
+	"definitive-opencore/data"
 	"definitive-opensource/models"
 )
 

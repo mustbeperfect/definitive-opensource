@@ -1,13 +1,13 @@
 import json
 
-with open("source/data/dynamic/applications.json") as f:
+with open("core/data/dynamic/applications.json") as f:
     applications = json.load(f)["applications"]
 
-with open("source/data/static/categories.json") as f:
+with open("core/data/static/categories.json") as f:
     categories_data = json.load(f)["subcategories"]
     valid_categories = {c["id"].lower() for c in categories_data}
 
-with open("source/data/static/platforms.json") as f:
+with open("core/data/static/platforms.json") as f:
     platforms_data = json.load(f)["platforms"]
     valid_platforms = {p["id"].lower() for p in platforms_data}
 

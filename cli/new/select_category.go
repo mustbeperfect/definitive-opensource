@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"definitive-opensource/data"
+	"definitive-opencore/data"
 )
 
 func selectCategory(scanner *bufio.Scanner) (string, error) {
