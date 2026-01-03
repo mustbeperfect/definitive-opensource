@@ -8,16 +8,16 @@ platforms = ["all", "windows", "macos", "linux", "selfhost"]
 
 # Platforms mapped to corresponding header files
 header_files = {
-    "all": "source/components/header.md",
-    "windows": "source/components/windowsheader.md",
-    "macos": "source/components/macosheader.md",
-    "linux": "source/components/linuxheader.md",
-    "selfhost": "source/components/selfhostheader.md"
+    "all": "core/components/header.md",
+    "windows": "core/components/windowsheader.md",
+    "macos": "core/components/macosheader.md",
+    "linux": "core/components/linuxheader.md",
+    "selfhost": "core/components/selfhostheader.md"
 }
 
 def generate_readme_for_platform(platform):
     content = ""
-    header_file = header_files.get(platform, "source/components/header.md")
+    header_file = header_files.get(platform, "core/components/header.md")
 
     # Inject mainheader with dynamic project count
     if platform == "all":
@@ -28,7 +28,7 @@ def generate_readme_for_platform(platform):
         content += f.read() + "\n"
     
     # Inject tags.md
-    with open("source/components/tags.md", "r", encoding="utf-8") as f:
+    with open("core/components/tags.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
     
     # Generate Table of Contents
@@ -40,7 +40,7 @@ def generate_readme_for_platform(platform):
     content += contents_md + "\n"
     
     # Inject footer.md
-    with open("source/components/footer.md", "r", encoding="utf-8") as f:
+    with open("core/components/footer.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
     
     # Write output file

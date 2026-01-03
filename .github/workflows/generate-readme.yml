@@ -5,7 +5,7 @@ on:
   # push:
     # paths:
   #    - 'core/data/**'
-  #    - 'source/components/**'
+  #    - 'core/components/**'
   workflow_dispatch:
   schedule:
     - cron: '0 1 * * *'  # Every day at midnight UTC
