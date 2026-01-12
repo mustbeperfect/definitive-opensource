@@ -4,7 +4,7 @@ name: Format Maintenance
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * 1'  # Every monday at 1 am UTC
+    - cron: '0 1 * * 1'
 
 jobs:
   generate:
@@ -15,20 +15,24 @@ jobs:
       
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt || true
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: 'pyproject.toml'
+
+      - name: Install UV
+        uses: astral-sh/setup-uv@v7
+
+      - name: Install project
+        run: uv sync --no-dev
 
       - name: Run script to check for format errors
-        run: python ./core/source/maintenance/json_formatter.py
+        run: uv run ./core/source/maintenance/json_formatter.py
 
       - name: Commit and push changes
         run: |
