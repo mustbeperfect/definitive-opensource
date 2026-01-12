@@ -1,12 +1,13 @@
 import json
 
+
 # Generates mainheader with dynamic project count
 def generate_mainheader():
     with open("core/data/dynamic/applications.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-    
+
     project_count = len(data.get("applications", []))
-    
+
     header_content = f"""
 <table align="center">
     <tr>
@@ -19,8 +20,9 @@ def generate_mainheader():
 
 <p align="center"><code>Status: Active</code> - <code>Projects: {project_count}</code></p>
 """
-    
+
     return header_content
+
 
 if __name__ == "__main__":
     generate_mainheader()

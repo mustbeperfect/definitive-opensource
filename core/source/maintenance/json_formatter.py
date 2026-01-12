@@ -16,7 +16,7 @@ issues_report = []
 
 for app in applications:
     app_issues = []
-    
+
     github_url = app.get("repo_url", "").strip()
     if not github_url:
         app_issues.append("Missing GitHub URL")
@@ -24,13 +24,13 @@ for app in applications:
         app_issues.append("Duplicate GitHub URL")
     else:
         seen_github.add(github_url)
-    
+
     category = app.get("category", "").lower()
     if not category:
         app_issues.append("Missing category")
     elif category not in valid_categories:
         app_issues.append(f"Invalid category '{category}'")
-    
+
     platforms = [p.lower() for p in app.get("platforms", [])]
     if not platforms:
         app_issues.append("Missing platform")
@@ -38,12 +38,11 @@ for app in applications:
         invalid_platforms = [p for p in platforms if p not in valid_platforms]
         if invalid_platforms:
             app_issues.append(f"Invalid platforms: {', '.join(invalid_platforms)}")
-    
+
     if app_issues:
-        issues_report.append({
-            "name": app.get("name", "Unnamed Project"),
-            "issues": app_issues
-        })
+        issues_report.append(
+            {"name": app.get("name", "Unnamed Project"), "issues": app_issues}
+        )
 
 with open("resources/maintenance/format_maintenance.md", "w") as f:
     f.write("# Format Maintenance Report\n\n")
