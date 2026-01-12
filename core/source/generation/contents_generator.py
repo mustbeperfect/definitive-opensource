@@ -133,12 +133,11 @@ def generate_contents(platform="all"):
                     f"**{format_stars(stars)}**" if stars is not None else ""
                 )
                 # repo_path = extract_repo_path(link)
-                # stars_badge = f"![GitHub Repo stars](https://img.shields.io/github/stars/{repo_path}?style=for-the-badge&label=%20&color=white)" if repo_path else ""
                 md_output += f"| [{name}]({link}){attribute_tags}{property_tags} | {description} | {app_platforms} | {stars_formatted} |\n"
             md_output += "\n"
     return md_output
 
 
 if __name__ == "__main__":
-    # For testing, default to 'all' platforms
+    # For testing, default to all platforms
     print(generate_contents("all"))
