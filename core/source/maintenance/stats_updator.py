@@ -1,7 +1,8 @@
-import os
-import requests
 import json
+import os
 from datetime import datetime
+
+import requests
 
 with open("core/data/dynamic/applications.json", "r") as f:
     data = json.load(f)
@@ -14,6 +15,7 @@ headers = {
 }
 
 
+# Update stats of all projects by contacting GitHub API
 def update_application_data(app):
     repo_name = app["repo_url"].split("github.com/")[1]
 
@@ -30,6 +32,7 @@ def update_application_data(app):
         app["stars"] = repo_data.get("stargazers_count", app["stars"])
         app["language"] = repo_data.get("language", app["language"])
 
+        # Check for flags to prevent update of specific stats
         if "custom-homepage" not in app.get("flags", []):
             app["homepage_url"] = repo_data.get("homepage", app["homepage_url"])
 

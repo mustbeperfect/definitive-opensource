@@ -14,6 +14,7 @@ with open("core/data/static/platforms.json") as f:
 seen_github = set()
 issues_report = []
 
+# Check for formatting issues inside of all data files (static and dynamic)
 for app in applications:
     app_issues = []
 

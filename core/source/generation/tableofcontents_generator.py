@@ -1,13 +1,12 @@
 import json
 
 
+# Utils
 def slugify(name):
-    # Create an anchor-friendly slug from a string
     return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
 
 
 def generate_table_of_contents():
-    # Load the categories JSON data
     with open("core/data/static/categories.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     categories = data.get("categories", [])
@@ -21,17 +20,16 @@ def generate_table_of_contents():
         alphabetical_md += f"- [{name}](#{slugify(name)})\n"
 
     # Build the categorized list
-    # Create a mapping from parent id to parent name
     parent_map = {cat["id"]: cat["name"] for cat in categories}
-    # Group subcategories by their parent id
+
     grouped = {}
     for sub in subcategories:
         parent = sub.get("parent", "other")
         grouped.setdefault(parent, []).append(sub["name"])
-    # Sort each group's subcategories alphabetically
+
     for key in grouped:
         grouped[key].sort(key=lambda x: x.lower())
-    # Sort parent categories (exclude "other", which is appended at the end)
+
     parents = [(pid, parent_map.get(pid, "Other")) for pid in grouped if pid != "other"]
     parents.sort(key=lambda x: x[1].lower())
     if "other" in grouped:
@@ -64,7 +62,7 @@ def generate_table_of_contents():
 
 <details open>
   <summary><b>Categorized</b></summary> <br />
-  
+
 {categorized_md}
 </details>
 """

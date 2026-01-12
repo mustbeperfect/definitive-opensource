@@ -1,7 +1,8 @@
-import os
-import requests
 import json
+import os
 from datetime import datetime, timedelta
+
+import requests
 
 INPUT_FILE = "core/data/dynamic/applications.json"
 OUTPUT_FILE = "resources/maintenance/status_maintenance.md"
@@ -18,6 +19,7 @@ potentially_abandoned = []
 archived = []
 no_longer_exists = []
 
+# Check if projects are abandoned, archived, or no longer exist
 for app in data.get("applications", []):
     repo_url = app.get("repo_url")
     if not repo_url or "github.com" not in repo_url:
