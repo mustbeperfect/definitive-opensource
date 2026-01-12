@@ -1,6 +1,9 @@
 
 # Architecture
-Here's a look at how the "backend" of the list works. 
+Here's a look at how this list works. 
+
+# The List Itself
+The core of this list is powered by Python using UV and Ruff for linting and formatting.
 
 ## README Generation
 All applications are stored inside [`applications.json`](core/data/dynamic/applications.json). Categories are declared inside [`categories.json`](core/data/static/categories.json). Instead of a nested format with subcategories as on object of it's parent, we've given subcategories a `parent` attribute. There's also a [`tags.json`](core/data/static/tags.json). Instead of putting the emoji inside of the ```tags``` attribute in `applications.json`, the id is used, for example, `commercial` or `disruptive`.. These id's are mapped to their corresponding emoji for when the READMEs are generated and makes``applications.json``` more readable. 

@@ -1,6 +1,7 @@
 import json
 
 
+# Utils
 def slugify(name):
     return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
 
@@ -23,25 +24,7 @@ def format_stars(n):
         return str(n)
 
 
-"""
-def format_stars(n):
-    if n >= 1_000_000:
-        value = n / 1_000_000
-        suffix = "M"
-    elif n >= 1_000:
-        value = n / 1_000
-        suffix = "k"
-    else:
-        return str(n)
-    
-    # If it's a whole number, don't show decimal point
-    if value == int(value):
-        return f"{int(value)}{suffix}"
-    else:
-        return f"{value:.1f}{suffix}"
-"""
-
-
+# Generates actual list contents in markdown (categories and projects within)
 def generate_contents(platform="all"):
     with open("core/data/static/categories.json", "r", encoding="utf-8") as f:
         cat_data = json.load(f)
@@ -56,6 +39,7 @@ def generate_contents(platform="all"):
     subcategories = cat_data.get("subcategories", [])
     applications = app_data.get("applications", [])
 
+    # Map id's to corresponding names
     parent_map = {cat["id"]: cat["name"] for cat in categories}
     attribute_map = {
         attribute["id"]: attribute["emoji"] for attribute in tags_data["attributes"]
@@ -75,6 +59,7 @@ def generate_contents(platform="all"):
     for key in subcat_by_parent:
         subcat_by_parent[key].sort(key=lambda x: x["Name"].lower())
 
+    # Include projects relative to type of list being gneerated (all or platform specific)
     apps_by_subcat = {}
     for app in applications:
         include = False
