@@ -2,7 +2,6 @@ import os
 import requests
 import json
 from datetime import datetime, timedelta
-import os
 
 INPUT_FILE = "core/data/dynamic/applications.json"
 OUTPUT_FILE = "resources/maintenance/status_maintenance.md"

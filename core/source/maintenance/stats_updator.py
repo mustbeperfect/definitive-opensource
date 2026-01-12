@@ -2,7 +2,6 @@ import os
 import requests
 import json
 from datetime import datetime
-import os
 
 with open('core/data/dynamic/applications.json', 'r') as f:
     data = json.load(f)

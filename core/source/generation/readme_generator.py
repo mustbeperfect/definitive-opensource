@@ -1,4 +1,3 @@
-import os
 from tableofcontents_generator import generate_table_of_contents
 from contents_generator import generate_contents
 from mainheader_generator import generate_mainheader
