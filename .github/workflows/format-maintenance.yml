@@ -1,10 +1,9 @@
-
 name: Format Maintenance
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * 1'
+    - cron: "0 1 * * 1"
 
 jobs:
   generate:
@@ -12,7 +11,7 @@ jobs:
 
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -23,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version-file: 'pyproject.toml'
+          python-version-file: ".python-version"
 
       - name: Install UV
         uses: astral-sh/setup-uv@v7
