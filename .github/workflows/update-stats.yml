@@ -19,11 +19,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
-      - name: Set up Python
-        run: uv python install
-
       - name: Install UV
         uses: astral-sh/setup-uv@v7
+
+      - name: Set up Python
+        run: uv python install
 
       - name: Install project
         run: uv sync --no-dev
