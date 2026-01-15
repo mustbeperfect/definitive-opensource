@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: core
 
     permissions:
       contents: write
@@ -19,24 +22,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version-file: ".python-version"
-
       - name: Install UV
         uses: astral-sh/setup-uv@v7
+
+      - name: Set up Python
+        run: uv python install
 
       - name: Install project
         run: uv sync --no-dev
 
       - name: Run script to check for format errors
-        run: uv run ./core/source/maintenance/json_formatter.py
+        run: uv run source/maintenance/json_formatter.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add resources/maintenance/format_maintenance.md
+          git add ../resources/maintenance/format_maintenance.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Format Maintenance"
           git push

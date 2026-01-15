@@ -1,13 +1,13 @@
 import json
 
-with open("core/data/dynamic/applications.json") as f:
+with open("data/dynamic/applications.json") as f:
     applications = json.load(f)["applications"]
 
-with open("core/data/static/categories.json") as f:
+with open("data/static/categories.json") as f:
     categories_data = json.load(f)["subcategories"]
     valid_categories = {c["id"].lower() for c in categories_data}
 
-with open("core/data/static/platforms.json") as f:
+with open("data/static/platforms.json") as f:
     platforms_data = json.load(f)["platforms"]
     valid_platforms = {p["id"].lower() for p in platforms_data}
 
@@ -45,7 +45,7 @@ for app in applications:
             {"name": app.get("name", "Unnamed Project"), "issues": app_issues}
         )
 
-with open("resources/maintenance/format_maintenance.md", "w") as f:
+with open("../resources/maintenance/format_maintenance.md", "w") as f:
     f.write("# Format Maintenance Report\n\n")
     if not issues_report:
         f.write("No issues found. All applications are properly formatted.\n")
