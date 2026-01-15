@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 
 import requests
 
-INPUT_FILE = "core/data/dynamic/applications.json"
-OUTPUT_FILE = "resources/maintenance/status_maintenance.md"
+INPUT_FILE = "data/dynamic/applications.json"
+OUTPUT_FILE = "../resources/maintenance/status_maintenance.md"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 headers = {"Accept": "application/vnd.github+json"}

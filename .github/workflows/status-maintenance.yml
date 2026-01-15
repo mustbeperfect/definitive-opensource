@@ -1,10 +1,9 @@
-
 name: Status Maintenance
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * 1'  # Every monday at 2 am UTC
+    - cron: "0 2 * * 1" # Every monday at 2 am UTC
 
 permissions:
   contents: write
@@ -12,32 +11,33 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: core
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v6
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: true
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
-    - name: Set up Python
-      uses: actions/setup-python@v6
-      with:
-        python-version-file: 'pyproject.toml'
+      - name: Install UV
+        uses: astral-sh/setup-uv@v7
 
-    - name: Install UV
-      uses: astral-sh/setup-uv@v7
+      - name: Set up Python
+        run: uv python install
 
-    - name: Install project
-      run: uv sync --no-dev
+      - name: Install project
+        run: uv sync --no-dev
 
-    - name: Run status maintenance script
-      run: uv run core/source/maintenance/status_checker.py
+      - name: Run status maintenance script
+        run: uv run source/maintenance/status_checker.py
 
-    - name: Commit changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add resources/maintenance/status_maintenance.md
-        git commit -m "Run status_maintenance" || echo "No changes to commit"
-        git push
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ../resources/maintenance/status_maintenance.md
+          git commit -m "Run status_maintenance" || echo "No changes to commit"
+          git push
