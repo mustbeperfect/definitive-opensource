@@ -20,9 +20,7 @@ jobs:
           persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version-file: "core/pyproject.toml"
+        run: uv python install
 
       - name: Install UV
         uses: astral-sh/setup-uv@v7
