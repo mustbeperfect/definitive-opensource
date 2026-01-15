@@ -6,17 +6,17 @@ platforms = ["all", "windows", "macos", "linux", "selfhost"]
 
 # Platforms mapped to corresponding header files
 header_files = {
-    "all": "core/components/header.md",
-    "windows": "core/components/windowsheader.md",
-    "macos": "core/components/macosheader.md",
-    "linux": "core/components/linuxheader.md",
-    "selfhost": "core/components/selfhostheader.md",
+    "all": "components/header.md",
+    "windows": "components/windowsheader.md",
+    "macos": "components/macosheader.md",
+    "linux": "components/linuxheader.md",
+    "selfhost": "components/selfhostheader.md",
 }
 
 
 def generate_readme_for_platform(platform):
     content = ""
-    header_file = header_files.get(platform, "core/components/header.md")
+    header_file = header_files.get(platform, "components/header.md")
 
     # Inject every component of the list from top to bottom
     if platform == "all":
@@ -25,7 +25,7 @@ def generate_readme_for_platform(platform):
     with open(header_file, "r", encoding="utf-8") as f:
         content += f.read() + "\n"
 
-    with open("core/components/tags.md", "r", encoding="utf-8") as f:
+    with open("components/tags.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
 
     toc_md = generate_table_of_contents()
@@ -34,7 +34,7 @@ def generate_readme_for_platform(platform):
     contents_md = generate_contents(platform)
     content += contents_md + "\n"
 
-    with open("core/components/footer.md", "r", encoding="utf-8") as f:
+    with open("components/footer.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
 
     # Write output file

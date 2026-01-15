@@ -1,22 +1,20 @@
-
 name: Generate README
 
 on:
-  # push:
-    # paths:
-  #    - 'core/data/**'
-  #    - 'core/components/**'
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'  # Every day at midnight UTC
+    - cron: "0 1 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: core
 
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -24,26 +22,24 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version-file: 'pyproject.toml'
-
       - name: Install UV
         uses: astral-sh/setup-uv@v7
+
+      - name: Set up Python
+        run: uv python install
 
       - name: Install project
         run: uv sync --no-dev
 
       - name: Run script to generate README
-        run: uv run ./core/source/generation/readme_generator.py
+        run: uv run source/generation/readme_generator.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add source/testing/test.md
-          git add readmes/
-          git add README.md
+          git add ../resources/readmes/
+          git add ../README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Generate READMEs"
           git push
