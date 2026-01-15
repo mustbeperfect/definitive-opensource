@@ -39,7 +39,7 @@ def generate_readme_for_platform(platform):
 
     # Write output file
     output_filename = (
-        "README.md" if platform == "all" else f"../resources/readmes/{platform}.md"
+        "../README.md" if platform == "all" else f"../resources/readmes/{platform}.md"
     )
     with open(output_filename, "w", encoding="utf-8") as f:
         f.write(content)
