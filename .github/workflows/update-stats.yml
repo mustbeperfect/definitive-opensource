@@ -11,6 +11,9 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: core
 
     steps:
       - name: Checkout repository
