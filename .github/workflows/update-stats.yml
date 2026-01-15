@@ -32,7 +32,7 @@ jobs:
         run: uv sync --no-dev
 
       - name: Run update script
-        run: uv run core/source/maintenance/stats_updator.py
+        run: uv run source/maintenance/stats_updator.py
 
       - name: Commit changes
         run: |
