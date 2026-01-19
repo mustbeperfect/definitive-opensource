@@ -1,9 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
-- VimWiki
-- Olive
-- HTTPie CLI
+_None_
 
 ## Archived:
 _None_
