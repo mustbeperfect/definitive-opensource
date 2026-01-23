@@ -32,6 +32,8 @@ jobs:
         run: uv sync --no-dev
 
       - name: Run status maintenance script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: uv run source/maintenance/status_checker.py
 
       - name: Commit changes
