@@ -11,7 +11,7 @@ def generate_mainheader():
     header_content = f"""
 <table align="center">
     <tr>
-    <td>🌍 v0.7.4-beta</td>
+    <td>🌍 v0.8.5-beta</td>
     </tr>
 </table>
 
