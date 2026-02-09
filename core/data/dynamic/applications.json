@@ -12771,6 +12771,22 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "homepage_url": null
+        },
+        {
+            "name": "OpenClaw",
+            "description": "https://github.com/openclaw/openclaw",
+            "repo_url": "",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "assistant",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
