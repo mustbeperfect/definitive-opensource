@@ -12774,8 +12774,8 @@
         },
         {
             "name": "OpenClaw",
-            "description": "https://github.com/openclaw/openclaw",
-            "repo_url": "",
+            "description": "",
+            "repo_url": "https://github.com/openclaw/openclaw",
             "tags": [],
             "platforms": [
                 "cross"
