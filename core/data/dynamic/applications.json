@@ -12771,6 +12771,23 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "homepage_url": null
+        },
+        {
+            "name": "RetunYoutubeDislike",
+            "description": "",
+            "repo_url": "https://github.com/Anarios/return-youtube-dislike",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": "https://returnyoutubedislike.com"
         }
     ]
 }
