@@ -4,7 +4,6 @@
 - VimWiki
 - Olive
 - HTTPie CLI
-- MindForger
 
 ## Archived:
 - AgentGPT
