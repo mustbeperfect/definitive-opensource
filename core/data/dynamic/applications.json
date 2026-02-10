@@ -8573,6 +8573,23 @@
             "homepage_url": "https://www.comet.com/docs/opik/"
         },
         {
+            "name": "Rhesis",
+            "description": "Testing infrastructure for LLM and agentic applications. Collaborative platform for teams to define quality metrics, run evaluations, and ship confidently with version control and peer review workflows.",
+            "repo_url": "https://github.com/rhesis-ai/rhesis",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "web-cloud"
+            ],
+            "category": "model-tools",
+            "stars": 275,
+            "flags": [],
+            "last_commit": "10/02/2026",
+            "language": "Python",
+            "license": "MIT",
+            "homepage_url": "https://rhesis.ai"
+        }
+        {
             "name": "EOS",
             "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)",
             "repo_url": "https://github.com/Akkudoktor-EOS/EOS",
