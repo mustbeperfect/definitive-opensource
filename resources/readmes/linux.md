@@ -383,6 +383,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
+| [OpenClaw](https://github.com/openclaw/openclaw) |  | `Cross` | **0** |
 
 ### Context
 
