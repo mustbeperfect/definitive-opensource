@@ -12787,6 +12787,23 @@
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://openclaw.ai"
+        },
+        {
+            "name": "ReturnYoutubeDislike",
+            "description": "",
+            "repo_url": "https://github.com/Anarios/return-youtube-dislike",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
