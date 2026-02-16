@@ -10709,6 +10709,20 @@
       "language": "",
       "license": "",
       "homepage_url": ""
+    },
+    {
+      "name": "Cairo",
+      "description": "",
+      "repo_url": "https://github.com/cairoshell/cairoshell",
+      "tags": [],
+      "platforms": ["windows"],
+      "category": "windows",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
