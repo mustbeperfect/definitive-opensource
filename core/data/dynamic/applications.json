@@ -10765,6 +10765,20 @@
       "language": "",
       "license": "",
       "homepage_url": ""
+    },
+    {
+      "name": "PixelPlayer",
+      "description": "",
+      "repo_url": "https://github.com/theovilardo/PixelPlayer",
+      "tags": [],
+      "platforms": ["android"],
+      "category": "audio-player",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
