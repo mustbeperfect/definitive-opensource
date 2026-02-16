@@ -10779,6 +10779,20 @@
       "language": "",
       "license": "",
       "homepage_url": ""
+    },
+    {
+      "name": "TuxMate",
+      "description": "",
+      "repo_url": "https://github.com/abusoww/tuxmate",
+      "tags": [],
+      "platforms": ["macos", "linux"],
+      "category": "cleaner",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
