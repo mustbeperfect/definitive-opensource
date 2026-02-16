@@ -10751,6 +10751,20 @@
       "language": "",
       "license": "",
       "homepage_url": ""
+    },
+    {
+      "name": "Canta",
+      "description": "",
+      "repo_url": "https://github.com/samolego/Canta",
+      "tags": [],
+      "platforms": ["android"],
+      "category": "cleaner",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
