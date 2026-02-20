@@ -1,1 +1,1 @@
-**By submitting this pull request I confirm that I have read and adhered to the contributing and submission guidelines to the best of my ability.**
+**I confirm that this PR does not edit README.md and, if you are adding a project, that the project has over 1k stars.**
