@@ -12935,6 +12935,22 @@
             "language": "Ruby",
             "license": "AGPL-3.0",
             "homepage_url": "https://sure.am"
+        },
+        {
+            "name": "BlinkDisk",
+            "description": "The easiest way to backup your files on Windows, macOS & Linux.",
+            "repo_url": "https://github.com/blinkdisk/blinkdisk",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "backup",
+            "stars": 35,
+            "flags": [],
+            "last_commit": "02/20/2026",
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "homepage_url": "https://blinkdisk.com"
         }
     ]
 }
