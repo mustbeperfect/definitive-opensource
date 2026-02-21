@@ -12952,6 +12952,23 @@
             "language": "",
             "license": "",
             "homepage_url": "https://sponsor.ajay.app"
+        },
+         {
+            "name": "DeArrow",
+            "description": "",
+            "repo_url": "https://github.com/ajayyy/DeArrow",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": ,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": "https://dearrow.ajay.app"
         }
     ]
 }
