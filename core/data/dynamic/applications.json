@@ -12803,7 +12803,7 @@
             "last_commit": "12/12/2025",
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "homepage_url": "https://returnyoutubedislike.com/"
+            "homepage_url": "https://returnyoutubedislike.com"
         },
         {
             "name": "librespot",
@@ -12935,6 +12935,40 @@
             "language": "Ruby",
             "license": "AGPL-3.0",
             "homepage_url": "https://sure.am"
+        },
+        {
+            "name": "SponsorBlock",
+            "description": "",
+            "repo_url": "https://github.com/ajayyy/SponsorBlock",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": ,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": "https://sponsor.ajay.app"
+        },
+         {
+            "name": "DeArrow",
+            "description": "",
+            "repo_url": "https://github.com/ajayyy/DeArrow",
+            "tags": [],
+            "platforms": [
+                "chromium",
+                "firefox"
+            ],
+            "category": "browser-extensions",
+            "stars": ,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": "https://dearrow.ajay.app"
         }
     ]
 }
