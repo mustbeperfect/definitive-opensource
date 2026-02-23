@@ -239,9 +239,9 @@
       "homepage_url": ""
     },
     {
-      "name": "Lobe Chat",
+      "name": "LobeHub",
       "description": "The ultimate space for work and life \u2014 to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level \u2014 enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-      "repo_url": "https://github.com/lobehub/lobe-chat",
+      "repo_url": "https://github.com/lobehub/lobehub",
       "tags": [],
       "platforms": ["web-cloud", "selfhost"],
       "category": "all-in-one",
