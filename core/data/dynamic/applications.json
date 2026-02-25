@@ -10849,6 +10849,20 @@
       "language": "",
       "license": "",
       "homepage_url": ""
+    },
+    {
+      "name": "Mullavd",
+      "description": "",
+      "repo_url": "https://github.com/mullvad/mullvadvpn-app",
+      "tags": [],
+      "platforms": ["cross"],
+      "category": "vpn",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
