@@ -10835,6 +10835,20 @@
       "language": "TypeScript",
       "license": "GPL-3.0",
       "homepage_url": "https://dearrow.ajay.app"
+    },
+    {
+      "name": "Tuta Mail",
+      "description": "",
+      "repo_url": "https://github.com/tutao/tutanota",
+      "tags": [],
+      "platforms": ["cross"],
+      "category": "mail",
+      "stars": 0,
+      "flags": [],
+      "last_commit": "",
+      "language": "",
+      "license": "",
+      "homepage_url": ""
     }
   ]
 }
