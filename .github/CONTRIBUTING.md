@@ -20,7 +20,7 @@ I'm not necessarily against AI. I don't like the mass plagiarism LLM's were buil
 
 If your project uses AI as a tool, cool. Humans need to be architecting code structure, dependencies to use, etc. I don't really care if AI is writing mundane code though as long as it's being supervised and is being integrated in a way where it isn't slop.
 
-If your project is vibe-coded, it will not be allowed on this list. How will I know? AI created interfaces are rather easy to spot. The use of AGENTS.md are also a telling sign along with seeing Claude in your contributor list. 
+If your project is vibe-coded, it will not be allowed on this list. How will I know? AI created interfaces are rather easy to spot. The use of AGENTS.md and Claude in your contributor list are also a telling signs.
 
 This is my stance right now. It will likely change as the technology cements itself in the world. 
 
@@ -62,4 +62,4 @@ Add the `name`, `repo_url`, `tags`, `platform(s)`, and `category`. Everything el
 - The pull request and commit should be simple. EX: Added `Name` to `category`
 - One pull request per new addition
 - If a project is in the grey zone for submission guidelines, include why it should be included.
-- Proposals for new categories or the re-organization of existing categories must be discussed and approved via an issue prior to the pull request
+- Proposals for new categories or the re-organization of existing categories must be discussed and approved via an issue prior to a pull request
