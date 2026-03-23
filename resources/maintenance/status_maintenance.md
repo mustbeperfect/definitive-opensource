@@ -6,6 +6,7 @@
 - Olive
 - PairDrop
 - HTTPie CLI
+- HTTPie Desktop
 - fswatch
 
 ## Archived:
@@ -13,6 +14,7 @@
 - h2oGPT
 - Overseerr
 - Reor
+- Battery Toolkit
 
 ## No Longer Exists:
-_None_
+- BookLore
