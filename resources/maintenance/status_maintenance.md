@@ -14,6 +14,7 @@
 - h2oGPT
 - Overseerr
 - Reor
+- Jellyfin Media Player
 - Battery Toolkit
 
 ## No Longer Exists:
