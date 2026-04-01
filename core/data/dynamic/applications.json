@@ -8891,20 +8891,6 @@
       "homepage_url": "https://rustic.cli.rs"
     },
     {
-      "name": "BookLore",
-      "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
-      "repo_url": "https://github.com/booklore-app/booklore",
-      "tags": [],
-      "platforms": ["selfhost"],
-      "category": "media-management",
-      "stars": 11290,
-      "flags": [],
-      "last_commit": "03/15/2026",
-      "language": "Java",
-      "license": "AGPL-3.0",
-      "homepage_url": "https://booklore.org"
-    },
-    {
       "name": "qBittorrent",
       "description": "qBittorrent BitTorrent client",
       "repo_url": "https://github.com/qbittorrent/qBittorrent",
