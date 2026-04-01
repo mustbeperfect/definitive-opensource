@@ -27,6 +27,19 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [Cody](https://github.com/sourcegraph/cody-public-snapshot) - `Closed Source`
   - [Maybe](https://github.com/maybe-finance/maybe) - `Closed Source`
   - [Spyglass](https://github.com/spyglass-search/spyglass) - `Abandoned`
+  - [myDrive](https://github.com/subnub/myDrive) - `Abandoned`
+  - [VimWiki](https://github.com/vimwiki/vimwiki) - `Abandoned`
+  - [Olive](https://github.com/olive-editor/olive) - `Abandoned`
+  - [PairDrop](https://github.com/schlagmichdoch/PairDrop) - `Abandoned`
+  - [HTTPie CLI](https://github.com/httpie/cli) - `Abandoned`
+  - [fswatch](https://github.com/emcrisostomo/fswatch) - `Abandoned`
+  - [AgentGPT](https://github.com/reworkd/agentgpt) - `Archived`
+  - [h2oGPT](https://github.com/h2oai/h2ogpt) - `Archived`
+  - [Overseerr](https://github.com/sct/overseerr?tab=readme-ov-file) - `Archived`
+  - [Reor](https://github.com/reorproject/reor) - `Archived`
+  - [Jellyfin Desktop](https://github.com/jellyfin-archive/jellyfin-desktop-qt/) - `Archived`
+  - [Battery Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - `Archived`
+  - Booklore - `Deleted`
 </details>
 
 ## FAQ
@@ -55,4 +68,4 @@ This project is released under the `MIT license`, hereby granting anyone to use,
 </td>
 </tbody>
 </table>
-</p> 
+</p>
