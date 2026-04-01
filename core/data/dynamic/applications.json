@@ -10631,7 +10631,7 @@
       "description": "The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.",
       "repo_url": "https://github.com/we-promise/sure",
       "tags": [],
-      "platforms": ["selfhosted"],
+      "platforms": ["selfhost"],
       "category": "finance",
       "stars": 7592,
       "flags": [],
