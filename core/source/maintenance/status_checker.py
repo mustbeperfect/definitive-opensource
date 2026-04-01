@@ -18,6 +18,7 @@ with open(INPUT_FILE, "r") as f:
 potentially_abandoned = []
 archived = []
 no_longer_exists = []
+rebranded = []
 
 # Check if projects are abandoned, archived, or no longer exist
 for app in data.get("applications", []):
@@ -43,6 +44,13 @@ for app in data.get("applications", []):
             continue
 
         repo_data = r.json()
+
+        current_full_name = repo_data.get("full_name", "")
+        expected_full_name = f"{owner}/{repo}"
+
+        if current_full_name.lower() != expected_full_name.lower():
+            new_url = repo_data.get("html_url", "Unknown URL")
+            rebranded.append(f"{app['name']} (Moved to: {new_url})")
 
         if repo_data.get("archived"):
             archived.append(app["name"])
@@ -74,10 +82,17 @@ with open(OUTPUT_FILE, "w") as f:
     else:
         f.write("_None_\n")
 
-    f.write("\n## No Longer Exists:\n")
+    f.write("\n## No Longer Exists (404):\n")
     if no_longer_exists:
         for name in no_longer_exists:
             f.write(f"- {name}\n")
+    else:
+        f.write("_None_\n")
+
+    f.write("\n## Rebranded / Moved:\n")
+    if rebranded:
+        for item in rebranded:
+            f.write(f"- {item}\n")
     else:
         f.write("_None_\n")
 
