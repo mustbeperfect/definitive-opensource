@@ -1,0 +1,139 @@
+{
+  "applications": [
+    {
+      "name": "eqMac",
+      "repo_url": "https://github.com/bitgapp/eqMac",
+      "reason": "closed-source"
+    },
+    {
+      "name": "Hyper",
+      "repo_url": "https://github.com/vercel/hyper",
+      "reason": "abandoned"
+    },
+    {
+      "name": "DiffusionBee",
+      "repo_url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
+      "reason": "closed-source"
+    },
+    {
+      "name": "Lunarvim",
+      "repo_url": "https://github.com/LunarVim/LunarVim",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Motrix",
+      "repo_url": "https://github.com/agalwood/Motrix",
+      "reason": "abandoned"
+    },
+    {
+      "name": "StableSwarmUI",
+      "repo_url": "https://github.com/Stability-AI/StableSwarmUI",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Trilium",
+      "repo_url": "https://github.com/zadam/trilium",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Whisky",
+      "repo_url": "https://github.com/Whisky-App/Whisky",
+      "reason": "abandoned"
+    },
+    {
+      "name": "SpaceVim",
+      "repo_url": "https://github.com/SpaceVim/SpaceVim",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Readarr",
+      "repo_url": "https://github.com/Readarr/Readarr",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Lenovo Legion Toolkit",
+      "repo_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Cody",
+      "repo_url": "https://github.com/sourcegraph/cody-public-snapshot",
+      "reason": "closed-source"
+    },
+    {
+      "name": "Maybe",
+      "repo_url": "https://github.com/maybe-finance/maybe",
+      "reason": "closed-source"
+    },
+    {
+      "name": "Spyglass",
+      "repo_url": "https://github.com/spyglass-search/spyglass",
+      "reason": "abandoned"
+    },
+    {
+      "name": "myDrive",
+      "repo_url": "https://github.com/subnub/myDrive",
+      "reason": "abandoned"
+    },
+    {
+      "name": "VimWiki",
+      "repo_url": "https://github.com/vimwiki/vimwiki",
+      "reason": "abandoned"
+    },
+    {
+      "name": "Olive",
+      "repo_url": "https://github.com/olive-editor/olive",
+      "reason": "abandoned"
+    },
+    {
+      "name": "PairDrop",
+      "repo_url": "https://github.com/schlagmichdoch/PairDrop",
+      "reason": "abandoned"
+    },
+    {
+      "name": "HTTPie CLI",
+      "repo_url": "https://github.com/httpie/cli",
+      "reason": "abandoned"
+    },
+    {
+      "name": "fswatch",
+      "repo_url": "https://github.com/emcrisostomo/fswatch",
+      "reason": "abandoned"
+    },
+    {
+      "name": "AgentGPT",
+      "repo_url": "https://github.com/reworkd/agentgpt",
+      "reason": "archived"
+    },
+    {
+      "name": "h2oGPT",
+      "repo_url": "https://github.com/h2oai/h2ogpt",
+      "reason": "archived"
+    },
+    {
+      "name": "Overseerr",
+      "repo_url": "https://github.com/sct/overseerr?tab=readme-ov-file",
+      "reason": "archived"
+    },
+    {
+      "name": "Reor",
+      "repo_url": "https://github.com/reorproject/reor",
+      "reason": "archived"
+    },
+    {
+      "name": "Jellyfin Desktop",
+      "repo_url": "https://github.com/jellyfin-archive/jellyfin-desktop-qt/",
+      "reason": "archived"
+    },
+    {
+      "name": "Battery Toolkit",
+      "repo_url": "https://github.com/mhaeuser/Battery-Toolkit",
+      "reason": "archived"
+    },
+    {
+      "name": "Booklore",
+      "repo_url": "https://github.com/booklore-app/booklore",
+      "reason": "deleted"
+    }
+  ]
+}
