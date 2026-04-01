@@ -8205,20 +8205,6 @@
       "homepage_url": "https://martchus.github.io/syncthingtray/"
     },
     {
-      "name": "Battery Toolkit",
-      "description": "Control the platform power state of your Apple Silicon Mac.",
-      "repo_url": "https://github.com/mhaeuser/Battery-Toolkit",
-      "tags": [],
-      "platforms": ["macos"],
-      "category": "macos",
-      "stars": 2445,
-      "flags": [],
-      "last_commit": "09/25/2025",
-      "language": "Swift",
-      "license": "BSD-3-Clause",
-      "homepage_url": ""
-    },
-    {
       "name": "CAD Sketcher",
       "description": "Constraint-based geometry sketcher for blender",
       "repo_url": "https://github.com/hlorus/CAD_Sketcher",
