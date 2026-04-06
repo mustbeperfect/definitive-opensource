@@ -4,10 +4,10 @@
 _None_
 
 ## Archived:
-- Battery Toolkit
+_None_
 
 ## No Longer Exists (404):
-- BookLore
+- KitchenOwl
 
 ## Rebranded / Moved:
 - screenpipe (Moved to: https://github.com/screenpipe/screenpipe)
@@ -37,5 +37,6 @@ _None_
 - Claudia (Moved to: https://github.com/winfunc/opcode)
 - opencode (Moved to: https://github.com/anomalyco/opencode)
 - Hyprnote (Moved to: https://github.com/fastrepl/char)
+- WebODM (Moved to: https://github.com/WebODM/WebODM)
 - Leader Key (Moved to: https://github.com/mikker/LeaderKey)
 - bitchat (Moved to: https://github.com/permissionlesstech/bitchat)
