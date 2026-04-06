@@ -1,5 +1,3 @@
 # Format Maintenance Report
 
-## Sure
-- Invalid platforms: selfhosted
-
+No issues found. All applications are properly formatted.
