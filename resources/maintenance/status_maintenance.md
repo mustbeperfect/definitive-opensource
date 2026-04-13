@@ -17,6 +17,7 @@ _None_
 - Docling (Moved to: https://github.com/docling-project/docling)
 - Chatbox (Moved to: https://github.com/chatboxai/chatbox)
 - LLaMa-Factory (Moved to: https://github.com/hiyouga/LlamaFactory)
+- Goose (Moved to: https://github.com/aaif-goose/goose)
 - MetaGPT (Moved to: https://github.com/FoundationAgents/MetaGPT)
 - Roo Code (Moved to: https://github.com/RooCodeInc/Roo-Code)
 - OpenHands (Moved to: https://github.com/OpenHands/OpenHands)
