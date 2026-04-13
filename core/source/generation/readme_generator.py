@@ -1,3 +1,4 @@
+from archive_generator import generate_archive_section
 from contents_generator import generate_contents
 from mainheader_generator import generate_mainheader
 from tableofcontents_generator import generate_table_of_contents
@@ -33,6 +34,9 @@ def generate_readme_for_platform(platform):
 
     contents_md = generate_contents(platform)
     content += contents_md + "\n"
+
+    archive_md = generate_archive_section()
+    content += archive_md + "\n"
 
     with open("components/footer.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"

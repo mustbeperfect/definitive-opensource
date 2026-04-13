@@ -1434,28 +1434,18 @@
 | [XPipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | `Cross` | **14k** |
 
 
-
-## Honorable Mentions of Closed-Source Software
-Some proprietary software just deserve recognition.
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional Editing, Color, Effects and Audio Post!
-- [Obsidian](https://obsidian.md/) - The free and flexible app for your private thoughts. 
-- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
-- [JetBrains](https://www.jetbrains.com/) - A rich suite of tools that provide an exceptional developer experience
-- [Raycast](https://www.raycast.com/) - A collection of powerful productivity tools all within an extendable launcher.
-
 ## Removed Projects
-Projects that were once on this list but removed - usually due to abandonement or going closed source. 
+Projects that were once on this list but removed, usually due to abandonment or going closed source.
 
 <details>
   <summary><b>Archive</b></summary> <br />
-  
-  - [eqMac](https://github.com/bitgapp/eqMac) - `Closed source`
+
+  - [eqMac](https://github.com/bitgapp/eqMac) - `Closed Source`
   - [Hyper](https://github.com/vercel/hyper) - `Abandoned`
-  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - `Closed source`
+  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - `Closed Source`
   - [Lunarvim](https://github.com/LunarVim/LunarVim) - `Abandoned`
   - [Motrix](https://github.com/agalwood/Motrix) - `Abandoned`
   - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - `Abandoned`
-  - [Trilium](https://github.com/zadam/trilium) - `Abandoned`
   - [Whisky](https://github.com/Whisky-App/Whisky) - `Abandoned`
   - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - `Abandoned`
   - [Readarr](https://github.com/Readarr/Readarr) - `Abandoned`
@@ -1475,8 +1465,17 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [Reor](https://github.com/reorproject/reor) - `Archived`
   - [Jellyfin Desktop](https://github.com/jellyfin-archive/jellyfin-desktop-qt/) - `Archived`
   - [Battery Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - `Archived`
-  - Booklore - `Deleted`
+  - [Booklore](https://github.com/booklore-app/booklore) - `Deleted`
 </details>
+
+
+## Honorable Mentions of Closed-Source Software
+Some proprietary software just deserve recognition.
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional Editing, Color, Effects and Audio Post!
+- [Obsidian](https://obsidian.md/) - The free and flexible app for your private thoughts. 
+- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
+- [JetBrains](https://www.jetbrains.com/) - A rich suite of tools that provide an exceptional developer experience
+- [Raycast](https://www.raycast.com/) - A collection of powerful productivity tools all within an extendable launcher.
 
 ## FAQ
 <details>
