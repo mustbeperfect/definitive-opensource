@@ -7,41 +7,6 @@ Some proprietary software just deserve recognition.
 - [JetBrains](https://www.jetbrains.com/) - A rich suite of tools that provide an exceptional developer experience
 - [Raycast](https://www.raycast.com/) - A collection of powerful productivity tools all within an extendable launcher.
 
-## Removed Projects
-Projects that were once on this list but removed - usually due to abandonement or going closed source. 
-
-<details>
-  <summary><b>Archive</b></summary> <br />
-  
-  - [eqMac](https://github.com/bitgapp/eqMac) - `Closed source`
-  - [Hyper](https://github.com/vercel/hyper) - `Abandoned`
-  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - `Closed source`
-  - [Lunarvim](https://github.com/LunarVim/LunarVim) - `Abandoned`
-  - [Motrix](https://github.com/agalwood/Motrix) - `Abandoned`
-  - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - `Abandoned`
-  - [Trilium](https://github.com/zadam/trilium) - `Abandoned`
-  - [Whisky](https://github.com/Whisky-App/Whisky) - `Abandoned`
-  - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - `Abandoned`
-  - [Readarr](https://github.com/Readarr/Readarr) - `Abandoned`
-  - [Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - `Abandoned`
-  - [Cody](https://github.com/sourcegraph/cody-public-snapshot) - `Closed Source`
-  - [Maybe](https://github.com/maybe-finance/maybe) - `Closed Source`
-  - [Spyglass](https://github.com/spyglass-search/spyglass) - `Abandoned`
-  - [myDrive](https://github.com/subnub/myDrive) - `Abandoned`
-  - [VimWiki](https://github.com/vimwiki/vimwiki) - `Abandoned`
-  - [Olive](https://github.com/olive-editor/olive) - `Abandoned`
-  - [PairDrop](https://github.com/schlagmichdoch/PairDrop) - `Abandoned`
-  - [HTTPie CLI](https://github.com/httpie/cli) - `Abandoned`
-  - [fswatch](https://github.com/emcrisostomo/fswatch) - `Abandoned`
-  - [AgentGPT](https://github.com/reworkd/agentgpt) - `Archived`
-  - [h2oGPT](https://github.com/h2oai/h2ogpt) - `Archived`
-  - [Overseerr](https://github.com/sct/overseerr?tab=readme-ov-file) - `Archived`
-  - [Reor](https://github.com/reorproject/reor) - `Archived`
-  - [Jellyfin Desktop](https://github.com/jellyfin-archive/jellyfin-desktop-qt/) - `Archived`
-  - [Battery Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - `Archived`
-  - Booklore - `Deleted`
-</details>
-
 ## FAQ
 <details>
   <summary><b>Stars aren't a good metric to guage popularity/quality.</b></summary> <br />
