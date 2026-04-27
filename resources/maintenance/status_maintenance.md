@@ -7,7 +7,7 @@ _None_
 _None_
 
 ## No Longer Exists (404):
-- KitchenOwl
+_None_
 
 ## Rebranded / Moved:
 - screenpipe (Moved to: https://github.com/screenpipe/screenpipe)
@@ -40,7 +40,7 @@ _None_
 - Tube Archivist (Moved to: https://github.com/tubearchivist/tubearchivist)
 - Claudia (Moved to: https://github.com/winfunc/opcode)
 - opencode (Moved to: https://github.com/anomalyco/opencode)
-- Hyprnote (Moved to: https://github.com/fastrepl/char)
+- Hyprnote (Moved to: https://github.com/fastrepl/anarlog)
 - WebODM (Moved to: https://github.com/WebODM/WebODM)
 - Leader Key (Moved to: https://github.com/mikker/LeaderKey)
 - bitchat (Moved to: https://github.com/permissionlesstech/bitchat)
