@@ -813,6 +813,18 @@
       "description": ""
     },
     {
+      "name": "Journal",
+      "id": "journal",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Archiving",
+      "id": "archiving",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
       "name": "Other",
       "id": "other",
       "parent": "other",
