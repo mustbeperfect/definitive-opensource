@@ -1,807 +1,828 @@
 {
-	"categories":
-	[
-		{
-			"name": "Artificial Intelligence (AI)",
-			"id": "ai",
-			"description": ""
-		},
-		{
-			"name": "Communication",
-			"id": "communication",
-			"description": ""
-		},
-		{
-			"name": "Data",
-			"id": "data",
-			"description": ""
-		},
-		{
-			"name": "Development",
-			"id": "development",
-			"description": ""
-		},
-		{
-			"name": "Entertainment",
-			"id": "entertainment",
-			"description": ""
-		},
-		{
-			"name": "Extensions",
-			"id": "extensions",
-			"description": ""
-		},
-		{
-			"name": "Internet",
-			"id": "internet",
-			"description": ""
-		},
-		{
-			"name": "Media",
-			"id": "media",
-			"description": ""
-		},
-		{
-			"name": "Server",
-			"id": "server",
-			"description": ""
-		},
-		{
-			"name": "Operating System",
-			"id": "os",
-			"description": ""
-		},
-		{
-			"name": "Organization",
-			"id": "organization",
-			"description": ""
-		},
-		{
-			"name": "Productivity",
-			"id": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Security/Privacy",
-			"id": "security",
-			"description": ""
-		},
-		{
-			"name": "Terminal",
-			"id": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Text",
-			"id": "text",
-			"description": ""
-		},
-		{
-			"name": "Utilities",
-			"id": "utilities",
-			"description": ""
-		},
-		{
-			"name": "STEM",
-			"id": "stem",
-			"description": ""
-		}
-	],
-	"subcategories":
-	[
-		{
-			"name": "Agent",
-			"id": "agent",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "AI Image GUI",
-			"id": "ai-image-gui",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "AI Utilities",
-			"id": "ai-utilities",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "All In One",
-			"id": "all-in-one",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Assistant",
-			"id": "assistant",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Information Processing",
-			"id": "information-processing",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "LLM GUI",
-			"id": "llm-gui",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Manager",
-			"id": "manager",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Model Tools",
-			"id": "model-tools",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "RAG",
-			"id": "rag",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Research",
-			"id": "research",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Chat",
-			"id": "chat",
-			"parent": "communication",
-			"description": ""
-		},
-		{
-			"name": "Collaboration",
-			"id": "collaboration",
-			"parent": "communication",
-			"description": ""
-		},
-		{
-			"name": "Mail",
-			"id": "mail",
-			"parent": "communication",
-			"description": ""
-		},
-		{
-			"name": "Video Conference",
-			"id": "video-conference",
-			"parent": "communication",
-			"description": ""
-		},
-		{
-			"name": "Backup",
-			"id": "backup",
-			"parent": "data",
-			"description": ""
-		},
-		{
-			"name": "Storage",
-			"id": "storage",
-			"parent": "data",
-			"description": ""
-		},
-		{
-			"name": "Sync",
-			"id": "sync",
-			"parent": "data",
-			"description": ""
-		},
-		{
-			"name": "Code Assistant",
-			"id": "code-assistant",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Code Editor",
-			"id": "code-editor",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Dev Tools",
-			"id": "dev-tools",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Game Engine",
-			"id": "game-engine",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Git Client",
-			"id": "git-client",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Git Hosting",
-			"id": "git-hosting",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "IDE",
-			"id": "ide",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Language Package Manager",
-			"id": "language-package-manager",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Game Launcher",
-			"id": "game-launcher",
-			"parent": "entertainment",
-			"description": ""
-		},
-		{
-			"name": "Games",
-			"id": "games",
-			"parent": "entertainment",
-			"description": ""
-		},
-		{
-			"name": "Browser Extensions",
-			"id": "browser-extensions",
-			"parent": "extensions",
-			"description": ""
-		},
-		{
-			"name": "EMACS Packages",
-			"id": "emacs-packages",
-			"parent": "extensions",
-			"description": ""
-		},
-		{
-			"name": "Neovim Extensions",
-			"id": "neovim-extensions",
-			"parent": "extensions",
-			"description": ""
-		},
-		{
-			"name": "Browser",
-			"id": "browser",
-			"parent": "internet",
-			"description": ""
-		},
-		{
-			"name": "Download Manager",
-			"id": "download-manager",
-			"parent": "internet",
-			"description": ""
-		},
-		{
-			"name": "Search Engine",
-			"id": "search-engine",
-			"parent": "internet",
-			"description": ""
-		},
-		{
-			"name": "Audio Editor",
-			"id": "audio-editor",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Audio Player",
-			"id": "audio-player",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Graphics",
-			"id": "graphics",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Image Processing",
-			"id": "image-processing",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Media Downloader",
-			"id": "media-downloader",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Screen Recording",
-			"id": "screen-recording",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Video Editing",
-			"id": "video-editing",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Video Player",
-			"id": "video-player",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Video Transcoder",
-			"id": "video-transcoder",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Arr",
-			"id": "arr",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Dashboard",
-			"id": "dashboard",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Home Automation",
-			"id": "home-automation",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Home Server",
-			"id": "home-server",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Media Management",
-			"id": "media-management",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Surveillance",
-			"id": "surveillance",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Server Management",
-			"id": "server-management",
-			"parent": "server",
-			"description": ""
-		},
-		{
-			"name": "Windows",
-			"id": "windows",
-			"parent": "os",
-			"description": ""
-		},
-		{
-			"name": "MacOS",
-			"id": "macos",
-			"parent": "os",
-			"description": ""
-		},
-		{
-			"name": "Linux",
-			"id": "linux",
-			"parent": "os",
-			"description": ""
-		},
-		{
-			"name": "Operating System",
-			"id": "operating-system",
-			"parent": "os",
-			"description": ""
-		},
-		{
-			"name": "Bookmark Manager",
-			"id": "bookmark-manager",
-			"parent": "organization",
-			"description": ""
-		},
-		{
-			"name": "Document Management",
-			"id": "document-management",
-			"parent": "organization",
-			"description": ""
-		},
-		{
-			"name": "Calendar",
-			"id": "calendar",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Document Modifier",
-			"id": "document-modifier",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Finance",
-			"id": "finance",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Knowledge Base",
-			"id": "knowledge-base",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Project Management",
-			"id": "project-management",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Task Management",
-			"id": "task-management",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "Time Management",
-			"id": "time-management",
-			"parent": "productivity",
-			"description": ""
-		},
-		{
-			"name": "AD Blocker",
-			"id": "ad-blocker",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "Antivirus",
-			"id": "antivirus",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "Authentication",
-			"id": "authentication",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "Firewall",
-			"id": "firewall",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "Password Manager",
-			"id": "password-manager",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "VPN",
-			"id": "vpn",
-			"parent": "security",
-			"description": ""
-		},
-		{
-			"name": "Shell",
-			"id": "shell",
-			"parent": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Terminal Emulator",
-			"id": "terminal-emulator",
-			"parent": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Terminal Multiplexer",
-			"id": "terminal-multiplexer",
-			"parent": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Terminal Utilities",
-			"id": "terminal-utilities",
-			"parent": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Document Editor",
-			"id": "document-editor",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Markdown Editor",
-			"id": "markdown-editor",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Note Taking",
-			"id": "note-taking",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Office Suite",
-			"id": "office-suite",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Proofreading",
-			"id": "proofreading",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Spreadsheet",
-			"id": "spreadsheet",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Text Editor",
-			"id": "text-editor",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Wiki",
-			"id": "wiki",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Automation",
-			"id": "automation",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Cleaner",
-			"id": "cleaner",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Clipboard Manager",
-			"id": "clipboard-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Containers",
-			"id": "containers",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Dotfiles Manager",
-			"id": "dotfiles-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "File Manager",
-			"id": "file-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "File Sharing",
-			"id": "file-sharing",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Keyboard Manager",
-			"id": "keyboard-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Launcher",
-			"id": "launcher",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Package Manager",
-			"id": "package-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Remote Desktop",
-			"id": "remote-desktop",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "System Monitoring",
-			"id": "system-monitoring",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "System",
-			"id": "system",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Tools",
-			"id": "tools",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Version Manager",
-			"id": "version-manager",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Virtual Machine",
-			"id": "virtual-machine",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Window Management",
-			"id": "window-management",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Context",
-			"id": "context",
-			"parent": "ai",
-			"description": ""
-		},
-		{
-			"name": "Image Editing",
-			"id": "image-editing",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Diagrams",
-			"id": "diagrams",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Canvas",
-			"id": "canvas",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Prompt",
-			"id": "prompt",
-			"parent": "terminal",
-			"description": ""
-		},
-		{
-			"name": "Social Network",
-			"id": "social-network",
-			"parent": "internet",
-			"description": ""
-		},
-		{
-			"name": "Network",
-			"id": "network",
-			"parent": "internet",
-			"description": ""
-		},
-		{
-			"name": "API Client",
-			"id": "api-client",
-			"parent": "development",
-			"description": ""
-		},
-		{
-			"name": "Container Management",
-			"id": "container-management",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "Engineering",
-			"id": "engineering",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Rocketry",
-			"id": "rocketry",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Firmware",
-			"id": "firmware",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Simulation",
-			"id": "simulation",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Autonomy",
-			"id": "autonomy",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Robotics",
-			"id": "robotics",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Control",
-			"id": "control",
-			"parent": "stem",
-			"description": ""
-		},
-		{
-			"name": "Transcription",
-			"id": "transcription",
-			"parent": "utilities",
-			"description": ""
-		},
-		{
-			"name": "CAD",
-			"id": "cad",
-			"parent": "media",
-			"description": ""
-		},
-		{
-			"name": "Reading",
-			"id": "reading",
-			"parent": "text",
-			"description": ""
-		},
-		{
-			"name": "Other",
-			"id": "other",
-			"parent": "other",
-			"description": ""
-		},
-		{
-			"name": "Uncategorized",
-			"id": "uncategorized",
-			"parent": "other",
-			"description": ""
-		}
-	]
+  "categories": [
+    {
+      "name": "Artificial Intelligence (AI)",
+      "id": "ai",
+      "description": ""
+    },
+    {
+      "name": "Communication",
+      "id": "communication",
+      "description": ""
+    },
+    {
+      "name": "Data",
+      "id": "data",
+      "description": ""
+    },
+    {
+      "name": "Development",
+      "id": "development",
+      "description": ""
+    },
+    {
+      "name": "Entertainment",
+      "id": "entertainment",
+      "description": ""
+    },
+    {
+      "name": "Extensions",
+      "id": "extensions",
+      "description": ""
+    },
+    {
+      "name": "Internet",
+      "id": "internet",
+      "description": ""
+    },
+    {
+      "name": "Media",
+      "id": "media",
+      "description": ""
+    },
+    {
+      "name": "Server",
+      "id": "server",
+      "description": ""
+    },
+    {
+      "name": "Operating System",
+      "id": "os",
+      "description": ""
+    },
+    {
+      "name": "Organization",
+      "id": "organization",
+      "description": ""
+    },
+    {
+      "name": "Productivity",
+      "id": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Security/Privacy",
+      "id": "security",
+      "description": ""
+    },
+    {
+      "name": "Terminal",
+      "id": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Text",
+      "id": "text",
+      "description": ""
+    },
+    {
+      "name": "Utilities",
+      "id": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Information",
+      "id": "information",
+      "description": ""
+    },
+    {
+      "name": "STEM",
+      "id": "stem",
+      "description": ""
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "Agent",
+      "id": "agent",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "AI Image GUI",
+      "id": "ai-image-gui",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "AI Utilities",
+      "id": "ai-utilities",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "All In One",
+      "id": "all-in-one",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Assistant",
+      "id": "assistant",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Information Processing",
+      "id": "information-processing",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "LLM GUI",
+      "id": "llm-gui",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Manager",
+      "id": "manager",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Model Tools",
+      "id": "model-tools",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "RAG",
+      "id": "rag",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Research",
+      "id": "research",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Chat",
+      "id": "chat",
+      "parent": "communication",
+      "description": ""
+    },
+    {
+      "name": "Collaboration",
+      "id": "collaboration",
+      "parent": "communication",
+      "description": ""
+    },
+    {
+      "name": "Mail",
+      "id": "mail",
+      "parent": "communication",
+      "description": ""
+    },
+    {
+      "name": "Video Conference",
+      "id": "video-conference",
+      "parent": "communication",
+      "description": ""
+    },
+    {
+      "name": "Backup",
+      "id": "backup",
+      "parent": "data",
+      "description": ""
+    },
+    {
+      "name": "Storage",
+      "id": "storage",
+      "parent": "data",
+      "description": ""
+    },
+    {
+      "name": "Sync",
+      "id": "sync",
+      "parent": "data",
+      "description": ""
+    },
+    {
+      "name": "Code Assistant",
+      "id": "code-assistant",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Code Editor",
+      "id": "code-editor",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Dev Tools",
+      "id": "dev-tools",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Game Engine",
+      "id": "game-engine",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Git Client",
+      "id": "git-client",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Git Hosting",
+      "id": "git-hosting",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "IDE",
+      "id": "ide",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Language Package Manager",
+      "id": "language-package-manager",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Game Launcher",
+      "id": "game-launcher",
+      "parent": "entertainment",
+      "description": ""
+    },
+    {
+      "name": "Games",
+      "id": "games",
+      "parent": "entertainment",
+      "description": ""
+    },
+    {
+      "name": "Browser Extensions",
+      "id": "browser-extensions",
+      "parent": "extensions",
+      "description": ""
+    },
+    {
+      "name": "EMACS Packages",
+      "id": "emacs-packages",
+      "parent": "extensions",
+      "description": ""
+    },
+    {
+      "name": "Neovim Extensions",
+      "id": "neovim-extensions",
+      "parent": "extensions",
+      "description": ""
+    },
+    {
+      "name": "Browser",
+      "id": "browser",
+      "parent": "internet",
+      "description": ""
+    },
+    {
+      "name": "Download Manager",
+      "id": "download-manager",
+      "parent": "internet",
+      "description": ""
+    },
+    {
+      "name": "Search Engine",
+      "id": "search-engine",
+      "parent": "internet",
+      "description": ""
+    },
+    {
+      "name": "Audio Editor",
+      "id": "audio-editor",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Audio Player",
+      "id": "audio-player",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Graphics",
+      "id": "graphics",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Image Processing",
+      "id": "image-processing",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Media Downloader",
+      "id": "media-downloader",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Screen Recording",
+      "id": "screen-recording",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Video Editing",
+      "id": "video-editing",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Video Player",
+      "id": "video-player",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Video Transcoder",
+      "id": "video-transcoder",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Arr",
+      "id": "arr",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Dashboard",
+      "id": "dashboard",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Home Automation",
+      "id": "home-automation",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Home Server",
+      "id": "home-server",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Media Management",
+      "id": "media-management",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Surveillance",
+      "id": "surveillance",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Server Management",
+      "id": "server-management",
+      "parent": "server",
+      "description": ""
+    },
+    {
+      "name": "Windows",
+      "id": "windows",
+      "parent": "os",
+      "description": ""
+    },
+    {
+      "name": "MacOS",
+      "id": "macos",
+      "parent": "os",
+      "description": ""
+    },
+    {
+      "name": "Linux",
+      "id": "linux",
+      "parent": "os",
+      "description": ""
+    },
+    {
+      "name": "Operating System",
+      "id": "operating-system",
+      "parent": "os",
+      "description": ""
+    },
+    {
+      "name": "Bookmark Manager",
+      "id": "bookmark-manager",
+      "parent": "organization",
+      "description": ""
+    },
+    {
+      "name": "Document Management",
+      "id": "document-management",
+      "parent": "organization",
+      "description": ""
+    },
+    {
+      "name": "Calendar",
+      "id": "calendar",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Document Modifier",
+      "id": "document-modifier",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Finance",
+      "id": "finance",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Knowledge Base",
+      "id": "knowledge-base",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Project Management",
+      "id": "project-management",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Task Management",
+      "id": "task-management",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "Time Management",
+      "id": "time-management",
+      "parent": "productivity",
+      "description": ""
+    },
+    {
+      "name": "AD Blocker",
+      "id": "ad-blocker",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "Antivirus",
+      "id": "antivirus",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "Authentication",
+      "id": "authentication",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "Firewall",
+      "id": "firewall",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "Password Manager",
+      "id": "password-manager",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "VPN",
+      "id": "vpn",
+      "parent": "security",
+      "description": ""
+    },
+    {
+      "name": "Shell",
+      "id": "shell",
+      "parent": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Terminal Emulator",
+      "id": "terminal-emulator",
+      "parent": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Terminal Multiplexer",
+      "id": "terminal-multiplexer",
+      "parent": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Terminal Utilities",
+      "id": "terminal-utilities",
+      "parent": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Document Editor",
+      "id": "document-editor",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Markdown Editor",
+      "id": "markdown-editor",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Note Taking",
+      "id": "note-taking",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Office Suite",
+      "id": "office-suite",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Proofreading",
+      "id": "proofreading",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Spreadsheet",
+      "id": "spreadsheet",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Text Editor",
+      "id": "text-editor",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Wiki",
+      "id": "wiki",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Automation",
+      "id": "automation",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Cleaner",
+      "id": "cleaner",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Clipboard Manager",
+      "id": "clipboard-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Containers",
+      "id": "containers",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Dotfiles Manager",
+      "id": "dotfiles-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "File Manager",
+      "id": "file-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "File Sharing",
+      "id": "file-sharing",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Keyboard Manager",
+      "id": "keyboard-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Launcher",
+      "id": "launcher",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Package Manager",
+      "id": "package-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Remote Desktop",
+      "id": "remote-desktop",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "System Monitoring",
+      "id": "system-monitoring",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "System",
+      "id": "system",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Tools",
+      "id": "tools",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Version Manager",
+      "id": "version-manager",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Virtual Machine",
+      "id": "virtual-machine",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Window Management",
+      "id": "window-management",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Context",
+      "id": "context",
+      "parent": "ai",
+      "description": ""
+    },
+    {
+      "name": "Image Editing",
+      "id": "image-editing",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Diagrams",
+      "id": "diagrams",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Canvas",
+      "id": "canvas",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Prompt",
+      "id": "prompt",
+      "parent": "terminal",
+      "description": ""
+    },
+    {
+      "name": "Social Network",
+      "id": "social-network",
+      "parent": "internet",
+      "description": ""
+    },
+    {
+      "name": "Network",
+      "id": "network",
+      "parent": "internet",
+      "description": ""
+    },
+    {
+      "name": "API Client",
+      "id": "api-client",
+      "parent": "development",
+      "description": ""
+    },
+    {
+      "name": "Container Management",
+      "id": "container-management",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "Engineering",
+      "id": "engineering",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Rocketry",
+      "id": "rocketry",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Firmware",
+      "id": "firmware",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Simulation",
+      "id": "simulation",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Autonomy",
+      "id": "autonomy",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Robotics",
+      "id": "robotics",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Control",
+      "id": "control",
+      "parent": "stem",
+      "description": ""
+    },
+    {
+      "name": "Transcription",
+      "id": "transcription",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "CAD",
+      "id": "cad",
+      "parent": "media",
+      "description": ""
+    },
+    {
+      "name": "Reading",
+      "id": "reading",
+      "parent": "text",
+      "description": ""
+    },
+    {
+      "name": "Mouse",
+      "id": "mouse",
+      "parent": "utilities",
+      "description": ""
+    },
+    {
+      "name": "RSS Reader",
+      "id": "rss-reader",
+      "parent": "information",
+      "description": ""
+    },
+    {
+      "name": "RSS Manager",
+      "id": "rss-manager",
+      "parent": "information",
+      "description": ""
+    },
+    {
+      "name": "Other",
+      "id": "other",
+      "parent": "other",
+      "description": ""
+    },
+    {
+      "name": "Uncategorized",
+      "id": "uncategorized",
+      "parent": "other",
+      "description": ""
+    }
+  ]
 }
