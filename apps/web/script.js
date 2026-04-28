@@ -23,8 +23,6 @@ const subcategoryFilter = document.getElementById("subcategoryFilter");
 const platformFilter = document.getElementById("platformFilter");
 const tagFilter = document.getElementById("tagFilter");
 
-// UTILS
-// 1. Sanitize HTML to prevent XSS
 const escapeHTML = (str) => {
   if (!str) return "";
   return String(str).replace(
@@ -40,7 +38,6 @@ const escapeHTML = (str) => {
   );
 };
 
-// 2. Debounce function to limit rapid-fire function calls
 const debounce = (func, delay) => {
   let timeoutId;
   return (...args) => {
@@ -81,7 +78,6 @@ async function init() {
 }
 
 function populateFilters() {
-  // Use map and join to avoid DOM thrashing (innerHTML += in a loop)
   const catHTML = db.categories
     .map(
       (cat) =>
@@ -117,7 +113,6 @@ function updateSubcategoryDropdown() {
       ? db.subcategories
       : db.subcategories.filter((sub) => sub.parent === selectedCategory);
 
-  // Rebuild options efficiently
   const subHTML =
     '<option value="">All Subcategories</option>' +
     filteredSubcategories
@@ -131,7 +126,6 @@ function updateSubcategoryDropdown() {
 }
 
 function setupEventListeners() {
-  // Add a 300ms debounce to the search input so it doesn't fire on every single keystroke
   searchInput.addEventListener("input", debounce(renderApps, 300));
 
   categoryFilter.addEventListener("change", () => {
@@ -151,7 +145,6 @@ function renderApps() {
   const selectedPlatform = platformFilter.value;
   const selectedTag = tagFilter.value;
 
-  // PERFORMANCE: Pre-calculate valid subcategories OUTSIDE the loop
   let validSubcategoryIds = null;
   if (selectedCategory !== "") {
     validSubcategoryIds = db.subcategories
@@ -190,7 +183,6 @@ function renderApps() {
     return;
   }
 
-  // Use map and join instead of appending elements in a loop to improve render time
   appContainer.innerHTML = filteredApps
     .map(
       (app) => `
