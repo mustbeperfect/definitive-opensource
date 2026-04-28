@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>definitive-opensource</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="controls">
+            <input
+                type="text"
+                id="search"
+                placeholder="Search by name or description..."
+            />
+
+            <select id="categoryFilter">
+                <option value="">All Categories</option>
+            </select>
+
+            <select id="subcategoryFilter">
+                <option value="">All Subcategories</option>
+            </select>
+
+            <select id="platformFilter">
+                <option value="">All Platforms</option>
+            </select>
+
+            <select id="tagFilter">
+                <option value="">All Tags</option>
+            </select>
+        </div>
+
+        <div id="appContainer">Loading data...</div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
