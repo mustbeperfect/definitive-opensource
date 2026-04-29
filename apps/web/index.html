@@ -6,32 +6,78 @@
         <title>definitive-opensource</title>
         <link rel="stylesheet" href="style.css" />
     </head>
+
     <body>
-        <div class="controls">
-            <input
-                type="text"
-                id="search"
-                placeholder="Search by name or description..."
-            />
+        <nav>
+            <b>definitive-opensource</b>
+            <div>GitHub</div>
+        </nav>
 
-            <select id="categoryFilter">
-                <option value="">All Categories</option>
-            </select>
+        <div class="line-x"></div>
 
-            <select id="subcategoryFilter">
-                <option value="">All Subcategories</option>
-            </select>
-
-            <select id="platformFilter">
-                <option value="">All Platforms</option>
-            </select>
-
-            <select id="tagFilter">
-                <option value="">All Tags</option>
-            </select>
+        <div class="description">
+            The definitive list of the best of consumer facing open source.
         </div>
 
-        <div id="appContainer">Loading data...</div>
+        <div class="line-x"></div>
+
+        <main>
+            <div class="controls">
+                <div class="line-y"></div>
+
+                <input
+                    type="text"
+                    id="search"
+                    placeholder="Search by name or description..."
+                />
+
+                <div class="line-y"></div>
+
+                <select id="categoryFilter">
+                    <option value="">All Categories</option>
+                </select>
+
+                <div class="line-y"></div>
+
+                <select id="subcategoryFilter">
+                    <option value="">All Subcategories</option>
+                </select>
+
+                <div class="line-y"></div>
+
+                <select id="platformFilter">
+                    <option value="">All Platforms</option>
+                </select>
+
+                <div class="line-y"></div>
+
+                <select id="tagFilter">
+                    <option value="">All Tags</option>
+                </select>
+
+                <div class="line-y"></div>
+            </div>
+
+            <div class="line-x"></div>
+
+            <div
+                style="
+                    display: grid;
+                    margin: 15px;
+                    grid-template-columns: repeat(3, minmax(0, 1fr));
+                    gap: 15px;
+                "
+                id="appContainer"
+            >
+                Loading data...
+            </div>
+        </main>
+
+        <div class="line-x"></div>
+
+        <footer>
+            WAHAHA THIS WEBSITE IS PURE JAVASCRIPT NO STUPID FRAMEWORKS
+        </footer>
 
         <script src="script.js"></script>
     </body>

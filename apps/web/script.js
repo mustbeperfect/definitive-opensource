@@ -187,18 +187,33 @@ function renderApps() {
     .map(
       (app) => `
     <div class="app-card">
-        <div class="app-title">
-            <a href="${escapeHTML(app.homepage_url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(app.name)}</a>
+        <div class="app-header">
+            <div class="app-title" target="_blank" rel="noopener noreferrer">${escapeHTML(app.name)}</div>
+            <div class="item-group">
+              <div class="app-tag">${escapeHTML(app.tags.join(", "))}</div>
+              <a href="${escapeHTML(app.homepage_url)}">
+                <img src="../../assets/icon/box-arrow-up-right.svg" alt="Description of my SVG" width="15" height="15">
+              </a>
+              <a href="${escapeHTML(app.repo_url)}">
+                <img src="../../assets/icon/github.svg" alt="Description of my SVG" width="15" height="15">
+              </a>
+            </div>
         </div>
-        <div class="app-property"><strong>Description:</strong> ${escapeHTML(app.description)}</div>
-        <div class="app-property"><strong>Category:</strong> ${escapeHTML(app.category)}</div>
-        <div class="app-property"><strong>Repository:</strong> <a href="${escapeHTML(app.repo_url)}" target="_blank">${escapeHTML(app.repo_url)}</a></div>
-        <div class="app-property"><strong>Language:</strong> ${escapeHTML(app.language)}</div>
-        <div class="app-property"><strong>Stars:</strong> ${escapeHTML(app.stars)}</div>
-        <div class="app-property"><strong>License:</strong> ${escapeHTML(app.license)}</div>
-        <div class="app-property"><strong>Last Commit:</strong> ${escapeHTML(app.last_commit)}</div>
-        <div class="app-property"><strong>Platforms:</strong> ${escapeHTML(app.platforms.join(", "))}</div>
-        <div class="app-property"><strong>Tags:</strong> ${escapeHTML(app.tags.join(", "))}</div>
+        <div class="app-description">${escapeHTML(app.description)}</div>
+
+        <div class="app-header">
+          <div class=""><strong>Category:</strong> ${escapeHTML(app.category)}</div>
+          <div class="">${escapeHTML(app.platforms.join(", "))}</div>
+        </div>
+
+        <div class="line-x"></div>
+
+        <div class="app-bottom">
+          <div class="app-property">${escapeHTML(app.language)}</div>
+          <div style="text-align: center" class="app-property">${escapeHTML(app.stars)}</div>
+          <div style="text-align: right" class="app-property">${escapeHTML(app.license)}</div>
+        </div>
+
     </div>
   `,
     )
