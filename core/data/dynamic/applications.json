@@ -17,7 +17,7 @@
     {
       "name": "screenpipe",
       "description": "Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era",
-      "repo_url": "https://github.com/mediar-ai/screenpipe",
+      "repo_url": "https://github.com/screenpipe/screenpipe",
       "tags": ["commercial", "disruptive"],
       "platforms": ["macos", "windows"],
       "category": "context",
@@ -57,9 +57,9 @@
       "homepage_url": "https://getwren.ai/oss"
     },
     {
-      "name": "TEN Agent",
+      "name": "TEN",
       "description": " Open-source framework for conversational voice AI agents",
-      "repo_url": "https://github.com/TEN-framework/TEN-Agent",
+      "repo_url": "https://github.com/TEN-framework/ten-framework",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "agent",
@@ -129,7 +129,7 @@
     {
       "name": "ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "repo_url": "https://github.com/comfyanonymous/ComfyUI",
+      "repo_url": "https://github.com/Comfy-Org/ComfyUI",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "ai-image-gui",
@@ -283,7 +283,7 @@
     {
       "name": "Firecrawl",
       "description": "\ud83d\udd25 The API to search, scrape, and interact with the web for AI",
-      "repo_url": "https://github.com/mendableai/firecrawl",
+      "repo_url": "https://github.com/firecrawl/firecrawl",
       "tags": [],
       "platforms": ["web-cloud", "selfhost"],
       "category": "information-processing",
@@ -339,7 +339,7 @@
     {
       "name": "Docling",
       "description": "Get your documents ready for gen AI",
-      "repo_url": "https://github.com/DS4SD/docling",
+      "repo_url": "https://github.com/docling-project/docling",
       "tags": ["cli", "manual"],
       "platforms": ["cross"],
       "category": "information-processing",
@@ -395,7 +395,7 @@
     {
       "name": "Chatbox",
       "description": "Powerful AI Client",
-      "repo_url": "https://github.com/Bin-Huang/chatbox",
+      "repo_url": "https://github.com/chatboxai/chatbox",
       "tags": [],
       "platforms": ["cross"],
       "category": "llm-gui",
@@ -407,9 +407,9 @@
       "homepage_url": "https://chatboxai.app?utm_medium=github"
     },
     {
-      "name": "Text generation webUI",
+      "name": "TextGen",
       "description": "The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.",
-      "repo_url": "https://github.com/oobabooga/text-generation-webui",
+      "repo_url": "https://github.com/oobabooga/textgen",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "llm-gui",
@@ -507,7 +507,7 @@
     {
       "name": "LLaMa-Factory",
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
-      "repo_url": "https://github.com/hiyouga/LLaMA-Factory",
+      "repo_url": "https://github.com/hiyouga/LlamaFactory",
       "tags": ["cli-plus", "manual"],
       "platforms": ["selfhost"],
       "category": "model-tools",
@@ -1095,7 +1095,7 @@
     {
       "name": "Goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "repo_url": "https://github.com/block/goose",
+      "repo_url": "https://github.com/aaif-goose/goose",
       "tags": ["cli-plus"],
       "platforms": ["cross"],
       "category": "code-assistant",
@@ -1109,7 +1109,7 @@
     {
       "name": "MetaGPT",
       "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
-      "repo_url": "https://github.com/geekan/MetaGPT",
+      "repo_url": "https://github.com/FoundationAgents/MetaGPT",
       "tags": [],
       "platforms": ["selfhost", "web-cloud"],
       "category": "code-assistant",
@@ -1123,7 +1123,7 @@
     {
       "name": "Roo Code",
       "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-      "repo_url": "https://github.com/RooVetGit/Roo-Code",
+      "repo_url": "https://github.com/RooCodeInc/Roo-Code",
       "tags": [],
       "platforms": ["vscode"],
       "category": "code-assistant",
@@ -1179,7 +1179,7 @@
     {
       "name": "OpenHands",
       "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
-      "repo_url": "https://github.com/All-Hands-AI/OpenHands",
+      "repo_url": "https://github.com/OpenHands/OpenHands",
       "tags": [],
       "platforms": ["cross", "selfhost"],
       "category": "code-assistant",
@@ -1933,9 +1933,9 @@
       "homepage_url": "http://filecxx.com"
     },
     {
-      "name": "Perplexica",
+      "name": "Vane",
       "description": "Vane is an AI-powered answering engine.",
-      "repo_url": "https://github.com/ItzCrazyKns/Perplexica",
+      "repo_url": "https://github.com/ItzCrazyKns/Vane",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "search-engine",
@@ -2423,9 +2423,9 @@
       "homepage_url": "https://handbrake.fr"
     },
     {
-      "name": "Jellyseerr",
+      "name": "seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "repo_url": "https://github.com/Fallenbagel/jellyseerr",
+      "repo_url": "https://github.com/seerr-team/seerr",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "arr",
@@ -2971,7 +2971,7 @@
     {
       "name": "UniGetUI",
       "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-      "repo_url": "https://github.com/marticliment/UniGetUI",
+      "repo_url": "https://github.com/Devolutions/UniGetUI",
       "tags": [],
       "platforms": ["windows"],
       "category": "windows",
@@ -3153,7 +3153,7 @@
     {
       "name": "Reminders MenuBar",
       "description": "Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.",
-      "repo_url": "https://github.com/DamascenoRafael/reminders-menubar?tab=readme-ov-file",
+      "repo_url": "https://github.com/DamascenoRafael/reminders-menubar",
       "tags": [],
       "platforms": ["macos"],
       "category": "macos",
@@ -3377,7 +3377,7 @@
     {
       "name": "Cal",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "repo_url": "https://github.com/calcom/cal.com",
+      "repo_url": "https://github.com/calcom/cal.diy",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "calendar",
@@ -3699,7 +3699,7 @@
     {
       "name": "Super Productivity",
       "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
-      "repo_url": "https://github.com/johannesjo/super-productivity",
+      "repo_url": "https://github.com/super-productivity/super-productivity",
       "tags": [],
       "platforms": ["cross"],
       "category": "task-management",
@@ -4063,7 +4063,7 @@
     {
       "name": "WezTerm",
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-      "repo_url": "https://github.com/wez/wezterm",
+      "repo_url": "https://github.com/wezterm/wezterm",
       "tags": [],
       "platforms": ["cross"],
       "category": "terminal-emulator",
@@ -4245,7 +4245,7 @@
     {
       "name": "Etherpad",
       "description": "Etherpad: A modern really-real-time collaborative document editor.",
-      "repo_url": "https://github.com/ether/etherpad-lite",
+      "repo_url": "https://github.com/ether/etherpad",
       "tags": [],
       "platforms": ["selfhost", "web-cloud"],
       "category": "document-editor",
@@ -4371,7 +4371,7 @@
     {
       "name": "Blinko",
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
-      "repo_url": "https://github.com/blinko-space/blinko",
+      "repo_url": "https://github.com/blinkospace/blinko",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "note-taking",
@@ -4581,7 +4581,7 @@
     {
       "name": "Micro",
       "description": "A modern and intuitive terminal-based text editor",
-      "repo_url": "https://github.com/zyedidia/micro",
+      "repo_url": "https://github.com/micro-editor/micro",
       "tags": ["cli"],
       "platforms": ["cross"],
       "category": "text-editor",
@@ -5687,7 +5687,7 @@
     {
       "name": "yabai",
       "description": "A tiling window manager for macOS based on binary space partitioning",
-      "repo_url": "https://github.com/koekeishiya/yabai",
+      "repo_url": "https://github.com/asmvik/yabai",
       "tags": [],
       "platforms": ["macos"],
       "category": "window-management",
@@ -5855,7 +5855,7 @@
     {
       "name": "Meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
-      "repo_url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "repo_url": "https://github.com/Zackriya-Solutions/meetily",
       "tags": [],
       "platforms": ["windows", "macos"],
       "category": "assistant",
@@ -5995,7 +5995,7 @@
     {
       "name": "Gitingest",
       "description": "Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase ",
-      "repo_url": "https://github.com/cyclotruc/gitingest",
+      "repo_url": "https://github.com/coderamp-labs/gitingest",
       "tags": ["manual"],
       "platforms": ["web-cloud", "chromium", "firefox"],
       "category": "information-processing",
@@ -6597,7 +6597,7 @@
     {
       "name": "niri",
       "description": "A scrollable-tiling Wayland compositor.",
-      "repo_url": "https://github.com/YaLTeR/niri",
+      "repo_url": "https://github.com/niri-wm/niri",
       "tags": [],
       "platforms": ["linux"],
       "category": "window-management",
@@ -7339,7 +7339,7 @@
     {
       "name": "ClaraVerse",
       "description": "Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.",
-      "repo_url": "https://github.com/badboysm890/ClaraVerse",
+      "repo_url": "https://github.com/claraverse-space/ClaraVerse",
       "tags": [],
       "platforms": ["cross", "selfhost"],
       "category": "all-in-one",
@@ -7521,7 +7521,7 @@
     {
       "name": "Tube Archivist",
       "description": "Your self hosted YouTube media server",
-      "repo_url": "https://github.com/tubearchivist/tubearchivist?tab=readme-ov-file#installing",
+      "repo_url": "https://github.com/tubearchivist/tubearchivist",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "media-management",
@@ -7673,9 +7673,9 @@
       "homepage_url": "http://storm.genie.stanford.edu"
     },
     {
-      "name": "Claudia",
+      "name": "opcode",
       "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-      "repo_url": "https://github.com/getAsterisk/claudia",
+      "repo_url": "https://github.com/winfunc/opcode",
       "tags": [],
       "platforms": ["cross"],
       "category": "agent",
@@ -8011,7 +8011,7 @@
     {
       "name": "opencode",
       "description": "The open source coding agent.",
-      "repo_url": "https://github.com/sst/opencode",
+      "repo_url": "https://github.com/anomalyco/opencode",
       "tags": ["tui"],
       "platforms": ["cross"],
       "category": "agent",
@@ -8037,9 +8037,9 @@
       "homepage_url": "https://espanso.org"
     },
     {
-      "name": "Hyprnote",
+      "name": "anarlog",
       "description": "Open source Granola AI Alternative",
-      "repo_url": "https://github.com/fastrepl/hyprnote",
+      "repo_url": "https://github.com/fastrepl/anarlog",
       "tags": [],
       "platforms": ["cross"],
       "category": "transcription",
@@ -8627,7 +8627,7 @@
     {
       "name": "WebODM",
       "description": "User-friendly, commercial-grade software for processing aerial imagery. \u2708\ufe0f Download it for free!",
-      "repo_url": "https://github.com/OpenDroneMap/WebODM",
+      "repo_url": "https://github.com/WebODM/WebODM",
       "tags": [],
       "platforms": ["selfhost"],
       "category": "control",
@@ -9075,7 +9075,7 @@
     {
       "name": "Leader Key",
       "description": "The *faster than your launcher* launcher",
-      "repo_url": "https://github.com/mikker/LeaderKey.app",
+      "repo_url": "https://github.com/mikker/LeaderKey",
       "tags": [],
       "platforms": ["macos"],
       "category": "launcher",
@@ -9229,7 +9229,7 @@
     {
       "name": "bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
-      "repo_url": "https://github.com/permissionlesstech/bitchat?tab=readme-ov-file",
+      "repo_url": "https://github.com/permissionlesstech/bitchat",
       "tags": [],
       "platforms": ["mobile"],
       "category": "chat",
@@ -10195,7 +10195,7 @@
     {
       "name": "Zen",
       "description": "Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.",
-      "repo_url": "https://github.com/ZenPrivacy/zen-desktop",
+      "repo_url": "https://github.com/irbis-sh/zen-desktop",
       "tags": [],
       "platforms": ["cross"],
       "category": "ad-blocker",
