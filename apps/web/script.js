@@ -192,10 +192,10 @@ function renderApps() {
             <div class="item-group">
               <div class="app-tag">${escapeHTML(app.tags.join(", "))}</div>
               <a href="${escapeHTML(app.homepage_url)}">
-                <img src="../../assets/icon/box-arrow-up-right.svg" alt="Description of my SVG" width="15" height="15">
+                <img src="/assets/icon/box-arrow-up-right.svg" alt="Description of my SVG" width="15" height="15">
               </a>
               <a href="${escapeHTML(app.repo_url)}">
-                <img src="../../assets/icon/github.svg" alt="Description of my SVG" width="15" height="15">
+                <img src="/assets/icon/github.svg" alt="Description of my SVG" width="15" height="15">
               </a>
             </div>
         </div>
