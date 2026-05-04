@@ -1,5 +1,3 @@
 # Format Maintenance Report
 
-## Foliate
-- Duplicate GitHub URL
-
+No issues found. All applications are properly formatted.
