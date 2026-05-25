@@ -2,6 +2,7 @@
 
 ## Potentially Abandoned:
 - Duplicacy
+- GitHub Desktop - The Linux Fork
 - fullmoon
 
 ## Archived:
@@ -12,5 +13,6 @@ _None_
 
 ## Rebranded / Moved:
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
+- Gluetun (Moved to: https://github.com/passteque/gluetun)
 - Everywhere (Moved to: https://github.com/Sylinko/Everywhere)
 - MindForger (Moved to: https://github.com/dvorka-oss/mindforger)
