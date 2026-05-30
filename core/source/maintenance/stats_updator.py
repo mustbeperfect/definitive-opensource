@@ -9,6 +9,10 @@ with open("data/dynamic/applications.json", "r") as f:
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
+if GITHUB_TOKEN is None:
+    print("Error: GITHUB_TOKEN environment variable is not set.")
+    exit(1)
+
 headers = {
     "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json",
