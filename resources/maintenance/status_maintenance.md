@@ -8,12 +8,14 @@
 
 ## Archived:
 - Roo Code
+- Void
 - Refact
 
 ## No Longer Exists (404):
 _None_
 
 ## Rebranded / Moved:
+- OpenUtau (Moved to: https://github.com/openutau/OpenUtau)
 - Wealthfolio (Moved to: https://github.com/wealthfolio/wealthfolio)
 - Gluetun (Moved to: https://github.com/passteque/gluetun)
 - Everywhere (Moved to: https://github.com/Sylinko/Everywhere)
