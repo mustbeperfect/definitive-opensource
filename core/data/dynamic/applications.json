@@ -13508,6 +13508,22 @@
             "language": "Objective-C",
             "license": "BSD-3-Clause",
             "homepage_url": ""
+        },
+        {
+            "name": "Cate",
+            "description": "",
+            "repo_url": "https://github.com/0-AI-UG/cate",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ide",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": "https://cate.cero-ai.com"
         }
     ]
 }
