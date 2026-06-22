@@ -5,6 +5,7 @@
 - Duplicacy
 - GitHub Desktop - The Linux Fork
 - fullmoon
+- sshx
 
 ## Archived:
 - Verba
