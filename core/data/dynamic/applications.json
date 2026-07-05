@@ -3,7 +3,7 @@
     {
       "name": "Open Intepreter",
       "description": "A lightweight coding agent for open models like Deepseek, Kimi, and Qwen",
-      "repo_url": "https://github.com/OpenInterpreter/open-interpreter",
+      "repo_url": "https://github.com/openinterpreter/openinterpreter",
       "tags": ["manual"],
       "platforms": ["cross"],
       "category": "agent",
@@ -1935,7 +1935,7 @@
     {
       "name": "OpenUtau",
       "description": "Open singing synthesis platform / Open source UTAU successor",
-      "repo_url": "https://github.com/stakira/OpenUtau",
+      "repo_url": "https://github.com/openutau/OpenUtau",
       "tags": [],
       "platforms": ["cross"],
       "category": "audio-editor",
@@ -2747,7 +2747,7 @@
     {
       "name": "Ente",
       "description": "\ud83d\udc9a End-to-end encrypted cloud for everything.",
-      "repo_url": "https://github.com/ente-io/ente",
+      "repo_url": "https://github.com/ente/ente",
       "tags": [],
       "platforms": ["web-cloud"],
       "category": "media-management",
@@ -7101,7 +7101,7 @@
     {
       "name": "Wealthfolio",
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
-      "repo_url": "https://github.com/afadil/wealthfolio",
+      "repo_url": "https://github.com/wealthfolio/wealthfolio",
       "tags": [],
       "platforms": ["cross"],
       "category": "finance",
@@ -7199,7 +7199,7 @@
     {
       "name": "Bulk Crap Uninstaller",
       "description": "Remove large amounts of unwanted applications quickly.",
-      "repo_url": "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+      "repo_url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller",
       "tags": [],
       "platforms": ["windows"],
       "category": "cleaner",
@@ -8417,7 +8417,7 @@
     {
       "name": "Gluetun",
       "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
-      "repo_url": "https://github.com/qdm12/gluetun",
+      "repo_url": "https://github.com/passteque/gluetun",
       "tags": ["cli"],
       "platforms": ["selfhost"],
       "category": "vpn",
@@ -9495,7 +9495,7 @@
     {
       "name": "Everywhere",
       "description": "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.",
-      "repo_url": "https://github.com/DearVa/Everywhere",
+      "repo_url": "https://github.com/Sylinko/Everywhere",
       "tags": [],
       "platforms": ["windows"],
       "category": "context",
@@ -9957,7 +9957,7 @@
     {
       "name": "MindForger",
       "description": "Thinking notebook and Markdown editor.",
-      "repo_url": "https://github.com/dvorka/mindforger",
+      "repo_url": "https://github.com/dvorka-oss/mindforger",
       "tags": [],
       "platforms": ["cross"],
       "category": "knowledge-base",
@@ -10489,7 +10489,7 @@
     {
       "name": "PixelPlayer",
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
-      "repo_url": "https://github.com/theovilardo/PixelPlayer",
+      "repo_url": "https://github.com/PixelPlayerHQ/PixelPlayer",
       "tags": [],
       "platforms": ["android"],
       "category": "audio-player",
