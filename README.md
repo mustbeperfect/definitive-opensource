@@ -709,6 +709,7 @@ Abandoned - Development Halted
 | [PHP Monitor](https://github.com/nicoverbruggen/phpmon) | Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions, manage extensions, and quickly resolve issues automatically. | `MacOS` | **3.2k** |
 | [Postgres.app](https://github.com/PostgresApp/PostgresApp) | The easiest way to get started with PostgreSQL on the Mac | `MacOS` | **7.8k** |
 | [RepoBar](https://github.com/steipete/RepoBar) | Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. | `MacOS` | **2.1k** |
+| [Specmatic](https://github.com/specmatic/specmatic) `CLI` | Open-source tool for Contract-Driven Development and contract testing. | `Cross` | **0.3k** |
 | [typos](https://github.com/crate-ci/typos) `CLI` | Source code spell checker | `Cross` | **4k** |
 | [Watchexec](https://github.com/watchexec/watchexec) `CLI` | Executes commands in response to file modifications | `Cross` | **7k** |
 
