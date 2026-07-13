@@ -1,6 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- GPT crawler
 - GPT4ALL
 - Duplicacy
 - Natron
