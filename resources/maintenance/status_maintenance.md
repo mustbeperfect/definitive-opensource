@@ -4,7 +4,6 @@
 - GPT crawler
 - GPT4ALL
 - Duplicacy
-- Natron
 - zsh-autosuggestions
 - GitHub Desktop - The Linux Fork
 - fullmoon
