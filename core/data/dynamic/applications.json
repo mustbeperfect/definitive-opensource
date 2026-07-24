@@ -13424,6 +13424,27 @@
             "language": "Objective-C",
             "license": "BSD-3-Clause",
             "homepage_url": ""
+        },
+        {
+            "name": "Memdeklaro",
+            "description": "Memdeklaro (self-declaration of identity) is a self-hostable web app for decentralized peer-to-peer identity. Download the repo and open index.html in your browser to generate your decentralized identity.",
+            "repo_url": "https://github.com/memdeklaro/memdeklaro.github.io",
+            "tags": [
+                "web-ui",
+                "innovative"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "other",
+            "stars": 10,
+            "flags": [
+                "custom-description"
+            ],
+            "last_commit": "05/04/2026",
+            "language": "HTML",
+            "license": "Unlicense",
+            "homepage_url": "https://memdeklaro.org"
         }
     ]
 }
