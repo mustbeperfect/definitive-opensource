@@ -5,6 +5,7 @@
 - GPT4ALL
 - Duplicacy
 - zsh-autosuggestions
+- Quill
 - GitHub Desktop - The Linux Fork
 - fullmoon
 - sshx
