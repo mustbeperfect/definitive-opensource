@@ -1,6 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- WebUI Forge
 - GPT crawler
 - GPT4ALL
 - Duplicacy
@@ -17,4 +18,4 @@ _None_
 _None_
 
 ## Rebranded / Moved:
-_None_
+- Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
