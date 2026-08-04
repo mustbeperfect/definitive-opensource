@@ -165,6 +165,12 @@
       "description": ""
     },
     {
+      "name": "Discord Client",
+      "id": "discord-client",
+      "parent": "communication",
+      "description": ""
+    },
+    {
       "name": "Collaboration",
       "id": "collaboration",
       "parent": "communication",
