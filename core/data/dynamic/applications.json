@@ -13215,6 +13215,25 @@
             "homepage_url": "https://repo.bar"
         },
         {
+            "name": "Agent Island",
+            "description": "Status companion for AI coding agents: live session state, your-turn alerts, and locally computed usage and cost for Claude Code, Codex, Gemini, Grok and Cursor",
+            "repo_url": "https://github.com/tristan666666/agent-island",
+            "tags": [
+                "manual"
+            ],
+            "platforms": [
+                "macos",
+                "windows"
+            ],
+            "category": "dev-tools",
+            "stars": 117,
+            "flags": [],
+            "last_commit": "08/09/2026",
+            "language": "Swift",
+            "license": "MIT",
+            "homepage_url": "https://agent-island.dev"
+        },
+        {
             "name": "Device Activity Tracker",
             "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)",
             "repo_url": "https://github.com/gommzystudio/device-activity-tracker",
