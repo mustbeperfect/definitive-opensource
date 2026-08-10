@@ -4,7 +4,7 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- Duplicacy
+- CasaOS
 - zsh-autosuggestions
 - Quill
 - GitHub Desktop - The Linux Fork
@@ -19,3 +19,4 @@ _None_
 
 ## Rebranded / Moved:
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
+- WinBoat (Moved to: https://github.com/winboat-org/winboat)
