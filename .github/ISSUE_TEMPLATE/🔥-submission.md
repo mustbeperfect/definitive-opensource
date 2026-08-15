@@ -9,7 +9,7 @@ assignees: ''
 
 **Project name**
 
-**Star count**
+**Star count (MUST BE OVER 1K STARS)**
 
 **Describe the project**
 
