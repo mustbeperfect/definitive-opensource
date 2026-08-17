@@ -18,5 +18,6 @@ _None_
 _None_
 
 ## Rebranded / Moved:
+- Pelican Panel (Moved to: https://github.com/pelican/panel)
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
 - WinBoat (Moved to: https://github.com/winboat-org/winboat)
