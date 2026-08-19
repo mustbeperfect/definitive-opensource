@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mustbeperfect-definitive-opensource-badge.png)](https://mseep.ai/app/mustbeperfect-definitive-opensource)
+
 
 <table align="center">
     <tr>
