@@ -71,6 +71,11 @@
 			"id": "removal",
 			"description": "On Watch For Removal"
 		},
+		{
+      "emoji": "🤖",
+      "id": "ai",
+      "description": "Excessive AI Usage"
+      },
         {
 			"emoji": "💥",
 			"id": "disruptive",
