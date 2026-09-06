@@ -13506,6 +13506,24 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://vesktop.dev"
+        },
+        {
+            "name": "ReClip",
+            "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+            "repo_url": "https://github.com/averygan/reclip",
+            "tags": [
+                "web-ui"
+            ],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "media-downloader",
+            "stars": 0,
+            "flags": [],
+            "last_commit": "",
+            "language": "",
+            "license": "",
+            "homepage_url": ""
         }
     ]
 }
