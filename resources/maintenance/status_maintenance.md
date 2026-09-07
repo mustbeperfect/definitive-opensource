@@ -9,11 +9,14 @@
 - Quill
 - GitHub Desktop - The Linux Fork
 - fullmoon
+- Phoenix
 - sshx
 - percollate
 
 ## Archived:
+- File Browser
 - Airweave
+- Papermerge DMS
 
 ## No Longer Exists (404):
 _None_
