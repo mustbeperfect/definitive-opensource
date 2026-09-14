@@ -1,11 +1,12 @@
 
 # Architecture
-Here's a look at how this list works. 
+Here's a look at how this list works. (Needs to be updated)
 
 # The List Itself
 The core of this list is powered by Python using UV and Ruff for linting and formatting.
 
 ## README Generation
+
 All applications are stored inside [`applications.json`](core/data/dynamic/applications.json). Categories are declared inside [`categories.json`](core/data/static/categories.json). Instead of a nested format with subcategories as on object of it's parent, we've given subcategories a `parent` attribute. There's also a [`tags.json`](core/data/static/tags.json). Instead of putting the emoji inside of the ```tags``` attribute in `applications.json`, the id is used, for example, `commercial` or `disruptive`.. These id's are mapped to their corresponding emoji for when the READMEs are generated and makes``applications.json``` more readable. 
 
 The generation scripts are inside of the [`core/source/generation`](core/source/generation) directory. [`mainheader_generator.py`](core/source/generation/mainheader_generator.py) generates the very top header with the dynamic project count. Then, depending on the platform being generating, it inserts [`header.md`](core/components/header.md), [`macosheader.md`](core/components/macosheader.md), etc.
