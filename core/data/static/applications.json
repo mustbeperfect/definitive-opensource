@@ -10724,6 +10724,18 @@
             "category": "transcription",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Cate",
+            "description": "",
+            "repo_url": "https://github.com/0-AI-UG/cate",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "ide",
+            "flags": [],
+            "license": ""
         }
     ]
 }
