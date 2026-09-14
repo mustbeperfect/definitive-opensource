@@ -10525,6 +10525,18 @@
             "category": "transcription",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Portabase",
+            "description": "",
+            "repo_url": "https://github.com/Portabase/portabase",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "backup",
+            "flags": [],
+            "license": ""
         }
     ]
 }
