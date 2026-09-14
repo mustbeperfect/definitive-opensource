@@ -10243,6 +10243,80 @@
             "category": "discord-client",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Muesli",
+            "description": "",
+            "repo_url": "https://github.com/Muesli-HQ/muesli",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "hyprwhspr",
+            "description": "",
+            "repo_url": "https://github.com/goodroot/hyprwhspr",
+            "tags": [],
+            "platforms": [
+                "linux"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Amical",
+            "description": "",
+            "repo_url": "https://github.com/amicalhq/amical",
+            "tags": [],
+            "platforms": [
+                "windows",
+                "macos",
+                "android"
+            ],
+            "category": "",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "OpenSuperWhisper",
+            "description": "",
+            "repo_url": "https://github.com/Starmel/OpenSuperWhisper",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "OpenLess",
+            "description": "",
+            "repo_url": "https://github.com/Open-Less/openless",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "FluidVoice",
+            "description": "",
+            "repo_url": "https://github.com/altic-dev/FluidVoice",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
         }
     ]
 }
