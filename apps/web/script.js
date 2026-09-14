@@ -1,6 +1,6 @@
 const endpoints = {
   applications:
-    "https://raw.githubusercontent.com/mustbeperfect/definitive-opensource/main/core/data/dynamic/applications.json",
+    "https://raw.githubusercontent.com/mustbeperfect/definitive-opensource/main/core/data/dynamic/applications_generated.json",
   categories:
     "https://raw.githubusercontent.com/mustbeperfect/definitive-opensource/main/core/data/static/categories.json",
   platforms:
