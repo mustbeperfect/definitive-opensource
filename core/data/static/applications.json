@@ -4537,18 +4537,6 @@
             "license": ""
         },
         {
-            "name": "File Browser",
-            "description": "",
-            "repo_url": "https://github.com/filebrowser/filebrowser",
-            "tags": [],
-            "platforms": [
-                "selfhost"
-            ],
-            "category": "file-manager",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "LocalSend",
             "description": "",
             "repo_url": "https://github.com/localsend/localsend",
@@ -6461,21 +6449,6 @@
             "license": ""
         },
         {
-            "name": "Airweave",
-            "description": "",
-            "repo_url": "https://github.com/airweave-ai/airweave",
-            "tags": [
-                "manual",
-                "web-ui"
-            ],
-            "platforms": [
-                "cross"
-            ],
-            "category": "ai-utilities",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "mem0",
             "description": "",
             "repo_url": "https://github.com/mem0ai/mem0",
@@ -8119,18 +8092,6 @@
                 "selfhost"
             ],
             "category": "llm-gui",
-            "flags": [],
-            "license": ""
-        },
-        {
-            "name": "Papermerge DMS",
-            "description": "",
-            "repo_url": "https://github.com/ciur/papermerge",
-            "tags": [],
-            "platforms": [
-                "selfhost"
-            ],
-            "category": "document-management",
             "flags": [],
             "license": ""
         },
