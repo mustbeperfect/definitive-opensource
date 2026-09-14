@@ -7181,18 +7181,6 @@
             "license": ""
         },
         {
-            "name": "Requestly",
-            "description": "",
-            "repo_url": "https://github.com/requestly/requestly",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "api-client",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Plash",
             "description": "",
             "repo_url": "https://github.com/sindresorhus/Plash",
