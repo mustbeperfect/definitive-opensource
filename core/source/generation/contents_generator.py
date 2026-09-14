@@ -28,7 +28,7 @@ def format_stars(n):
 def generate_contents(platform="all"):
     with open("data/static/categories.json", "r", encoding="utf-8") as f:
         cat_data = json.load(f)
-    with open("data/dynamic/applications.json", "r", encoding="utf-8") as f:
+    with open("data/dynamic/applications_generated.json", "r", encoding="utf-8") as f:
         app_data = json.load(f)
     with open("data/static/tags.json", "r", encoding="utf-8") as f:
         tags_data = json.load(f)

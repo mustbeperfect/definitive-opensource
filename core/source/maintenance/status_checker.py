@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 import requests
 
-INPUT_FILE = "data/dynamic/applications.json"
+INPUT_FILE = "data/static/applications.json"
 OUTPUT_FILE = "../resources/maintenance/status_maintenance.md"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
