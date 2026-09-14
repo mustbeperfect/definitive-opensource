@@ -1,3 +1,11 @@
 # Format Maintenance Report
 
-No issues found. All applications are properly formatted.
+## Amical
+- Missing category
+
+## Dawarich
+- Duplicate GitHub URL
+
+## Vibe
+- Duplicate GitHub URL
+
