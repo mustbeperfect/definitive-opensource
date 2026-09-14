@@ -5090,7 +5090,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -5103,7 +5103,7 @@
                 "windows",
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -5457,7 +5457,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -6394,7 +6394,7 @@
                 "cross",
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -6418,7 +6418,7 @@
             "platforms": [
                 "n/a"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -7781,7 +7781,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -8179,7 +8179,7 @@
                 "chromium",
                 "firefox"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -9012,7 +9012,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -9318,7 +9318,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -9818,7 +9818,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -10029,7 +10029,7 @@
             "platforms": [
                 "selfhost"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -10081,7 +10081,7 @@
             "platforms": [
                 "cross"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -10178,7 +10178,7 @@
             "platforms": [
                 "macos"
             ],
-            "category": "other",
+            "category": "misc",
             "flags": [],
             "license": ""
         },
@@ -10313,6 +10313,214 @@
             "tags": [],
             "platforms": [
                 "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "SuperCmd",
+            "description": "",
+            "repo_url": "https://github.com/SuperCmdLabs/SuperCmd",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "launcher",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "RustCast",
+            "description": "",
+            "repo_url": "https://github.com/MystikoLab/rustcast",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "launcher",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Pomotroid",
+            "description": "",
+            "repo_url": "https://github.com/Splode/pomotroid",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "time-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Pomatez",
+            "description": "",
+            "repo_url": "https://github.com/zidoro/pomatez",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "time-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Cati.me",
+            "description": "",
+            "repo_url": "https://github.com/vladelaina/Catime",
+            "tags": [],
+            "platforms": [
+                "windows"
+            ],
+            "category": "time-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "GPSLogger",
+            "description": "",
+            "repo_url": "https://github.com/mendhak/gpslogger",
+            "tags": [],
+            "platforms": [
+                "android"
+            ],
+            "category": "mapping",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Dawarich",
+            "description": "",
+            "repo_url": "https://github.com/Freika/dawarich",
+            "tags": [],
+            "platforms": [
+                "mobile",
+                "selfhost"
+            ],
+            "category": "mapping",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "gpx.studio",
+            "description": "",
+            "repo_url": "https://github.com/gpxstudio/gpx.studio",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "mapping",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Organic Maps",
+            "description": "",
+            "repo_url": "https://github.com/organicmaps/organicmaps",
+            "tags": [],
+            "platforms": [
+                "mobile"
+            ],
+            "category": "mapping",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Traccar",
+            "description": "",
+            "repo_url": "https://github.com/traccar/traccar",
+            "tags": [],
+            "platforms": [
+                "web-cloud",
+                "selfhost"
+            ],
+            "category": "mapping",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Habitica",
+            "description": "",
+            "repo_url": "https://github.com/HabitRPG/habitica",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "task-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "MusicBrainz Picard",
+            "description": "",
+            "repo_url": "https://github.com/metabrainz/picard",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "media-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "minutes",
+            "description": "",
+            "repo_url": "https://github.com/silverstein/minutes",
+            "tags": [
+              "cli-plus"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Speaches",
+            "description": "",
+            "repo_url": "https://github.com/speaches-ai/speaches",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Vibe",
+            "description": "",
+            "repo_url": "https://github.com/thewh1teagle/vibe",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "OpenWhispr",
+            "description": "",
+            "repo_url": "https://github.com/OpenWhispr/openwhispr",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Buzz",
+            "description": "",
+            "repo_url": "https://github.com/chidiwilliams/buzz",
+            "tags": [],
+            "platforms": [
+                "cross"
             ],
             "category": "transcription",
             "flags": [],
