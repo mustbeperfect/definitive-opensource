@@ -10525,6 +10525,205 @@
             "category": "backup",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "TomatoBar",
+            "description": "",
+            "repo_url": "https://github.com/ivoronin/TomatoBar",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "time-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Vorssaint",
+            "description": "",
+            "repo_url": "https://github.com/vorssaint/vorssaint-utils",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "kan.bn",
+            "description": "",
+            "repo_url": "https://github.com/kanbn/kan",
+            "tags": [],
+            "platforms": [
+                "web-cloud"
+            ],
+            "category": "task-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "adguard mini",
+            "description": "",
+            "repo_url": "https://github.com/AdguardTeam/AdGuardMiniForMac",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "ad-blocker",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "WhatCable",
+            "description": "",
+            "repo_url": "https://github.com/darrylmorley/whatcable",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Thaw",
+            "description": "",
+            "repo_url": "https://github.com/thaw-app/Thaw",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "macos",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "quill",
+            "description": "",
+            "repo_url": "https://github.com/digimata/quill",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "GoofCord",
+            "description": "",
+            "repo_url": "https://github.com/Milkshiift/GoofCord",
+            "tags": [],
+            "platforms": [
+                "cross"
+            ],
+            "category": "discord-client",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Spacebar",
+            "description": "",
+            "repo_url": "https://github.com/spacebarchat/spacebarchat",
+            "tags": [],
+            "platforms": [
+                "selfhost"
+            ],
+            "category": "discord-client",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Toxic",
+            "description": "",
+            "repo_url": "https://github.com/JFreegman/toxic",
+            "tags": [
+              "cli-plus"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "chat",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Dusklight",
+            "description": "",
+            "repo_url": "https://github.com/TwilitRealm/dusklight",
+            "tags": [],
+            "platforms": [
+                "cross",
+                "mobile"
+            ],
+            "category": "games",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Streamyfin",
+            "description": "",
+            "repo_url": "https://github.com/streamyfin/streamyfin",
+            "tags": [],
+            "platforms": [
+                "ios"
+            ],
+            "category": "media-management",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "oMLX",
+            "description": "",
+            "repo_url": "https://github.com/jundot/omlx",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "manager",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Swing Music",
+            "description": "",
+            "repo_url": "https://github.com/swingmx/swingmusic",
+            "tags": [],
+            "platforms": [
+                "selfhost",
+                "cross",
+                "android"
+            ],
+            "category": "audio-player",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "Soundcloud Music Downloader",
+            "description": "",
+            "repo_url": "https://github.com/scdl-org/scdl",
+            "tags": [
+              "cli-plus"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "media-downloader",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "TypeWhisper",
+            "description": "",
+            "repo_url": "https://github.com/TypeWhisper/typewhisper-mac",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "transcription",
+            "flags": [],
+            "license": ""
         }
     ]
 }
