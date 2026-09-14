@@ -1,6 +1,6 @@
 import json
 
-with open("data/dynamic/applications.json") as f:
+with open("data/static/applications.json") as f:
     applications = json.load(f)["applications"]
 
 with open("data/static/categories.json") as f:

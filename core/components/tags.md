@@ -23,6 +23,8 @@
 
 `❌` - On watch for removal
 
+`🤖` - Excessive AI Usage
+
 ### Highlights
 `💥` - Disruptive
 

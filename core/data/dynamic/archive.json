@@ -129,6 +129,51 @@
       "name": "Booklore",
       "repo_url": "https://github.com/booklore-app/booklore",
       "reason": "deleted"
+    },
+    {
+      "name": "Verba",
+      "repo_url": "https://github.com/weaviate/verba",
+      "reason": "archived"
+    },
+    {
+      "name": "Roo Code",
+      "repo_url": "https://github.com/RooCodeInc/Roo-Code",
+      "reason": "archived"
+    },
+    {
+      "name": "Void",
+      "repo_url": "https://github.com/voideditor/void",
+      "reason": "archived"
+    },
+    {
+      "name": "Refact",
+      "repo_url": "https://github.com/smallcloudai/refact",
+      "reason": "archived"
+    },
+    {
+      "name": "Maestral",
+      "repo_url": "https://github.com/samschott/maestral",
+      "reason": "archived"
+    },
+    {
+      "name": "File Browser",
+      "repo_url": "https://github.com/filebrowser/filebrowser",
+      "reason": "archived"
+    },
+    {
+      "name": "Airweave",
+      "repo_url": "https://github.com/airweave-ai/airweave",
+      "reason": "archived"
+    },
+    {
+      "name": "Maestral",
+      "repo_url": "https://github.com/samschott/maestral",
+      "reason": "archived"
+    },
+    {
+      "name": "Papermerge DMS",
+      "repo_url": "https://github.com/ciur/papermerge",
+      "reason": "archived"
     }
   ]
 }
