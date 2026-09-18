@@ -75,6 +75,9 @@ Requirements with no exception:
 - Must have 1k stars. The most fundamental requirement with no exceptions.
 - Must have had a commit in the last year
 
+More relaxed guidelines:
+- Established (not a brand new hype project, a history of activity)
+
 ## What is Open Source?
 The project should abide by the [Open Source Definition (OSD)](https://opensource.org/osd). 
 The project's license should be an [OSI Approved License](https://opensource.org/licenses). If not, it should fall under the OSD. 
