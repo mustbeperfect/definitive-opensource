@@ -3,9 +3,9 @@
 
 
 .line-x {
-    @apply min-h-px bg-gray-2;
+    @apply min-h-px bg-gray-2 h-full;
 }
 
 .line-y {
-    @apply min-w-px bg-gray-2;
+    @apply min-w-px bg-gray-2 w-full;
 }

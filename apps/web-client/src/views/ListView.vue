@@ -1,5 +1,7 @@
 
 <template>
+  <div class="w-full font-bold text-center p-2">CURRENTLY IN DEVELOPMENT</div>
+  <div class="line-y"></div>
   <div class="">
 
     <div v-if="loading" class="status">Loading applications...</div>
