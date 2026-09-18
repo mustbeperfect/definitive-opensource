@@ -1,18 +1,11 @@
 @import './base.css';
 @import "tailwindcss";
 
-#app {
-  max-width: 1280px;
-}
-
-html {
-    background-color: black;
-}
 
 .line-x {
-    @apply min-h-px bg-gray2;
+    @apply min-h-px bg-gray-2;
 }
 
 .line-y {
-    @apply min-w-px bg-gray2;
+    @apply min-w-px bg-gray-2;
 }

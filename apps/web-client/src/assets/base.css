@@ -1,4 +1,23 @@
 /* color palette from <https://github.com/vuejs/theme> */
+
+@theme {
+  --color-gray-1: #111111;
+  --color-gray-2: #222222;
+  --color-gray-3: #333333;
+  --color-gray-4: #444444;
+  --color-gray-5: #555555;
+  --color-gray-6: #666666;
+  --color-gray-7: #777777;
+  --color-gray-8: #888888;
+  --color-gray-9: #999999;
+  --color-gray-a: #aaaaaa;
+  --color-gray-b: #bbbbbb;
+  --color-gray-c: #cccccc;
+  --color-gray-d: #dddddd;
+  --color-gray-e: #eeeeee;
+}
+
+
 :root {
   --vt-c-white: #ffffff;
   --vt-c-white-soft: #f8f8f8;
@@ -21,23 +40,6 @@
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
 }
 
-:root {
-    --gray-1: #111111;
-    --gray-2: #222222;
-    --gray-3: #333333;
-    --gray-4: #444444;
-    --gray-5: #555555;
-    --gray-6: #666666;
-    --gray-7: #777777;
-    --gray-8: #888888;
-    --gray-9: #999999;
-    --gray-a: #aaaaaa;
-    --gray-b: #bbbbbb;
-    --gray-c: #cccccc;
-    --gray-d: #dddddd;
-    --gray-e: #eeeeee;
-}
-
 /* semantic color variables for this project */
 :root {
   --color-background: var(--vt-c-white);
@@ -52,7 +54,7 @@
 
   --section-gap: 160px;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --color-background: var(--vt-c-black);
@@ -66,13 +68,13 @@
     --color-text: var(--vt-c-text-dark-2);
   }
 }
+ */
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
   margin: 0;
-  font-weight: normal;
 }
 
 body {

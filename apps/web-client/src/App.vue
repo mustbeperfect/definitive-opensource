@@ -1,17 +1,13 @@
-<script setup lang="ts">
-
-</script>
 
 <template>
-  <MainHeader>
 
 
-
-  </MainHeader>
-
-  <RouterView />
+  <main>
+    <router-view />
+  </main>
 </template>
 
 <style scoped>
 
 </style>
+

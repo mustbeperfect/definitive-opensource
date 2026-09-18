@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <header class="w-full p-6 flex items-center justify-center text-white">
     definitive-opensource
-  </div>
+  </header>
 </template>
 
 <style scoped>
