@@ -3,11 +3,11 @@
 </script>
 
 <template>
-  <header>
+  <MainHeader>
 
 
 
-  </header>
+  </MainHeader>
 
   <RouterView />
 </template>
