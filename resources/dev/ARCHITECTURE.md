@@ -1,9 +1,9 @@
 
 # Architecture
-Here's a look at how this list works. (Needs to be updated)
+Here's a look at how this list works.
 
 # The List Itself
-The core of this list is powered by Python using UV and Ruff for linting and formatting.
+The core of this list is powered by Python using UV and Ruff for linting and formatting. 
 
 ## README Generation
 

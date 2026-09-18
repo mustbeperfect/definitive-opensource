@@ -7157,18 +7157,6 @@
             "license": ""
         },
         {
-            "name": "Dawarich",
-            "description": "",
-            "repo_url": "https://github.com/Freika/dawarich",
-            "tags": [],
-            "platforms": [
-                "selfhost"
-            ],
-            "category": "uncategorized",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Restfox",
             "description": "",
             "repo_url": "https://github.com/flawiddsouza/Restfox",
@@ -7430,18 +7418,6 @@
                 "macos"
             ],
             "category": "macos",
-            "flags": [],
-            "license": ""
-        },
-        {
-            "name": "Vibe",
-            "description": "",
-            "repo_url": "https://github.com/thewh1teagle/vibe",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "uncategorized",
             "flags": [],
             "license": ""
         },
@@ -10266,7 +10242,7 @@
                 "macos",
                 "android"
             ],
-            "category": "",
+            "category": "transcription",
             "flags": [],
             "license": ""
         },
