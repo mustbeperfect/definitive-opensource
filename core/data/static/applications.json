@@ -20,15 +20,18 @@
             "repo_url": "https://github.com/screenpipe/screenpipe",
             "tags": [
                 "commercial",
-                "disruptive"
+                "disruptive",
+                "restrictive-license"
             ],
             "platforms": [
                 "macos",
                 "windows"
             ],
             "category": "context",
-            "flags": [],
-            "license": ""
+            "flags": [
+                "custom-license"
+            ],
+            "license": "Screenpipe Commercial License"
         },
         {
             "name": "gptme",
