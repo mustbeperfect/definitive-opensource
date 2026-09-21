@@ -1,11 +1,5 @@
 # Format Maintenance Report
 
-## Amical
-- Missing category
-
-## Dawarich
-- Duplicate GitHub URL
-
-## Vibe
+## Swing Music
 - Duplicate GitHub URL
 
