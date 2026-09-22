@@ -3,388 +3,277 @@
         {
             "name": "Grimoire",
             "repo_url": "https://github.com/goniszewski/grimoire",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Cerebro",
             "repo_url": "https://github.com/cerebroapp/cerebro",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Yacht",
             "repo_url": "https://github.com/SelfhostedPro/Yacht",
-            "note": "Coming back from an un-maintained state",
-            "last_commit": "",
-            "stars": 0
+            "note": "Coming back from an un-maintained state"
         },
         {
             "name": "Lorien",
             "repo_url": "https://github.com/mbrlabs/Lorien",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Pinry",
             "repo_url": "https://github.com/pinry/pinry",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Weylus",
             "repo_url": "https://github.com/H-M-H/Weylus",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "WindTerm",
             "repo_url": "https://github.com/kingToolbox/WindTerm",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Phoenix",
             "repo_url": "https://github.com/kasper/phoenix",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "R&D-Agent",
             "repo_url": "https://github.com/microsoft/RD-Agent",
-            "note": "Might not be relevant to this list",
-            "last_commit": "",
-            "stars": 0
+            "note": "Might not be relevant to this list"
         },
         {
             "name": "Firecamp",
             "repo_url": "https://github.com/firecamp-dev/firecamp",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Sidekick",
             "repo_url": "https://github.com/johnbean393/Sidekick",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "pad.ws",
             "repo_url": "https://github.com/coderamp-labs/pad.ws",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "AM",
             "repo_url": "https://github.com/ivan-hc/AM",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Cartridges",
             "repo_url": "https://github.com/kra-mo/cartridges",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Gauntlet",
             "repo_url": "https://github.com/project-gauntlet/gauntlet",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Raindrop.io",
             "repo_url": "https://github.com/raindropio/app",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Astra Monitor",
             "repo_url": "https://github.com/AstraExt/astra-monitor",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Klee",
             "repo_url": "https://github.com/signerlabs/Klee",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Rustpad",
             "repo_url": "https://github.com/ekzhang/rustpad",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Slash",
             "repo_url": "https://github.com/yourselfhosted/slash",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "openHAB",
             "repo_url": "https://github.com/openhab/openhab-distro",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Reiverr",
             "repo_url": "https://github.com/aleksilassila/reiverr",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "tillywork",
             "repo_url": "https://github.com/tillywork/tillywork",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "oh-my-fish",
             "repo_url": "https://github.com/oh-my-fish/oh-my-fish",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "TrackWeight",
             "repo_url": "https://github.com/KrishKrosh/TrackWeight",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Cartero",
             "repo_url": "https://github.com/danirod/cartero",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Yaade",
             "repo_url": "https://github.com/EsperoTech/yaade",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Flare",
             "repo_url": "https://github.com/ByteAtATime/flare",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "OM1",
             "repo_url": "https://github.com/OpenMind/OM1",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Rclone UI",
             "repo_url": "https://github.com/rclone-ui/rclone-ui",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Nook",
             "repo_url": "https://github.com/nook-browser/Nook",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "SSH Pilot",
             "repo_url": "https://github.com/mfat/sshpilot",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Pi Stats",
             "repo_url": "https://github.com/Bunn/PiStats",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Glide Browser",
             "repo_url": "https://github.com/glide-browser/glide",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "KeepTrack",
             "repo_url": "https://github.com/thkruz/keeptrack.space",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "VoiceInk",
             "repo_url": "https://github.com/Beingpax/VoiceInk",
-            "note": "Waiting on maturity, potentially vibe coded",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity, potentially vibe coded"
         },
         {
             "name": "Kanri",
             "repo_url": "https://github.com/kanriapp/kanri",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "RsyncUI",
             "repo_url": "https://github.com/rsyncOSX/RsyncUI",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "LaunchNext",
             "repo_url": "https://github.com/RoversX/LaunchNext",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Osaurus",
             "repo_url": "https://github.com/dinoki-ai/osaurus",
-            "note": "Waiting on maturity, potentially vibe coded",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity, potentially vibe coded"
         },
         {
             "name": "Bananas",
             "repo_url": "https://github.com/mistweaverco/bananas",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Mochi Diffusion",
             "repo_url": "https://github.com/MochiDiffusion/MochiDiffusion",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "polaris",
             "repo_url": "https://github.com/agersant/polaris",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Clop",
             "repo_url": "https://github.com/FuzzyIdeas/Clop",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Taiga Docker",
             "repo_url": "https://github.com/taigaio/taiga-docker",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Presentator",
             "repo_url": "https://github.com/presentator/presentator",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Ora Browser",
             "repo_url": "https://github.com/the-ora/browser",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Vividl",
             "repo_url": "https://github.com/Bluegrams/Vividl",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "ytdlp-interface",
             "repo_url": "https://github.com/ErrorFlynn/ytdlp-interface",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Blender Launcher V2",
             "repo_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Lenovo Legion Toolkit",
             "repo_url": "https://github.com/XKaguya/LenovoLegionToolkit",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "Lepton",
             "repo_url": "https://github.com/hackjutsu/Lepton",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Petrichor",
             "repo_url": "https://github.com/kushalpandya/Petrichor",
-            "note": "Waiting on maturity",
-            "last_commit": "",
-            "stars": 0
+            "note": "Waiting on maturity"
         },
         {
             "name": "BLEUnlock",
             "repo_url": "https://github.com/ts1/BLEUnlock",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         },
         {
             "name": "Librum",
             "repo_url": "https://github.com/Librum-Reader/Librum",
-            "note": "Potentially abandoned",
-            "last_commit": "",
-            "stars": 0
+            "note": "Potentially abandoned"
         }
     ]
-
 }
