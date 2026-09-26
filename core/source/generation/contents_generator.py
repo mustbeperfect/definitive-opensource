@@ -1,38 +1,26 @@
 import json
+from pathlib import Path
+import sys
 
+CORE_DIR = Path(__file__).resolve().parents[2]
+if str(CORE_DIR) not in sys.path:
+    sys.path.insert(0, str(CORE_DIR))
 
-# Utils
-def slugify(name):
-    return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
-
-
-def extract_repo_path(link):
-    parts = link.rstrip("/").split("/")
-    if len(parts) >= 5:
-        return f"{parts[-2]}/{parts[-1]}"
-    return ""
-
-
-def format_stars(n):
-    if n >= 1_000_000:
-        formatted = f"{n / 1_000_000:.1f}M"
-        return formatted.replace(".0M", "M")
-    elif n >= 1_000:
-        formatted = f"{n / 1_000:.1f}k"
-        return formatted.replace(".0k", "k")
-    else:
-        return str(n)
+from source.utils.markdown_utils import format_stars, sanitize_table_cell  # noqa: E402
+from source.utils.path_utils import DYNAMIC_DATA_DIR, STATIC_DATA_DIR  # noqa: E402
 
 
 # Generates actual list contents in markdown (categories and projects within)
 def generate_contents(platform="all"):
-    with open("data/static/categories.json", "r", encoding="utf-8") as f:
+    with open(STATIC_DATA_DIR / "categories.json", "r", encoding="utf-8") as f:
         cat_data = json.load(f)
-    with open("data/dynamic/applications_generated.json", "r", encoding="utf-8") as f:
+    with open(
+        DYNAMIC_DATA_DIR / "applications_generated.json", "r", encoding="utf-8"
+    ) as f:
         app_data = json.load(f)
-    with open("data/static/tags.json", "r", encoding="utf-8") as f:
+    with open(STATIC_DATA_DIR / "tags.json", "r", encoding="utf-8") as f:
         tags_data = json.load(f)
-    with open("data/static/platforms.json", "r", encoding="utf-8") as f:
+    with open(STATIC_DATA_DIR / "platforms.json", "r", encoding="utf-8") as f:
         platforms_data = json.load(f)
 
     categories = cat_data.get("categories", [])
@@ -103,7 +91,7 @@ def generate_contents(platform="all"):
             apps = apps_by_subcat.get(sub["id"], [])
             for app in apps:
                 name = app.get("name", "")
-                description = (app.get("description") or "").replace("|", "-")
+                description = sanitize_table_cell(app.get("description"))
                 link = app.get("repo_url", "#")
                 attribute_tags = ""
                 property_tags = ""
@@ -132,7 +120,6 @@ def generate_contents(platform="all"):
                 stars_formatted = (
                     f"**{format_stars(stars)}**" if stars is not None else ""
                 )
-                # repo_path = extract_repo_path(link)
                 md_output += f"| [{name}]({link}){attribute_tags}{property_tags} | {description} | {app_platforms} | {stars_formatted} |\n"
             md_output += "\n"
     return md_output

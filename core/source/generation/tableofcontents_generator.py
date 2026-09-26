@@ -1,13 +1,17 @@
 import json
+from pathlib import Path
+import sys
 
+CORE_DIR = Path(__file__).resolve().parents[2]
+if str(CORE_DIR) not in sys.path:
+    sys.path.insert(0, str(CORE_DIR))
 
-# Utils
-def slugify(name):
-    return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
+from source.utils.markdown_utils import slugify  # noqa: E402
+from source.utils.path_utils import STATIC_DATA_DIR  # noqa: E402
 
 
 def generate_table_of_contents():
-    with open("data/static/categories.json", "r", encoding="utf-8") as f:
+    with open(STATIC_DATA_DIR / "categories.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     categories = data.get("categories", [])
     subcategories = data.get("subcategories", [])

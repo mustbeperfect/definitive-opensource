@@ -1,22 +1,17 @@
 import json
 from pathlib import Path
+import sys
 
-try:
-    from source.utils.github_utils import (
-        extract_repo_path,
-        fetch_repo_summary,
-        get_github_headers,
-        get_github_token,
-    )
-except ImportError:
-    from source.utils.github_utils import (
-        extract_repo_path,
-        fetch_repo_summary,
-        get_github_headers,
-        get_github_token,
-    )
+CORE_DIR = Path(__file__).resolve().parents[2]
+if str(CORE_DIR) not in sys.path:
+    sys.path.insert(0, str(CORE_DIR))
 
-CORE_DIR = Path(__file__).resolve().parent.parent.parent
+from source.utils.github_utils import (  # noqa: E402
+    extract_repo_path,
+    fetch_repo_summary,
+    get_github_headers,
+    get_github_token,
+)
 
 
 def generate_backlog(

@@ -1,51 +1,14 @@
-from datetime import datetime
 import json
 from pathlib import Path
+import sys
 
-CORE_DIR = Path(__file__).resolve().parent.parent.parent
-REPO_ROOT = CORE_DIR.parent
+CORE_DIR = Path(__file__).resolve().parents[2]
+if str(CORE_DIR) not in sys.path:
+    sys.path.insert(0, str(CORE_DIR))
 
-
-def format_stars(stars: int | None) -> str:
-    if stars is None:
-        return "0"
-    return f"{stars:,}"
-
-
-def format_time_ago(commit_date_str: str) -> str:
-    if not commit_date_str:
-        return "N/A"
-    try:
-        commit_date = datetime.strptime(commit_date_str, "%m/%d/%Y").date()
-    except Exception:
-        return "Unknown"
-
-    today = datetime.now().date()
-    days = (today - commit_date).days
-
-    if days < 0:
-        return "Today"
-    if days == 0:
-        return "Today"
-    if days == 1:
-        return "Yesterday"
-    if days < 7:
-        return f"{days} days ago"
-    if days < 30:
-        weeks = days // 7
-        return f"{weeks} week{'s' if weeks > 1 else ''} ago"
-    if days < 365:
-        months = days // 30
-        return f"{months} month{'s' if months > 1 else ''} ago"
-
-    years = days // 365
-    remaining_months = (days % 365) // 30
-    if remaining_months > 0:
-        return (
-            f"{years} yr{'s' if years > 1 else ''}, "
-            f"{remaining_months} mo{'s' if remaining_months > 1 else ''} ago"
-        )
-    return f"{years} year{'s' if years > 1 else ''} ago"
+from source.utils.github_utils import format_time_ago  # noqa: E402
+from source.utils.markdown_utils import format_stars, sanitize_table_cell  # noqa: E402
+from source.utils.path_utils import DYNAMIC_DATA_DIR, MAINTENANCE_DIR  # noqa: E402
 
 
 def resolve_paths(
@@ -53,22 +16,12 @@ def resolve_paths(
     output_file: Path | str | None = None,
 ) -> tuple[Path, Path]:
     if input_file is None:
-        if Path("data/dynamic/backlog_generated.json").exists():
-            input_path = Path("data/dynamic/backlog_generated.json")
-        elif Path("core/data/dynamic/backlog_generated.json").exists():
-            input_path = Path("core/data/dynamic/backlog_generated.json")
-        else:
-            input_path = CORE_DIR / "data" / "dynamic" / "backlog_generated.json"
+        input_path = DYNAMIC_DATA_DIR / "backlog_generated.json"
     else:
         input_path = Path(input_file)
 
     if output_file is None:
-        if Path("resources/maintenance").exists():
-            output_path = Path("resources/maintenance/backlog.md")
-        elif Path("../resources/maintenance").exists():
-            output_path = Path("../resources/maintenance/backlog.md")
-        else:
-            output_path = REPO_ROOT / "resources" / "maintenance" / "backlog.md"
+        output_path = MAINTENANCE_DIR / "backlog.md"
     else:
         output_path = Path(output_file)
 
@@ -95,14 +48,14 @@ def generate_backlog_markdown(
     ]
 
     for app in applications:
-        name = (app.get("name") or "Unknown Project").replace("|", "-").strip()
+        name = sanitize_table_cell(app.get("name") or "Unknown Project")
         repo_url = (app.get("repo_url") or "").strip()
-        note = (app.get("note") or "").replace("|", "-").strip()
+        note = sanitize_table_cell(app.get("note"))
         last_commit = (app.get("last_commit") or "").strip()
         stars = app.get("stars", 0)
 
         project_link = f"[{name}]({repo_url})" if repo_url else name
-        stars_formatted = format_stars(stars)
+        stars_formatted = format_stars(stars, compact=False)
         last_commit_display = last_commit if last_commit else "N/A"
         time_ago_display = format_time_ago(last_commit)
 

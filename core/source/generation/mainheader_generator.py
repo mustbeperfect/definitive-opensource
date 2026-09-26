@@ -1,9 +1,19 @@
 import json
+from pathlib import Path
+import sys
+
+CORE_DIR = Path(__file__).resolve().parents[2]
+if str(CORE_DIR) not in sys.path:
+    sys.path.insert(0, str(CORE_DIR))
+
+from source.utils.path_utils import DYNAMIC_DATA_DIR  # noqa: E402
 
 
 # Generates mainheader with dynamic project count
 def generate_mainheader():
-    with open("data/dynamic/applications_generated.json", "r", encoding="utf-8") as f:
+    with open(
+        DYNAMIC_DATA_DIR / "applications_generated.json", "r", encoding="utf-8"
+    ) as f:
         data = json.load(f)
 
     project_count = len(data.get("applications", []))

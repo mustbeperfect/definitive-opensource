@@ -62,6 +62,41 @@ def format_commit_date(pushed_at: str | None) -> str:
             return str(pushed_at)
 
 
+def format_time_ago(commit_date_str: str) -> str:
+    """Format an %m/%d/%Y commit date string as a relative human-readable time."""
+    if not commit_date_str:
+        return "N/A"
+    try:
+        commit_date = datetime.strptime(commit_date_str, "%m/%d/%Y").date()
+    except Exception:
+        return "Unknown"
+
+    today = datetime.now().date()
+    days = (today - commit_date).days
+
+    if days <= 0:
+        return "Today"
+    if days == 1:
+        return "Yesterday"
+    if days < 7:
+        return f"{days} days ago"
+    if days < 30:
+        weeks = days // 7
+        return f"{weeks} week{'s' if weeks > 1 else ''} ago"
+    if days < 365:
+        months = days // 30
+        return f"{months} month{'s' if months > 1 else ''} ago"
+
+    years = days // 365
+    remaining_months = (days % 365) // 30
+    if remaining_months > 0:
+        return (
+            f"{years} yr{'s' if years > 1 else ''}, "
+            f"{remaining_months} mo{'s' if remaining_months > 1 else ''} ago"
+        )
+    return f"{years} year{'s' if years > 1 else ''} ago"
+
+
 def fetch_repo_data(
     repo_path: str,
     headers: dict | None = None,
