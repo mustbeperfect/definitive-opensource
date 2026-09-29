@@ -289,7 +289,7 @@ class TestJsonFormatter(unittest.TestCase):
             json.dumps({"applications": []}),
             encoding="utf-8",
         )
-        (dynamic_dir / "archive.json").write_text(
+        (static_dir / "archive.json").write_text(
             json.dumps({"applications": []}),
             encoding="utf-8",
         )

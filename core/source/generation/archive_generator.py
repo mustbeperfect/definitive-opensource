@@ -6,7 +6,7 @@ CORE_DIR = Path(__file__).resolve().parents[2]
 if str(CORE_DIR) not in sys.path:
     sys.path.insert(0, str(CORE_DIR))
 
-from source.utils.path_utils import DYNAMIC_DATA_DIR  # noqa: E402
+from source.utils.path_utils import STATIC_DATA_DIR  # noqa: E402
 
 REASON_LABELS = {
     "closed-source": "Closed Source",
@@ -29,7 +29,7 @@ def format_reason(reason):
 
 
 def generate_archive_section():
-    with open(DYNAMIC_DATA_DIR / "archive.json", "r", encoding="utf-8") as f:
+    with open(STATIC_DATA_DIR / "archive.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     applications = data.get("applications", [])

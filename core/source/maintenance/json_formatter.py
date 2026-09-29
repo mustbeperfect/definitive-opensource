@@ -440,8 +440,11 @@ def run_format_checks(
     )
 
     backlog_issues = validate_backlog(static_dir / "backlog.json")
+    archive_path = static_dir / "archive.json"
+    if not archive_path.exists() and (dynamic_dir / "archive.json").exists():
+        archive_path = dynamic_dir / "archive.json"
     archive_issues = validate_archive(
-        archive_path=dynamic_dir / "archive.json",
+        archive_path=archive_path,
         valid_reasons=VALID_ARCHIVE_REASONS,
         active_app_urls=seen_app_urls,
     )
