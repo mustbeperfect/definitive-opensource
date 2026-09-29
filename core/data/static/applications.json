@@ -1,7 +1,7 @@
 {
     "applications": [
         {
-            "name": "Open Intepreter",
+            "name": "Open Interpreter",
             "description": "",
             "repo_url": "https://github.com/openinterpreter/openinterpreter",
             "tags": [
@@ -8625,11 +8625,10 @@
             "name": "Zitadel",
             "description": "",
             "repo_url": "https://github.com/zitadel/zitadel",
-            "tags": [
-                "web-cloud"
-            ],
+            "tags": [],
             "platforms": [
-                "selfhost"
+                "selfhost",
+                "web-cloud"
             ],
             "category": "authentication",
             "flags": [],
@@ -9324,19 +9323,6 @@
                 "cross"
             ],
             "category": "backup",
-            "flags": [],
-            "license": ""
-        },
-        {
-            "name": "Swing Music",
-            "description": "",
-            "repo_url": "https://github.com/swingmx/swingmusic",
-            "tags": [],
-            "platforms": [
-                "cross",
-                "selfhost"
-            ],
-            "category": "audio-player",
             "flags": [],
             "license": ""
         },
@@ -10436,7 +10422,7 @@
             "description": "",
             "repo_url": "https://github.com/silverstein/minutes",
             "tags": [
-              "cli-plus"
+                "cli-plus"
             ],
             "platforms": [
                 "cross"
@@ -10618,7 +10604,7 @@
             "description": "",
             "repo_url": "https://github.com/JFreegman/toxic",
             "tags": [
-              "cli-plus"
+                "cli-plus"
             ],
             "platforms": [
                 "cross"
@@ -10683,7 +10669,7 @@
             "description": "",
             "repo_url": "https://github.com/scdl-org/scdl",
             "tags": [
-              "cli-plus"
+                "cli-plus"
             ],
             "platforms": [
                 "cross"

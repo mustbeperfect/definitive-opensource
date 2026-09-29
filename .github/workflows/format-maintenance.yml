@@ -35,6 +35,7 @@ jobs:
         run: uv run source/maintenance/json_formatter.py
 
       - name: Commit and push changes
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
