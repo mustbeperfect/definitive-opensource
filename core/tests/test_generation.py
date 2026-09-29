@@ -14,6 +14,11 @@ from source.generation.contents_generator import (  # noqa: E402
     app_matches_platform,
     generate_contents,
 )
+from source.generation.header_generator import (  # noqa: E402
+    generate_header,
+    generate_navbar,
+    generate_top_header,
+)
 from source.generation.tableofcontents_generator import (  # noqa: E402
     generate_table_of_contents,
 )
@@ -107,6 +112,52 @@ class TestGeneration(unittest.TestCase):
         all_contents = generate_contents("all")
         self.assertNotIn("EMACS Packages", all_toc)
         self.assertNotIn("### EMACS Packages", all_contents)
+
+    def test_navbar_highlighting(self):
+        platforms = {
+            "all": "Main / All",
+            "windows": "Windows",
+            "macos": "MacOS",
+            "linux": "Linux",
+            "selfhost": "SelfHosted",
+        }
+        for current_platform, current_name in platforms.items():
+            navbar = generate_navbar(current_platform)
+            # The current platform must be bold and bracketed, NOT a link
+            self.assertIn(f"<b>[ {current_name} ]</b>", navbar)
+            self.assertNotIn(f'>{current_name}</a>', navbar)
+
+            # All other platforms must be links
+            for other_platform, other_name in platforms.items():
+                if other_platform == current_platform:
+                    continue
+                self.assertIn(f">{other_name}</a>", navbar)
+                self.assertNotIn(f"<b>[ {other_name} ]</b>", navbar)
+
+    def test_unified_header_contains_all_components(self):
+        platforms = ["all", "windows", "macos", "linux", "selfhost"]
+        for platform in platforms:
+            top_header = generate_top_header(platform)
+            self.assertIn("🌍 v0.8.5-beta", top_header)
+            self.assertIn("Status: Active", top_header)
+
+            header = generate_header(platform)
+            # Version badge
+            self.assertIn("🌍 v0.8.5-beta", header)
+            # Status
+            self.assertIn("Status: Active", header)
+            self.assertIn("Projects:", header)
+            # Tips & Web client link
+            self.assertIn("[!TIP]", header)
+            self.assertIn("[!NOTE]", header)
+            self.assertIn("https://dos.mustbeperfect.com", header)
+            # Navigation bar
+            self.assertIn('<h4 align="center">', header)
+            # Explanation sections
+            self.assertIn("**Our Goal -**", header)
+            self.assertIn("More Information", header)
+            self.assertIn("How The List Works", header)
+            self.assertIn("Project Status", header)
 
 
 if __name__ == "__main__":

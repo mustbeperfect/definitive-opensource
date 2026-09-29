@@ -7,15 +7,7 @@
 
 ##
 
-<h4 align="center">
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/windows.md">Windows</a>
-  <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/macos.md">MacOS</a>
-  <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/linux.md">Linux</a>
-  <span> · </span>
-  <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/selfhost.md">SelfHosted</a>
-</h4>
+<!-- NAVBAR -->
 
 ##
 

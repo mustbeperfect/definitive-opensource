@@ -7,7 +7,7 @@ if str(CORE_DIR) not in sys.path:
 
 from source.generation.archive_generator import generate_archive_section  # noqa: E402
 from source.generation.contents_generator import generate_contents  # noqa: E402
-from source.generation.mainheader_generator import generate_mainheader  # noqa: E402
+from source.generation.header_generator import generate_header  # noqa: E402
 from source.generation.tableofcontents_generator import (  # noqa: E402
     generate_table_of_contents,
 )
@@ -15,26 +15,12 @@ from source.utils.path_utils import COMPONENTS_DIR, READMES_DIR, REPO_ROOT  # no
 
 platforms = ["all", "windows", "macos", "linux", "selfhost"]
 
-# Platforms mapped to corresponding header files
-header_files = {
-    "all": COMPONENTS_DIR / "header.md",
-    "windows": COMPONENTS_DIR / "windowsheader.md",
-    "macos": COMPONENTS_DIR / "macosheader.md",
-    "linux": COMPONENTS_DIR / "linuxheader.md",
-    "selfhost": COMPONENTS_DIR / "selfhostheader.md",
-}
-
 
 def generate_readme_for_platform(platform):
     content = ""
-    header_file = header_files.get(platform, COMPONENTS_DIR / "header.md")
 
     # Inject every component of the list from top to bottom
-    if platform == "all":
-        content += generate_mainheader()
-
-    with open(header_file, "r", encoding="utf-8") as f:
-        content += f.read() + "\n"
+    content += generate_header(platform) + "\n"
 
     with open(COMPONENTS_DIR / "tags.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"

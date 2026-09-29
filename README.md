@@ -19,6 +19,8 @@
 ##
 
 <h4 align="center">
+  <b>[ Main / All ]</b>
+  <span> · </span>
   <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/windows.md">Windows</a>
   <span> · </span>
   <a href="https://github.com/mustbeperfect/definitive-opensource/blob/main/resources/readmes/macos.md">MacOS</a>
