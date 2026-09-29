@@ -1,17 +1,20 @@
-from .github_utils import (
-    build_graphql_repos_query,
-    extract_repo_path,
-    fetch_repo_data,
-    fetch_repo_summary,
-    fetch_repos_batch,
-    fetch_repos_batch_graphql,
-    fetch_repos_batch_rest,
-    format_commit_date,
-    format_time_ago,
-    get_github_headers,
-    get_github_token,
-    normalize_graphql_repo,
-)
+try:
+    from .github_utils import (
+        build_graphql_repos_query,
+        extract_repo_path,
+        fetch_repo_data,
+        fetch_repo_summary,
+        fetch_repos_batch,
+        fetch_repos_batch_graphql,
+        fetch_repos_batch_rest,
+        format_commit_date,
+        format_time_ago,
+        get_github_headers,
+        get_github_token,
+        normalize_graphql_repo,
+    )
+except (ImportError, ModuleNotFoundError):
+    pass
 from .markdown_utils import (
     format_stars,
     sanitize_table_cell,

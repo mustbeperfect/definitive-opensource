@@ -10,6 +10,19 @@ from source.utils.markdown_utils import format_stars, sanitize_table_cell  # noq
 from source.utils.path_utils import DYNAMIC_DATA_DIR, STATIC_DATA_DIR  # noqa: E402
 
 
+def app_matches_platform(app, platform="all"):
+    """Check if an application matches the target platform."""
+    if platform == "all":
+        return True
+    app_platforms = [p.lower() for p in app.get("platforms", [])]
+    target = platform.lower()
+    if target in app_platforms:
+        return True
+    if target in ["macos", "linux", "windows"] and "cross" in app_platforms:
+        return True
+    return False
+
+
 # Generates actual list contents in markdown (categories and projects within)
 def generate_contents(platform="all"):
     with open(STATIC_DATA_DIR / "categories.json", "r", encoding="utf-8") as f:
@@ -38,7 +51,11 @@ def generate_contents(platform="all"):
     platform_map = {p["id"]: p["name"] for p in platforms_data["platforms"]}
 
     subcat_by_parent = {}
+    seen_subcat_ids = set()
     for sub in subcategories:
+        if sub["id"] in seen_subcat_ids:
+            continue
+        seen_subcat_ids.add(sub["id"])
         parent = sub.get("parent", "other")
         subcat_by_parent.setdefault(parent, []).append(
             {"Name": sub["name"], "id": sub["id"]}
@@ -47,21 +64,10 @@ def generate_contents(platform="all"):
     for key in subcat_by_parent:
         subcat_by_parent[key].sort(key=lambda x: x["Name"].lower())
 
-    # Include projects relative to type of list being gneerated (all or platform specific)
+    # Include projects relative to type of list being generated (all or platform specific)
     apps_by_subcat = {}
     for app in applications:
-        include = False
-        if platform == "all":
-            include = True
-        else:
-            app_platforms = [p.lower() for p in app.get("platforms", [])]
-            target = platform.lower()
-            if target in app_platforms:
-                include = True
-
-            if target in ["macos", "linux", "windows"] and "cross" in app_platforms:
-                include = True
-        if not include:
+        if not app_matches_platform(app, platform):
             continue
 
         cat_id = app.get("category", "uncategorized")
@@ -80,9 +86,18 @@ def generate_contents(platform="all"):
         parent_items.append(("other", "Other"))
 
     for pid, pname in parent_items:
+        # Check if this parent category has any subcategories with matching apps
+        subs_with_apps = [
+            sub
+            for sub in subcat_by_parent.get(pid, [])
+            if apps_by_subcat.get(sub["id"])
+        ]
+        if not subs_with_apps:
+            continue
+
         md_output += f"# {pname} - [Go to top](#table-of-contents)\n\n"
 
-        for sub in subcat_by_parent.get(pid, []):
+        for sub in subs_with_apps:
             subname = sub["Name"]
             md_output += f"### {subname}\n\n"
             md_output += "| Name | Description | Platform(s) | Stars |\n"

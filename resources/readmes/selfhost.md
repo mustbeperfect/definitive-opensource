@@ -81,11 +81,9 @@
 - [AI Utilities](#ai-utilities)
 - [All In One](#all-in-one)
 - [Antivirus](#antivirus)
-- [API Client](#api-client)
 - [Archiving](#archiving)
 - [Arr](#arr)
 - [Assistant](#assistant)
-- [Audio Editor](#audio-editor)
 - [Audio Player](#audio-player)
 - [Authentication](#authentication)
 - [Automation](#automation)
@@ -93,19 +91,13 @@
 - [Backup](#backup)
 - [Bookmark Manager](#bookmark-manager)
 - [Browser](#browser)
-- [Browser Extensions](#browser-extensions)
-- [CAD](#cad)
 - [Calendar](#calendar)
 - [Canvas](#canvas)
-- [Chat](#chat)
-- [Cleaner](#cleaner)
-- [Clipboard Manager](#clipboard-manager)
 - [Code Assistant](#code-assistant)
 - [Code Editor](#code-editor)
 - [Collaboration](#collaboration)
 - [Container Management](#container-management)
 - [Containers](#containers)
-- [Context](#context)
 - [Control](#control)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
@@ -114,35 +106,19 @@
 - [Document Editor](#document-editor)
 - [Document Management](#document-management)
 - [Document Modifier](#document-modifier)
-- [Dotfiles Manager](#dotfiles-manager)
 - [Download Manager](#download-manager)
-- [EMACS Packages](#emacs-packages)
-- [Engineering](#engineering)
 - [File Manager](#file-manager)
 - [File Sharing](#file-sharing)
 - [Finance](#finance)
 - [Firewall](#firewall)
-- [Firmware](#firmware)
-- [Game Engine](#game-engine)
 - [Game Launcher](#game-launcher)
-- [Games](#games)
-- [Git Client](#git-client)
 - [Git Hosting](#git-hosting)
 - [Graphics](#graphics)
 - [Home Automation](#home-automation)
 - [Home Server](#home-server)
-- [IDE](#ide)
-- [Image Editing](#image-editing)
-- [Image Processing](#image-processing)
 - [Information Processing](#information-processing)
 - [Journal](#journal)
-- [Keyboard Manager](#keyboard-manager)
-- [Knowledge Base](#knowledge-base)
-- [Language Package Manager](#language-package-manager)
-- [Launcher](#launcher)
-- [Linux](#linux)
 - [LLM GUI](#llm-gui)
-- [MacOS](#macos)
 - [Mail](#mail)
 - [Manager](#manager)
 - [Mapping](#mapping)
@@ -151,57 +127,31 @@
 - [Media Management](#media-management)
 - [Miscellaneous](#miscellaneous)
 - [Model Tools](#model-tools)
-- [Mouse](#mouse)
-- [Neovim Extensions](#neovim-extensions)
 - [Network](#network)
 - [Note Taking](#note-taking)
 - [Office Suite](#office-suite)
-- [Operating System](#operating-system)
-- [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [Project Management](#project-management)
-- [Prompt](#prompt)
 - [Proofreading](#proofreading)
 - [RAG](#rag)
 - [Reading](#reading)
-- [Remote Desktop](#remote-desktop)
 - [Research](#research)
-- [Robotics](#robotics)
-- [Rocketry](#rocketry)
 - [RSS Manager](#rss-manager)
 - [RSS Reader](#rss-reader)
-- [Screen Recording](#screen-recording)
 - [Search Engine](#search-engine)
 - [Server Management](#server-management)
-- [Shell](#shell)
-- [Simulation](#simulation)
-- [Social Network](#social-network)
 - [Spreadsheet](#spreadsheet)
 - [Storage](#storage)
 - [Surveillance](#surveillance)
-- [Sync](#sync)
-- [System](#system)
 - [System Monitoring](#system-monitoring)
 - [Task Management](#task-management)
-- [Terminal Emulator](#terminal-emulator)
-- [Terminal Multiplexer](#terminal-multiplexer)
-- [Terminal Utilities](#terminal-utilities)
 - [Text Editor](#text-editor)
-- [Time Management](#time-management)
 - [Time Management](#time-management)
 - [Tools](#tools)
 - [Transcription](#transcription)
 - [Uncategorized](#uncategorized)
-- [Version Manager](#version-manager)
-- [Video Conference](#video-conference)
-- [Video Editing](#video-editing)
-- [Video Player](#video-player)
-- [Video Transcoder](#video-transcoder)
-- [Virtual Machine](#virtual-machine)
 - [VPN](#vpn)
 - [Wiki](#wiki)
-- [Window Management](#window-management)
-- [Windows](#windows)
 
 </details>
 
@@ -214,7 +164,6 @@
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
-    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -222,32 +171,19 @@
     - [RAG](#rag)
     - [Research](#research)
 - Communication
-    - [Chat](#chat)
     - [Collaboration](#collaboration)
     - [Discord Client](#discord-client)
     - [Mail](#mail)
-    - [Video Conference](#video-conference)
 - Data
     - [Backup](#backup)
     - [Storage](#storage)
-    - [Sync](#sync)
 - Development
-    - [API Client](#api-client)
     - [Code Assistant](#code-assistant)
     - [Code Editor](#code-editor)
     - [Dev Tools](#dev-tools)
-    - [Game Engine](#game-engine)
-    - [Git Client](#git-client)
     - [Git Hosting](#git-hosting)
-    - [IDE](#ide)
-    - [Language Package Manager](#language-package-manager)
 - Entertainment
     - [Game Launcher](#game-launcher)
-    - [Games](#games)
-- Extensions
-    - [Browser Extensions](#browser-extensions)
-    - [EMACS Packages](#emacs-packages)
-    - [Neovim Extensions](#neovim-extensions)
 - Information
     - [RSS Manager](#rss-manager)
     - [RSS Reader](#rss-reader)
@@ -256,26 +192,12 @@
     - [Download Manager](#download-manager)
     - [Network](#network)
     - [Search Engine](#search-engine)
-    - [Social Network](#social-network)
 - Media
-    - [Audio Editor](#audio-editor)
     - [Audio Player](#audio-player)
-    - [CAD](#cad)
     - [Canvas](#canvas)
     - [Diagrams](#diagrams)
     - [Graphics](#graphics)
-    - [Image Editing](#image-editing)
-    - [Image Processing](#image-processing)
     - [Media Downloader](#media-downloader)
-    - [Screen Recording](#screen-recording)
-    - [Video Editing](#video-editing)
-    - [Video Player](#video-player)
-    - [Video Transcoder](#video-transcoder)
-- Operating System
-    - [Linux](#linux)
-    - [MacOS](#macos)
-    - [Operating System](#operating-system)
-    - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
     - [Document Management](#document-management)
@@ -283,10 +205,8 @@
     - [Calendar](#calendar)
     - [Document Modifier](#document-modifier)
     - [Finance](#finance)
-    - [Knowledge Base](#knowledge-base)
     - [Project Management](#project-management)
     - [Task Management](#task-management)
-    - [Time Management](#time-management)
     - [Time Management](#time-management)
 - Security/Privacy
     - [AD Blocker](#ad-blocker)
@@ -306,17 +226,6 @@
 - STEM
     - [Autonomy](#autonomy)
     - [Control](#control)
-    - [Engineering](#engineering)
-    - [Firmware](#firmware)
-    - [Robotics](#robotics)
-    - [Rocketry](#rocketry)
-    - [Simulation](#simulation)
-- Terminal
-    - [Prompt](#prompt)
-    - [Shell](#shell)
-    - [Terminal Emulator](#terminal-emulator)
-    - [Terminal Multiplexer](#terminal-multiplexer)
-    - [Terminal Utilities](#terminal-utilities)
 - Text
     - [Document Editor](#document-editor)
     - [Journal](#journal)
@@ -331,25 +240,13 @@
 - Utilities
     - [Archiving](#archiving)
     - [Automation](#automation)
-    - [Cleaner](#cleaner)
-    - [Clipboard Manager](#clipboard-manager)
     - [Container Management](#container-management)
     - [Containers](#containers)
-    - [Dotfiles Manager](#dotfiles-manager)
     - [File Manager](#file-manager)
     - [File Sharing](#file-sharing)
-    - [Keyboard Manager](#keyboard-manager)
-    - [Launcher](#launcher)
-    - [Mouse](#mouse)
-    - [Package Manager](#package-manager)
-    - [Remote Desktop](#remote-desktop)
-    - [System](#system)
     - [System Monitoring](#system-monitoring)
     - [Tools](#tools)
     - [Transcription](#transcription)
-    - [Version Manager](#version-manager)
-    - [Virtual Machine](#virtual-machine)
-    - [Window Management](#window-management)
 - Other
     - [Mapping](#mapping)
     - [Miscellaneous](#miscellaneous)
@@ -401,11 +298,6 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Leon](https://github.com/leon-ai/leon) | 🧠 Leon is your open-source personal assistant. | `SelfHost` | **17.5k** |
-
-### Context
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Information Processing
 
@@ -460,11 +352,6 @@
 
 # Communication - [Go to top](#table-of-contents)
 
-### Chat
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Collaboration
 
 | Name | Description | Platform(s) | Stars |
@@ -485,11 +372,6 @@
 | --- | --- | --- | --- |
 | [Inbox Zero](https://github.com/elie222/inbox-zero) | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. | `Web (Cloud)` `SelfHost` | **12.4k** |
 
-### Video Conference
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Data - [Go to top](#table-of-contents)
 
 ### Backup
@@ -509,17 +391,7 @@
 | [ownCloud](https://github.com/owncloud/core) | :cloud: ownCloud web server core (Files, DAV, etc.) | `Cross` `Mobile` `SelfHost` | **8.8k** |
 | [Seafile](https://github.com/haiwen/seafile) `CLI+` | Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views | `Cross` `Mobile` `SelfHost` | **15.3k** |
 
-### Sync
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Development - [Go to top](#table-of-contents)
-
-### API Client
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Code Assistant
 
@@ -542,16 +414,6 @@
 | [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | `SelfHost` | **72.2k** |
 | [ByteStash](https://github.com/jordan-dalby/ByteStash) | A code snippet storage solution written in React & node.js | `SelfHost` | **2.5k** |
 
-### Game Engine
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Git Client
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Git Hosting
 
 | Name | Description | Platform(s) | Stars |
@@ -559,16 +421,6 @@
 | [Gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | `SelfHost` | **58.2k** |
 | [GitLab](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror - Please open new issues in our issue tracker on GitLab.com | `SelfHost` `Web (Cloud)` | **24.6k** |
 | [Gogs](https://github.com/gogs/gogs) | The painless way to host your own Git service | `SelfHost` | **47.8k** |
-
-### IDE
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Language Package Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 # Entertainment - [Go to top](#table-of-contents)
 
@@ -578,28 +430,6 @@
 | --- | --- | --- | --- |
 | [Pelican Panel](https://github.com/pelican-dev/panel) | Pelican Panel is an open-source, web-based application designed for easy management of game servers. | `SelfHost` | **2.3k** |
 | [RomM](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted ROM manager and player. | `SelfHost` | **13.2k** |
-
-### Games
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-# Extensions - [Go to top](#table-of-contents)
-
-### Browser Extensions
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### EMACS Packages
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Neovim Extensions
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 # Information - [Go to top](#table-of-contents)
 
@@ -646,17 +476,7 @@
 | [Vane](https://github.com/ItzCrazyKns/Vane) | Vane is an AI-powered answering engine. | `SelfHost` | **36.9k** |
 | [YaCy](https://github.com/yacy/yacy_search_server) | Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance | `SelfHost` | **4k** |
 
-### Social Network
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Media - [Go to top](#table-of-contents)
-
-### Audio Editor
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Audio Player
 
@@ -667,11 +487,6 @@
 | [Navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service | `Cross` `SelfHost` | **23.9k** |
 | [Swing Music](https://github.com/swingmx/swingmusic) | Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music. | `Cross` `SelfHost` | **2.1k** |
 | [Swing Music](https://github.com/swingmx/swingmusic) | Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music. | `SelfHost` `Cross` `Android` | **2.1k** |
-
-### CAD
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Canvas
 
@@ -693,64 +508,12 @@
 | --- | --- | --- | --- |
 | [PAINT BOARD](https://github.com/LHRUN/paint-board) | 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! | `SelfHost` | **2.6k** |
 
-### Image Editing
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Image Processing
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Media Downloader
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [MeTube](https://github.com/alexta69/metube) | Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) | `SelfHost` | **14.9k** |
 | [Pinchflat](https://github.com/kieraneglin/pinchflat) | Your next YouTube media manager | `SelfHost` | **5.4k** |
-
-### Screen Recording
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Video Editing
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Video Player
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Video Transcoder
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-# Operating System - [Go to top](#table-of-contents)
-
-### Linux
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### MacOS
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Operating System
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Windows
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 # Organization - [Go to top](#table-of-contents)
 
@@ -802,11 +565,6 @@
 | [Sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | `SelfHost` | **10.3k** |
 | [Wallos](https://github.com/ellite/Wallos) | Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money. | `SelfHost` | **8.6k** |
 
-### Knowledge Base
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Project Management
 
 | Name | Description | Platform(s) | Stars |
@@ -824,12 +582,6 @@
 | --- | --- | --- | --- |
 | [Planka](https://github.com/plankanban/planka) `CLI+` | Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations. | `SelfHost` | **12.6k** |
 | [Vikunja](https://github.com/go-vikunja/vikunja) | The task manager you actually own. | `Cross` `Mobile` `SelfHost` `Web (Cloud)` | **5.5k** |
-
-### Time Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | `SelfHost` `Web (Cloud)` | **8.9k** |
 
 ### Time Management
 
@@ -983,58 +735,6 @@
 | --- | --- | --- | --- |
 | [WebODM](https://github.com/WebODM/WebODM) | User-friendly, commercial-grade software for processing aerial imagery. ✈️ Download it for free! | `SelfHost` | **4.2k** |
 
-### Engineering
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Firmware
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Robotics
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Rocketry
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Simulation
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-# Terminal - [Go to top](#table-of-contents)
-
-### Prompt
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Shell
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Terminal Emulator
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Terminal Multiplexer
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Terminal Utilities
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Text - [Go to top](#table-of-contents)
 
 ### Document Editor
@@ -1121,16 +821,6 @@
 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | `Web (Cloud)` `SelfHost` | **206.2k** |
 | [Node-RED](https://github.com/node-red/node-red) `Manual` | Low-code programming for event-driven applications | `SelfHost` | **23.7k** |
 
-### Cleaner
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Clipboard Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Container Management
 
 | Name | Description | Platform(s) | Stars |
@@ -1143,11 +833,6 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Argo CD](https://github.com/argoproj/argo-cd) | Declarative Continuous Deployment for Kubernetes | `SelfHost` | **24.3k** |
-
-### Dotfiles Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### File Manager
 
@@ -1162,36 +847,6 @@
 | --- | --- | --- | --- |
 | [SFTPGo](https://github.com/drakkan/sftpgo) | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob | `SelfHost` | **12.6k** |
 | [zipline](https://github.com/diced/zipline) | A ShareX/file upload server that is easy to use, packed with features, and with an easy setup! | `SelfHost` | **3.4k** |
-
-### Keyboard Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Launcher
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Mouse
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Package Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Remote Desktop
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### System
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### System Monitoring
 
@@ -1211,21 +866,6 @@
 | --- | --- | --- | --- |
 | [Speaches](https://github.com/speaches-ai/speaches) |  | `SelfHost` | **3.7k** |
 | [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) `Manual` | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | `SelfHost` | **11.1k** |
-
-### Version Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Virtual Machine
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Window Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 # Other - [Go to top](#table-of-contents)
 

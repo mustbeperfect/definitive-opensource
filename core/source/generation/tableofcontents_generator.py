@@ -6,18 +6,42 @@ CORE_DIR = Path(__file__).resolve().parents[2]
 if str(CORE_DIR) not in sys.path:
     sys.path.insert(0, str(CORE_DIR))
 
+from source.generation.contents_generator import app_matches_platform  # noqa: E402
 from source.utils.markdown_utils import slugify  # noqa: E402
-from source.utils.path_utils import STATIC_DATA_DIR  # noqa: E402
+from source.utils.path_utils import DYNAMIC_DATA_DIR, STATIC_DATA_DIR  # noqa: E402
 
 
-def generate_table_of_contents():
+def generate_table_of_contents(platform="all"):
     with open(STATIC_DATA_DIR / "categories.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-    categories = data.get("categories", [])
-    subcategories = data.get("subcategories", [])
+        cat_data = json.load(f)
+    with open(
+        DYNAMIC_DATA_DIR / "applications_generated.json", "r", encoding="utf-8"
+    ) as f:
+        app_data = json.load(f)
+
+    categories = cat_data.get("categories", [])
+    subcategories = cat_data.get("subcategories", [])
+    applications = app_data.get("applications", [])
+
+    # Find all subcategory ids that have at least one application matching the platform
+    active_subcat_ids = {
+        app.get("category", "uncategorized")
+        for app in applications
+        if app_matches_platform(app, platform)
+    }
+
+    # Deduplicate subcategories and keep only those with matching applications
+    seen_subcat_ids = set()
+    active_subcategories = []
+    for sub in subcategories:
+        if sub["id"] in seen_subcat_ids:
+            continue
+        seen_subcat_ids.add(sub["id"])
+        if sub["id"] in active_subcat_ids:
+            active_subcategories.append(sub)
 
     # Build the alphabetical list (ignoring parent categories)
-    subcat_names = [sub["name"] for sub in subcategories]
+    subcat_names = [sub["name"] for sub in active_subcategories]
     subcat_names.sort(key=lambda x: x.lower())
     alphabetical_md = ""
     for name in subcat_names:
@@ -27,7 +51,7 @@ def generate_table_of_contents():
     parent_map = {cat["id"]: cat["name"] for cat in categories}
 
     grouped = {}
-    for sub in subcategories:
+    for sub in active_subcategories:
         parent = sub.get("parent", "other")
         grouped.setdefault(parent, []).append(sub["name"])
 

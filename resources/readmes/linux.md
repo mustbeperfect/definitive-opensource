@@ -87,42 +87,31 @@
 - [Assistant](#assistant)
 - [Audio Editor](#audio-editor)
 - [Audio Player](#audio-player)
-- [Authentication](#authentication)
 - [Automation](#automation)
 - [Autonomy](#autonomy)
 - [Backup](#backup)
 - [Bookmark Manager](#bookmark-manager)
 - [Browser](#browser)
-- [Browser Extensions](#browser-extensions)
 - [CAD](#cad)
-- [Calendar](#calendar)
-- [Canvas](#canvas)
 - [Chat](#chat)
 - [Cleaner](#cleaner)
 - [Clipboard Manager](#clipboard-manager)
 - [Code Assistant](#code-assistant)
 - [Code Editor](#code-editor)
-- [Collaboration](#collaboration)
 - [Container Management](#container-management)
 - [Containers](#containers)
-- [Context](#context)
 - [Control](#control)
 - [Dashboard](#dashboard)
 - [Dev Tools](#dev-tools)
 - [Diagrams](#diagrams)
 - [Discord Client](#discord-client)
-- [Document Editor](#document-editor)
-- [Document Management](#document-management)
 - [Document Modifier](#document-modifier)
 - [Dotfiles Manager](#dotfiles-manager)
 - [Download Manager](#download-manager)
-- [EMACS Packages](#emacs-packages)
 - [Engineering](#engineering)
 - [File Manager](#file-manager)
 - [File Sharing](#file-sharing)
 - [Finance](#finance)
-- [Firewall](#firewall)
-- [Firmware](#firmware)
 - [Game Engine](#game-engine)
 - [Game Launcher](#game-launcher)
 - [Games](#games)
@@ -145,18 +134,14 @@
 - [MacOS](#macos)
 - [Mail](#mail)
 - [Manager](#manager)
-- [Mapping](#mapping)
 - [Markdown Editor](#markdown-editor)
 - [Media Downloader](#media-downloader)
 - [Media Management](#media-management)
 - [Miscellaneous](#miscellaneous)
 - [Model Tools](#model-tools)
-- [Mouse](#mouse)
-- [Neovim Extensions](#neovim-extensions)
 - [Network](#network)
 - [Note Taking](#note-taking)
 - [Office Suite](#office-suite)
-- [Operating System](#operating-system)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [Project Management](#project-management)
@@ -168,17 +153,11 @@
 - [Research](#research)
 - [Robotics](#robotics)
 - [Rocketry](#rocketry)
-- [RSS Manager](#rss-manager)
-- [RSS Reader](#rss-reader)
 - [Screen Recording](#screen-recording)
-- [Search Engine](#search-engine)
-- [Server Management](#server-management)
 - [Shell](#shell)
 - [Simulation](#simulation)
 - [Social Network](#social-network)
-- [Spreadsheet](#spreadsheet)
 - [Storage](#storage)
-- [Surveillance](#surveillance)
 - [Sync](#sync)
 - [System](#system)
 - [System Monitoring](#system-monitoring)
@@ -187,7 +166,6 @@
 - [Terminal Multiplexer](#terminal-multiplexer)
 - [Terminal Utilities](#terminal-utilities)
 - [Text Editor](#text-editor)
-- [Time Management](#time-management)
 - [Time Management](#time-management)
 - [Tools](#tools)
 - [Transcription](#transcription)
@@ -199,9 +177,7 @@
 - [Video Transcoder](#video-transcoder)
 - [Virtual Machine](#virtual-machine)
 - [VPN](#vpn)
-- [Wiki](#wiki)
 - [Window Management](#window-management)
-- [Windows](#windows)
 
 </details>
 
@@ -214,7 +190,6 @@
     - [AI Utilities](#ai-utilities)
     - [All In One](#all-in-one)
     - [Assistant](#assistant)
-    - [Context](#context)
     - [Information Processing](#information-processing)
     - [LLM GUI](#llm-gui)
     - [Manager](#manager)
@@ -223,7 +198,6 @@
     - [Research](#research)
 - Communication
     - [Chat](#chat)
-    - [Collaboration](#collaboration)
     - [Discord Client](#discord-client)
     - [Mail](#mail)
     - [Video Conference](#video-conference)
@@ -244,24 +218,15 @@
 - Entertainment
     - [Game Launcher](#game-launcher)
     - [Games](#games)
-- Extensions
-    - [Browser Extensions](#browser-extensions)
-    - [EMACS Packages](#emacs-packages)
-    - [Neovim Extensions](#neovim-extensions)
-- Information
-    - [RSS Manager](#rss-manager)
-    - [RSS Reader](#rss-reader)
 - Internet
     - [Browser](#browser)
     - [Download Manager](#download-manager)
     - [Network](#network)
-    - [Search Engine](#search-engine)
     - [Social Network](#social-network)
 - Media
     - [Audio Editor](#audio-editor)
     - [Audio Player](#audio-player)
     - [CAD](#cad)
-    - [Canvas](#canvas)
     - [Diagrams](#diagrams)
     - [Graphics](#graphics)
     - [Image Editing](#image-editing)
@@ -274,25 +239,18 @@
 - Operating System
     - [Linux](#linux)
     - [MacOS](#macos)
-    - [Operating System](#operating-system)
-    - [Windows](#windows)
 - Organization
     - [Bookmark Manager](#bookmark-manager)
-    - [Document Management](#document-management)
 - Productivity
-    - [Calendar](#calendar)
     - [Document Modifier](#document-modifier)
     - [Finance](#finance)
     - [Knowledge Base](#knowledge-base)
     - [Project Management](#project-management)
     - [Task Management](#task-management)
     - [Time Management](#time-management)
-    - [Time Management](#time-management)
 - Security/Privacy
     - [AD Blocker](#ad-blocker)
     - [Antivirus](#antivirus)
-    - [Authentication](#authentication)
-    - [Firewall](#firewall)
     - [Password Manager](#password-manager)
     - [VPN](#vpn)
 - Server
@@ -301,13 +259,10 @@
     - [Home Automation](#home-automation)
     - [Home Server](#home-server)
     - [Media Management](#media-management)
-    - [Server Management](#server-management)
-    - [Surveillance](#surveillance)
 - STEM
     - [Autonomy](#autonomy)
     - [Control](#control)
     - [Engineering](#engineering)
-    - [Firmware](#firmware)
     - [Robotics](#robotics)
     - [Rocketry](#rocketry)
     - [Simulation](#simulation)
@@ -318,16 +273,13 @@
     - [Terminal Multiplexer](#terminal-multiplexer)
     - [Terminal Utilities](#terminal-utilities)
 - Text
-    - [Document Editor](#document-editor)
     - [Journal](#journal)
     - [Markdown Editor](#markdown-editor)
     - [Note Taking](#note-taking)
     - [Office Suite](#office-suite)
     - [Proofreading](#proofreading)
     - [Reading](#reading)
-    - [Spreadsheet](#spreadsheet)
     - [Text Editor](#text-editor)
-    - [Wiki](#wiki)
 - Utilities
     - [Archiving](#archiving)
     - [Automation](#automation)
@@ -340,7 +292,6 @@
     - [File Sharing](#file-sharing)
     - [Keyboard Manager](#keyboard-manager)
     - [Launcher](#launcher)
-    - [Mouse](#mouse)
     - [Package Manager](#package-manager)
     - [Remote Desktop](#remote-desktop)
     - [System](#system)
@@ -351,7 +302,6 @@
     - [Virtual Machine](#virtual-machine)
     - [Window Management](#window-management)
 - Other
-    - [Mapping](#mapping)
     - [Miscellaneous](#miscellaneous)
     - [Uncategorized](#uncategorized)
 - [Removed Projects](#removed-projects)
@@ -402,11 +352,6 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [OpenClaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | `Cross` | **390.7k** |
-
-### Context
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Information Processing
 
@@ -474,11 +419,6 @@
 | [SimpleX](https://github.com/simplex-chat/simplex-chat) `CLI+` | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | `Cross` | **19.5k** |
 | [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | `Cross` | **33k** |
 | [Toxic](https://github.com/JFreegman/toxic) `CLI+` | A Tox-based instant messaging and video chat client. | `Cross` | **1.3k** |
-
-### Collaboration
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Discord Client
 
@@ -668,35 +608,6 @@
 | [Veloren](https://github.com/veloren/veloren) | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. | `Cross` | **7.6k** |
 | [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | `Cross` | **6.9k** |
 
-# Extensions - [Go to top](#table-of-contents)
-
-### Browser Extensions
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### EMACS Packages
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Neovim Extensions
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-# Information - [Go to top](#table-of-contents)
-
-### RSS Manager
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### RSS Reader
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Internet - [Go to top](#table-of-contents)
 
 ### Browser
@@ -732,11 +643,6 @@
 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | `Cross` | **41.3k** |
 | [trippy](https://github.com/fujiapple852/trippy) `TUI` | A network diagnostic tool | `Cross` | **8k** |
 | [Wireshark](https://github.com/wireshark/wireshark) | Wireshark lets you dive deep into your network traffic - free and open source. | `Cross` | **9.9k** |
-
-### Search Engine
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Social Network
 
@@ -784,11 +690,6 @@
 | [LeoCAD](https://github.com/leozide/leocad) | A CAD application for creating virtual LEGO models | `Cross` | **2.9k** |
 | [OpenSCAD](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller | `Cross` | **10.3k** |
 | [QCAD](https://github.com/qcad/qcad) | QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin). | `Cross` | **1.9k** |
-
-### Canvas
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Diagrams
 
@@ -885,16 +786,6 @@
 | --- | --- | --- | --- |
 | [AppLite](https://github.com/milanvarady/Applite) | A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask | `Cross` | **7.1k** |
 
-### Operating System
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Windows
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Organization - [Go to top](#table-of-contents)
 
 ### Bookmark Manager
@@ -903,17 +794,7 @@
 | --- | --- | --- | --- |
 | [buku](https://github.com/jarun/buku) `CLI+` | :bookmark: Personal mini-web in text | `Cross` | **7.2k** |
 
-### Document Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # Productivity - [Go to top](#table-of-contents)
-
-### Calendar
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Document Modifier
 
@@ -967,14 +848,6 @@
 | [Pomatez](https://github.com/zidoro/pomatez) | Stay Focused. Take a Break. | `Cross` | **4.9k** |
 | [Pomotroid](https://github.com/Splode/pomotroid) | :tomato: Simple and visually-pleasing Pomodoro timer | `Cross` | **5.5k** |
 
-### Time Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | `Cross` `Android` | **19k** |
-| [Pomatez](https://github.com/zidoro/pomatez) | Stay Focused. Take a Break. | `Cross` | **4.9k** |
-| [Pomotroid](https://github.com/Splode/pomotroid) | :tomato: Simple and visually-pleasing Pomodoro timer | `Cross` | **5.5k** |
-
 # Security/Privacy - [Go to top](#table-of-contents)
 
 ### AD Blocker
@@ -989,16 +862,6 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [ClamAV](https://github.com/Cisco-Talos/clamav) | ClamAV - Documentation is here: https://docs.clamav.net | `Cross` `SelfHost` | **7.3k** |
-
-### Authentication
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Firewall
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Password Manager
 
@@ -1065,16 +928,6 @@
 | [MusicBrainz Picard](https://github.com/metabrainz/picard) | Picard is a cross-platform music tagger powered by the MusicBrainz database | `Cross` | **5.2k** |
 | [Tautulli](https://github.com/Tautulli/Tautulli) | A Python based monitoring and tracking tool for Plex Media Server. | `Cross` `SelfHost` | **6.6k** |
 
-### Server Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
-### Surveillance
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 # STEM - [Go to top](#table-of-contents)
 
 ### Autonomy
@@ -1098,11 +951,6 @@
 | [KiCad](https://github.com/KiCad/kicad-source-mirror) | A Cross Platform and Open Source PCB Design Suite | `Cross` | **3k** |
 | [LibrePCB](https://github.com/LibrePCB/LibrePCB) | A powerful, innovative and intuitive EDA suite for everyone! | `Cross` | **3k** |
 | [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) | Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more. | `Cross` | **7.2k** |
-
-### Firmware
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Robotics
 
@@ -1185,11 +1033,6 @@
 
 # Text - [Go to top](#table-of-contents)
 
-### Document Editor
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Journal
 
 | Name | Description | Platform(s) | Stars |
@@ -1242,11 +1085,6 @@
 | [Readest](https://github.com/readest/readest) | Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. | `Cross` `Mobile` `Web (Cloud)` | **24.7k** |
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | A cross platform desktop reading app, based on the Readium Desktop toolkit | `Cross` | **2.9k** |
 
-### Spreadsheet
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Text Editor
 
 | Name | Description | Platform(s) | Stars |
@@ -1261,11 +1099,6 @@
 | [NotepadNext](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | `Cross` | **14.6k** |
 | [novelWriter](https://github.com/vkbo/novelWriter) | novelWriter is an open source plain text editor designed for writing novels | `Cross` | **3.1k** |
 | [TeXstudio](https://github.com/texstudio-org/texstudio) | TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. | `Cross` | **3.7k** |
-
-### Wiki
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 # Utilities - [Go to top](#table-of-contents)
 
@@ -1368,11 +1201,6 @@
 | [Vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible | `Linux` | **10.1k** |
 | [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | `Cross` | **27.5k** |
 
-### Mouse
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Package Manager
 
 | Name | Description | Platform(s) | Stars |
@@ -1466,11 +1294,6 @@
 | [PaperWM](https://github.com/paperwm/PaperWM) | Tiled scrollable window management for GNOME Shell | `Linux` | **4.3k** |
 
 # Other - [Go to top](#table-of-contents)
-
-### Mapping
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
 
 ### Miscellaneous
 

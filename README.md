@@ -187,7 +187,6 @@ Abandoned - Development Halted
 - [Document Modifier](#document-modifier)
 - [Dotfiles Manager](#dotfiles-manager)
 - [Download Manager](#download-manager)
-- [EMACS Packages](#emacs-packages)
 - [Engineering](#engineering)
 - [File Manager](#file-manager)
 - [File Sharing](#file-sharing)
@@ -259,7 +258,6 @@ Abandoned - Development Halted
 - [Terminal Utilities](#terminal-utilities)
 - [Text Editor](#text-editor)
 - [Time Management](#time-management)
-- [Time Management](#time-management)
 - [Tools](#tools)
 - [Transcription](#transcription)
 - [Uncategorized](#uncategorized)
@@ -317,7 +315,6 @@ Abandoned - Development Halted
     - [Games](#games)
 - Extensions
     - [Browser Extensions](#browser-extensions)
-    - [EMACS Packages](#emacs-packages)
     - [Neovim Extensions](#neovim-extensions)
 - Information
     - [RSS Manager](#rss-manager)
@@ -357,7 +354,6 @@ Abandoned - Development Halted
     - [Knowledge Base](#knowledge-base)
     - [Project Management](#project-management)
     - [Task Management](#task-management)
-    - [Time Management](#time-management)
     - [Time Management](#time-management)
 - Security/Privacy
     - [AD Blocker](#ad-blocker)
@@ -827,11 +823,6 @@ Abandoned - Development Halted
 | [uBlock Origin](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | `Chromium` `Firefox` | **68.2k** |
 | [Web Clipper](https://github.com/webclipper/web-clipper) | For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere | `Chromium` `Firefox` | **6.9k** |
 
-### EMACS Packages
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-
 ### Neovim Extensions
 
 | Name | Description | Platform(s) | Stars |
@@ -1226,17 +1217,6 @@ Abandoned - Development Halted
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. | `Cross` | **22.4k** |
 | [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) `CLI` | Taskwarrior - Command line Task Management | `Cross` | **6.1k** |
 | [Vikunja](https://github.com/go-vikunja/vikunja) | The task manager you actually own. | `Cross` `Mobile` `SelfHost` `Web (Cloud)` | **5.5k** |
-
-### Time Management
-
-| Name | Description | Platform(s) | Stars |
-| --- | --- | --- | --- |
-| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | `Cross` `Android` | **19k** |
-| [Cati.me](https://github.com/vladelaina/Catime) | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g | `Windows` | **4.9k** |
-| [Pomatez](https://github.com/zidoro/pomatez) | Stay Focused. Take a Break. | `Cross` | **4.9k** |
-| [Pomotroid](https://github.com/Splode/pomotroid) | :tomato: Simple and visually-pleasing Pomodoro timer | `Cross` | **5.5k** |
-| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app | `SelfHost` `Web (Cloud)` | **8.9k** |
-| [TomatoBar](https://github.com/ivoronin/TomatoBar) | 🍅 World's neatest Pomodoro timer for macOS menu bar | `MacOS` | **3.5k** |
 
 ### Time Management
 

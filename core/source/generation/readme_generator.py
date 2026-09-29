@@ -39,7 +39,7 @@ def generate_readme_for_platform(platform):
     with open(COMPONENTS_DIR / "tags.md", "r", encoding="utf-8") as f:
         content += f.read() + "\n"
 
-    toc_md = generate_table_of_contents()
+    toc_md = generate_table_of_contents(platform)
     content += toc_md + "\n"
 
     contents_md = generate_contents(platform)
