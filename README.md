@@ -1972,7 +1972,6 @@ Projects that were once on this list but removed, usually due to abandonment or 
   - [Maestral](https://github.com/samschott/maestral) - `Archived`
   - [File Browser](https://github.com/filebrowser/filebrowser) - `Archived`
   - [Airweave](https://github.com/airweave-ai/airweave) - `Archived`
-  - [Maestral](https://github.com/samschott/maestral) - `Archived`
   - [Papermerge DMS](https://github.com/ciur/papermerge) - `Archived`
 </details>
 

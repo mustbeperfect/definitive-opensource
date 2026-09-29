@@ -988,7 +988,7 @@
             "license": ""
         },
         {
-            "name": "Tabby",
+            "name": "TabbyML",
             "description": "",
             "repo_url": "https://github.com/TabbyML/tabby",
             "tags": [],
@@ -1645,7 +1645,7 @@
             "license": ""
         },
         {
-            "name": "Zen",
+            "name": "Zen Browser",
             "description": "",
             "repo_url": "https://github.com/zen-browser/desktop",
             "tags": [],
@@ -10564,7 +10564,7 @@
             "license": ""
         },
         {
-            "name": "quill",
+            "name": "Quill Transcription",
             "description": "",
             "repo_url": "https://github.com/digimata/quill",
             "tags": [],

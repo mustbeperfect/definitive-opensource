@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # Every day at midnight UTC
+  push:
+    branches:
+      - main
+    paths:
+      - "core/data/static/applications.json"
 
 permissions:
   contents: write
@@ -36,10 +41,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: uv run source/maintenance/stats_updator.py
 
+      - name: Run README generator script
+        run: uv run source/generation/readme_generator.py
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/dynamic/applications_generated.json
-          git commit -m "Auto-update GitHub metadata" || echo "No changes to commit"
+          git add ../resources/readmes/
+          git add ../README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update applications metadata and READMEs"
+          git pull --rebase
           git push
+

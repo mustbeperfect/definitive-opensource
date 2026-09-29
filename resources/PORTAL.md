@@ -24,8 +24,9 @@ The place that connects everything related to definitive-opensource.
 - [tags](/core/data/static/tags.json) - Declares tags, their id, and corresponding emoji
 
 ## GitHub Actions
+- [pr-validation.yml](/.github/workflows/pr-validation.yml) - Validates pull requests (linting, unit tests, and JSON format integrity)
 - [generate-readme.yml](/.github/workflows/generate-readme.yml) - Calls the [`readme_generator.py`](/core/source/generation/readme_generator.py) to generate READMEs
-- [update-stats.yml](/.github/workflows/update-stats.yml) - Calls the [`stats_updator.py`](/core/source/maintenance/stats_updator.py.py) to update stats in applications.json
+- [update-stats.yml](/.github/workflows/update-stats.yml) - Calls [`stats_updator.py`](/core/source/maintenance/stats_updator.py) to update stats and generate READMEs
 
 ## Other Resources
 - [DOCS.md](/resources/DOCS.md) - Elaborates tags

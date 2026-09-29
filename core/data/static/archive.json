@@ -166,11 +166,6 @@
       "reason": "archived"
     },
     {
-      "name": "Maestral",
-      "repo_url": "https://github.com/samschott/maestral",
-      "reason": "archived"
-    },
-    {
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"

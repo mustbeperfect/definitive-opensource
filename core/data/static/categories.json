@@ -837,12 +837,6 @@
       "description": ""
     },
     {
-      "name": "Time Management",
-      "id": "time-management",
-      "parent": "productivity",
-      "description": ""
-    },
-    {
       "name": "Mapping",
       "id": "mapping",
       "parent": "other",
