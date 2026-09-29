@@ -1,4 +1,4 @@
-name: Status Maintenance
+name: Backlog Maintenance
 
 on:
   workflow_dispatch:
@@ -31,16 +31,20 @@ jobs:
       - name: Install project
         run: uv sync --no-dev
 
-      - name: Run status maintenance script
+      - name: Run backlog update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run source/maintenance/status_checker.py
+        run: uv run source/maintenance/backlog_updator.py
+
+      - name: Run backlog generator script
+        run: uv run source/generation/backlog_generator.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ../resources/maintenance/status_maintenance.md
-          git commit -m "Run status_maintenance" || echo "No changes to commit"
+          git add data/dynamic/backlog_generated.json
+          git add ../resources/maintenance/backlog.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Run backlog maintenance"
           git pull --rebase
           git push
