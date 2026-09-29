@@ -110,13 +110,8 @@ def generate_contents(platform="all"):
                 link = app.get("repo_url", "#")
                 attribute_tags = ""
                 property_tags = ""
-                """
                 if app.get("tags"):
-                    tags += " " + " ".join(app["tags"])
-                """
-                if app.get("tags"):
-                    # attribute_tags = " " + " ".join(attribute_map.get(tag, tag) for tag in app.get("tags", []))
-                    attribute_tags = " " + " ".join(
+                    attribute_tags = " ".join(
                         attribute_map[tag]
                         for tag in app["tags"]
                         if tag in attribute_map
@@ -127,6 +122,11 @@ def generate_contents(platform="all"):
                         if tag in property_map
                     )
 
+                tags_display = " ".join(
+                    [t for t in [attribute_tags, property_tags] if t]
+                )
+                tags_formatted = f" {tags_display}" if tags_display else ""
+
                 # app_platforms = " ".join(f"`{p}`" for p in app.get("platforms", []))
                 app_platforms = " ".join(
                     f"`{platform_map.get(p, p)}`" for p in app.get("platforms", [])
@@ -135,7 +135,7 @@ def generate_contents(platform="all"):
                 stars_formatted = (
                     f"**{format_stars(stars)}**" if stars is not None else ""
                 )
-                md_output += f"| [{name}]({link}){attribute_tags}{property_tags} | {description} | {app_platforms} | {stars_formatted} |\n"
+                md_output += f"| [{name}]({link}){tags_formatted} | {description} | {app_platforms} | {stars_formatted} |\n"
             md_output += "\n"
     return md_output
 

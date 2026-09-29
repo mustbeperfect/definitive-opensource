@@ -23,6 +23,7 @@ from source.generation.tableofcontents_generator import (  # noqa: E402
     generate_table_of_contents,
 )
 from source.utils.markdown_utils import slugify  # noqa: E402
+from source.utils.path_utils import COMPONENTS_DIR  # noqa: E402
 
 
 class TestGeneration(unittest.TestCase):
@@ -158,6 +159,21 @@ class TestGeneration(unittest.TestCase):
             self.assertIn("More Information", header)
             self.assertIn("How The List Works", header)
             self.assertIn("Project Status", header)
+    def test_tag_spacing(self):
+        contents = generate_contents("all")
+        # Check Ollama and Vim have space between emoji and property tag
+        self.assertIn("[Ollama](https://github.com/ollama/ollama) 🌍 `CLI`", contents)
+        self.assertNotIn("[Ollama](https://github.com/ollama/ollama) 🌍`CLI`", contents)
+        self.assertIn("[Vim](https://github.com/vim/vim) 🌍 `CLI`", contents)
+        self.assertNotIn("[Vim](https://github.com/vim/vim) 🌍`CLI`", contents)
+        # Ensure no emojis immediately followed by backticks anywhere in tables
+        self.assertNotRegex(contents, r"[\U00010000-\U0010ffff]`")
+
+    def test_go_to_top_anchor_standardized(self):
+        with open(COMPONENTS_DIR / "footer.md", "r", encoding="utf-8") as f:
+            footer = f.read()
+        self.assertIn('href="#table-of-contents"', footer)
+        self.assertNotIn('href="#tags"', footer)
 
 
 if __name__ == "__main__":
