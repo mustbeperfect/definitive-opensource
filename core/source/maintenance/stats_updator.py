@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import json
 from pathlib import Path
 import sys
@@ -9,21 +11,28 @@ if str(CORE_DIR) not in sys.path:
 from source.utils.github_utils import (  # noqa: E402
     extract_repo_path,
     fetch_repo_data,
+    fetch_repos_batch,
     format_commit_date,
     get_github_headers,
     get_github_token,
 )
 
 
-def update_application_data(app: dict, headers: dict) -> dict:
+def update_application_data(
+    app: dict,
+    headers: dict | None = None,
+    repo_data: dict | None = None,
+    fallback_app: dict | None = None,
+) -> dict:
     repo_url = app.get("repo_url", "")
     repo_name = extract_repo_path(repo_url)
     if not repo_name:
         print(f"Skipping {app.get('name', 'Unknown')}: Invalid GitHub URL ({repo_url})")
         return app
 
-    print(f"Updating: {repo_name}")
-    repo_data = fetch_repo_data(repo_name, headers=headers)
+    if repo_data is None and headers is not None:
+        print(f"Updating: {repo_name}")
+        repo_data = fetch_repo_data(repo_name, headers=headers)
 
     if repo_data is not None:
         app["stars"] = repo_data.get("stargazers_count", app.get("stars", 0))
@@ -54,12 +63,25 @@ def update_application_data(app: dict, headers: dict) -> dict:
 
         return app
     else:
+        # If fetch failed but fallback_app exists, preserve previous dynamic values
+        if fallback_app:
+            for field in [
+                "stars",
+                "language",
+                "homepage_url",
+                "description",
+                "license",
+                "last_commit",
+            ]:
+                if (field not in app or not app.get(field)) and fallback_app.get(field):
+                    app[field] = fallback_app[field]
         return app
 
 
 def update_all_applications(
     input_file: Path | str | None = None,
     output_file: Path | str | None = None,
+    batch_size: int = 100,
 ) -> dict:
     if input_file is None:
         input_path = Path("data/static/applications.json")
@@ -83,12 +105,52 @@ def update_all_applications(
         )
     headers = get_github_headers(token)
 
+    # Load fallback cache from existing generated file to avoid data loss on failures
+    existing_lookup: dict[str, dict] = {}
+    if output_path.exists():
+        try:
+            with open(output_path, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                for existing_app in existing_data.get("applications", []):
+                    if existing_app.get("repo_url"):
+                        existing_lookup[existing_app["repo_url"]] = existing_app
+                    if existing_app.get("name"):
+                        existing_lookup[existing_app["name"]] = existing_app
+        except Exception as e:
+            print(f"Notice: Could not load existing generated data for fallback: {e}")
+
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
+    applications = data.get("applications", [])
+    repo_paths: list[str] = []
+    for app in applications:
+        repo_path = extract_repo_path(app.get("repo_url", ""))
+        if repo_path:
+            repo_paths.append(repo_path)
+
+    # Batch fetch all repositories via GraphQL (or threaded REST fallback)
+    batch_results = fetch_repos_batch(
+        repo_paths,
+        token=token,
+        headers=headers,
+        batch_size=batch_size,
+    )
+
     generated_apps = []
-    for app in data.get("applications", []):
-        updated_app = update_application_data(app.copy(), headers)
+    for app in applications:
+        repo_path = extract_repo_path(app.get("repo_url", ""))
+        repo_data = batch_results.get(repo_path) if repo_path else None
+        fallback_app = (
+            existing_lookup.get(app.get("repo_url", ""))
+            or existing_lookup.get(app.get("name", ""))
+        )
+        updated_app = update_application_data(
+            app.copy(),
+            headers=headers,
+            repo_data=repo_data,
+            fallback_app=fallback_app,
+        )
         generated_apps.append(updated_app)
 
     generated_data = {"applications": generated_apps}
@@ -104,3 +166,4 @@ def update_all_applications(
 
 if __name__ == "__main__":
     update_all_applications()
+

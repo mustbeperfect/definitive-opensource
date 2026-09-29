@@ -1,11 +1,16 @@
 from .github_utils import (
+    build_graphql_repos_query,
     extract_repo_path,
     fetch_repo_data,
     fetch_repo_summary,
+    fetch_repos_batch,
+    fetch_repos_batch_graphql,
+    fetch_repos_batch_rest,
     format_commit_date,
     format_time_ago,
     get_github_headers,
     get_github_token,
+    normalize_graphql_repo,
 )
 from .markdown_utils import (
     format_stars,
@@ -28,6 +33,11 @@ __all__ = [
     "extract_repo_path",
     "fetch_repo_data",
     "fetch_repo_summary",
+    "fetch_repos_batch",
+    "fetch_repos_batch_graphql",
+    "fetch_repos_batch_rest",
+    "build_graphql_repos_query",
+    "normalize_graphql_repo",
     "format_commit_date",
     "format_time_ago",
     "get_github_headers",
@@ -45,3 +55,4 @@ __all__ = [
     "READMES_DIR",
     "MAINTENANCE_DIR",
 ]
+

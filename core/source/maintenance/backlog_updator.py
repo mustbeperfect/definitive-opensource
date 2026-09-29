@@ -9,6 +9,8 @@ if str(CORE_DIR) not in sys.path:
 from source.utils.github_utils import (  # noqa: E402
     extract_repo_path,
     fetch_repo_summary,
+    fetch_repos_batch,
+    format_commit_date,
     get_github_headers,
     get_github_token,
 )
@@ -44,6 +46,14 @@ def generate_backlog(
 
     applications = data.get("applications", [])
     total = len(applications)
+
+    repo_paths = [
+        extract_repo_path(app.get("repo_url", ""))
+        for app in applications
+        if extract_repo_path(app.get("repo_url", ""))
+    ]
+    batch_results = fetch_repos_batch(repo_paths, token=token, headers=headers)
+
     generated_apps = []
 
     for idx, app in enumerate(applications, 1):
@@ -55,8 +65,11 @@ def generate_backlog(
         stars = 0
 
         repo_path = extract_repo_path(repo_url)
-        if repo_path:
-            print(f"[{idx}/{total}] Fetching {name} ({repo_path})...")
+        if repo_path and repo_path in batch_results and batch_results[repo_path]:
+            repo_data = batch_results[repo_path]
+            stars = repo_data.get("stargazers_count", 0)
+            last_commit = format_commit_date(repo_data.get("pushed_at"))
+        elif repo_path:
             last_commit, stars = fetch_repo_summary(repo_path, headers)
         else:
             print(

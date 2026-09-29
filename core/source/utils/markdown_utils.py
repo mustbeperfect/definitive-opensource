@@ -1,3 +1,6 @@
+from __future__ import annotations
+
+
 def slugify(name: str) -> str:
     """Generate a markdown anchor-friendly slug from a heading or section name."""
     return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
