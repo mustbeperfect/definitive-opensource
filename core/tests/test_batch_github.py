@@ -12,6 +12,7 @@ if str(CORE_DIR) not in sys.path:
     sys.path.insert(0, str(CORE_DIR))
 
 from source.maintenance.backlog_updator import generate_backlog  # noqa: E402
+from source.maintenance.status_checker import check_status  # noqa: E402
 from source.maintenance.stats_updator import (  # noqa: E402
     update_all_applications,
     update_application_data,
@@ -512,6 +513,149 @@ class TestBacklogUpdator(unittest.TestCase):
             if test_output.exists():
                 test_output.unlink()
 
+    def test_update_application_data_persists_archived_and_github_full_name(self):
+        app = {
+            "name": "Test App",
+            "repo_url": "https://github.com/old/repo",
+            "flags": [],
+        }
+        repo_data = {
+            "stargazers_count": 100,
+            "language": "Python",
+            "homepage": "https://example.com",
+            "description": "Example repo",
+            "license": {"spdx_id": "MIT"},
+            "pushed_at": "2026-09-28T00:00:00Z",
+            "archived": True,
+            "full_name": "new/repo",
+        }
+        updated = update_application_data(app.copy(), repo_data=repo_data)
+        self.assertTrue(updated["archived"])
+        self.assertEqual(updated["github_full_name"], "new/repo")
+
+    def test_update_application_data_fallback_persists_archived_and_github_full_name(
+        self,
+    ):
+        app = {
+            "name": "Test App",
+            "repo_url": "https://github.com/fallback/repo",
+            "flags": [],
+        }
+        fallback_app = {
+            "name": "Test App",
+            "repo_url": "https://github.com/fallback/repo",
+            "stars": 42,
+            "language": "Rust",
+            "homepage_url": "",
+            "description": "",
+            "license": "MIT",
+            "last_commit": "09/01/2026",
+            "archived": True,
+            "github_full_name": "new/fallback-repo",
+        }
+        updated = update_application_data(
+            app.copy(), repo_data=None, fallback_app=fallback_app
+        )
+        self.assertTrue(updated["archived"])
+        self.assertEqual(updated["github_full_name"], "new/fallback-repo")
+
+    def test_update_application_data_defaults_when_no_repo_data_or_fallback(self):
+        app = {
+            "name": "Test App",
+            "repo_url": "https://github.com/empty/repo",
+            "flags": [],
+        }
+        updated = update_application_data(
+            app.copy(), repo_data=None, fallback_app=None
+        )
+        self.assertFalse(updated["archived"])
+        self.assertEqual(updated["github_full_name"], "")
+
+    def test_status_checker_offline(self):
+        test_input = CORE_DIR / "tests" / "test_status_input.json"
+        test_output = CORE_DIR / "tests" / "test_status_output.md"
+
+        sample_data = {
+            "applications": [
+                {
+                    "name": "Active App",
+                    "repo_url": "https://github.com/owner/active",
+                    "github_full_name": "owner/active",
+                    "archived": False,
+                    "last_commit": "09/25/2026",
+                    "stars": 100,
+                },
+                {
+                    "name": "Abandoned App",
+                    "repo_url": "https://github.com/owner/abandoned",
+                    "github_full_name": "owner/abandoned",
+                    "archived": False,
+                    "last_commit": "01/01/2024",
+                    "stars": 50,
+                },
+                {
+                    "name": "Archived App",
+                    "repo_url": "https://github.com/owner/archived-repo",
+                    "github_full_name": "owner/archived-repo",
+                    "archived": True,
+                    "last_commit": "01/01/2023",
+                    "stars": 500,
+                },
+                {
+                    "name": "Rebranded App",
+                    "repo_url": "https://github.com/old-org/rebranded",
+                    "github_full_name": "new-org/rebranded",
+                    "archived": False,
+                    "last_commit": "09/20/2026",
+                    "stars": 200,
+                },
+                {
+                    "name": "Missing 404 App",
+                    "repo_url": "https://github.com/deleted/repo",
+                    "github_full_name": "",
+                    "archived": False,
+                    "not_found": True,
+                    "last_commit": "",
+                    "stars": 0,
+                },
+            ]
+        }
+        with open(test_input, "w", encoding="utf-8") as f:
+            json.dump(sample_data, f)
+
+        try:
+            report = check_status(input_file=test_input, output_file=test_output)
+
+            # Check return structure
+            self.assertEqual(report["potentially_abandoned"], ["Abandoned App"])
+            self.assertEqual(report["archived"], ["Archived App"])
+            self.assertEqual(report["no_longer_exists"], ["Missing 404 App"])
+            self.assertEqual(
+                report["rebranded"],
+                ["Rebranded App (Moved to: https://github.com/new-org/rebranded)"],
+            )
+
+            # Verify report output file content
+            self.assertTrue(test_output.exists())
+            with open(test_output, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            self.assertIn("## Potentially Abandoned:\n- Abandoned App\n", content)
+            self.assertIn("## Archived:\n- Archived App\n", content)
+            self.assertIn("## No Longer Exists (404):\n- Missing 404 App\n", content)
+            self.assertIn(
+                "## Rebranded / Moved:\n- Rebranded App (Moved to: https://github.com/new-org/rebranded)\n",
+                content,
+            )
+            # Ensure Archived App was not duplicated in Potentially Abandoned
+            self.assertNotIn("- Archived App\n\n## Archived", content)
+        finally:
+            if test_input.exists():
+                test_input.unlink()
+            if test_output.exists():
+                test_output.unlink()
+
 
 if __name__ == "__main__":
     unittest.main()
+

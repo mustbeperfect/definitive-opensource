@@ -4,7 +4,6 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- CasaOS
 - Ice
 - zsh-autosuggestions
 - Quill

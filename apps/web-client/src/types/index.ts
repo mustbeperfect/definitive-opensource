@@ -12,4 +12,6 @@ export interface Application {
   language: string
   homepage_url: string
   last_commit: string
+  archived?: boolean
+  github_full_name?: string
 }

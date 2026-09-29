@@ -54,6 +54,17 @@ def update_application_data(
                 app["last_commit"] = fallback_app["last_commit"]
             elif "last_commit" not in app or app["last_commit"] is None:
                 app["last_commit"] = ""
+            if "archived" in fallback_app and fallback_app["archived"] is not None:
+                app["archived"] = bool(fallback_app["archived"])
+            elif "archived" not in app or app["archived"] is None:
+                app["archived"] = False
+            if (
+                "github_full_name" in fallback_app
+                and fallback_app["github_full_name"] is not None
+            ):
+                app["github_full_name"] = fallback_app["github_full_name"]
+            elif "github_full_name" not in app or app["github_full_name"] is None:
+                app["github_full_name"] = ""
         else:
             if "stars" not in app or app["stars"] is None:
                 app["stars"] = 0
@@ -63,6 +74,10 @@ def update_application_data(
                 app["homepage_url"] = ""
             if "last_commit" not in app or app["last_commit"] is None:
                 app["last_commit"] = ""
+            if "archived" not in app or app["archived"] is None:
+                app["archived"] = False
+            if "github_full_name" not in app or app["github_full_name"] is None:
+                app["github_full_name"] = ""
         if "description" not in app or app["description"] is None:
             app["description"] = ""
         if "license" not in app or app["license"] is None:
@@ -112,6 +127,11 @@ def update_application_data(
         else:
             app["last_commit"] = app.get("last_commit", "") or ""
 
+        app["archived"] = bool(repo_data.get("archived", False))
+        app["github_full_name"] = (
+            repo_data.get("full_name") or repo_data.get("github_full_name") or ""
+        )
+
         # Ensure all dynamic keys exist and are not None
         if "stars" not in app or app["stars"] is None:
             app["stars"] = 0
@@ -125,6 +145,10 @@ def update_application_data(
             app["description"] = ""
         if "license" not in app or app["license"] is None:
             app["license"] = ""
+        if "archived" not in app or app["archived"] is None:
+            app["archived"] = False
+        if "github_full_name" not in app or app["github_full_name"] is None:
+            app["github_full_name"] = ""
 
         return app
     else:
@@ -183,6 +207,21 @@ def update_application_data(
                 app["last_commit"] = fallback_app["last_commit"]
             elif "last_commit" not in app or app["last_commit"] is None:
                 app["last_commit"] = ""
+
+            # 7. archived
+            if "archived" in fallback_app and fallback_app["archived"] is not None:
+                app["archived"] = bool(fallback_app["archived"])
+            elif "archived" not in app or app["archived"] is None:
+                app["archived"] = False
+
+            # 8. github_full_name
+            if (
+                "github_full_name" in fallback_app
+                and fallback_app["github_full_name"] is not None
+            ):
+                app["github_full_name"] = fallback_app["github_full_name"]
+            elif "github_full_name" not in app or app["github_full_name"] is None:
+                app["github_full_name"] = ""
         else:
             # No fallback available, ensure valid schema defaults so entries are not stripped
             if "stars" not in app or app["stars"] is None:
@@ -197,6 +236,10 @@ def update_application_data(
                 app["license"] = ""
             if "last_commit" not in app or app["last_commit"] is None:
                 app["last_commit"] = ""
+            if "archived" not in app or app["archived"] is None:
+                app["archived"] = False
+            if "github_full_name" not in app or app["github_full_name"] is None:
+                app["github_full_name"] = ""
 
         return app
 
@@ -245,6 +288,9 @@ def update_all_applications(
                     name = existing_app.get("name", "")
                     if name:
                         existing_lookup[name.strip().lower()] = existing_app
+                    github_full_name = existing_app.get("github_full_name", "")
+                    if github_full_name:
+                        existing_lookup[github_full_name.strip().lower()] = existing_app
         except Exception as e:
             print(f"Notice: Could not load existing generated data for fallback: {e}")
 
