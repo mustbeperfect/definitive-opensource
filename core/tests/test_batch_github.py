@@ -11,6 +11,7 @@ CORE_DIR = Path(__file__).resolve().parents[1]
 if str(CORE_DIR) not in sys.path:
     sys.path.insert(0, str(CORE_DIR))
 
+from source.maintenance.backlog_updator import generate_backlog  # noqa: E402
 from source.maintenance.stats_updator import (  # noqa: E402
     update_all_applications,
     update_application_data,
@@ -158,7 +159,10 @@ class TestBatchGitHubUtils(unittest.TestCase):
 
         mock_graphql.assert_called_once()
         mock_rest.assert_called_once_with(
-            ["owner/renamed"], headers=mock_rest.call_args[1]["headers"], max_workers=8, timeout=30
+            ["owner/renamed"],
+            headers=mock_rest.call_args[1]["headers"],
+            max_workers=8,
+            timeout=30,
         )
         self.assertEqual(results["owner/good"]["stargazers_count"], 200)
         self.assertEqual(results["owner/renamed"]["stargazers_count"], 300)
@@ -256,6 +260,90 @@ class TestStatsUpdator(unittest.TestCase):
         self.assertEqual(updated["license"], "MIT")
         self.assertEqual(updated["last_commit"], "09/20/2026")
 
+    def test_update_application_data_preserves_zero_stars_from_fallback(self):
+        app = {
+            "name": "Zero Star App",
+            "repo_url": "https://github.com/foo/zero",
+            "category": "ai",
+            "flags": [],
+        }
+        fallback_app = {
+            "name": "Zero Star App",
+            "repo_url": "https://github.com/foo/zero",
+            "stars": 0,
+            "language": "Python",
+            "homepage_url": "",
+            "description": "Zero stars repo",
+            "license": "MIT",
+            "last_commit": "09/01/2026",
+        }
+
+        updated = update_application_data(
+            app.copy(),
+            repo_data=None,
+            fallback_app=fallback_app,
+        )
+        self.assertIn("stars", updated)
+        self.assertEqual(updated["stars"], 0)
+        self.assertEqual(updated["language"], "Python")
+        self.assertEqual(updated["description"], "Zero stars repo")
+        self.assertEqual(updated["license"], "MIT")
+        self.assertEqual(updated["last_commit"], "09/01/2026")
+
+    def test_update_application_data_populates_safe_defaults_when_no_fallback(self):
+        app = {
+            "name": "Brand New App",
+            "repo_url": "https://github.com/new/app",
+            "category": "ai",
+            "flags": [],
+        }
+
+        # Both repo_data and fallback_app are None
+        updated = update_application_data(
+            app.copy(),
+            repo_data=None,
+            fallback_app=None,
+        )
+        self.assertEqual(updated["stars"], 0)
+        self.assertEqual(updated["language"], "")
+        self.assertEqual(updated["homepage_url"], "")
+        self.assertEqual(updated["description"], "")
+        self.assertEqual(updated["license"], "")
+        self.assertEqual(updated["last_commit"], "")
+
+    def test_update_application_data_preserves_custom_flags_on_fetch_failure(self):
+        app = {
+            "name": "Custom Flags App",
+            "repo_url": "https://github.com/foo/flags",
+            "category": "ai",
+            "flags": ["custom-description", "custom-license", "custom-homepage"],
+            "description": "Curated description",
+            "license": "Proprietary",
+            "homepage_url": "https://custom.site",
+        }
+        fallback_app = {
+            "name": "Custom Flags App",
+            "repo_url": "https://github.com/foo/flags",
+            "stars": 42,
+            "language": "Go",
+            "description": "Old stale description",
+            "license": "Old License",
+            "homepage_url": "https://old.site",
+            "last_commit": "08/15/2026",
+        }
+
+        updated = update_application_data(
+            app.copy(),
+            repo_data=None,
+            fallback_app=fallback_app,
+        )
+        self.assertEqual(updated["description"], "Curated description")
+        self.assertEqual(updated["license"], "Proprietary")
+        self.assertEqual(updated["homepage_url"], "https://custom.site")
+        self.assertEqual(updated["stars"], 42)
+        self.assertEqual(updated["language"], "Go")
+        self.assertEqual(updated["last_commit"], "08/15/2026")
+
     @patch("source.maintenance.stats_updator.fetch_repos_batch")
     def test_update_all_applications_flow(self, mock_batch):
         mock_batch.return_value = {
@@ -308,6 +396,116 @@ class TestStatsUpdator(unittest.TestCase):
             with open(test_output, "r", encoding="utf-8") as f:
                 saved = json.load(f)
             self.assertEqual(saved["applications"][0]["stars"], 888)
+        finally:
+            if test_input.exists():
+                test_input.unlink()
+            if test_output.exists():
+                test_output.unlink()
+
+    @patch("source.maintenance.stats_updator.fetch_repos_batch")
+    def test_update_all_applications_preserves_fallback_cache_on_batch_failure(
+        self, mock_batch
+    ):
+        # Simulate complete batch fetch failure (e.g. rate limit)
+        mock_batch.return_value = {"foo/bar": None}
+
+        test_input = CORE_DIR / "tests" / "test_input_failure.json"
+        test_output = CORE_DIR / "tests" / "test_output_failure.json"
+
+        input_data = {
+            "applications": [
+                {
+                    "name": "FooBar",
+                    "repo_url": "https://github.com/foo/bar/",  # Note trailing slash
+                    "category": "tools",
+                    "flags": [],
+                }
+            ]
+        }
+        existing_data = {
+            "applications": [
+                {
+                    "name": "FooBar",
+                    "repo_url": "https://github.com/foo/bar",
+                    "stars": 9999,
+                    "language": "Rust",
+                    "homepage_url": "https://foobar.rs",
+                    "description": "Previously cached description",
+                    "license": "MIT",
+                    "last_commit": "09/10/2026",
+                }
+            ]
+        }
+        with open(test_input, "w", encoding="utf-8") as f:
+            json.dump(input_data, f)
+        with open(test_output, "w", encoding="utf-8") as f:
+            json.dump(existing_data, f)
+
+        try:
+            result = update_all_applications(
+                input_file=test_input,
+                output_file=test_output,
+                batch_size=50,
+            )
+            self.assertEqual(len(result["applications"]), 1)
+            app = result["applications"][0]
+            # Verify cached metadata was preserved and not stripped
+            self.assertEqual(app["stars"], 9999)
+            self.assertEqual(app["language"], "Rust")
+            self.assertEqual(app["homepage_url"], "https://foobar.rs")
+            self.assertEqual(app["description"], "Previously cached description")
+            self.assertEqual(app["license"], "MIT")
+            self.assertEqual(app["last_commit"], "09/10/2026")
+        finally:
+            if test_input.exists():
+                test_input.unlink()
+            if test_output.exists():
+                test_output.unlink()
+
+
+class TestBacklogUpdator(unittest.TestCase):
+    @patch("source.maintenance.backlog_updator.fetch_repos_batch")
+    def test_generate_backlog_preserves_fallback_cache_on_failure(self, mock_batch):
+        mock_batch.return_value = {"old/project": None}
+
+        test_input = CORE_DIR / "tests" / "test_backlog_input.json"
+        test_output = CORE_DIR / "tests" / "test_backlog_output.json"
+
+        input_data = {
+            "applications": [
+                {
+                    "name": "Old Project",
+                    "repo_url": "https://github.com/old/project/",
+                    "note": "Potentially abandoned",
+                }
+            ]
+        }
+        existing_data = {
+            "applications": [
+                {
+                    "name": "Old Project",
+                    "repo_url": "https://github.com/old/project",
+                    "note": "Potentially abandoned",
+                    "last_commit": "05/10/2025",
+                    "stars": 321,
+                }
+            ]
+        }
+        with open(test_input, "w", encoding="utf-8") as f:
+            json.dump(input_data, f)
+        with open(test_output, "w", encoding="utf-8") as f:
+            json.dump(existing_data, f)
+
+        try:
+            result = generate_backlog(
+                input_file=test_input,
+                output_file=test_output,
+            )
+            self.assertEqual(len(result["applications"]), 1)
+            app = result["applications"][0]
+            self.assertEqual(app["name"], "Old Project")
+            self.assertEqual(app["stars"], 321)
+            self.assertEqual(app["last_commit"], "05/10/2025")
         finally:
             if test_input.exists():
                 test_input.unlink()

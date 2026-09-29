@@ -1,4 +1,7 @@
+from __future__ import annotations
+
 import json
+import os
 from pathlib import Path
 import sys
 
@@ -44,7 +47,33 @@ def generate_backlog(
         print("Warning: GITHUB_TOKEN not found. Requests may be rate-limited.")
     headers = get_github_headers(token)
 
+    # Load fallback cache from existing generated backlog to avoid data loss on failures
+    existing_lookup: dict[str, dict] = {}
+    if output_path.exists():
+        try:
+            with open(output_path, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                for existing_app in existing_data.get("applications", []):
+                    raw_url = existing_app.get("repo_url", "")
+                    if raw_url:
+                        existing_lookup[raw_url.strip()] = existing_app
+                        existing_lookup[raw_url.strip().lower()] = existing_app
+                        path = extract_repo_path(raw_url)
+                        if path:
+                            existing_lookup[path.lower()] = existing_app
+                    name = existing_app.get("name", "")
+                    if name:
+                        existing_lookup[name.strip().lower()] = existing_app
+        except Exception as e:
+            print(f"Notice: Could not load existing backlog data for fallback: {e}")
+
     applications = data.get("applications", [])
+    if not applications and output_path.exists():
+        print(
+            f"Warning: No applications found in {input_path}. Preserving existing {output_path} to prevent data loss."
+        )
+        return {"applications": []}
+
     total = len(applications)
 
     repo_paths = [
@@ -65,13 +94,33 @@ def generate_backlog(
         stars = 0
 
         repo_path = extract_repo_path(repo_url)
+
+        # Look up fallback from cache
+        fallback_app = None
+        if repo_path:
+            fallback_app = existing_lookup.get(repo_path.lower())
+        if not fallback_app and repo_url:
+            fallback_app = existing_lookup.get(repo_url.strip()) or existing_lookup.get(
+                repo_url.strip().lower()
+            )
+        if not fallback_app and name:
+            fallback_app = existing_lookup.get(name.strip().lower())
+
         if repo_path and repo_path in batch_results and batch_results[repo_path]:
             repo_data = batch_results[repo_path]
             stars = repo_data.get("stargazers_count", 0)
             last_commit = format_commit_date(repo_data.get("pushed_at"))
         elif repo_path:
-            last_commit, stars = fetch_repo_summary(repo_path, headers)
+            # Batch didn't return data; if fallback cache exists, use it to avoid data loss
+            if fallback_app and fallback_app.get("last_commit"):
+                last_commit = fallback_app.get("last_commit", "")
+                stars = fallback_app.get("stars", 0)
+            else:
+                last_commit, stars = fetch_repo_summary(repo_path, headers)
         else:
+            if fallback_app:
+                last_commit = fallback_app.get("last_commit", "")
+                stars = fallback_app.get("stars", 0)
             print(
                 f"[{idx}/{total}] Skipping {name}: Invalid or non-GitHub URL ({repo_url})"
             )
@@ -88,10 +137,18 @@ def generate_backlog(
 
     generated_data = {"applications": generated_apps}
 
+    # Atomic write to prevent file corruption or destructive 0-byte truncation on crash
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(generated_data, f, indent=4)
-        f.write("\n")
+    temp_path = output_path.with_name(f"{output_path.name}.tmp.{os.getpid()}")
+    try:
+        with open(temp_path, "w", encoding="utf-8") as f:
+            json.dump(generated_data, f, indent=4)
+            f.write("\n")
+        temp_path.replace(output_path)
+    except Exception:
+        if temp_path.exists():
+            temp_path.unlink()
+        raise
 
     print(
         f"Successfully generated {output_path} with {len(generated_apps)} applications."

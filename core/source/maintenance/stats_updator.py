@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 import sys
 
@@ -26,8 +27,46 @@ def update_application_data(
 ) -> dict:
     repo_url = app.get("repo_url", "")
     repo_name = extract_repo_path(repo_url)
+    flags = app.get("flags", [])
+
     if not repo_name:
         print(f"Skipping {app.get('name', 'Unknown')}: Invalid GitHub URL ({repo_url})")
+        if fallback_app:
+            if "stars" in fallback_app and fallback_app["stars"] is not None:
+                app["stars"] = fallback_app["stars"]
+            elif "stars" not in app or app["stars"] is None:
+                app["stars"] = 0
+            if "language" in fallback_app and fallback_app["language"] is not None:
+                app["language"] = fallback_app["language"]
+            elif "language" not in app or app["language"] is None:
+                app["language"] = ""
+            if (
+                "homepage_url" in fallback_app
+                and fallback_app["homepage_url"] is not None
+            ):
+                app["homepage_url"] = fallback_app["homepage_url"]
+            elif "homepage_url" not in app or app["homepage_url"] is None:
+                app["homepage_url"] = ""
+            if (
+                "last_commit" in fallback_app
+                and fallback_app["last_commit"] is not None
+            ):
+                app["last_commit"] = fallback_app["last_commit"]
+            elif "last_commit" not in app or app["last_commit"] is None:
+                app["last_commit"] = ""
+        else:
+            if "stars" not in app or app["stars"] is None:
+                app["stars"] = 0
+            if "language" not in app or app["language"] is None:
+                app["language"] = ""
+            if "homepage_url" not in app or app["homepage_url"] is None:
+                app["homepage_url"] = ""
+            if "last_commit" not in app or app["last_commit"] is None:
+                app["last_commit"] = ""
+        if "description" not in app or app["description"] is None:
+            app["description"] = ""
+        if "license" not in app or app["license"] is None:
+            app["license"] = ""
         return app
 
     if repo_data is None and headers is not None:
@@ -36,45 +75,129 @@ def update_application_data(
 
     if repo_data is not None:
         app["stars"] = repo_data.get("stargazers_count", app.get("stars", 0))
-        app["language"] = repo_data.get("language", app.get("language", ""))
+        app["language"] = repo_data.get("language") or app.get("language", "") or ""
 
         # Flags
-        if "custom-homepage" not in app.get("flags", []):
-            app["homepage_url"] = repo_data.get("homepage", app.get("homepage_url", ""))
-
-        if "custom-description" not in app.get("flags", []):
-            app["description"] = repo_data.get(
-                "description", app.get("description", "")
+        if "custom-homepage" not in flags:
+            app["homepage_url"] = (
+                repo_data.get("homepage") or app.get("homepage_url", "") or ""
             )
+        elif "homepage_url" not in app or app["homepage_url"] is None:
+            app["homepage_url"] = ""
 
-        if "custom-license" not in app.get("flags", []):
+        if "custom-description" not in flags:
+            app["description"] = (
+                repo_data.get("description", app.get("description", "")) or ""
+            )
+        elif "description" not in app or app["description"] is None:
+            app["description"] = ""
+
+        if "custom-license" not in flags:
             license_data = repo_data.get("license")
-            if license_data is not None:
-                app["license"] = license_data.get("spdx_id", app.get("license", ""))
+            if isinstance(license_data, dict):
+                app["license"] = (
+                    license_data.get("spdx_id") or app.get("license", "") or ""
+                )
+            elif isinstance(license_data, str):
+                app["license"] = license_data
             else:
-                app["license"] = app.get("license", "")
+                app["license"] = app.get("license", "") or ""
+        elif "license" not in app or app["license"] is None:
+            app["license"] = ""
 
         # Check
         pushed_at = repo_data.get("pushed_at")
         if pushed_at:
             app["last_commit"] = format_commit_date(pushed_at)
         else:
-            app["last_commit"] = app.get("last_commit", "")
+            app["last_commit"] = app.get("last_commit", "") or ""
+
+        # Ensure all dynamic keys exist and are not None
+        if "stars" not in app or app["stars"] is None:
+            app["stars"] = 0
+        if "language" not in app or app["language"] is None:
+            app["language"] = ""
+        if "homepage_url" not in app or app["homepage_url"] is None:
+            app["homepage_url"] = ""
+        if "last_commit" not in app or app["last_commit"] is None:
+            app["last_commit"] = ""
+        if "description" not in app or app["description"] is None:
+            app["description"] = ""
+        if "license" not in app or app["license"] is None:
+            app["license"] = ""
 
         return app
     else:
-        # If fetch failed but fallback_app exists, preserve previous dynamic values
+        # If fetch failed but fallback_app exists, preserve previous dynamic values without wiping
         if fallback_app:
-            for field in [
-                "stars",
-                "language",
-                "homepage_url",
-                "description",
-                "license",
-                "last_commit",
-            ]:
-                if (field not in app or not app.get(field)) and fallback_app.get(field):
-                    app[field] = fallback_app[field]
+            # 1. stars
+            if "stars" in fallback_app and fallback_app["stars"] is not None:
+                app["stars"] = fallback_app["stars"]
+            elif "stars" not in app or app["stars"] is None:
+                app["stars"] = 0
+
+            # 2. language
+            if "language" in fallback_app and fallback_app["language"] is not None:
+                app["language"] = fallback_app["language"]
+            elif "language" not in app or app["language"] is None:
+                app["language"] = ""
+
+            # 3. homepage_url
+            if "custom-homepage" not in flags:
+                if (
+                    "homepage_url" in fallback_app
+                    and fallback_app["homepage_url"] is not None
+                ):
+                    app["homepage_url"] = fallback_app["homepage_url"]
+                elif "homepage_url" not in app or app["homepage_url"] is None:
+                    app["homepage_url"] = ""
+            elif "homepage_url" not in app or app["homepage_url"] is None:
+                app["homepage_url"] = ""
+
+            # 4. description
+            if "custom-description" not in flags:
+                if (
+                    "description" in fallback_app
+                    and fallback_app["description"] is not None
+                ):
+                    app["description"] = fallback_app["description"]
+                elif "description" not in app or app["description"] is None:
+                    app["description"] = ""
+            elif "description" not in app or app["description"] is None:
+                app["description"] = ""
+
+            # 5. license
+            if "custom-license" not in flags:
+                if "license" in fallback_app and fallback_app["license"] is not None:
+                    app["license"] = fallback_app["license"]
+                elif "license" not in app or app["license"] is None:
+                    app["license"] = ""
+            elif "license" not in app or app["license"] is None:
+                app["license"] = ""
+
+            # 6. last_commit
+            if (
+                "last_commit" in fallback_app
+                and fallback_app["last_commit"] is not None
+            ):
+                app["last_commit"] = fallback_app["last_commit"]
+            elif "last_commit" not in app or app["last_commit"] is None:
+                app["last_commit"] = ""
+        else:
+            # No fallback available, ensure valid schema defaults so entries are not stripped
+            if "stars" not in app or app["stars"] is None:
+                app["stars"] = 0
+            if "language" not in app or app["language"] is None:
+                app["language"] = ""
+            if "homepage_url" not in app or app["homepage_url"] is None:
+                app["homepage_url"] = ""
+            if "description" not in app or app["description"] is None:
+                app["description"] = ""
+            if "license" not in app or app["license"] is None:
+                app["license"] = ""
+            if "last_commit" not in app or app["last_commit"] is None:
+                app["last_commit"] = ""
+
         return app
 
 
@@ -112,10 +235,16 @@ def update_all_applications(
             with open(output_path, "r", encoding="utf-8") as f:
                 existing_data = json.load(f)
                 for existing_app in existing_data.get("applications", []):
-                    if existing_app.get("repo_url"):
-                        existing_lookup[existing_app["repo_url"]] = existing_app
-                    if existing_app.get("name"):
-                        existing_lookup[existing_app["name"]] = existing_app
+                    raw_url = existing_app.get("repo_url", "")
+                    if raw_url:
+                        existing_lookup[raw_url.strip()] = existing_app
+                        existing_lookup[raw_url.strip().lower()] = existing_app
+                        path = extract_repo_path(raw_url)
+                        if path:
+                            existing_lookup[path.lower()] = existing_app
+                    name = existing_app.get("name", "")
+                    if name:
+                        existing_lookup[name.strip().lower()] = existing_app
         except Exception as e:
             print(f"Notice: Could not load existing generated data for fallback: {e}")
 
@@ -123,6 +252,12 @@ def update_all_applications(
         data = json.load(f)
 
     applications = data.get("applications", [])
+    if not applications and output_path.exists():
+        print(
+            f"Warning: No applications found in {input_path}. Preserving existing {output_path} to prevent data loss."
+        )
+        return {"applications": []}
+
     repo_paths: list[str] = []
     for app in applications:
         repo_path = extract_repo_path(app.get("repo_url", ""))
@@ -139,15 +274,26 @@ def update_all_applications(
 
     generated_apps = []
     for app in applications:
-        repo_path = extract_repo_path(app.get("repo_url", ""))
+        raw_url = app.get("repo_url", "")
+        repo_path = extract_repo_path(raw_url)
         repo_data = batch_results.get(repo_path) if repo_path else None
-        fallback_app = (
-            existing_lookup.get(app.get("repo_url", ""))
-            or existing_lookup.get(app.get("name", ""))
-        )
+
+        # Look up fallback cache by normalized repo path, exact URL, or normalized name
+        fallback_app = None
+        if repo_path:
+            fallback_app = existing_lookup.get(repo_path.lower())
+        if not fallback_app and raw_url:
+            fallback_app = existing_lookup.get(raw_url.strip()) or existing_lookup.get(
+                raw_url.strip().lower()
+            )
+        if not fallback_app and app.get("name"):
+            fallback_app = existing_lookup.get(app["name"].strip().lower())
+
+        # Do not pass headers=headers here because batch fetch was already performed;
+        # this avoids blocking on hundreds of synchronous individual requests if batch failed.
         updated_app = update_application_data(
             app.copy(),
-            headers=headers,
+            headers=None,
             repo_data=repo_data,
             fallback_app=fallback_app,
         )
@@ -155,10 +301,18 @@ def update_all_applications(
 
     generated_data = {"applications": generated_apps}
 
+    # Atomic write to prevent file corruption or destructive 0-byte truncation on crash
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(generated_data, f, indent=4)
-        f.write("\n")
+    temp_path = output_path.with_name(f"{output_path.name}.tmp.{os.getpid()}")
+    try:
+        with open(temp_path, "w", encoding="utf-8") as f:
+            json.dump(generated_data, f, indent=4)
+            f.write("\n")
+        temp_path.replace(output_path)
+    except Exception:
+        if temp_path.exists():
+            temp_path.unlink()
+        raise
 
     print(f"Updated application data successfully. Output written to {output_path}.")
     return generated_data
@@ -166,4 +320,3 @@ def update_all_applications(
 
 if __name__ == "__main__":
     update_all_applications()
-
