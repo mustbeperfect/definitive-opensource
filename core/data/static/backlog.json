@@ -36,11 +36,6 @@
             "note": "Potentially abandoned"
         },
         {
-            "name": "Phoenix",
-            "repo_url": "https://github.com/kasper/phoenix",
-            "note": "Potentially abandoned"
-        },
-        {
             "name": "R&D-Agent",
             "repo_url": "https://github.com/microsoft/RD-Agent",
             "note": "Might not be relevant to this list"
@@ -146,11 +141,6 @@
             "note": "Waiting on maturity"
         },
         {
-            "name": "Rclone UI",
-            "repo_url": "https://github.com/rclone-ui/rclone-ui",
-            "note": "Waiting on maturity"
-        },
-        {
             "name": "Nook",
             "repo_url": "https://github.com/nook-browser/Nook",
             "note": "Waiting on maturity"
@@ -174,11 +164,6 @@
             "name": "KeepTrack",
             "repo_url": "https://github.com/thkruz/keeptrack.space",
             "note": "Waiting on maturity"
-        },
-        {
-            "name": "VoiceInk",
-            "repo_url": "https://github.com/Beingpax/VoiceInk",
-            "note": "Waiting on maturity, potentially vibe coded"
         },
         {
             "name": "Kanri",
@@ -268,11 +253,6 @@
         {
             "name": "BLEUnlock",
             "repo_url": "https://github.com/ts1/BLEUnlock",
-            "note": "Potentially abandoned"
-        },
-        {
-            "name": "Librum",
-            "repo_url": "https://github.com/Librum-Reader/Librum",
             "note": "Potentially abandoned"
         }
     ]

@@ -50,13 +50,6 @@
             "stars": 32329
         },
         {
-            "name": "Phoenix",
-            "repo_url": "https://github.com/kasper/phoenix",
-            "note": "Potentially abandoned",
-            "last_commit": "08/31/2025",
-            "stars": 4538
-        },
-        {
             "name": "R&D-Agent",
             "repo_url": "https://github.com/microsoft/RD-Agent",
             "note": "Might not be relevant to this list",
@@ -204,13 +197,6 @@
             "stars": 2932
         },
         {
-            "name": "Rclone UI",
-            "repo_url": "https://github.com/rclone-ui/rclone-ui",
-            "note": "Waiting on maturity",
-            "last_commit": "09/21/2026",
-            "stars": 2279
-        },
-        {
             "name": "Nook",
             "repo_url": "https://github.com/nook-browser/Nook",
             "note": "Waiting on maturity",
@@ -244,13 +230,6 @@
             "note": "Waiting on maturity",
             "last_commit": "09/17/2026",
             "stars": 1597
-        },
-        {
-            "name": "VoiceInk",
-            "repo_url": "https://github.com/Beingpax/VoiceInk",
-            "note": "Waiting on maturity, potentially vibe coded",
-            "last_commit": "09/25/2026",
-            "stars": 6560
         },
         {
             "name": "Kanri",
@@ -377,13 +356,6 @@
             "note": "Potentially abandoned",
             "last_commit": "07/12/2024",
             "stars": 4446
-        },
-        {
-            "name": "Librum",
-            "repo_url": "https://github.com/Librum-Reader/Librum",
-            "note": "Potentially abandoned",
-            "last_commit": "04/26/2026",
-            "stars": 5321
         }
     ]
 }
