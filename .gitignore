@@ -4,3 +4,10 @@
 *.pyc
 
 venv/
+
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.DS_Store
+*.tmp.*
