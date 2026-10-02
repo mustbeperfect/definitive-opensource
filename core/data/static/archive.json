@@ -107,7 +107,7 @@
     },
     {
       "name": "Overseerr",
-      "repo_url": "https://github.com/sct/overseerr?tab=readme-ov-file",
+      "repo_url": "https://github.com/sct/overseerr",
       "reason": "archived"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "Jellyfin Desktop",
-      "repo_url": "https://github.com/jellyfin-archive/jellyfin-desktop-qt/",
+      "repo_url": "https://github.com/jellyfin-archive/jellyfin-desktop-qt",
       "reason": "archived"
     },
     {
