@@ -13,19 +13,17 @@ from source.utils.github_utils import extract_repo_path  # noqa: E402
 from source.utils.path_utils import DYNAMIC_DATA_DIR, MAINTENANCE_DIR  # noqa: E402
 
 
-def check_status(
+def get_status_candidates(
     input_file: Path | str | None = None,
-    output_file: Path | str | None = None,
-) -> dict[str, list[str]]:
+) -> dict[str, list[dict]]:
     """Inspect application metadata offline from applications_generated.json
+    and return structured candidate records for maintenance and PR automation.
 
-    and generate the status maintenance markdown report.
-
-    Checks for:
-      - Potentially Abandoned (> 365 days since last commit)
-      - Archived (repository archived on GitHub)
-      - No Longer Exists (404 / repository unresolvable)
-      - Rebranded / Moved (github_full_name differs from static repo_url path)
+    Returns a dict with:
+      - 'potentially_abandoned': list of dicts with name, repo_url
+      - 'archived': list of dicts with name, repo_url, reason ('archived'), type ('archive')
+      - 'no_longer_exists': list of dicts with name, repo_url, reason ('deleted'), type ('archive')
+      - 'rebranded': list of dicts with name, repo_url, new_repo_url, current_full_name, type ('rebrand')
     """
     if input_file is None:
         input_path = Path("data/dynamic/applications_generated.json")
@@ -34,20 +32,13 @@ def check_status(
     else:
         input_path = Path(input_file)
 
-    if output_file is None:
-        output_path = Path("../resources/maintenance/status_maintenance.md")
-        if not output_path.parent.exists():
-            output_path = MAINTENANCE_DIR / "status_maintenance.md"
-    else:
-        output_path = Path(output_file)
-
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    potentially_abandoned: list[str] = []
-    archived: list[str] = []
-    no_longer_exists: list[str] = []
-    rebranded: list[str] = []
+    potentially_abandoned: list[dict] = []
+    archived: list[dict] = []
+    no_longer_exists: list[dict] = []
+    rebranded: list[dict] = []
 
     cutoff_date = datetime.now() - timedelta(days=365)
 
@@ -69,19 +60,39 @@ def check_status(
             and not app.get("last_commit")
             and app.get("stars", 0) == 0
         ):
-            no_longer_exists.append(app_name)
+            no_longer_exists.append(
+                {
+                    "name": app_name,
+                    "repo_url": repo_url,
+                    "reason": "deleted",
+                    "type": "archive",
+                }
+            )
             continue
 
-        # 2. Check if repository was rebranded or moved
+        # 2. Check if repository is archived
+        if app.get("archived", False):
+            archived.append(
+                {
+                    "name": app_name,
+                    "repo_url": repo_url,
+                    "reason": "archived",
+                    "type": "archive",
+                }
+            )
+            continue
+
+        # 3. Check if repository was rebranded or moved
         if current_full_name and current_full_name.lower() != repo_path.lower():
             rebranded.append(
-                f"{app_name} (Moved to: https://github.com/{current_full_name})"
+                {
+                    "name": app_name,
+                    "repo_url": repo_url,
+                    "new_repo_url": f"https://github.com/{current_full_name}",
+                    "current_full_name": current_full_name,
+                    "type": "rebrand",
+                }
             )
-
-        # 3. Check if repository is archived
-        if app.get("archived", False):
-            archived.append(app_name)
-            continue
 
         # 4. Check if repository is potentially abandoned (> 365 days since last commit)
         last_commit = app.get("last_commit", "")
@@ -100,7 +111,49 @@ def check_status(
                     commit_date = None
 
             if commit_date and commit_date < cutoff_date:
-                potentially_abandoned.append(app_name)
+                potentially_abandoned.append(
+                    {
+                        "name": app_name,
+                        "repo_url": repo_url,
+                    }
+                )
+
+    return {
+        "potentially_abandoned": potentially_abandoned,
+        "archived": archived,
+        "no_longer_exists": no_longer_exists,
+        "rebranded": rebranded,
+    }
+
+
+def check_status(
+    input_file: Path | str | None = None,
+    output_file: Path | str | None = None,
+) -> dict[str, list[str]]:
+    """Inspect application metadata offline from applications_generated.json
+    and generate the status maintenance markdown report.
+
+    Checks for:
+      - Potentially Abandoned (> 365 days since last commit)
+      - Archived (repository archived on GitHub)
+      - No Longer Exists (404 / repository unresolvable)
+      - Rebranded / Moved (github_full_name differs from static repo_url path)
+    """
+    if output_file is None:
+        output_path = Path("../resources/maintenance/status_maintenance.md")
+        if not output_path.parent.exists():
+            output_path = MAINTENANCE_DIR / "status_maintenance.md"
+    else:
+        output_path = Path(output_file)
+
+    candidates = get_status_candidates(input_file=input_file)
+
+    potentially_abandoned = [c["name"] for c in candidates["potentially_abandoned"]]
+    archived = [c["name"] for c in candidates["archived"]]
+    no_longer_exists = [c["name"] for c in candidates["no_longer_exists"]]
+    rebranded = [
+        f"{c['name']} (Moved to: {c['new_repo_url']})" for c in candidates["rebranded"]
+    ]
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
@@ -144,4 +197,32 @@ def check_status(
 
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="Inspect repository activity and status."
+    )
+    parser.add_argument(
+        "--open-prs",
+        action="store_true",
+        help="Automatically open PRs for archived, deleted, and rebranded repositories.",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Simulate PR creation without modifying git branches or pushing.",
+    )
+    parser.add_argument(
+        "--max-prs",
+        type=int,
+        default=10,
+        help="Maximum number of PRs to open in one run.",
+    )
+    args = parser.parse_args()
+
     check_status()
+
+    if args.open_prs:
+        from source.maintenance.status_pr_opener import run_status_pr_opener
+
+        run_status_pr_opener(dry_run=args.dry_run, max_prs=args.max_prs)
