@@ -9317,7 +9317,7 @@
         {
             "name": "Rclone UI",
             "description": "",
-            "repo_url": "https://github.com/rclone-ui/rclone-ui",
+            "repo_url": "https://github.com/rclone/rclone-ui",
             "tags": [],
             "platforms": [
                 "cross"
