@@ -4,17 +4,21 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
+- Plandex
 - Ice
 - zsh-autosuggestions
 - Quill
+- Second Me
 - GitHub Desktop - The Linux Fork
+- CodiMD
 - fullmoon
+- STORM
 - Phoenix
 - A/B Street
 - percollate
 
 ## Archived:
-_None_
+- Atuin Desktop
 
 ## No Longer Exists (404):
 _None_
@@ -30,4 +34,4 @@ _None_
 - MindForger (Moved to: https://github.com/dvorka/mindforger)
 - novelWriter (Moved to: https://github.com/saga-soft/novelWriter)
 - Rclone UI (Moved to: https://github.com/rclone/rclone-ui)
-- quill (Moved to: https://github.com/humanitas-labs/quill)
+- Quill Transcription (Moved to: https://github.com/humanitas-labs/quill)
