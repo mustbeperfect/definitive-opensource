@@ -8502,18 +8502,6 @@
             "license": ""
         },
         {
-            "name": "Atuin Desktop",
-            "description": "",
-            "repo_url": "https://github.com/atuinsh/desktop",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "terminal-utilities",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "ezBookkeeping",
             "description": "",
             "repo_url": "https://github.com/mayswind/ezbookkeeping",
