@@ -5,7 +5,7 @@
 - GPT crawler
 - GPT4ALL
 - Plandex
-- Ice
+- Persepolis
 - zsh-autosuggestions
 - Quill
 - Second Me
