@@ -9628,18 +9628,6 @@
             "license": ""
         },
         {
-            "name": "Hex",
-            "description": "",
-            "repo_url": "https://github.com/kitlangton/Hex",
-            "tags": [],
-            "platforms": [
-                "macos"
-            ],
-            "category": "transcription",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Textream",
             "description": "",
             "repo_url": "https://github.com/f/textream",
