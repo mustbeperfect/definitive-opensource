@@ -18,7 +18,9 @@
 - percollate
 
 ## Archived:
+- windsurf.vim
 - Atuin Desktop
+- Hex
 
 ## No Longer Exists (404):
 _None_
