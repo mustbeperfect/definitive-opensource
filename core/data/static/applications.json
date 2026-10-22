@@ -10701,6 +10701,20 @@
             "category": "ide",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Beekeeper Studio",
+            "description": "",
+            "repo_url": "https://github.com/beekeeper-studio/beekeeper-studio",
+            "tags": [
+                "commercial"
+            ],
+            "platforms": [
+                "cross"
+            ],
+            "category": "dev-tools",
+            "flags": [],
+            "license": ""
         }
     ]
 }
