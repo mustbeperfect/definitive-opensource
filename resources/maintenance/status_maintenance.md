@@ -13,8 +13,10 @@
 - CodiMD
 - fullmoon
 - STORM
+- Glass
 - Phoenix
 - A/B Street
+- Web Clipper
 - percollate
 
 ## Archived:
