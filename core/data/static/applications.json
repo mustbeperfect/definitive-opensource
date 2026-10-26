@@ -438,7 +438,7 @@
         {
             "name": "LibreChat",
             "description": "",
-            "repo_url": "https://github.com/danny-avila/LibreChat",
+            "repo_url": "https://github.com/LibreChat-AI/LibreChat",
             "tags": [],
             "platforms": [
                 "selfhost"
