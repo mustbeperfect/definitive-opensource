@@ -3,7 +3,7 @@
 > This list is EXCLUSIVELY for apps that you use directly such as desktop apps, selfhosted apps, and command line utilities. Developer facing tools like languages, frameworks, and libraries are excluded. 
 
 > [!NOTE]
-> Due to the increasing size of this list, the README has become rather difficult to navigate. Our [web client](https://dos.mustbeperfect.com) is recommended for a better user experience.
+> This project is currently in the process of a complete architectural redesign and code rewrite. A lot of things have been iterated on and tacked on over the last year. I know have a good idea of how I want the list to function so I feel it's a good time for this. The 1.0 release of this project will likely come after this and the web client are complete.
 
 ##
 
