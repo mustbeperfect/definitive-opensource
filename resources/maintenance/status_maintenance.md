@@ -14,6 +14,7 @@
 - fullmoon
 - STORM
 - Glass
+- Plash
 - Phoenix
 - A/B Street
 - Web Clipper
@@ -21,6 +22,7 @@
 
 ## Archived:
 - windsurf.vim
+- Soft Serve
 - Atuin Desktop
 - Hex
 
