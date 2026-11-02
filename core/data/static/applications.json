@@ -1841,7 +1841,7 @@
         {
             "name": "Supersonic",
             "description": "",
-            "repo_url": "https://github.com/dweymouth/supersonic",
+            "repo_url": "https://github.com/supersonic-app/supersonic",
             "tags": [],
             "platforms": [
                 "cross"
