@@ -6891,7 +6891,7 @@
         {
             "name": "WSL Manager",
             "description": "",
-            "repo_url": "https://github.com/bostrot/wsl2-distro-manager",
+            "repo_url": "https://github.com/bostrot/wslmanager",
             "tags": [],
             "platforms": [
                 "windows"
