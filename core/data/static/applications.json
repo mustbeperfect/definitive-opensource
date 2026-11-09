@@ -9011,7 +9011,7 @@
         {
             "name": "MindForger",
             "description": "",
-            "repo_url": "https://github.com/dvorka-oss/mindforger",
+            "repo_url": "https://github.com/dvorka/mindforger",
             "tags": [],
             "platforms": [
                 "cross"
