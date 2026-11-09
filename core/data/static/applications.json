@@ -1449,7 +1449,7 @@
         {
             "name": "Pelican Panel",
             "description": "Pelican Panel is an open-source, web-based application designed for easy management of game servers.",
-            "repo_url": "https://github.com/pelican-dev/panel",
+            "repo_url": "https://github.com/pelican/panel",
             "tags": [],
             "platforms": [
                 "selfhost"
