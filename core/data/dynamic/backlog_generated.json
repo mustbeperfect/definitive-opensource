@@ -4,15 +4,15 @@
             "name": "Grimoire",
             "repo_url": "https://github.com/goniszewski/grimoire",
             "note": "Potentially abandoned",
-            "last_commit": "10/25/2026",
-            "stars": 2883
+            "last_commit": "11/06/2026",
+            "stars": 2885
         },
         {
             "name": "Cerebro",
             "repo_url": "https://github.com/cerebroapp/cerebro",
             "note": "Potentially abandoned",
             "last_commit": "10/30/2026",
-            "stars": 8565
+            "stars": 8566
         },
         {
             "name": "Yacht",
@@ -26,63 +26,63 @@
             "repo_url": "https://github.com/mbrlabs/Lorien",
             "note": "Potentially abandoned",
             "last_commit": "09/22/2025",
-            "stars": 6870
+            "stars": 6875
         },
         {
             "name": "Pinry",
             "repo_url": "https://github.com/pinry/pinry",
             "note": "Potentially abandoned",
             "last_commit": "01/05/2026",
-            "stars": 3431
+            "stars": 3432
         },
         {
             "name": "Weylus",
             "repo_url": "https://github.com/H-M-H/Weylus",
             "note": "Potentially abandoned",
             "last_commit": "04/22/2026",
-            "stars": 9742
+            "stars": 9761
         },
         {
             "name": "WindTerm",
             "repo_url": "https://github.com/kingToolbox/WindTerm",
             "note": "Potentially abandoned",
             "last_commit": "03/11/2025",
-            "stars": 32591
+            "stars": 32625
         },
         {
             "name": "R&D-Agent",
             "repo_url": "https://github.com/microsoft/RD-Agent",
             "note": "Might not be relevant to this list",
             "last_commit": "10/21/2026",
-            "stars": 15183
+            "stars": 15294
         },
         {
             "name": "Firecamp",
             "repo_url": "https://github.com/firecamp-dev/firecamp",
             "note": "Potentially abandoned",
             "last_commit": "03/04/2026",
-            "stars": 2620
+            "stars": 2618
         },
         {
             "name": "Sidekick",
             "repo_url": "https://github.com/johnbean393/Sidekick",
             "note": "Potentially abandoned",
             "last_commit": "09/30/2026",
-            "stars": 3321
+            "stars": 3325
         },
         {
             "name": "pad.ws",
             "repo_url": "https://github.com/coderamp-labs/pad.ws",
             "note": "Potentially abandoned",
             "last_commit": "08/06/2025",
-            "stars": 4203
+            "stars": 4204
         },
         {
             "name": "AM",
             "repo_url": "https://github.com/ivan-hc/AM",
             "note": "Waiting on maturity",
-            "last_commit": "11/02/2026",
-            "stars": 1448
+            "last_commit": "11/09/2026",
+            "stars": 1458
         },
         {
             "name": "Cartridges",
@@ -102,8 +102,8 @@
             "name": "Raindrop.io",
             "repo_url": "https://github.com/raindropio/app",
             "note": "Waiting on maturity",
-            "last_commit": "10/26/2026",
-            "stars": 1617
+            "last_commit": "11/09/2026",
+            "stars": 1623
         },
         {
             "name": "Astra Monitor",
@@ -117,14 +117,14 @@
             "repo_url": "https://github.com/signerlabs/Klee",
             "note": "Potentially abandoned",
             "last_commit": "11/01/2026",
-            "stars": 1771
+            "stars": 1770
         },
         {
             "name": "Rustpad",
             "repo_url": "https://github.com/ekzhang/rustpad",
             "note": "Potentially abandoned",
             "last_commit": "02/02/2025",
-            "stars": 4084
+            "stars": 4085
         },
         {
             "name": "Slash",
@@ -137,15 +137,15 @@
             "name": "openHAB",
             "repo_url": "https://github.com/openhab/openhab-distro",
             "note": "Waiting on maturity",
-            "last_commit": "11/01/2026",
-            "stars": 1389
+            "last_commit": "11/08/2026",
+            "stars": 1388
         },
         {
             "name": "Reiverr",
             "repo_url": "https://github.com/aleksilassila/reiverr",
             "note": "Potentially abandoned",
-            "last_commit": "11/01/2026",
-            "stars": 2343
+            "last_commit": "11/08/2026",
+            "stars": 2344
         },
         {
             "name": "tillywork",
@@ -159,56 +159,56 @@
             "repo_url": "https://github.com/oh-my-fish/oh-my-fish",
             "note": "Potentially abandoned",
             "last_commit": "09/30/2026",
-            "stars": 11411
+            "stars": 11416
         },
         {
             "name": "TrackWeight",
             "repo_url": "https://github.com/KrishKrosh/TrackWeight",
             "note": "Waiting on maturity",
             "last_commit": "07/27/2025",
-            "stars": 9205
+            "stars": 9212
         },
         {
             "name": "Cartero",
             "repo_url": "https://github.com/danirod/cartero",
             "note": "Waiting on maturity",
             "last_commit": "10/20/2026",
-            "stars": 1053
+            "stars": 1056
         },
         {
             "name": "Yaade",
             "repo_url": "https://github.com/EsperoTech/yaade",
             "note": "Waiting on maturity",
             "last_commit": "09/08/2025",
-            "stars": 1992
+            "stars": 1993
         },
         {
             "name": "Flare",
             "repo_url": "https://github.com/ByteAtATime/flare",
             "note": "Waiting on maturity",
             "last_commit": "01/17/2026",
-            "stars": 1514
+            "stars": 1513
         },
         {
             "name": "OM1",
             "repo_url": "https://github.com/OpenMind/OM1",
             "note": "Waiting on maturity",
-            "last_commit": "10/13/2026",
-            "stars": 2959
+            "last_commit": "11/05/2026",
+            "stars": 2962
         },
         {
             "name": "Nook",
             "repo_url": "https://github.com/nook-browser/Nook",
             "note": "Waiting on maturity",
-            "last_commit": "10/29/2026",
-            "stars": 2026
+            "last_commit": "11/08/2026",
+            "stars": 2055
         },
         {
             "name": "SSH Pilot",
             "repo_url": "https://github.com/mfat/sshpilot",
             "note": "Waiting on maturity",
-            "last_commit": "11/01/2026",
-            "stars": 1119
+            "last_commit": "11/08/2026",
+            "stars": 1134
         },
         {
             "name": "Pi Stats",
@@ -221,141 +221,141 @@
             "name": "Glide Browser",
             "repo_url": "https://github.com/glide-browser/glide",
             "note": "Waiting on maturity",
-            "last_commit": "11/01/2026",
-            "stars": 1507
+            "last_commit": "11/07/2026",
+            "stars": 1506
         },
         {
             "name": "KeepTrack",
             "repo_url": "https://github.com/thkruz/keeptrack.space",
             "note": "Waiting on maturity",
-            "last_commit": "10/30/2026",
-            "stars": 1622
+            "last_commit": "11/08/2026",
+            "stars": 1629
         },
         {
             "name": "Kanri",
             "repo_url": "https://github.com/kanriapp/kanri",
             "note": "Waiting on maturity",
-            "last_commit": "11/01/2026",
-            "stars": 2079
+            "last_commit": "11/06/2026",
+            "stars": 2086
         },
         {
             "name": "RsyncUI",
             "repo_url": "https://github.com/rsyncOSX/RsyncUI",
             "note": "Waiting on maturity",
-            "last_commit": "10/30/2026",
-            "stars": 1494
+            "last_commit": "11/04/2026",
+            "stars": 1496
         },
         {
             "name": "LaunchNext",
             "repo_url": "https://github.com/RoversX/LaunchNext",
             "note": "Waiting on maturity",
             "last_commit": "10/19/2026",
-            "stars": 3154
+            "stars": 3183
         },
         {
             "name": "Osaurus",
             "repo_url": "https://github.com/dinoki-ai/osaurus",
             "note": "Waiting on maturity, potentially vibe coded",
             "last_commit": "02/24/2026",
-            "stars": 39
+            "stars": 40
         },
         {
             "name": "Bananas",
             "repo_url": "https://github.com/mistweaverco/bananas",
             "note": "Potentially abandoned",
             "last_commit": "10/13/2026",
-            "stars": 6641
+            "stars": 6642
         },
         {
             "name": "Mochi Diffusion",
             "repo_url": "https://github.com/MochiDiffusion/MochiDiffusion",
             "note": "Potentially abandoned",
-            "last_commit": "11/02/2026",
-            "stars": 7974
+            "last_commit": "11/08/2026",
+            "stars": 7977
         },
         {
             "name": "polaris",
             "repo_url": "https://github.com/agersant/polaris",
             "note": "Potentially abandoned",
-            "last_commit": "10/26/2026",
-            "stars": 2735
+            "last_commit": "11/09/2026",
+            "stars": 2739
         },
         {
             "name": "Clop",
             "repo_url": "https://github.com/FuzzyIdeas/Clop",
             "note": "Potentially abandoned",
-            "last_commit": "11/01/2026",
-            "stars": 1859
+            "last_commit": "11/04/2026",
+            "stars": 1864
         },
         {
             "name": "Taiga Docker",
             "repo_url": "https://github.com/taigaio/taiga-docker",
             "note": "Waiting on maturity",
             "last_commit": "10/13/2025",
-            "stars": 2168
+            "stars": 2174
         },
         {
             "name": "Presentator",
             "repo_url": "https://github.com/presentator/presentator",
             "note": "Waiting on maturity",
             "last_commit": "10/26/2026",
-            "stars": 1465
+            "stars": 1464
         },
         {
             "name": "Ora Browser",
             "repo_url": "https://github.com/the-ora/browser",
             "note": "Waiting on maturity",
             "last_commit": "09/17/2026",
-            "stars": 2240
+            "stars": 2241
         },
         {
             "name": "Vividl",
             "repo_url": "https://github.com/Bluegrams/Vividl",
             "note": "Potentially abandoned",
             "last_commit": "03/10/2026",
-            "stars": 1310
+            "stars": 1316
         },
         {
             "name": "ytdlp-interface",
             "repo_url": "https://github.com/ErrorFlynn/ytdlp-interface",
             "note": "Waiting on maturity",
             "last_commit": "05/19/2026",
-            "stars": 3408
+            "stars": 3419
         },
         {
             "name": "Blender Launcher V2",
             "repo_url": "https://github.com/Victor-IX/Blender-Launcher-V2",
             "note": "Waiting on maturity",
-            "last_commit": "10/29/2026",
-            "stars": 739
+            "last_commit": "11/05/2026",
+            "stars": 738
         },
         {
             "name": "Lenovo Legion Toolkit",
             "repo_url": "https://github.com/XKaguya/LenovoLegionToolkit",
             "note": "Waiting on maturity",
             "last_commit": "08/10/2026",
-            "stars": 60
+            "stars": 61
         },
         {
             "name": "Lepton",
             "repo_url": "https://github.com/hackjutsu/Lepton",
             "note": "Potentially abandoned",
-            "last_commit": "11/02/2026",
-            "stars": 10344
+            "last_commit": "11/09/2026",
+            "stars": 10346
         },
         {
             "name": "Petrichor",
             "repo_url": "https://github.com/kushalpandya/Petrichor",
             "note": "Waiting on maturity",
             "last_commit": "11/01/2026",
-            "stars": 1751
+            "stars": 1763
         },
         {
             "name": "BLEUnlock",
             "repo_url": "https://github.com/ts1/BLEUnlock",
             "note": "Potentially abandoned",
             "last_commit": "07/12/2024",
-            "stars": 4515
+            "stars": 4524
         }
     ]
 }
