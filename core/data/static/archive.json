@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "Hex",
+      "repo_url": "https://github.com/kitlangton/Hex",
+      "reason": "archived"
     }
   ]
 }
