@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "Soft Serve",
+      "repo_url": "https://github.com/charmbracelet/soft-serve",
+      "reason": "archived"
     }
   ]
 }
