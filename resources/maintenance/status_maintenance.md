@@ -4,6 +4,7 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
+- R2R
 - Plandex
 - Persepolis
 - zsh-autosuggestions
