@@ -5222,7 +5222,7 @@
         },
         {
             "name": "Firefox",
-            "description": "Fast, reliable and private \u2014 for peace of mind online.",
+            "description": "Fast, reliable and private — for peace of mind online.",
             "repo_url": "https://github.com/mozilla-firefox/firefox",
             "tags": [],
             "platforms": [
@@ -10713,6 +10713,18 @@
                 "cross"
             ],
             "category": "dev-tools",
+            "flags": [],
+            "license": ""
+        },
+        {
+            "name": "LayoutKeeper",
+            "description": "",
+            "repo_url": "https://github.com/tumingke0/LayoutKeeper",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "window-management",
             "flags": [],
             "license": ""
         }
