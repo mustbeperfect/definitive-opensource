@@ -10715,6 +10715,18 @@
             "category": "dev-tools",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Tape",
+            "description": "Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.",
+            "repo_url": "https://github.com/Yvsleyen00941/Tape",
+            "tags": [],
+            "platforms": [
+                "macos"
+            ],
+            "category": "finance",
+            "flags": [],
+            "license": "MIT"
         }
     ]
 }
