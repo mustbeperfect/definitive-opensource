@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "windsurf.vim",
+      "repo_url": "https://github.com/Exafunction/windsurf.vim",
+      "reason": "archived"
     }
   ]
 }
