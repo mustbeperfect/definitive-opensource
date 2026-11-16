@@ -9023,7 +9023,7 @@
         {
             "name": "novelWriter",
             "description": "",
-            "repo_url": "https://github.com/vkbo/novelWriter",
+            "repo_url": "https://github.com/saga-soft/novelWriter",
             "tags": [],
             "platforms": [
                 "cross"
