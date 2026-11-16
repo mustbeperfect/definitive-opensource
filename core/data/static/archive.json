@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "Atuin Desktop",
+      "repo_url": "https://github.com/atuinsh/desktop",
+      "reason": "archived"
     }
   ]
 }
