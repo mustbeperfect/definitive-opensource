@@ -1816,7 +1816,7 @@
         {
             "name": "Spotube",
             "description": "",
-            "repo_url": "https://github.com/KRTirtho/spotube",
+            "repo_url": "https://github.com/team-spotube/spotube",
             "tags": [],
             "platforms": [
                 "cross"
