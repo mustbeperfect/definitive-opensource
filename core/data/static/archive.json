@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "UI-TARS",
+      "repo_url": "https://github.com/bytedance/UI-TARS-desktop",
+      "reason": "archived"
     }
   ]
 }
