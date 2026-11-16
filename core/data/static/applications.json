@@ -7607,20 +7607,6 @@
             "license": ""
         },
         {
-            "name": "Soft Serve",
-            "description": "",
-            "repo_url": "https://github.com/charmbracelet/soft-serve",
-            "tags": [
-                "tui"
-            ],
-            "platforms": [
-                "cross"
-            ],
-            "category": "git-hosting",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Folo",
             "description": "",
             "repo_url": "https://github.com/RSSNext/Folo",
