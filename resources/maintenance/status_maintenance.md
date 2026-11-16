@@ -23,6 +23,7 @@
 
 ## Archived:
 - windsurf.vim
+- UI-TARS
 - Soft Serve
 - Atuin Desktop
 - Hex
@@ -35,6 +36,7 @@ _None_
 - Pelican Panel (Moved to: https://github.com/pelican/panel)
 - Spotube (Moved to: https://github.com/team-spotube/spotube)
 - Supersonic (Moved to: https://github.com/supersonic-app/supersonic)
+- Homer (Moved to: https://github.com/homer-dashboard/homer)
 - WSL Manager (Moved to: https://github.com/bostrot/wslmanager)
 - Omarchy (Moved to: https://github.com/omacom/omarchy)
 - WinBoat (Moved to: https://github.com/winboat-org/winboat)
