@@ -10715,6 +10715,19 @@
             "category": "dev-tools",
             "flags": [],
             "license": ""
+        },
+        {
+            "name": "Orkas",
+            "description": "",
+            "repo_url": "https://github.com/Orkas-AI/Orkas",
+            "tags": [],
+            "platforms": [
+                "macos",
+                "windows"
+            ],
+            "category": "agent",
+            "flags": [],
+            "license": ""
         }
     ]
 }
