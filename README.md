@@ -1973,6 +1973,7 @@ Projects that were once on this list but removed, usually due to abandonment or 
   - [File Browser](https://github.com/filebrowser/filebrowser) - `Archived`
   - [Airweave](https://github.com/airweave-ai/airweave) - `Archived`
   - [Papermerge DMS](https://github.com/ciur/papermerge) - `Archived`
+  - [SpotiFlac](https://github.com/spotbye/SpotiFLAC) - `Deleted`
 </details>
 
 
