@@ -169,6 +169,11 @@
       "name": "Papermerge DMS",
       "repo_url": "https://github.com/ciur/papermerge",
       "reason": "archived"
+    },
+    {
+      "name": "SpotiFlac",
+      "repo_url": "https://github.com/spotbye/SpotiFLAC",
+      "reason": "deleted"
     }
   ]
 }

@@ -9539,18 +9539,6 @@
             "license": ""
         },
         {
-            "name": "SpotiFLAC",
-            "description": "",
-            "repo_url": "https://github.com/spotbye/SpotiFLAC",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "media-downloader",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Monica",
             "description": "",
             "repo_url": "https://github.com/monicahq/monica",
