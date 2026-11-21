@@ -627,8 +627,14 @@ class TestBacklogUpdator(unittest.TestCase):
             report = check_status(input_file=test_input, output_file=test_output)
 
             # Check return structure
-            self.assertEqual(report["potentially_abandoned"], ["Abandoned App"])
-            self.assertEqual(report["archived"], ["Archived App"])
+            self.assertEqual(
+                report["potentially_abandoned"],
+                ["[Abandoned App](https://github.com/owner/abandoned)"],
+            )
+            self.assertEqual(
+                report["archived"],
+                ["[Archived App](https://github.com/owner/archived-repo)"],
+            )
             self.assertEqual(report["no_longer_exists"], ["Missing 404 App"])
             self.assertEqual(
                 report["rebranded"],
@@ -640,15 +646,24 @@ class TestBacklogUpdator(unittest.TestCase):
             with open(test_output, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            self.assertIn("## Potentially Abandoned:\n- Abandoned App\n", content)
-            self.assertIn("## Archived:\n- Archived App\n", content)
+            self.assertIn(
+                "## Potentially Abandoned:\n- [Abandoned App](https://github.com/owner/abandoned)\n",
+                content,
+            )
+            self.assertIn(
+                "## Archived:\n- [Archived App](https://github.com/owner/archived-repo)\n",
+                content,
+            )
             self.assertIn("## No Longer Exists (404):\n- Missing 404 App\n", content)
             self.assertIn(
                 "## Rebranded / Moved:\n- Rebranded App (Moved to: https://github.com/new-org/rebranded)\n",
                 content,
             )
             # Ensure Archived App was not duplicated in Potentially Abandoned
-            self.assertNotIn("- Archived App\n\n## Archived", content)
+            self.assertNotIn(
+                "- [Archived App](https://github.com/owner/archived-repo)\n\n## Archived",
+                content,
+            )
         finally:
             if test_input.exists():
                 test_input.unlink()

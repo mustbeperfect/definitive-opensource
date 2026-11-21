@@ -148,8 +148,14 @@ def check_status(
 
     candidates = get_status_candidates(input_file=input_file)
 
-    potentially_abandoned = [c["name"] for c in candidates["potentially_abandoned"]]
-    archived = [c["name"] for c in candidates["archived"]]
+    potentially_abandoned = [
+        f"[{c['name']}]({c['repo_url']})" if c.get("repo_url") else c["name"]
+        for c in candidates["potentially_abandoned"]
+    ]
+    archived = [
+        f"[{c['name']}]({c['repo_url']})" if c.get("repo_url") else c["name"]
+        for c in candidates["archived"]
+    ]
     no_longer_exists = [c["name"] for c in candidates["no_longer_exists"]]
     rebranded = [
         f"{c['name']} (Moved to: {c['new_repo_url']})" for c in candidates["rebranded"]
@@ -161,15 +167,15 @@ def check_status(
 
         f.write("## Potentially Abandoned:\n")
         if potentially_abandoned:
-            for name in potentially_abandoned:
-                f.write(f"- {name}\n")
+            for item in potentially_abandoned:
+                f.write(f"- {item}\n")
         else:
             f.write("_None_\n")
 
         f.write("\n## Archived:\n")
         if archived:
-            for name in archived:
-                f.write(f"- {name}\n")
+            for item in archived:
+                f.write(f"- {item}\n")
         else:
             f.write("_None_\n")
 

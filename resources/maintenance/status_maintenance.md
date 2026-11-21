@@ -1,32 +1,31 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
-- WebUI Forge
-- GPT crawler
-- GPT4ALL
-- R2R
-- Plandex
-- Persepolis
-- zsh-autosuggestions
-- Quill
-- Second Me
-- GitHub Desktop - The Linux Fork
-- CodiMD
-- fullmoon
-- STORM
-- Glass
-- Plash
-- Phoenix
-- A/B Street
-- Web Clipper
-- percollate
+- [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+- [GPT crawler](https://github.com/BuilderIO/gpt-crawler)
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all)
+- [R2R](https://github.com/SciPhi-AI/R2R)
+- [Plandex](https://github.com/plandex-ai/plandex)
+- [Persepolis](https://github.com/persepolisdm/persepolis)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [Quill](https://github.com/slab/quill)
+- [Second Me](https://github.com/mindverse/Second-Me)
+- [GitHub Desktop - The Linux Fork](https://github.com/shiftkey/desktop)
+- [CodiMD](https://github.com/hackmdio/codimd)
+- [fullmoon](https://github.com/mainframecomputer/fullmoon-ios)
+- [STORM](https://github.com/stanford-oval/storm)
+- [Glass](https://github.com/pickle-com/glass)
+- [Plash](https://github.com/sindresorhus/Plash)
+- [Phoenix](https://github.com/kasper/phoenix)
+- [A/B Street](https://github.com/a-b-street/abstreet)
+- [percollate](https://github.com/danburzo/percollate)
 
 ## Archived:
-- windsurf.vim
-- UI-TARS
-- Soft Serve
-- Atuin Desktop
-- Hex
+- [windsurf.vim](https://github.com/Exafunction/windsurf.vim)
+- [UI-TARS](https://github.com/bytedance/UI-TARS-desktop)
+- [Soft Serve](https://github.com/charmbracelet/soft-serve)
+- [Atuin Desktop](https://github.com/atuinsh/desktop)
+- [Hex](https://github.com/kitlangton/Hex)
 
 ## No Longer Exists (404):
 _None_
@@ -43,4 +42,5 @@ _None_
 - MindForger (Moved to: https://github.com/dvorka/mindforger)
 - novelWriter (Moved to: https://github.com/saga-soft/novelWriter)
 - Rclone UI (Moved to: https://github.com/rclone/rclone-ui)
+- SpotiFLAC (Moved to: https://github.com/spotbye/Flacora)
 - Quill Transcription (Moved to: https://github.com/humanitas-labs/quill)
