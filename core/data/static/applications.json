@@ -2356,7 +2356,7 @@
         {
             "name": "Homer",
             "description": "",
-            "repo_url": "https://github.com/bastienwirtz/homer",
+            "repo_url": "https://github.com/homer-dashboard/homer",
             "tags": [],
             "platforms": [
                 "selfhost"
