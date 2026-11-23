@@ -174,6 +174,11 @@
       "name": "SpotiFlac",
       "repo_url": "https://github.com/spotbye/SpotiFLAC",
       "reason": "deleted"
+    },
+    {
+      "name": "Soft Serve",
+      "repo_url": "https://github.com/charmbracelet/soft-serve",
+      "reason": "archived"
     }
   ]
 }
