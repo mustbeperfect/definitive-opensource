@@ -6350,18 +6350,6 @@
             "license": ""
         },
         {
-            "name": "UI-TARS",
-            "description": "",
-            "repo_url": "https://github.com/bytedance/UI-TARS-desktop",
-            "tags": [],
-            "platforms": [
-                "cross"
-            ],
-            "category": "agent",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "IPFS Desktop",
             "description": "",
             "repo_url": "https://github.com/ipfs/ipfs-desktop",
