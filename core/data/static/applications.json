@@ -10554,7 +10554,7 @@
         {
             "name": "Quill Transcription",
             "description": "",
-            "repo_url": "https://github.com/digimata/quill",
+            "repo_url": "https://github.com/humanitas-labs/quill",
             "tags": [],
             "platforms": [
                 "macos"
