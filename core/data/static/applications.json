@@ -6134,18 +6134,6 @@
             "license": ""
         },
         {
-            "name": "windsurf.vim",
-            "description": "",
-            "repo_url": "https://github.com/Exafunction/windsurf.vim",
-            "tags": [],
-            "platforms": [
-                "n/a"
-            ],
-            "category": "code-assistant",
-            "flags": [],
-            "license": ""
-        },
-        {
             "name": "Flow Launcher",
             "description": "",
             "repo_url": "https://github.com/Flow-Launcher/Flow.Launcher",
